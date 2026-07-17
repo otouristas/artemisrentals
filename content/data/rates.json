@@ -1,0 +1,42 @@
+{
+  "currency": "EUR",
+  "periods": [
+    {
+      "id": "low",
+      "label": { "en": "1 Jan – 10 May & 1–31 Oct", "el": "1 Ιαν – 10 Μαΐ & 1–31 Οκτ" },
+      "ranges": ["1/1-10/5", "1/10-31/10"]
+    },
+    {
+      "id": "shoulder",
+      "label": { "en": "11 May – 10 Jun & 11–30 Sep", "el": "11 Μαΐ – 10 Ιουν & 11–30 Σεπ" },
+      "ranges": ["11/5-10/6", "11/9-30/9"]
+    },
+    {
+      "id": "mid",
+      "label": { "en": "11 Jun – 10 Jul", "el": "11 Ιουν – 10 Ιουλ" },
+      "ranges": ["11/6-10/7"]
+    },
+    {
+      "id": "peak",
+      "label": { "en": "11 Jul – 10 Sep", "el": "11 Ιουλ – 10 Σεπ" },
+      "ranges": ["11/7-10/9"]
+    }
+  ],
+  "cars": {
+    "chevrolet-spark": { "low": 40, "shoulder": 45, "mid": 50, "peak": 65 },
+    "hyundai-i10": { "low": 40, "shoulder": 50, "mid": 55, "peak": 70 },
+    "fiat-panda": { "low": 45, "shoulder": 55, "mid": 60, "peak": 75 },
+    "nissan-micra": { "low": 45, "shoulder": 55, "mid": 60, "peak": 75 },
+    "peugeot-208": { "low": 50, "shoulder": 60, "mid": 65, "peak": 80 },
+    "peugeot-208-auto": { "low": 60, "shoulder": 75, "mid": 80, "peak": 100 },
+    "peugeot-301": { "low": 55, "shoulder": 65, "mid": 70, "peak": 85 },
+    "skoda-fabia": { "low": 55, "shoulder": 65, "mid": 70, "peak": 85 },
+    "citroen-c3": { "low": 55, "shoulder": 65, "mid": 70, "peak": 85 },
+    "suzuki-ignis": { "low": 50, "shoulder": 65, "mid": 70, "peak": 85 },
+    "nissan-micra-auto": { "low": 50, "shoulder": 65, "mid": 70, "peak": 85 }
+  },
+  "note": {
+    "en": "Indicative daily rates. Contact us for availability, multi-day offers, and scooter pricing.",
+    "el": "Ενδεικτικές ημερήσιες τιμές. Επικοινωνήστε για διαθεσιμότητα, προσφορές και τιμές scooter."
+  }
+}

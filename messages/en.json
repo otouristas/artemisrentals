@@ -1,0 +1,140 @@
+{
+  "Meta": {
+    "siteName": "Artemis Rental",
+    "homeTitle": "Artemis Rental Sifnos | Car, Scooter & Moto Rentals",
+    "homeDescription": "Rent cars and scooters in Sifnos with Artemis Rental. Reliable vehicles, fair seasonal rates, and friendly service from Apollonia since 1988."
+  },
+  "Nav": {
+    "home": "Home",
+    "cars": "Cars",
+    "scooters": "Scooters",
+    "rates": "Rates",
+    "guide": "Sifnos Guide",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "book": "Book",
+    "about": "About",
+    "terms": "Terms",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "Home": {
+    "brand": "Artemis Rental",
+    "headline": "The freedom to discover Sifnos",
+    "subhead": "Cars and scooters from Apollonia since 1988 — maintained, fairly priced, and ready when the ferry docks.",
+    "ctaBook": "Book a vehicle",
+    "ctaFleet": "Explore the fleet",
+    "ctaGuide": "Sifnos Guide",
+    "whyTitle": "Why travellers choose Artemis",
+    "whyBody": "A family-run rental desk in the heart of Apollonia — not a call centre.",
+    "why1Title": "Maintained for island roads",
+    "why1Body": "Every car and scooter is regularly inspected so you can chase beaches and villages with confidence.",
+    "why2Title": "Fleet that fits the trip",
+    "why2Body": "Compact cars for couples, automatics when you want ease, scooters for quick hops between beaches.",
+    "why3Title": "Human help, local answers",
+    "why3Body": "Ask about parking in Kastro, the road to Vathi, or a last-minute extension — we answer.",
+    "fleetTitle": "Choose your ride",
+    "fleetBody": "Browse cars and scooters, then send dates — we confirm availability personally.",
+    "viewCars": "View cars",
+    "viewScooters": "View scooters",
+    "reviewsTitle": "Words from recent guests",
+    "guideTitle": "Plan the island, then pick the keys",
+    "guideBody": "Our Sifnos Guide answers the questions travellers actually ask — beaches, villages, ferries, and how to get around.",
+    "guideCta": "Open the Sifnos Guide",
+    "tripPlannerCta": "Plan a Cyclades hop with Touristas AI"
+  },
+  "Fleet": {
+    "carsTitle": "Car rental in Sifnos",
+    "carsLead": "Reliable, well-kept cars for couples, families, and friends exploring Sifnos.",
+    "scootersTitle": "Scooter & motorcycle rental in Sifnos",
+    "scootersLead": "Get around beaches and villages quickly with a well-kept scooter from Artemis.",
+    "fromDay": "From €{price}/day",
+    "contactForPrice": "Ask for daily rate",
+    "seats": "{count} seats",
+    "cc": "{cc}cc",
+    "manual": "Manual",
+    "automatic": "Automatic",
+    "petrol": "Petrol",
+    "bookThis": "Request this vehicle",
+    "specs": "Specifications",
+    "relatedRates": "See seasonal rates",
+    "backToCars": "All cars",
+    "backToScooters": "All scooters"
+  },
+  "Rates": {
+    "title": "Car & scooter rental prices in Sifnos",
+    "lead": "Indicative daily rates by season. Contact us for multi-day offers, scooters, and exact availability.",
+    "vehicle": "Vehicle",
+    "note": "Rates shown are indicative. No prepayment is required to reserve — we confirm by phone or email.",
+    "cta": "Check availability"
+  },
+  "Book": {
+    "title": "Book or enquire",
+    "lead": "Tell us your dates and preferred vehicle. We reply with availability — no prepayment required.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Mobile phone",
+    "vehicle": "Preferred vehicle",
+    "vehicleAny": "Not sure yet — suggest something",
+    "pickup": "Pick-up date",
+    "return": "Return date",
+    "message": "Message",
+    "submit": "Send enquiry",
+    "sending": "Sending…",
+    "success": "Thank you — your enquiry is on its way. We will reply shortly.",
+    "error": "Something went wrong. Please call us or try again.",
+    "whatsapp": "WhatsApp us",
+    "call": "Call the office",
+    "address": "Apollonia, Sifnos 84003 — Cyclades",
+    "altPickup": "Pick-up in Kamares available on request."
+  },
+  "Guide": {
+    "title": "Sifnos Guide",
+    "lead": "Beaches, villages, ferries, food, and how to get around — written for travellers who want clear answers first.",
+    "read": "Read guide",
+    "related": "Related questions travellers ask",
+    "planTrip": "Plan island hop with Touristas AI",
+    "updated": "Updated {date}"
+  },
+  "Blog": {
+    "title": "Blog",
+    "lead": "Practical guides for renting and exploring Sifnos.",
+    "read": "Read article",
+    "minRead": "{minutes} min read"
+  },
+  "FAQ": {
+    "title": "Frequently asked questions",
+    "lead": "Straight answers about renting with Artemis in Sifnos."
+  },
+  "About": {
+    "title": "About Artemis Rental",
+    "lead": "A family rental desk in Apollonia, serving Sifnos travellers since 1988."
+  },
+  "Terms": {
+    "title": "Rental terms",
+    "lead": "Key conditions for car and scooter hire with Artemis Rental."
+  },
+  "Chat": {
+    "title": "Touristas AI",
+    "subtitle": "Ask about cars, scooters, rates, and Sifnos",
+    "powered": "Powered by Touristas AI",
+    "placeholder": "Ask about vehicles, rates, or getting around Sifnos…",
+    "open": "Open Touristas AI",
+    "close": "Close chat",
+    "send": "Send",
+    "tripPlanner": "Full Cyclades trip planner",
+    "greeting": "Hi — I am Touristas AI for Artemis Rental. Ask about our fleet, seasonal rates, pickup in Apollonia or Kamares, or how to get around Sifnos. For a confirmed booking I will point you to the enquiry form or phone."
+  },
+  "Footer": {
+    "tagline": "Cars & scooters in Sifnos since 1988.",
+    "explore": "Explore",
+    "visit": "Visit",
+    "rights": "© {year} Artemis Rental. All rights reserved.",
+    "touristas": "Touristas AI trip planner"
+  },
+  "Common": {
+    "learnMore": "Learn more",
+    "contact": "Contact",
+    "since": "Since {year}"
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Sam Coleman",
+    "year": 2025,
+    "avatar": "/images/misc/sam.png",
+    "quote": {
+      "en": "Lovely family business. Beyond respectful — genuinely kind. The son helpfully pointed out all the blemishes already on the car and the parents were warm and sweet. Helped us out in a pinch with zero fuss. Will be coming again.",
+      "el": "Υπέροχη οικογενειακή επιχείρηση. Πέρα από ευγενικοί — πραγματικά καλόκαρδοι. Μας βοήθησαν χωρίς καθόλου ταλαιπωρία. Θα ξανάρθουμε."
+    }
+  },
+  {
+    "name": "Panajota Kalamari",
+    "year": 2024,
+    "avatar": "/images/misc/panajota.png",
+    "quote": {
+      "en": "Friendly owners, willing to provide any information about the island when asked, with safe and reliable cars and scooters.",
+      "el": "Φιλικοί ιδιοκτήτες, πρόθυμοι να δώσουν πληροφορίες για το νησί, με ασφαλή και αξιόπιστα αυτοκίνητα και scooter."
+    }
+  },
+  {
+    "name": "Daniel Diaz",
+    "year": 2025,
+    "avatar": "/images/misc/daniel.png",
+    "quote": {
+      "en": "We rented a scooter and everything was quick and hassle-free. We extended our stay spontaneously and kept the scooter another day with one short call. Return was equally smooth.",
+      "el": "Νοικιάσαμε scooter και όλα έγιναν γρήγορα και απλά. Παρατείναμε τη διαμονή μας με ένα σύντομο τηλεφώνημα. Η επιστροφή ήταν εξίσου ομαλή."
+    }
+  },
+  {
+    "name": "Gudron",
+    "year": 2025,
+    "avatar": "/images/misc/gudron.png",
+    "quote": {
+      "en": "As a family-run business in Apollonia they were incredibly kind. They helped us choose the perfect scooter, explained everything, and swapped it without hassle when we needed a different fit.",
+      "el": "Ως οικογενειακή επιχείρηση στην Απολλωνία ήταν απίστευτα ευγενικοί. Μας βοήθησαν να διαλέξουμε το ιδανικό scooter και το άλλαξαν χωρίς πρόβλημα όταν χρειάστηκε."
+    }
+  },
+  {
+    "name": "Annick URBAIN",
+    "year": 2025,
+    "avatar": "/images/misc/annick.png",
+    "quote": {
+      "en": "We rented a car on a busy weekend after refusals elsewhere. In 10 minutes we were driving a well-kept car, with kind advice on island driving customs. Simple, fast, fair price.",
+      "el": "Νοικιάσαμε αυτοκίνητο ένα πολυσύχναστο Σαββατοκύριακο μετά από αρνήσεις αλλού. Σε 10 λεπτά οδηγούσαμε ένα καλοσυντηρημένο αυτοκίνητο, με φιλικές συμβουλές. Απλά, γρήγορα, δίκαιη τιμή."
+    }
+  },
+  {
+    "name": "Nick Rilen",
+    "year": 2025,
+    "avatar": "/images/misc/nick.png",
+    "quote": {
+      "en": "Great experience renting a car. The team were incredibly helpful and picked us up from the port despite ferry delays. Highly recommend Artemis for exploring Sifnos.",
+      "el": "Εξαιρετική εμπειρία. Η ομάδα ήταν πολύ βοηθητική και μας παρέλαβε από το λιμάνι παρά τις καθυστερήσεις του ferry. Τους συστήνω ανεπιφύλακτα."
+    }
+  }
+]

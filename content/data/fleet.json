@@ -1,0 +1,182 @@
+{
+  "cars": [
+    {
+      "slug": "skoda-fabia",
+      "name": "Skoda Fabia",
+      "category": "car",
+      "image": "/images/fleet/scoda-fabia.jpg",
+      "engineCc": 1000,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "skoda-fabia"
+    },
+    {
+      "slug": "fiat-panda",
+      "name": "Fiat Panda",
+      "category": "car",
+      "image": "/images/fleet/fiat-panda.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "fiat-panda"
+    },
+    {
+      "slug": "suzuki-ignis",
+      "name": "Suzuki Ignis",
+      "category": "car",
+      "image": "/images/fleet/suzuki-ignis.jpg",
+      "engineCc": 1200,
+      "seats": 4,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "suzuki-ignis"
+    },
+    {
+      "slug": "peugeot-208",
+      "name": "Peugeot 208",
+      "category": "car",
+      "image": "/images/fleet/peugeot-208.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "peugeot-208"
+    },
+    {
+      "slug": "peugeot-208-auto",
+      "name": "Peugeot 208 Automatic",
+      "category": "car",
+      "image": "/images/fleet/peugeot-208.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": "peugeot-208-auto"
+    },
+    {
+      "slug": "nissan-micra",
+      "name": "Nissan Micra",
+      "category": "car",
+      "image": "/images/fleet/nissan-micra.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "nissan-micra"
+    },
+    {
+      "slug": "nissan-micra-auto",
+      "name": "Nissan Micra Automatic",
+      "category": "car",
+      "image": "/images/fleet/nissan-micra.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": "nissan-micra-auto"
+    },
+    {
+      "slug": "chevrolet-spark",
+      "name": "Chevrolet Spark",
+      "category": "car",
+      "image": "/images/fleet/chevrolet-spark.jpg",
+      "engineCc": 1000,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "chevrolet-spark"
+    },
+    {
+      "slug": "hyundai-i10",
+      "name": "Hyundai i10",
+      "category": "car",
+      "image": "/images/fleet/hyundai-i10.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "hyundai-i10"
+    },
+    {
+      "slug": "peugeot-301",
+      "name": "Peugeot 301",
+      "category": "car",
+      "image": "/images/fleet/peugeot-301.jpg",
+      "engineCc": 1200,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "peugeot-301"
+    },
+    {
+      "slug": "citroen-c3",
+      "name": "Citroen C3",
+      "category": "car",
+      "image": "/images/fleet/citroen-c3.jpg",
+      "engineCc": null,
+      "seats": 5,
+      "transmission": "manual",
+      "fuel": "petrol",
+      "rateKey": "citroen-c3"
+    }
+  ],
+  "scooters": [
+    {
+      "slug": "sym-symphony-125",
+      "name": "SYM Symphony 125",
+      "category": "scooter",
+      "image": "/images/fleet/SYM-Symphony-125.jpg",
+      "engineCc": 125,
+      "seats": 2,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": null
+    },
+    {
+      "slug": "sym-symphony-150",
+      "name": "SYM Symphony 150",
+      "category": "scooter",
+      "image": "/images/fleet/SYM-Symphony-150.jpg",
+      "engineCc": 150,
+      "seats": 2,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": null
+    },
+    {
+      "slug": "sym-symphony-200",
+      "name": "SYM Symphony 200",
+      "category": "scooter",
+      "image": "/images/fleet/SYM-Symphony-200.jpg",
+      "engineCc": 200,
+      "seats": 2,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": null
+    },
+    {
+      "slug": "fiddle-125",
+      "name": "Fiddle 125",
+      "category": "scooter",
+      "image": "/images/fleet/fiddle-125.jpg",
+      "engineCc": 125,
+      "seats": 2,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": null
+    },
+    {
+      "slug": "jet4-125",
+      "name": "JET4 125",
+      "category": "scooter",
+      "image": "/images/fleet/JET4-125.jpg",
+      "engineCc": 125,
+      "seats": 2,
+      "transmission": "automatic",
+      "fuel": "petrol",
+      "rateKey": null
+    }
+  ]
+}

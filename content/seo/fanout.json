@@ -1,0 +1,84 @@
+{
+  "clusters": [
+    {
+      "id": "car-vs-scooter",
+      "guideSlug": "getting-around",
+      "queries": {
+        "en": [
+          "Should I rent a car or scooter on Sifnos?",
+          "Is a scooter enough for Sifnos beaches?",
+          "Best transport for families in Sifnos"
+        ],
+        "el": [
+          "Αυτοκίνητο ή scooter στη Σίφνο;",
+          "Φτάνει scooter για τις παραλίες;",
+          "Μετακίνηση με οικογένεια στη Σίφνο"
+        ]
+      }
+    },
+    {
+      "id": "kamares-apollonia",
+      "guideSlug": "kamares-port",
+      "queries": {
+        "en": [
+          "How to get from Kamares to Apollonia",
+          "Sifnos port to Apollonia by car",
+          "Taxi vs rental from Kamares ferry"
+        ],
+        "el": [
+          "Πώς πάω από Καμάρες στην Απολλωνία",
+          "Από το λιμάνι στην Απολλωνία με αυτοκίνητο",
+          "Ταξί ή ενοικίαση από Καμάρες"
+        ]
+      }
+    },
+    {
+      "id": "beaches-parking",
+      "guideSlug": "beaches",
+      "queries": {
+        "en": [
+          "Best Sifnos beaches with parking",
+          "Driving to Platis Gialos Sifnos",
+          "Chrissopigi how to get there"
+        ],
+        "el": [
+          "Παραλίες Σίφνου με parking",
+          "Οδήγηση για Πλατύ Γιαλό",
+          "Πώς πάω στη Χρυσοπηγή"
+        ]
+      }
+    },
+    {
+      "id": "driving-tips",
+      "guideSlug": "practical-tips",
+      "queries": {
+        "en": [
+          "Driving tips Sifnos Cyclades",
+          "Are Sifnos roads difficult?",
+          "Night driving on Sifnos"
+        ],
+        "el": [
+          "Συμβουλές οδήγησης στη Σίφνο",
+          "Είναι δύσκολοι οι δρόμοι;",
+          "Οδήγηση το βράδυ στη Σίφνο"
+        ]
+      }
+    },
+    {
+      "id": "ferry",
+      "guideSlug": "ferries",
+      "queries": {
+        "en": [
+          "Ferry to Sifnos from Athens",
+          "Sifnos ferry port name",
+          "Same-day ferry and car rental Sifnos"
+        ],
+        "el": [
+          "Ferry για Σίφνο από Αθήνα",
+          "Πώς λέγεται το λιμάνι Σίφνου",
+          "Ferry και ενοικίαση αυθημερόν"
+        ]
+      }
+    }
+  ]
+}

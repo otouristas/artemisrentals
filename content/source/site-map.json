@@ -1,0 +1,17 @@
+{
+  "source": "https://artemisrental.gr",
+  "scrapedAt": "2026-07-17",
+  "pages": [
+    "/", "/cars.html", "/motos.html", "/rates.html", "/contact.html",
+    "/en/", "/en/cars.html", "/en/motos.html", "/en/rates.html", "/en/contact.html",
+    "/fr/", "/fr/cars.html", "/fr/motos.html", "/fr/rates.html", "/fr/contact.html"
+  ],
+  "business": {
+    "name": "Artemis Rental",
+    "since": 1988,
+    "address": "Apollonia, Sifnos, 84003, Cyclades, Greece",
+    "phones": ["+302284033333", "+306977337213"],
+    "email": "info@artemisrental.gr",
+    "geo": { "lat": 36.9725097, "lng": 24.7239171 }
+  }
+}

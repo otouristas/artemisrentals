@@ -1,0 +1,31 @@
+{
+  "name": "Artemis Rental",
+  "legalName": "Artemis Auto Moto Rental",
+  "alternateNames": ["Artemis Car Rental Sifnos", "Artemis Auto Moto Rental", "Auto Moto Apollo"],
+  "since": 1988,
+  "email": "info@artemisrental.gr",
+  "phones": [
+    { "label": "Office", "e164": "+302284033333", "display": "+30 22840 33333" },
+    { "label": "Mobile", "e164": "+306977337213", "display": "+30 6977 337213" }
+  ],
+  "whatsapp": "+306977337213",
+  "address": {
+    "streetAddress": "Apollonia",
+    "postalCode": "84003",
+    "addressLocality": "Sifnos",
+    "addressRegion": "Cyclades",
+    "addressCountry": "GR"
+  },
+  "geo": { "latitude": 36.9725097, "longitude": 24.7239171 },
+  "priceRange": "€€",
+  "url": "https://artemisrental.gr",
+  "discoverCycladesTripPlanner": "https://discovercyclades.gr/{locale}/touristas-ai/chat",
+  "terms": {
+    "minAge": 23,
+    "maxAge": 75,
+    "minLicenceYears": 1,
+    "prepaymentRequired": false,
+    "pickupDefault": "Apollonia",
+    "pickupAlternate": "Kamares (on request)"
+  }
+}
