@@ -4,13 +4,18 @@ import { useState } from "react";
 import { useTranslations } from "next-intl";
 import { getAllVehicles } from "@/lib/fleet";
 import { business, whatsappUrl } from "@/lib/site";
+import { WhatsAppIcon } from "@/components/WhatsAppIcon";
 
 export function BookingForm({
   locale,
   defaultVehicle,
+  defaultFrom,
+  defaultTo,
 }: {
   locale: string;
   defaultVehicle?: string;
+  defaultFrom?: string;
+  defaultTo?: string;
 }) {
   const t = useTranslations("Book");
   const vehicles = getAllVehicles();
@@ -64,8 +69,8 @@ export function BookingForm({
               ))}
             </select>
           </label>
-          <Field label={t("pickup")} name="pickup" type="date" required />
-          <Field label={t("return")} name="returnDate" type="date" required />
+          <Field label={t("pickup")} name="pickup" type="date" required defaultValue={defaultFrom} />
+          <Field label={t("return")} name="returnDate" type="date" required defaultValue={defaultTo} />
         </div>
         <label className="block text-sm">
           <span className="mb-1.5 block font-medium text-aegean/80">{t("message")}</span>
@@ -102,8 +107,9 @@ export function BookingForm({
               href={whatsappUrl("Hello Artemis, I would like to enquire about a rental.")}
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-full border border-foam/30 px-4 py-2.5 text-center text-sm font-semibold text-foam"
+              className="inline-flex items-center justify-center gap-2 rounded-full border border-foam/30 bg-[#25D366] px-4 py-2.5 text-center text-sm font-semibold text-white"
             >
+              <WhatsAppIcon className="h-4 w-4" />
               {t("whatsapp")}
             </a>
           </div>
@@ -118,11 +124,13 @@ function Field({
   name,
   type = "text",
   required,
+  defaultValue,
 }: {
   label: string;
   name: string;
   type?: string;
   required?: boolean;
+  defaultValue?: string;
 }) {
   return (
     <label className="block text-sm">
@@ -131,6 +139,7 @@ function Field({
         name={name}
         type={type}
         required={required}
+        defaultValue={defaultValue}
         className="w-full rounded-xl border border-aegean/15 bg-white px-3 py-2.5 outline-none ring-sun/40 focus:ring"
       />
     </label>

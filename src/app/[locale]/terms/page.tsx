@@ -26,33 +26,42 @@ export default async function TermsPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("Terms");
-  const isEl = locale === "el";
 
-  const items = isEl
-    ? [
-        `Ηλικία οδηγού: ${business.terms.minAge}–${business.terms.maxAge} ετών.`,
-        `Ισχύουσα άδεια οδήγησης για περισσότερο από ${business.terms.minLicenceYears} έτος.`,
-        "Δεν απαιτείται προκαταβολή για την κράτηση.",
-        "Παραλαβή/επιστροφή στην Απολλωνία. Καμάρες κατόπιν συνεννόησης.",
-        "Οι τιμές είναι ενδεικτικές και επιβεβαιώνονται ανά ημερομηνίες.",
-      ]
-    : [
-        `Driver age: ${business.terms.minAge}–${business.terms.maxAge}.`,
-        `Valid driving licence held for more than ${business.terms.minLicenceYears} year.`,
-        "No prepayment is required for the booking.",
-        "Pickup/return in Apollonia. Kamares on request.",
-        "Rates are indicative and confirmed for your dates.",
-      ];
+  const sections = [
+    {
+      title: t("ageTitle"),
+      body: t("ageBody", {
+        min: business.terms.minAge,
+        max: business.terms.maxAge,
+        years: business.terms.minLicenceYears,
+      }),
+    },
+    {
+      title: t("pickupTitle"),
+      body: t("pickupBody", {
+        default: business.terms.pickupDefault,
+        alternate: business.terms.pickupAlternate,
+      }),
+    },
+    { title: t("fuelTitle"), body: t("fuelBody") },
+    { title: t("insuranceTitle"), body: t("insuranceBody") },
+    { title: t("paymentTitle"), body: t("paymentBody") },
+    { title: t("cancelTitle"), body: t("cancelBody") },
+    { title: t("scooterTitle"), body: t("scooterBody") },
+  ];
 
   return (
     <div className="mx-auto max-w-3xl px-4 pb-20 pt-28 md:px-6">
       <h1 className="font-display text-4xl text-aegean md:text-5xl">{t("title")}</h1>
       <p className="mt-4 text-lg text-aegean/75">{t("lead")}</p>
-      <ul className="mt-8 list-disc space-y-3 pl-5 text-aegean/80">
-        {items.map((item) => (
-          <li key={item}>{item}</li>
+      <div className="mt-10 space-y-8">
+        {sections.map((s) => (
+          <section key={s.title} className="border-t border-aegean/12 pt-6">
+            <h2 className="font-display text-2xl text-aegean">{s.title}</h2>
+            <p className="mt-3 text-aegean/80">{s.body}</p>
+          </section>
         ))}
-      </ul>
+      </div>
     </div>
   );
 }

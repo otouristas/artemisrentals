@@ -142,6 +142,94 @@
   }
 }
 
+@keyframes menu-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes message-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes typing-dot {
+  0%,
+  80%,
+  100% {
+    opacity: 0.35;
+    transform: translateY(0);
+  }
+  40% {
+    opacity: 1;
+    transform: translateY(-3px);
+  }
+}
+
+@keyframes touristas-beacon {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(201, 131, 58, 0.45);
+  }
+  70% {
+    box-shadow: 0 0 0 12px rgba(201, 131, 58, 0);
+  }
+}
+
 .animate-dock {
   animation: dock-in 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.animate-menu {
+  animation: menu-in 0.28s ease-out both;
+}
+
+.animate-message-in {
+  animation: message-in 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.touristas-beacon {
+  animation: touristas-beacon 2.4s ease-out infinite;
+}
+
+.typing-dot {
+  animation: typing-dot 1.2s ease-in-out infinite;
+}
+
+.touristas-panel {
+  background:
+    radial-gradient(600px 280px at 10% -20%, rgba(201, 131, 58, 0.18), transparent 55%),
+    linear-gradient(180deg, #0f3348 0%, #0b2a3c 100%);
+}
+
+.touristas-daypicker .rdp-root {
+  --rdp-accent-color: var(--aegean-ink);
+  --rdp-accent-background-color: color-mix(in oklab, var(--sun) 35%, white);
+  --rdp-range_middle-background-color: color-mix(in oklab, var(--sun) 18%, white);
+  --rdp-today-color: var(--sun);
+  font-family: var(--font-figtree), system-ui, sans-serif;
+  color: var(--aegean-ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise,
+  .animate-rise-delay,
+  .animate-rise-delay-2,
+  .stagger-children > *,
+  .animate-dock,
+  .animate-menu,
+  .animate-message-in,
+  .touristas-beacon,
+  .typing-dot {
+    animation: none !important;
+  }
 }

@@ -6,6 +6,7 @@ import { routing } from "@/i18n/routing";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { TouristasChat } from "@/components/TouristasChat";
+import { WhatsAppFab } from "@/components/WhatsAppFab";
 import { JsonLd } from "@/components/JsonLd";
 import { businessJsonLd, absoluteUrl } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
@@ -66,6 +67,7 @@ export default async function LocaleLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer locale={locale} />
+          <WhatsAppFab />
           <TouristasChat locale={locale} />
         </NextIntlClientProvider>
       </body>

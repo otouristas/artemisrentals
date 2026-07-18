@@ -9,7 +9,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "skoda-fabia"
+      "rateKey": "skoda-fabia",
+      "description": {
+        "en": "A compact, efficient hatchback ideal for couples and small groups exploring Sifnos villages and beach roads.",
+        "el": "Συμπαγές και οικονομικό hatchback, ιδανικό για ζευγάρια και μικρές παρέες στη Σίφνο."
+      },
+      "seoDescription": {
+        "en": "Rent a Skoda Fabia in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Skoda Fabia στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "fiat-panda",
+        "suzuki-ignis",
+        "peugeot-208"
+      ]
     },
     {
       "slug": "fiat-panda",
@@ -20,7 +47,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "fiat-panda"
+      "rateKey": "fiat-panda",
+      "description": {
+        "en": "Agile city car with easy parking in Apollonia and enough space for weekend beach bags.",
+        "el": "Ευέλικτο αυτοκίνητο πόλης με εύκολο παρκάρισμα στην Απολλωνία και χώρο για αποσκευές παραλίας."
+      },
+      "seoDescription": {
+        "en": "Rent a Fiat Panda in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Fiat Panda στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "skoda-fabia",
+        "suzuki-ignis",
+        "nissan-micra"
+      ]
     },
     {
       "slug": "suzuki-ignis",
@@ -31,7 +85,34 @@
       "seats": 4,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "suzuki-ignis"
+      "rateKey": "suzuki-ignis",
+      "description": {
+        "en": "Higher seating and light AWD-ready character for comfort on Sifnos hills and coastal roads.",
+        "el": "Ψηλότερη θέση οδήγησης για άνεση στους λόφους και τους παραλιακούς δρόμους της Σίφνου."
+      },
+      "seoDescription": {
+        "en": "Rent a Suzuki Ignis in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Suzuki Ignis στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "4 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "4 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "fiat-panda",
+        "peugeot-208",
+        "suzuki-vitara"
+      ]
     },
     {
       "slug": "peugeot-208",
@@ -42,7 +123,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "peugeot-208"
+      "rateKey": "peugeot-208",
+      "description": {
+        "en": "Modern compact with a refined ride — a favourite for travellers who want comfort without a large footprint.",
+        "el": "Σύγχρονο compact με άνετη οδήγηση — ιδανικό αν θέλετε άνεση χωρίς μεγάλο όχημα."
+      },
+      "seoDescription": {
+        "en": "Rent a Peugeot 208 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Peugeot 208 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "peugeot-208-auto",
+        "nissan-micra",
+        "skoda-fabia"
+      ]
     },
     {
       "slug": "peugeot-208-auto",
@@ -53,7 +161,34 @@
       "seats": 5,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": "peugeot-208-auto"
+      "rateKey": "peugeot-208-auto",
+      "description": {
+        "en": "Automatic Peugeot 208 for relaxed island driving — especially useful in summer traffic and hilly stretches.",
+        "el": "Αυτόματο Peugeot 208 για άνετη οδήγηση στο νησί — ιδανικό το καλοκαίρι και σε ανηφορικά σημεία."
+      },
+      "seoDescription": {
+        "en": "Rent a Peugeot 208 Automatic in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Peugeot 208 Automatic στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Automatic",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Αυτόματο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "peugeot-208",
+        "nissan-micra-auto",
+        "suzuki-vitara"
+      ]
     },
     {
       "slug": "nissan-micra",
@@ -64,7 +199,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "nissan-micra"
+      "rateKey": "nissan-micra",
+      "description": {
+        "en": "Reliable compact car with straightforward handling for day trips across Sifnos.",
+        "el": "Αξιόπιστο compact με απλό χειρισμό για ημερήσιες εξορμήσεις στη Σίφνο."
+      },
+      "seoDescription": {
+        "en": "Rent a Nissan Micra in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Nissan Micra στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "nissan-micra-auto",
+        "fiat-panda",
+        "peugeot-208"
+      ]
     },
     {
       "slug": "nissan-micra-auto",
@@ -75,7 +237,34 @@
       "seats": 5,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": "nissan-micra-auto"
+      "rateKey": "nissan-micra-auto",
+      "description": {
+        "en": "Automatic Micra for easy clutch-free driving between beaches, villages, and Apollonia.",
+        "el": "Αυτόματο Micra για εύκολη οδήγηση χωρίς συμπλέκτη μεταξύ παραλιών και χωριών."
+      },
+      "seoDescription": {
+        "en": "Rent a Nissan Micra Automatic in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Nissan Micra Automatic στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Automatic",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Αυτόματο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "nissan-micra",
+        "peugeot-208-auto",
+        "suzuki-ignis"
+      ]
     },
     {
       "slug": "chevrolet-spark",
@@ -86,7 +275,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "chevrolet-spark"
+      "rateKey": "chevrolet-spark",
+      "description": {
+        "en": "Rent the Chevrolet Spark in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Chevrolet Spark στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a Chevrolet Spark in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Chevrolet Spark στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "skoda-fabia",
+        "fiat-panda",
+        "suzuki-ignis"
+      ]
     },
     {
       "slug": "hyundai-i10",
@@ -97,7 +313,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "hyundai-i10"
+      "rateKey": "hyundai-i10",
+      "description": {
+        "en": "Rent the Hyundai i10 in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Hyundai i10 στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a Hyundai i10 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Hyundai i10 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "skoda-fabia",
+        "fiat-panda",
+        "suzuki-ignis"
+      ]
     },
     {
       "slug": "peugeot-301",
@@ -108,7 +351,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "peugeot-301"
+      "rateKey": "peugeot-301",
+      "description": {
+        "en": "Rent the Peugeot 301 in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Peugeot 301 στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a Peugeot 301 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Peugeot 301 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "skoda-fabia",
+        "fiat-panda",
+        "suzuki-ignis"
+      ]
     },
     {
       "slug": "citroen-c3",
@@ -119,7 +389,34 @@
       "seats": 5,
       "transmission": "manual",
       "fuel": "petrol",
-      "rateKey": "citroen-c3"
+      "rateKey": "citroen-c3",
+      "description": {
+        "en": "Rent the Citroen C3 in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Citroen C3 στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a Citroen C3 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Citroen C3 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "Island-ready maintenance",
+          "5 seats",
+          "Manual",
+          "Petrol"
+        ],
+        "el": [
+          "Συντήρηση για το νησί",
+          "5 θέσεις",
+          "Χειροκίνητο",
+          "Βενζίνη"
+        ]
+      },
+      "relatedSlugs": [
+        "skoda-fabia",
+        "fiat-panda",
+        "suzuki-ignis"
+      ]
     }
   ],
   "scooters": [
@@ -132,7 +429,32 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null
+      "rateKey": null,
+      "description": {
+        "en": "Well-kept SYM Symphony 125 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter SYM Symphony 125 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a SYM Symphony 125 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση SYM Symphony 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "125cc",
+          "Helmet included",
+          "Island roads ready"
+        ],
+        "el": [
+          "125cc",
+          "Κράνος περιλαμβάνεται",
+          "Έτοιμο για το νησί"
+        ]
+      },
+      "relatedSlugs": [
+        "sym-symphony-150",
+        "sym-symphony-200",
+        "fiddle-125"
+      ]
     },
     {
       "slug": "sym-symphony-150",
@@ -143,7 +465,32 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null
+      "rateKey": null,
+      "description": {
+        "en": "Well-kept SYM Symphony 150 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter SYM Symphony 150 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a SYM Symphony 150 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση SYM Symphony 150 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "150cc",
+          "Helmet included",
+          "Island roads ready"
+        ],
+        "el": [
+          "150cc",
+          "Κράνος περιλαμβάνεται",
+          "Έτοιμο για το νησί"
+        ]
+      },
+      "relatedSlugs": [
+        "sym-symphony-125",
+        "sym-symphony-200",
+        "fiddle-125"
+      ]
     },
     {
       "slug": "sym-symphony-200",
@@ -154,7 +501,32 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null
+      "rateKey": null,
+      "description": {
+        "en": "Well-kept SYM Symphony 200 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter SYM Symphony 200 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a SYM Symphony 200 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση SYM Symphony 200 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "200cc",
+          "Helmet included",
+          "Island roads ready"
+        ],
+        "el": [
+          "200cc",
+          "Κράνος περιλαμβάνεται",
+          "Έτοιμο για το νησί"
+        ]
+      },
+      "relatedSlugs": [
+        "sym-symphony-125",
+        "sym-symphony-150",
+        "fiddle-125"
+      ]
     },
     {
       "slug": "fiddle-125",
@@ -165,7 +537,32 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null
+      "rateKey": null,
+      "description": {
+        "en": "Well-kept Fiddle 125 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter Fiddle 125 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a Fiddle 125 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση Fiddle 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "125cc",
+          "Helmet included",
+          "Island roads ready"
+        ],
+        "el": [
+          "125cc",
+          "Κράνος περιλαμβάνεται",
+          "Έτοιμο για το νησί"
+        ]
+      },
+      "relatedSlugs": [
+        "sym-symphony-125",
+        "sym-symphony-150",
+        "sym-symphony-200"
+      ]
     },
     {
       "slug": "jet4-125",
@@ -176,7 +573,32 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null
+      "rateKey": null,
+      "description": {
+        "en": "Well-kept JET4 125 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter JET4 125 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+      },
+      "seoDescription": {
+        "en": "Rent a JET4 125 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
+        "el": "Ενοικίαση JET4 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+      },
+      "highlights": {
+        "en": [
+          "125cc",
+          "Helmet included",
+          "Island roads ready"
+        ],
+        "el": [
+          "125cc",
+          "Κράνος περιλαμβάνεται",
+          "Έτοιμο για το νησί"
+        ]
+      },
+      "relatedSlugs": [
+        "sym-symphony-125",
+        "sym-symphony-150",
+        "sym-symphony-200"
+      ]
     }
   ]
 }

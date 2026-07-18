@@ -57,3 +57,29 @@ export function seasonForDate(date: Date): PeriodId {
   // Low: 1 Jan – 10 May, 1–31 Oct (and rest of year treated as low)
   return "low";
 }
+
+export function getRelatedVehicles(slug: string, limit = 3): Vehicle[] {
+  const current = getVehicleBySlug(slug);
+  if (!current) return [];
+  const sameCategory = getAllVehicles().filter(
+    (v) => v.slug !== slug && v.category === current.category,
+  );
+  const related = (current as { relatedSlugs?: string[] }).relatedSlugs;
+  if (Array.isArray(related) && related.length > 0) {
+    const preferred = related
+      .map((s) => getVehicleBySlug(s))
+      .filter((v): v is Vehicle => Boolean(v));
+    const rest = sameCategory.filter((v) => !preferred.some((p) => p.slug === v.slug));
+    return [...preferred, ...rest].slice(0, limit);
+  }
+  return sameCategory.slice(0, limit);
+}
+
+export function localizeField(
+  field: { en: string; el: string } | string | undefined,
+  locale: string,
+): string {
+  if (!field) return "";
+  if (typeof field === "string") return field;
+  return locale === "el" ? field.el : field.en;
+}

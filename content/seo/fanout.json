@@ -79,6 +79,54 @@
           "Ferry και ενοικίαση αυθημερόν"
         ]
       }
+    },
+    {
+      "id": "how-to-get-there",
+      "guideSlug": "how-to-get-there",
+      "queries": {
+        "en": [
+          "How to get to Sifnos from Athens",
+          "Airport to Sifnos ferry",
+          "Best way to reach Sifnos"
+        ],
+        "el": [
+          "Πώς πάω στη Σίφνο από Αθήνα",
+          "Αεροδρόμιο προς ferry Σίφνου",
+          "Καλύτερος τρόπος για Σίφνο"
+        ]
+      }
+    },
+    {
+      "id": "where-to-stay",
+      "guideSlug": "where-to-stay",
+      "queries": {
+        "en": [
+          "Where to stay in Sifnos",
+          "Apollonia vs Kamares hotels",
+          "Best area to stay Sifnos with a car"
+        ],
+        "el": [
+          "Πού να μείνω στη Σίφνο",
+          "Απολλωνία ή Καμάρες",
+          "Καλύτερη περιοχή με αυτοκίνητο"
+        ]
+      }
+    },
+    {
+      "id": "things-to-do",
+      "guideSlug": "things-to-do",
+      "queries": {
+        "en": [
+          "Things to do in Sifnos",
+          "Sifnos beaches and villages itinerary",
+          "Chrysopigi how to visit"
+        ],
+        "el": [
+          "Τι να κάνω στη Σίφνο",
+          "Παραλίες και χωριά Σίφνου",
+          "Πώς να πάω στη Χρυσοπηγή"
+        ]
+      }
     }
   ]
 }

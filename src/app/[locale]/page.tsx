@@ -3,11 +3,11 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Hero } from "@/components/Hero";
 import { VehicleCard } from "@/components/VehicleCard";
+import { TouristasOpenButton } from "@/components/TouristasOpenButton";
 import { JsonLd } from "@/components/JsonLd";
 import { getCars, getScooters } from "@/lib/fleet";
 import testimonials from "../../../content/data/testimonials.json";
 import { buildMetadata, absoluteUrl, businessJsonLd } from "@/lib/seo";
-import { tripPlannerUrl } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
 
 export async function generateMetadata({
@@ -123,25 +123,23 @@ export default async function HomePage({
           className="object-cover"
           sizes="100vw"
         />
-        <div className="absolute inset-0 bg-aegean/75" />
+        <div className="absolute inset-0 bg-gradient-to-r from-aegean/90 via-aegean/75 to-aegean/55" />
         <div className="relative mx-auto max-w-6xl px-4 md:px-6">
-          <h2 className="max-w-xl font-display text-3xl text-foam md:text-5xl">{t("guideTitle")}</h2>
-          <p className="mt-4 max-w-lg text-foam/80">{t("guideBody")}</p>
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-sun">
+            {t("touristasTitle")}
+          </p>
+          <h2 className="mt-3 max-w-xl font-display text-3xl text-foam md:text-5xl">
+            {t("touristasTitle")}
+          </h2>
+          <p className="mt-4 max-w-lg text-foam/80">{t("touristasBody")}</p>
           <div className="mt-8 flex flex-wrap gap-3">
+            <TouristasOpenButton className="rounded-full bg-sun px-6 py-3 text-sm font-semibold text-aegean transition hover:brightness-105" />
             <Link
               href="/sifnos-guide"
-              className="rounded-full bg-sun px-6 py-3 text-sm font-semibold text-aegean"
+              className="rounded-full border border-foam/40 px-6 py-3 text-sm font-semibold text-foam transition hover:bg-foam/10"
             >
               {t("guideCta")}
             </Link>
-            <a
-              href={tripPlannerUrl(locale, "Plan a Cyclades hop including Sifnos")}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-full border border-foam/40 px-6 py-3 text-sm font-semibold text-foam"
-            >
-              {t("tripPlannerCta")}
-            </a>
           </div>
         </div>
       </section>

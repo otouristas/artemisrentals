@@ -32,6 +32,9 @@ export function Footer({ locale }: { locale: string }) {
             <li><Link href="/rates">{nav("rates")}</Link></li>
             <li><Link href="/sifnos-guide">{nav("guide")}</Link></li>
             <li><Link href="/blog">{nav("blog")}</Link></li>
+            <li><Link href="/faq">{nav("faq")}</Link></li>
+            <li><Link href="/about">{nav("about")}</Link></li>
+            <li><Link href="/terms">{nav("terms")}</Link></li>
             <li><Link href="/book">{nav("book")}</Link></li>
           </ul>
         </div>

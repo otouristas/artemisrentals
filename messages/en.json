@@ -16,7 +16,18 @@
     "about": "About",
     "terms": "Terms",
     "openMenu": "Open menu",
-    "closeMenu": "Close menu"
+    "closeMenu": "Close menu",
+    "menuLabel": "Explore",
+    "call": "Call",
+    "whatsapp": "WhatsApp us",
+    "whatsappShort": "WhatsApp",
+    "whatsappPrefill": "Hello Artemis, I would like to enquire about a rental.",
+    "askTouristas": "Ask Touristas AI",
+    "indicatorSince": "Since {year}",
+    "indicatorPlace": "Apollonia, Sifnos",
+    "indicatorNoPrepay": "No prepayment to reserve",
+    "indicatorFamily": "Family-run desk",
+    "switchLang": "Switch to {lang}"
   },
   "Home": {
     "brand": "Artemis Rental",
@@ -41,13 +52,16 @@
     "guideTitle": "Plan the island, then pick the keys",
     "guideBody": "Our Sifnos Guide answers the questions travellers actually ask — beaches, villages, ferries, and how to get around.",
     "guideCta": "Open the Sifnos Guide",
-    "tripPlannerCta": "Plan a Cyclades hop with Touristas AI"
+    "tripPlannerCta": "Plan a Cyclades hop with Touristas AI",
+    "touristasTitle": "Touristas AI",
+    "touristasBody": "Ask about our fleet, seasonal rates, ferry pickups, and how to get around Sifnos — then book when you are ready.",
+    "askTouristas": "Ask Touristas AI"
   },
   "Fleet": {
     "carsTitle": "Car rental in Sifnos",
-    "carsLead": "Reliable, well-kept cars for couples, families, and friends exploring Sifnos.",
+    "carsLead": "Reliable, well-kept cars for couples, families, and friends exploring Sifnos. Choose dates on each vehicle page — we confirm availability personally, with no prepayment required.",
     "scootersTitle": "Scooter & motorcycle rental in Sifnos",
-    "scootersLead": "Get around beaches and villages quickly with a well-kept scooter from Artemis.",
+    "scootersLead": "Get around beaches and villages quickly with a well-kept scooter from Artemis. Request your dates on each scooter page and we will confirm availability.",
     "fromDay": "From €{price}/day",
     "contactForPrice": "Ask for daily rate",
     "seats": "{count} seats",
@@ -59,7 +73,19 @@
     "specs": "Specifications",
     "relatedRates": "See seasonal rates",
     "backToCars": "All cars",
-    "backToScooters": "All scooters"
+    "backToScooters": "All scooters",
+    "termsTitle": "Rental terms for this vehicle",
+    "termsAge": "Drivers {min}–{max} years old",
+    "termsLicence": "Valid licence held for more than {years} year(s)",
+    "termsPickup": "Pickup in {default}; {alternate}",
+    "termsNoPrepay": "No prepayment required to reserve",
+    "termsFull": "Full rental terms",
+    "relatedTitle": "You may also like",
+    "selectDates": "Select your dates",
+    "nights": "{count} days",
+    "indicativeTotal": "Indicative total ~€{total}",
+    "requestDates": "Request these dates",
+    "calendarHint": "Enquiry only — we confirm availability by phone, WhatsApp, or email."
   },
   "Rates": {
     "title": "Car & scooter rental prices in Sifnos",
@@ -90,11 +116,12 @@
   },
   "Guide": {
     "title": "Sifnos Guide",
-    "lead": "Beaches, villages, ferries, food, and how to get around — written for travellers who want clear answers first.",
+    "lead": "Beaches, villages, ferries, hotels, things to do, and how to get around — written for travellers who want clear answers first.",
     "read": "Read guide",
     "related": "Related questions travellers ask",
     "planTrip": "Plan island hop with Touristas AI",
-    "updated": "Updated {date}"
+    "updated": "Updated {date}",
+    "externalDc": "Live schedules & hotels on Discover Cyclades"
   },
   "Blog": {
     "title": "Blog",
@@ -112,18 +139,40 @@
   },
   "Terms": {
     "title": "Rental terms",
-    "lead": "Key conditions for car and scooter hire with Artemis Rental."
+    "lead": "Key conditions for car and scooter hire with Artemis Rental.",
+    "ageTitle": "Driver age & licence",
+    "ageBody": "Drivers must be between {min} and {max} years old and hold a valid driving licence for more than {years} year(s).",
+    "pickupTitle": "Pickup & return",
+    "pickupBody": "Default pickup and return is in {default}. {alternate}.",
+    "fuelTitle": "Fuel policy",
+    "fuelBody": "Vehicles are provided with a recorded fuel level and should be returned at a comparable level unless otherwise agreed.",
+    "insuranceTitle": "Insurance & liability",
+    "insuranceBody": "Basic coverage is included as required by Greek law. Excess, optional cover, and damage procedures are explained at pickup — ask us for details before you travel.",
+    "paymentTitle": "Payment & reservation",
+    "paymentBody": "No prepayment is required to reserve. We confirm availability by phone, WhatsApp, or email and agree payment terms when your dates are confirmed.",
+    "cancelTitle": "Changes & cancellation",
+    "cancelBody": "Please tell us as early as you can if dates change or you need to cancel. We will do our best to accommodate ferry delays and island weather.",
+    "scooterTitle": "Scooter-specific",
+    "scooterBody": "Helmets are provided. A valid licence category for the scooter’s engine size is required. Ride defensively on winding island roads."
   },
   "Chat": {
     "title": "Touristas AI",
-    "subtitle": "Ask about cars, scooters, rates, and Sifnos",
+    "subtitle": "Cars, scooters, rates & Sifnos tips",
+    "statusOnline": "Online for Artemis guests",
     "powered": "Powered by Touristas AI",
-    "placeholder": "Ask about vehicles, rates, or getting around Sifnos…",
+    "placeholder": "Ask about vehicles, rates, or getting around…",
     "open": "Open Touristas AI",
     "close": "Close chat",
     "send": "Send",
     "tripPlanner": "Full Cyclades trip planner",
-    "greeting": "Hi — I am Touristas AI for Artemis Rental. Ask about our fleet, seasonal rates, pickup in Apollonia or Kamares, or how to get around Sifnos. For a confirmed booking I will point you to the enquiry form or phone."
+    "greeting": "Hi — I am Touristas AI for Artemis Rental. Ask about the fleet, rates, Apollonia or Kamares pickup, or getting around Sifnos.",
+    "suggestFleet": "Which car fits a family of four?",
+    "suggestRates": "What does a compact car cost in August?",
+    "suggestPickup": "Can I pick up at Kamares port?",
+    "suggestHop": "Help me plan a Sifnos stay",
+    "toolBook": "Request this vehicle",
+    "toolPlanner": "Open trip planner",
+    "toolRate": "About €{price}/day (indicative)"
   },
   "Footer": {
     "tagline": "Cars & scooters in Sifnos since 1988.",

@@ -13,12 +13,12 @@ export function VehicleCard({ vehicle }: { vehicle: Vehicle }) {
   return (
     <article className="group overflow-hidden rounded-2xl bg-foam/70 shadow-[0_10px_40px_rgba(11,42,60,0.08)] ring-1 ring-aegean/8 transition hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(11,42,60,0.12)]">
       <Link href={href} className="block">
-        <div className="relative aspect-[16/10] overflow-hidden bg-limestone">
+        <div className="relative aspect-[4/3] overflow-hidden bg-limestone/80 p-3">
           <Image
             src={vehicle.image}
             alt={vehicle.name}
             fill
-            className="object-cover transition duration-500 group-hover:scale-[1.03]"
+            className="object-contain p-2 transition duration-500 group-hover:scale-[1.02]"
             sizes="(max-width:768px) 100vw, 33vw"
           />
         </div>

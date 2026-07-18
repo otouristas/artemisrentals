@@ -21,3 +21,21 @@ export function whatsappUrl(text?: string) {
   if (text) url.searchParams.set("text", text);
   return url.toString();
 }
+
+export function discoverCycladesUrl(locale: string, path: string) {
+  const loc = locale === "el" ? "el" : "en";
+  const clean = path.startsWith("/") ? path : `/${path}`;
+  return `https://discovercyclades.gr/${loc}${clean}`;
+}
+
+export function sifnosFerryUrl(locale: string) {
+  return discoverCycladesUrl(locale, "/ferry-routes/direct/athens-piraeus-to-sifnos");
+}
+
+export function sifnosHotelsUrl(locale: string) {
+  return discoverCycladesUrl(locale, "/hotels/sifnos");
+}
+
+export function sifnosGuideDcUrl(locale: string) {
+  return discoverCycladesUrl(locale, "/sifnos");
+}

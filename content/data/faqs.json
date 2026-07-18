@@ -10,7 +10,7 @@
     },
     {
       "q": "Where do I pick up the vehicle?",
-      "a": "Pick-up and return take place at our office in Apollonia. Pick-up and return in Kamares can be arranged on request."
+      "a": "Pick-up and return take place at our office in Apollonia. Pick-up and return in Kamares can be arranged on request — useful when your ferry arrives late."
     },
     {
       "q": "Should I rent a car or a scooter on Sifnos?",
@@ -23,6 +23,34 @@
     {
       "q": "How far in advance should I book in summer?",
       "a": "For July and August, enquire as early as you can. Shoulder months are more flexible, but popular models still go quickly around weekends and ferry peaks."
+    },
+    {
+      "q": "What documents do I need?",
+      "a": "Bring a valid driving licence (and International Driving Permit if required for your nationality), passport or ID, and a payment method for the rental once dates are confirmed."
+    },
+    {
+      "q": "Is insurance included?",
+      "a": "Basic coverage required by Greek law is included. Excess, optional cover, and damage procedures are explained at pickup — ask us before you travel if you need specifics."
+    },
+    {
+      "q": "What is the fuel policy?",
+      "a": "Vehicles are provided with a recorded fuel level and should be returned at a comparable level unless otherwise agreed at pickup."
+    },
+    {
+      "q": "Do you offer child seats?",
+      "a": "Child seats may be available on request — mention ages and needs when you enquire so we can check stock for your dates."
+    },
+    {
+      "q": "How much do scooters cost?",
+      "a": "Scooter rates vary by engine size and season. Send your dates via the scooter page calendar or WhatsApp and we will quote a daily rate."
+    },
+    {
+      "q": "What if my ferry is delayed?",
+      "a": "Message or call us with the new arrival time. We regularly adjust Kamares pickups when boats run late — just keep us informed."
+    },
+    {
+      "q": "Can I change or cancel dates?",
+      "a": "Tell us as early as you can. We will do our best to accommodate changes, ferry disruptions, and weather-related delays."
     }
   ],
   "el": [
@@ -36,7 +64,7 @@
     },
     {
       "q": "Πού παραλαμβάνω το όχημα;",
-      "a": "Η παραλαβή και επιστροφή γίνεται στο γραφείο μας στην Απολλωνία. Στην Καμάρες κατόπιν συνεννόησης."
+      "a": "Η παραλαβή και επιστροφή γίνεται στο γραφείο μας στην Απολλωνία. Στην Καμάρες κατόπιν συνεννόησης — χρήσιμο όταν το ferry καθυστερεί."
     },
     {
       "q": "Αυτοκίνητο ή scooter στη Σίφνο;",
@@ -49,6 +77,34 @@
     {
       "q": "Πόσο νωρίς να κλείσω το καλοκαίρι;",
       "a": "Για Ιούλιο και Αύγουστο, όσο πιο νωρίς γίνεται. Τους ενδιάμεσους μήνες υπάρχει μεγαλύτερη ευελιξία."
+    },
+    {
+      "q": "Τι έγγραφα χρειάζομαι;",
+      "a": "Ισχύουσα άδεια οδήγησης (και International Driving Permit αν απαιτείται), διαβατήριο ή ταυτότητα, και μέσο πληρωμής όταν επιβεβαιωθούν οι ημερομηνίες."
+    },
+    {
+      "q": "Η ασφάλεια περιλαμβάνεται;",
+      "a": "Περιλαμβάνεται η βασική κάλυψη σύμφωνα με την ελληνική νομοθεσία. Απαλλαγή και προαιρετικές καλύψεις εξηγούνται στην παραλαβή."
+    },
+    {
+      "q": "Ποια είναι η πολιτική καυσίμου;",
+      "a": "Τα οχήματα παραδίδονται με καταγεγραμμένο επίπεδο καυσίμου και επιστρέφονται σε αντίστοιχο επίπεδο, εκτός αν συμφωνηθεί διαφορετικά."
+    },
+    {
+      "q": "Υπάρχουν παιδικά καθίσματα;",
+      "a": "Διατίθενται κατόπιν διαθεσιμότητας — αναφέρετε ηλικίες όταν κάνετε το αίτημα."
+    },
+    {
+      "q": "Πόσο κοστίζουν τα scooter;",
+      "a": "Οι τιμές εξαρτώνται από κυβισμό και περίοδο. Στείλτε ημερομηνίες μέσω της σελίδας scooter ή WhatsApp για προσφορά."
+    },
+    {
+      "q": "Αν καθυστερήσει το ferry;",
+      "a": "Ενημερώστε μας με τη νέα άφιξη. Συχνά προσαρμόζουμε παραλαβή στην Καμάρες όταν τα πλοία καθυστερούν."
+    },
+    {
+      "q": "Μπορώ να αλλάξω ή να ακυρώσω ημερομηνίες;",
+      "a": "Ενημερώστε μας έγκαιρα. Προσπαθούμε να εξυπηρετήσουμε αλλαγές και καθυστερήσεις ferry."
     }
   ]
 }
