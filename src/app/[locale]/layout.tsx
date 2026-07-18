@@ -69,7 +69,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider messages={messages}>
           <JsonLd data={graph} />
           <Header />
-          <main className="flex-1 pb-24 md:pb-0">{children}</main>
+          <main className="flex-1">{children}</main>
           <Footer locale={locale} />
           <MobileBookBar />
           <WhatsAppFab />

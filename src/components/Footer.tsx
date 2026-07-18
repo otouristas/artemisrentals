@@ -23,7 +23,7 @@ export function Footer({ locale }: { locale: string }) {
   const dcHow = discoverCycladesUrl(locale, "/sifnos/how-to-get-there");
 
   return (
-    <footer className="mt-auto border-t border-foam/10 bg-aegean text-foam">
+    <footer className="mt-auto border-t border-foam/10 bg-aegean pb-[5.5rem] text-foam md:pb-0">
       <div className="container-site py-14 md:py-16">
         <div className="grid grid-cols-2 gap-x-8 gap-y-10 md:grid-cols-3 xl:grid-cols-5 xl:gap-x-8">
           {/* 1. Brand */}
