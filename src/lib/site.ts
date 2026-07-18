@@ -22,8 +22,9 @@ export function whatsappUrl(text?: string) {
   return url.toString();
 }
 
-export function discoverCycladesUrl(locale: string, path: string) {
+export function discoverCycladesUrl(locale: string, path = "") {
   const loc = locale === "el" ? "el" : "en";
+  if (!path || path === "/") return `https://discovercyclades.gr/${loc}`;
   const clean = path.startsWith("/") ? path : `/${path}`;
   return `https://discovercyclades.gr/${loc}${clean}`;
 }

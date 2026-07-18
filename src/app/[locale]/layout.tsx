@@ -1,25 +1,25 @@
+import { Suspense } from "react";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
-import { Fraunces, Figtree } from "next/font/google";
+import { Inter } from "next/font/google";
 import { routing } from "@/i18n/routing";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { TouristasChat } from "@/components/TouristasChat";
+import { MobileBookBar } from "@/components/MobileBookBar";
+import { TouristasFloatingChat } from "@/components/TouristasFloatingChat";
 import { WhatsAppFab } from "@/components/WhatsAppFab";
+import { Analytics } from "@/components/Analytics";
+import { CookieBanner } from "@/components/CookieBanner";
+import { ScrollToTop } from "@/components/ScrollToTop";
 import { JsonLd } from "@/components/JsonLd";
-import { businessJsonLd, absoluteUrl } from "@/lib/seo";
+import { allInLanguages, businessJsonLd, absoluteUrl } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
+import type { Locale } from "@/i18n/routing";
 
-const fraunces = Fraunces({
-  subsets: ["latin"],
-  variable: "--font-fraunces",
-  display: "swap",
-});
-
-const figtree = Figtree({
-  subsets: ["latin"],
-  variable: "--font-figtree",
+const inter = Inter({
+  subsets: ["latin", "greek"],
+  variable: "--font-inter",
   display: "swap",
 });
 
@@ -48,11 +48,11 @@ export default async function LocaleLayout({
         "@id": `${SITE_URL}/#website`,
         url: SITE_URL,
         name: "Artemis Rental",
-        inLanguage: ["en-US", "el-GR"],
+        inLanguage: allInLanguages(),
         publisher: { "@id": `${SITE_URL}/#business` },
         potentialAction: {
           "@type": "SearchAction",
-          target: `${absoluteUrl(locale as "en" | "el", "/sifnos-guide")}?q={search_term_string}`,
+          target: `${absoluteUrl(locale as Locale, "/sifnos-guide")}?q={search_term_string}`,
           "query-input": "required name=search_term_string",
         },
       },
@@ -60,15 +60,26 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={locale} className={`${fraunces.variable} ${figtree.variable} h-full`}>
-      <body className="flex min-h-full flex-col antialiased">
+    <html
+      lang={locale}
+      className={`${inter.variable} h-full`}
+      data-scroll-behavior="smooth"
+      suppressHydrationWarning
+    >
+      <body className="flex min-h-full flex-col font-sans antialiased" suppressHydrationWarning>
         <NextIntlClientProvider messages={messages}>
           <JsonLd data={graph} />
           <Header />
-          <main className="flex-1">{children}</main>
+          <main className="flex-1 pb-24 md:pb-0">{children}</main>
           <Footer locale={locale} />
+          <MobileBookBar />
           <WhatsAppFab />
-          <TouristasChat locale={locale} />
+          <TouristasFloatingChat locale={locale} />
+          <CookieBanner />
+          <Analytics />
+          <Suspense fallback={null}>
+            <ScrollToTop />
+          </Suspense>
         </NextIntlClientProvider>
       </body>
     </html>

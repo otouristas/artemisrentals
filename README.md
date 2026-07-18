@@ -1,4 +1,4 @@
-# Artemis Rental — Next.js
+# Artemis Rental, Next.js
 
 Modern rebuild of [artemisrental.gr](https://artemisrental.gr): car & scooter rentals in Apollonia, Sifnos, with EN/EL i18n, Sifnos Guide, blog, SEO/GEO/AEO, and Touristas AI.
 

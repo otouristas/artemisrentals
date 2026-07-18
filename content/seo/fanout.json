@@ -13,6 +13,31 @@
           "Αυτοκίνητο ή scooter στη Σίφνο;",
           "Φτάνει scooter για τις παραλίες;",
           "Μετακίνηση με οικογένεια στη Σίφνο"
+        ],
+        "it": [
+          "Meglio noleggiare auto o scooter a Sifnos?",
+          "Basta uno scooter per le spiagge di Sifnos?",
+          "Miglior mezzo per famiglie a Sifnos"
+        ],
+        "fr": [
+          "Faut-il louer une voiture ou un scooter à Sifnos ?",
+          "Un scooter suffit-il pour les plages de Sifnos ?",
+          "Meilleur transport pour familles à Sifnos"
+        ],
+        "de": [
+          "Auto oder Roller auf Sifnos mieten?",
+          "Reicht ein Roller für die Strände auf Sifnos?",
+          "Beste Transportmittel für Familien auf Sifnos"
+        ],
+        "sv": [
+          "Ska jag hyra bil eller scooter på Sifnos?",
+          "Räcker en scooter till Sifnos stränder?",
+          "Bästa transport för familjer på Sifnos"
+        ],
+        "nl": [
+          "Auto of scooter huren op Sifnos?",
+          "Is een scooter genoeg voor de stranden van Sifnos?",
+          "Beste vervoer voor gezinnen op Sifnos"
         ]
       }
     },
@@ -29,6 +54,31 @@
           "Πώς πάω από Καμάρες στην Απολλωνία",
           "Από το λιμάνι στην Απολλωνία με αυτοκίνητο",
           "Ταξί ή ενοικίαση από Καμάρες"
+        ],
+        "it": [
+          "Come arrivare da Kamares ad Apollonia",
+          "Dal porto di Sifnos ad Apollonia in auto",
+          "Taxi o noleggio dal traghetto di Kamares"
+        ],
+        "fr": [
+          "Comment aller de Kamares à Apollonia",
+          "Du port de Sifnos à Apollonia en voiture",
+          "Taxi ou location depuis le ferry de Kamares"
+        ],
+        "de": [
+          "Von Kamares nach Apollonia kommen",
+          "Vom Hafen Sifnos nach Apollonia mit dem Auto",
+          "Taxi oder Mietwagen von der Fähre Kamares"
+        ],
+        "sv": [
+          "Hur tar man sig från Kamares till Apollonia",
+          "Från Sifnos hamn till Apollonia med bil",
+          "Taxi eller hyrbil från Kamares färja"
+        ],
+        "nl": [
+          "Hoe ga je van Kamares naar Apollonia",
+          "Van Sifnos haven naar Apollonia met de auto",
+          "Taxi of huurauto vanaf ferry Kamares"
         ]
       }
     },
@@ -45,6 +95,31 @@
           "Παραλίες Σίφνου με parking",
           "Οδήγηση για Πλατύ Γιαλό",
           "Πώς πάω στη Χρυσοπηγή"
+        ],
+        "it": [
+          "Migliori spiagge di Sifnos con parcheggio",
+          "Guidare fino a Platis Gialos Sifnos",
+          "Come arrivare a Chrysopigi"
+        ],
+        "fr": [
+          "Meilleures plages de Sifnos avec parking",
+          "Conduire jusqu'à Platis Gialos Sifnos",
+          "Comment aller à Chrysopigi"
+        ],
+        "de": [
+          "Beste Strände auf Sifnos mit Parkplatz",
+          "Mit dem Auto nach Platis Gialos Sifnos",
+          "Wie komme ich nach Chrysopigi"
+        ],
+        "sv": [
+          "Bästa stränderna på Sifnos med parkering",
+          "Köra till Platis Gialos Sifnos",
+          "Hur tar man sig till Chrysopigi"
+        ],
+        "nl": [
+          "Beste stranden op Sifnos met parkeergelegenheid",
+          "Rijden naar Platis Gialos Sifnos",
+          "Hoe kom je bij Chrysopigi"
         ]
       }
     },
@@ -61,6 +136,31 @@
           "Συμβουλές οδήγησης στη Σίφνο",
           "Είναι δύσκολοι οι δρόμοι;",
           "Οδήγηση το βράδυ στη Σίφνο"
+        ],
+        "it": [
+          "Consigli di guida Sifnos Cicladi",
+          "Le strade di Sifnos sono difficili?",
+          "Guidare di notte a Sifnos"
+        ],
+        "fr": [
+          "Conseils de conduite Sifnos Cyclades",
+          "Les routes de Sifnos sont-elles difficiles ?",
+          "Conduire de nuit à Sifnos"
+        ],
+        "de": [
+          "Fahrtipps Sifnos Kykladen",
+          "Sind die Straßen auf Sifnos schwierig?",
+          "Nachtfahrten auf Sifnos"
+        ],
+        "sv": [
+          "Körtips Sifnos Kykladerna",
+          "Är vägarna på Sifnos svåra?",
+          "Köra på natten på Sifnos"
+        ],
+        "nl": [
+          "Rijtips Sifnos Cycladen",
+          "Zijn de wegen op Sifnos moeilijk?",
+          "Rijden 's nachts op Sifnos"
         ]
       }
     },
@@ -77,6 +177,31 @@
           "Ferry για Σίφνο από Αθήνα",
           "Πώς λέγεται το λιμάνι Σίφνου",
           "Ferry και ενοικίαση αυθημερόν"
+        ],
+        "it": [
+          "Traghetto per Sifnos da Atene",
+          "Come si chiama il porto di Sifnos",
+          "Traghetto e noleggio auto lo stesso giorno a Sifnos"
+        ],
+        "fr": [
+          "Ferry pour Sifnos depuis Athènes",
+          "Nom du port de ferry de Sifnos",
+          "Ferry et location de voiture le même jour à Sifnos"
+        ],
+        "de": [
+          "Fähre nach Sifnos von Athen",
+          "Name des Fährhafens Sifnos",
+          "Am selben Tag Fähre und Autoverleih Sifnos"
+        ],
+        "sv": [
+          "Färja till Sifnos från Aten",
+          "Namn på Sifnos färjehamn",
+          "Färja och biluthyrning samma dag på Sifnos"
+        ],
+        "nl": [
+          "Ferry naar Sifnos vanuit Athene",
+          "Naam van de ferryhaven van Sifnos",
+          "Zelfde dag ferry en autoverhuur Sifnos"
         ]
       }
     },
@@ -93,6 +218,31 @@
           "Πώς πάω στη Σίφνο από Αθήνα",
           "Αεροδρόμιο προς ferry Σίφνου",
           "Καλύτερος τρόπος για Σίφνο"
+        ],
+        "it": [
+          "Come arrivare a Sifnos da Atene",
+          "Dall'aeroporto al traghetto per Sifnos",
+          "Il modo migliore per raggiungere Sifnos"
+        ],
+        "fr": [
+          "Comment aller à Sifnos depuis Athènes",
+          "De l'aéroport au ferry pour Sifnos",
+          "Meilleur moyen d'atteindre Sifnos"
+        ],
+        "de": [
+          "Wie komme ich von Athen nach Sifnos",
+          "Vom Flughafen zur Fähre nach Sifnos",
+          "Bester Weg nach Sifnos"
+        ],
+        "sv": [
+          "Hur tar man sig till Sifnos från Aten",
+          "Från flygplatsen till färjan till Sifnos",
+          "Bästa sättet att nå Sifnos"
+        ],
+        "nl": [
+          "Hoe kom je van Athene naar Sifnos",
+          "Van luchthaven naar ferry naar Sifnos",
+          "Beste manier om Sifnos te bereiken"
         ]
       }
     },
@@ -109,6 +259,31 @@
           "Πού να μείνω στη Σίφνο",
           "Απολλωνία ή Καμάρες",
           "Καλύτερη περιοχή με αυτοκίνητο"
+        ],
+        "it": [
+          "Dove soggiornare a Sifnos",
+          "Hotel Apollonia o Kamares",
+          "La zona migliore a Sifnos con un'auto"
+        ],
+        "fr": [
+          "Où séjourner à Sifnos",
+          "Hôtels Apollonia ou Kamares",
+          "Meilleur quartier à Sifnos avec une voiture"
+        ],
+        "de": [
+          "Wo übernachten auf Sifnos",
+          "Hotels Apollonia oder Kamares",
+          "Beste Gegend auf Sifnos mit Auto"
+        ],
+        "sv": [
+          "Var ska man bo på Sifnos",
+          "Hotell Apollonia eller Kamares",
+          "Bästa området att bo på Sifnos med bil"
+        ],
+        "nl": [
+          "Waar te verblijven op Sifnos",
+          "Hotels Apollonia of Kamares",
+          "Beste gebied om te verblijven op Sifnos met auto"
         ]
       }
     },
@@ -125,6 +300,31 @@
           "Τι να κάνω στη Σίφνο",
           "Παραλίες και χωριά Σίφνου",
           "Πώς να πάω στη Χρυσοπηγή"
+        ],
+        "it": [
+          "Cose da fare a Sifnos",
+          "Itinerario spiagge e villaggi di Sifnos",
+          "Come visitare Chrysopigi"
+        ],
+        "fr": [
+          "Que faire à Sifnos",
+          "Itinéraire plages et villages de Sifnos",
+          "Comment visiter Chrysopigi"
+        ],
+        "de": [
+          "Aktivitäten auf Sifnos",
+          "Sifnos Strände und Dörfer Reiseplan",
+          "Chrysopigi besuchen: so geht's"
+        ],
+        "sv": [
+          "Saker att göra på Sifnos",
+          "Resplan för Sifnos stränder och byar",
+          "Hur man besöker Chrysopigi"
+        ],
+        "nl": [
+          "Dingen om te doen op Sifnos",
+          "Route langs stranden en dorpen van Sifnos",
+          "Hoe bezoek je Chrysopigi"
         ]
       }
     }

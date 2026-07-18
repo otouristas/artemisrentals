@@ -20,9 +20,11 @@ function toISODate(d: Date) {
 export function VehicleBookingCalendar({
   vehicleSlug,
   rateKey,
+  fromPrice,
 }: {
   vehicleSlug: string;
   rateKey: string | null;
+  fromPrice?: number | null;
 }) {
   const t = useTranslations("Fleet");
   const [range, setRange] = useState<DateRange | undefined>();
@@ -57,10 +59,19 @@ export function VehicleBookingCalendar({
       : `/book?vehicle=${encodeURIComponent(vehicleSlug)}`;
 
   return (
-    <div className="rounded-2xl bg-foam/80 p-4 ring-1 ring-aegean/10 md:p-5">
-      <h2 className="font-display text-2xl text-aegean">{t("selectDates")}</h2>
-      <p className="mt-1 text-sm text-aegean/65">{t("calendarHint")}</p>
-      <div className="touristas-daypicker mt-4 overflow-x-auto">
+    <div className="bg-foam">
+      {fromPrice != null ? (
+        <p className="font-display text-3xl tracking-tight text-aegean">
+          {t("fromDay", { price: fromPrice })}
+        </p>
+      ) : (
+        <p className="font-display text-2xl text-aegean">{t("contactForPrice")}</p>
+      )}
+
+      <h2 className="mt-6 font-display text-xl text-aegean">{t("selectDates")}</h2>
+      <p className="mt-1 text-sm leading-relaxed text-aegean/60">{t("calendarHint")}</p>
+
+      <div className="fleet-daypicker mt-5">
         <DayPicker
           mode="range"
           selected={range}
@@ -70,18 +81,21 @@ export function VehicleBookingCalendar({
           className="rdp-root"
         />
       </div>
+
       {dayCount > 0 && (
-        <p className="mt-3 text-sm font-medium text-aegean">
-          {t("nights", { count: dayCount })}
-          {indicativeTotal != null ? ` · ${t("indicativeTotal", { total: indicativeTotal })}` : null}
-        </p>
+        <div className="mt-5 border-t border-aegean/10 pt-4">
+          <p className="text-sm text-aegean/60">{t("nights", { count: dayCount })}</p>
+          {indicativeTotal != null && (
+            <p className="mt-1 font-display text-2xl text-aegean">~€{indicativeTotal}</p>
+          )}
+        </div>
       )}
-      <Link
-        href={href}
-        className="mt-4 inline-flex rounded-full bg-aegean px-6 py-3 text-sm font-semibold text-foam transition hover:bg-aegean-deep"
-      >
+
+      <Link href={href} className="btn-primary mt-5 w-full justify-center">
         {range?.from && range?.to ? t("requestDates") : t("bookThis")}
       </Link>
+
+      <p className="mt-3 text-xs leading-relaxed text-aegean/50">{t("termsNoPrepay")}</p>
     </div>
   );
 }

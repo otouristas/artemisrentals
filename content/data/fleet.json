@@ -12,11 +12,21 @@
       "rateKey": "skoda-fabia",
       "description": {
         "en": "A compact, efficient hatchback ideal for couples and small groups exploring Sifnos villages and beach roads.",
-        "el": "Συμπαγές και οικονομικό hatchback, ιδανικό για ζευγάρια και μικρές παρέες στη Σίφνο."
+        "el": "Συμπαγές και οικονομικό hatchback, ιδανικό για ζευγάρια και μικρές παρέες στη Σίφνο.",
+        "it": "Una compatta hatchback efficiente, ideale per coppie e piccoli gruppi che esplorano i villaggi e le strade per le spiagge di Sifnos.",
+        "fr": "Une citadine compacte et efficace, idéale pour les couples et petits groupes qui explorent les villages et les routes de plage de Sifnos.",
+        "de": "Ein kompakter, sparsamer Hatchback, ideal für Paare und kleine Gruppen, die Dörfer und Strandstraßen auf Sifnos erkunden.",
+        "sv": "En kompakt, bränslesnål halvkombi idealisk för par och små sällskap som utforskar byar och strandvägar på Sifnos.",
+        "nl": "Een compacte, zuinige hatchback ideaal voor stellen en kleine groepen die dorpen en strandwegen op Sifnos verkennen."
       },
       "seoDescription": {
         "en": "Rent a Skoda Fabia in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Skoda Fabia στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Skoda Fabia στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Skoda Fabia a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Skoda Fabia à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Skoda Fabia auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Skoda Fabia på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Skoda Fabia op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -30,6 +40,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -50,11 +90,21 @@
       "rateKey": "fiat-panda",
       "description": {
         "en": "Agile city car with easy parking in Apollonia and enough space for weekend beach bags.",
-        "el": "Ευέλικτο αυτοκίνητο πόλης με εύκολο παρκάρισμα στην Απολλωνία και χώρο για αποσκευές παραλίας."
+        "el": "Ευέλικτο αυτοκίνητο πόλης με εύκολο παρκάρισμα στην Απολλωνία και χώρο για αποσκευές παραλίας.",
+        "it": "City car agile con parcheggio facile ad Apollonia e spazio sufficiente per le borse da spiaggia del weekend.",
+        "fr": "Citadine agile avec stationnement facile à Apollonia et assez d'espace pour les sacs de plage du week-end.",
+        "de": "Wendiger Stadtflitzer mit einfachem Parken in Apollonia und genug Platz für Strandtaschen am Wochenende.",
+        "sv": "Agil stadsbil med enkel parkering i Apollonia och plats för helgens strandväskor.",
+        "nl": "Wendbare stadsauto met makkelijk parkeren in Apollonia en genoeg ruimte voor strandtassen in het weekend."
       },
       "seoDescription": {
         "en": "Rent a Fiat Panda in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Fiat Panda στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Fiat Panda στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Fiat Panda a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Fiat Panda à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Fiat Panda auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Fiat Panda på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Fiat Panda op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -68,6 +118,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -88,11 +168,21 @@
       "rateKey": "suzuki-ignis",
       "description": {
         "en": "Higher seating and light AWD-ready character for comfort on Sifnos hills and coastal roads.",
-        "el": "Ψηλότερη θέση οδήγησης για άνεση στους λόφους και τους παραλιακούς δρόμους της Σίφνου."
+        "el": "Ψηλότερη θέση οδήγησης για άνεση στους λόφους και τους παραλιακούς δρόμους της Σίφνου.",
+        "it": "Seduta più alta e carattere pronto per strade impegnative, per comfort sulle colline e sulle coste di Sifnos.",
+        "fr": "Position de conduite plus haute et caractère adapté aux routes exigeantes, pour plus de confort sur les collines et côtes de Sifnos.",
+        "de": "Höhere Sitzposition und leichtes Gelände-Feeling für Komfort auf den Hügeln und Küstenstraßen von Sifnos.",
+        "sv": "Högre sittposition och lätt terrängkaraktär för komfort på Sifnos kullar och kustvägar.",
+        "nl": "Hogere zitpositie en licht terreinachtig karakter voor comfort op de heuvels en kustwegen van Sifnos."
       },
       "seoDescription": {
         "en": "Rent a Suzuki Ignis in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Suzuki Ignis στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Suzuki Ignis στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Suzuki Ignis a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Suzuki Ignis à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Suzuki Ignis auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Suzuki Ignis på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Suzuki Ignis op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -106,12 +196,42 @@
           "4 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "4 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "4 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "4 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "4 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "4 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
         "fiat-panda",
         "peugeot-208",
-        "suzuki-vitara"
+        "hyundai-i10"
       ]
     },
     {
@@ -125,12 +245,22 @@
       "fuel": "petrol",
       "rateKey": "peugeot-208",
       "description": {
-        "en": "Modern compact with a refined ride — a favourite for travellers who want comfort without a large footprint.",
-        "el": "Σύγχρονο compact με άνετη οδήγηση — ιδανικό αν θέλετε άνεση χωρίς μεγάλο όχημα."
+        "en": "Modern compact with a refined ride, a favourite for travellers who want comfort without a large footprint.",
+        "el": "Σύγχρονο compact με άνετη οδήγηση, ιδανικό αν θέλετε άνεση χωρίς μεγάλο όχημα.",
+        "it": "Compatta moderna con guida raffinata, preferita da chi vuole comfort senza un'auto grande.",
+        "fr": "Compacte moderne au confort raffiné, appréciée des voyageurs qui veulent du confort sans un grand véhicule.",
+        "de": "Moderne Kompakte mit komfortablem Fahrverhalten, beliebt bei Reisenden, die Komfort ohne großes Auto wollen.",
+        "sv": "Modern kompaktbil med behaglig gång, populär bland resenärer som vill ha komfort utan en stor bil.",
+        "nl": "Moderne compacte auto met verfijnd rijgedrag, favoriet bij reizigers die comfort willen zonder een groot voertuig."
       },
       "seoDescription": {
         "en": "Rent a Peugeot 208 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Peugeot 208 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Peugeot 208 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Peugeot 208 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Peugeot 208 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Peugeot 208 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Peugeot 208 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Peugeot 208 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -144,6 +274,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -163,12 +323,22 @@
       "fuel": "petrol",
       "rateKey": "peugeot-208-auto",
       "description": {
-        "en": "Automatic Peugeot 208 for relaxed island driving — especially useful in summer traffic and hilly stretches.",
-        "el": "Αυτόματο Peugeot 208 για άνετη οδήγηση στο νησί — ιδανικό το καλοκαίρι και σε ανηφορικά σημεία."
+        "en": "Automatic Peugeot 208 for relaxed island driving, especially useful in summer traffic and hilly stretches.",
+        "el": "Αυτόματο Peugeot 208 για άνετη οδήγηση στο νησί, ιδανικό το καλοκαίρι και σε ανηφορικά σημεία.",
+        "it": "Peugeot 208 automatica per una guida rilassata sull'isola, utile nel traffico estivo e sui tratti in salita.",
+        "fr": "Peugeot 208 automatique pour une conduite détendue sur l'île, pratique en été et sur les routes vallonnées.",
+        "de": "Automatik-Peugeot 208 für entspanntes Inselfahren, besonders hilfreich im Sommerverkehr und auf hügeligen Strecken.",
+        "sv": "Automatisk Peugeot 208 för avslappnad ökörning, särskilt praktisk i sommartrafik och i backiga partier.",
+        "nl": "Automatische Peugeot 208 voor ontspannen eilandritten, vooral handig in zomerverkeer en op heuvelachtige stukken."
       },
       "seoDescription": {
         "en": "Rent a Peugeot 208 Automatic in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Peugeot 208 Automatic στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Peugeot 208 Automatic στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Peugeot 208 Automatic a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Peugeot 208 Automatic à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Peugeot 208 Automatic auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Peugeot 208 Automatic på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Peugeot 208 Automatic op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -182,12 +352,42 @@
           "5 θέσεις",
           "Αυτόματο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Automatico",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Automatique",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Automatik",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Automat",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Automaat",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
         "peugeot-208",
         "nissan-micra-auto",
-        "suzuki-vitara"
+        "citroen-c3"
       ]
     },
     {
@@ -202,11 +402,21 @@
       "rateKey": "nissan-micra",
       "description": {
         "en": "Reliable compact car with straightforward handling for day trips across Sifnos.",
-        "el": "Αξιόπιστο compact με απλό χειρισμό για ημερήσιες εξορμήσεις στη Σίφνο."
+        "el": "Αξιόπιστο compact με απλό χειρισμό για ημερήσιες εξορμήσεις στη Σίφνο.",
+        "it": "Compatta affidabile con guida semplice per gite giornaliere in tutta Sifnos.",
+        "fr": "Compacte fiable à la conduite simple pour les excursions d'une journée à travers Sifnos.",
+        "de": "Zuverlässiger Kompaktwagen mit unkomplizierter Handhabung für Tagesausflüge auf Sifnos.",
+        "sv": "Pålitlig kompaktbil med enkel hantering för dagsutflykter runt Sifnos.",
+        "nl": "Betrouwbare compacte auto met eenvoudige bediening voor dagtrips over Sifnos."
       },
       "seoDescription": {
         "en": "Rent a Nissan Micra in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Nissan Micra στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Nissan Micra στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Nissan Micra a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Nissan Micra à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Nissan Micra auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Nissan Micra på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Nissan Micra op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -220,6 +430,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -240,11 +480,21 @@
       "rateKey": "nissan-micra-auto",
       "description": {
         "en": "Automatic Micra for easy clutch-free driving between beaches, villages, and Apollonia.",
-        "el": "Αυτόματο Micra για εύκολη οδήγηση χωρίς συμπλέκτη μεταξύ παραλιών και χωριών."
+        "el": "Αυτόματο Micra για εύκολη οδήγηση χωρίς συμπλέκτη μεταξύ παραλιών και χωριών.",
+        "it": "Micra automatica per una guida senza frizione tra spiagge, villaggi e Apollonia.",
+        "fr": "Micra automatique pour une conduite sans embrayage entre plages, villages et Apollonia.",
+        "de": "Automatik-Micra für einfaches Fahren ohne Kupplung zwischen Stränden, Dörfern und Apollonia.",
+        "sv": "Automatisk Micra för enkel körning utan koppling mellan stränder, byar och Apollonia.",
+        "nl": "Automatische Micra voor makkelijk rijden zonder koppeling tussen stranden, dorpen en Apollonia."
       },
       "seoDescription": {
         "en": "Rent a Nissan Micra Automatic in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Nissan Micra Automatic στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Nissan Micra Automatic στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Nissan Micra Automatic a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Nissan Micra Automatic à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Nissan Micra Automatic auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Nissan Micra Automatic på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Nissan Micra Automatic op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -258,6 +508,36 @@
           "5 θέσεις",
           "Αυτόματο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Automatico",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Automatique",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Automatik",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Automat",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Automaat",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -277,12 +557,22 @@
       "fuel": "petrol",
       "rateKey": "chevrolet-spark",
       "description": {
-        "en": "Rent the Chevrolet Spark in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
-        "el": "Ενοικιάστε Chevrolet Spark στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+        "en": "Rent the Chevrolet Spark in Sifnos with Artemis Rental, maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Chevrolet Spark στη Σίφνο από την Artemis, συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία.",
+        "it": "Noleggia la Chevrolet Spark a Sifnos con Artemis Rental, mantenuta per le strade dell'isola, ritiro ad Apollonia.",
+        "fr": "Louez la Chevrolet Spark à Sifnos avec Artemis Rental, entretenue pour les routes de l'île, retrait à Apollonia.",
+        "de": "Mieten Sie den Chevrolet Spark auf Sifnos bei Artemis Rental, gewartet für Inselstraßen, Abholung in Apollonia.",
+        "sv": "Hyr Chevrolet Spark på Sifnos hos Artemis Rental, underhållen för övägar, hämtning i Apollonia.",
+        "nl": "Huur de Chevrolet Spark op Sifnos bij Artemis Rental, onderhouden voor eilandwegen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a Chevrolet Spark in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Chevrolet Spark στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Chevrolet Spark στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Chevrolet Spark a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Chevrolet Spark à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Chevrolet Spark auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Chevrolet Spark på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Chevrolet Spark op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -296,6 +586,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -315,12 +635,22 @@
       "fuel": "petrol",
       "rateKey": "hyundai-i10",
       "description": {
-        "en": "Rent the Hyundai i10 in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
-        "el": "Ενοικιάστε Hyundai i10 στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+        "en": "Rent the Hyundai i10 in Sifnos with Artemis Rental, maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Hyundai i10 στη Σίφνο από την Artemis, συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία.",
+        "it": "Noleggia la Hyundai i10 a Sifnos con Artemis Rental, mantenuta per le strade dell'isola, ritiro ad Apollonia.",
+        "fr": "Louez la Hyundai i10 à Sifnos avec Artemis Rental, entretenue pour les routes de l'île, retrait à Apollonia.",
+        "de": "Mieten Sie den Hyundai i10 auf Sifnos bei Artemis Rental, gewartet für Inselstraßen, Abholung in Apollonia.",
+        "sv": "Hyr Hyundai i10 på Sifnos hos Artemis Rental, underhållen för övägar, hämtning i Apollonia.",
+        "nl": "Huur de Hyundai i10 op Sifnos bij Artemis Rental, onderhouden voor eilandwegen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a Hyundai i10 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Hyundai i10 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Hyundai i10 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Hyundai i10 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Hyundai i10 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Hyundai i10 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Hyundai i10 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Hyundai i10 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -334,6 +664,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -353,12 +713,22 @@
       "fuel": "petrol",
       "rateKey": "peugeot-301",
       "description": {
-        "en": "Rent the Peugeot 301 in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
-        "el": "Ενοικιάστε Peugeot 301 στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+        "en": "Rent the Peugeot 301 in Sifnos with Artemis Rental, maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Peugeot 301 στη Σίφνο από την Artemis, συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία.",
+        "it": "Noleggia la Peugeot 301 a Sifnos con Artemis Rental, mantenuta per le strade dell'isola, ritiro ad Apollonia.",
+        "fr": "Louez la Peugeot 301 à Sifnos avec Artemis Rental, entretenue pour les routes de l'île, retrait à Apollonia.",
+        "de": "Mieten Sie den Peugeot 301 auf Sifnos bei Artemis Rental, gewartet für Inselstraßen, Abholung in Apollonia.",
+        "sv": "Hyr Peugeot 301 på Sifnos hos Artemis Rental, underhållen för övägar, hämtning i Apollonia.",
+        "nl": "Huur de Peugeot 301 op Sifnos bij Artemis Rental, onderhouden voor eilandwegen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a Peugeot 301 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Peugeot 301 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Peugeot 301 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Peugeot 301 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Peugeot 301 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Peugeot 301 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Peugeot 301 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Peugeot 301 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -372,6 +742,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -391,12 +791,22 @@
       "fuel": "petrol",
       "rateKey": "citroen-c3",
       "description": {
-        "en": "Rent the Citroen C3 in Sifnos with Artemis Rental — maintained for island roads, pickup in Apollonia.",
-        "el": "Ενοικιάστε Citroen C3 στη Σίφνο από την Artemis — συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία."
+        "en": "Rent the Citroen C3 in Sifnos with Artemis Rental, maintained for island roads, pickup in Apollonia.",
+        "el": "Ενοικιάστε Citroen C3 στη Σίφνο από την Artemis, συντηρημένο για τους δρόμους του νησιού, παραλαβή στην Απολλωνία.",
+        "it": "Noleggia la Citroen C3 a Sifnos con Artemis Rental, mantenuta per le strade dell'isola, ritiro ad Apollonia.",
+        "fr": "Louez la Citroen C3 à Sifnos avec Artemis Rental, entretenue pour les routes de l'île, retrait à Apollonia.",
+        "de": "Mieten Sie den Citroen C3 auf Sifnos bei Artemis Rental, gewartet für Inselstraßen, Abholung in Apollonia.",
+        "sv": "Hyr Citroen C3 på Sifnos hos Artemis Rental, underhållen för övägar, hämtning i Apollonia.",
+        "nl": "Huur de Citroen C3 op Sifnos bij Artemis Rental, onderhouden voor eilandwegen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a Citroen C3 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Citroen C3 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Citroen C3 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia una Citroen C3 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez une Citroen C3 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Citroen C3 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Citroen C3 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Citroen C3 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -410,6 +820,36 @@
           "5 θέσεις",
           "Χειροκίνητο",
           "Βενζίνη"
+        ],
+        "it": [
+          "Manutenzione per l'isola",
+          "5 posti",
+          "Manuale",
+          "Benzina"
+        ],
+        "fr": [
+          "Entretien adapté à l'île",
+          "5 places",
+          "Manuelle",
+          "Essence"
+        ],
+        "de": [
+          "Inselgerechte Wartung",
+          "5 Sitze",
+          "Schaltgetriebe",
+          "Benzin"
+        ],
+        "sv": [
+          "Underhåll för övägar",
+          "5 säten",
+          "Manuell",
+          "Bensin"
+        ],
+        "nl": [
+          "Onderhoud voor eilandwegen",
+          "5 zitplaatsen",
+          "Handgeschakeld",
+          "Benzine"
         ]
       },
       "relatedSlugs": [
@@ -429,14 +869,24 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null,
+      "rateKey": "sym-symphony-125",
       "description": {
-        "en": "Well-kept SYM Symphony 125 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
-        "el": "Καλοσυντηρημένο scooter SYM Symphony 125 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+        "en": "Well-kept SYM Symphony 125 scooter rental in Sifnos, agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter SYM Symphony 125 στη Σίφνο, ευέλικτο για παραλίες, παραλαβή στην Απολλωνία.",
+        "it": "Scooter SYM Symphony 125 ben tenuto a Sifnos, agile per saltare da una spiaggia all'altra, ritiro ad Apollonia.",
+        "fr": "Scooter SYM Symphony 125 bien entretenu à Sifnos, agile pour enchaîner les plages, retrait à Apollonia.",
+        "de": "Gepflegter SYM Symphony 125 Roller auf Sifnos, wendig für Strandhopping, Abholung in Apollonia.",
+        "sv": "Välskött SYM Symphony 125 scooteruthyrning på Sifnos, smidig för strandhopp med hämtning i Apollonia.",
+        "nl": "Goed onderhouden SYM Symphony 125 scooterverhuur op Sifnos, wendbaar voor strandhoppen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a SYM Symphony 125 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση SYM Symphony 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση SYM Symphony 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia uno scooter SYM Symphony 125 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez un SYM Symphony 125 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen SYM Symphony 125 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en SYM Symphony 125 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een SYM Symphony 125 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -448,6 +898,31 @@
           "125cc",
           "Κράνος περιλαμβάνεται",
           "Έτοιμο για το νησί"
+        ],
+        "it": [
+          "125cc",
+          "Casco incluso",
+          "Pronto per le strade dell'isola"
+        ],
+        "fr": [
+          "125cc",
+          "Casque inclus",
+          "Prêt pour les routes de l'île"
+        ],
+        "de": [
+          "125cc",
+          "Helm inklusive",
+          "Bereit für Inselstraßen"
+        ],
+        "sv": [
+          "125cc",
+          "Hjälm ingår",
+          "Redo för övägar"
+        ],
+        "nl": [
+          "125cc",
+          "Helm inbegrepen",
+          "Klaar voor eilandwegen"
         ]
       },
       "relatedSlugs": [
@@ -465,14 +940,24 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null,
+      "rateKey": "sym-symphony-150",
       "description": {
-        "en": "Well-kept SYM Symphony 150 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
-        "el": "Καλοσυντηρημένο scooter SYM Symphony 150 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+        "en": "Well-kept SYM Symphony 150 scooter rental in Sifnos, agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter SYM Symphony 150 στη Σίφνο, ευέλικτο για παραλίες, παραλαβή στην Απολλωνία.",
+        "it": "Scooter SYM Symphony 150 ben tenuto a Sifnos, agile per saltare da una spiaggia all'altra, ritiro ad Apollonia.",
+        "fr": "Scooter SYM Symphony 150 bien entretenu à Sifnos, agile pour enchaîner les plages, retrait à Apollonia.",
+        "de": "Gepflegter SYM Symphony 150 Roller auf Sifnos, wendig für Strandhopping, Abholung in Apollonia.",
+        "sv": "Välskött SYM Symphony 150 scooteruthyrning på Sifnos, smidig för strandhopp med hämtning i Apollonia.",
+        "nl": "Goed onderhouden SYM Symphony 150 scooterverhuur op Sifnos, wendbaar voor strandhoppen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a SYM Symphony 150 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση SYM Symphony 150 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση SYM Symphony 150 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia uno scooter SYM Symphony 150 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez un SYM Symphony 150 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen SYM Symphony 150 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en SYM Symphony 150 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een SYM Symphony 150 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -484,6 +969,31 @@
           "150cc",
           "Κράνος περιλαμβάνεται",
           "Έτοιμο για το νησί"
+        ],
+        "it": [
+          "150cc",
+          "Casco incluso",
+          "Pronto per le strade dell'isola"
+        ],
+        "fr": [
+          "150cc",
+          "Casque inclus",
+          "Prêt pour les routes de l'île"
+        ],
+        "de": [
+          "150cc",
+          "Helm inklusive",
+          "Bereit für Inselstraßen"
+        ],
+        "sv": [
+          "150cc",
+          "Hjälm ingår",
+          "Redo för övägar"
+        ],
+        "nl": [
+          "150cc",
+          "Helm inbegrepen",
+          "Klaar voor eilandwegen"
         ]
       },
       "relatedSlugs": [
@@ -501,14 +1011,24 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null,
+      "rateKey": "sym-symphony-200",
       "description": {
-        "en": "Well-kept SYM Symphony 200 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
-        "el": "Καλοσυντηρημένο scooter SYM Symphony 200 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+        "en": "Well-kept SYM Symphony 200 scooter rental in Sifnos, agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter SYM Symphony 200 στη Σίφνο, ευέλικτο για παραλίες, παραλαβή στην Απολλωνία.",
+        "it": "Scooter SYM Symphony 200 ben tenuto a Sifnos, agile per saltare da una spiaggia all'altra, ritiro ad Apollonia.",
+        "fr": "Scooter SYM Symphony 200 bien entretenu à Sifnos, agile pour enchaîner les plages, retrait à Apollonia.",
+        "de": "Gepflegter SYM Symphony 200 Roller auf Sifnos, wendig für Strandhopping, Abholung in Apollonia.",
+        "sv": "Välskött SYM Symphony 200 scooteruthyrning på Sifnos, smidig för strandhopp med hämtning i Apollonia.",
+        "nl": "Goed onderhouden SYM Symphony 200 scooterverhuur op Sifnos, wendbaar voor strandhoppen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a SYM Symphony 200 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση SYM Symphony 200 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση SYM Symphony 200 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia uno scooter SYM Symphony 200 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez un SYM Symphony 200 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen SYM Symphony 200 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en SYM Symphony 200 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een SYM Symphony 200 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -520,6 +1040,31 @@
           "200cc",
           "Κράνος περιλαμβάνεται",
           "Έτοιμο για το νησί"
+        ],
+        "it": [
+          "200cc",
+          "Casco incluso",
+          "Pronto per le strade dell'isola"
+        ],
+        "fr": [
+          "200cc",
+          "Casque inclus",
+          "Prêt pour les routes de l'île"
+        ],
+        "de": [
+          "200cc",
+          "Helm inklusive",
+          "Bereit für Inselstraßen"
+        ],
+        "sv": [
+          "200cc",
+          "Hjälm ingår",
+          "Redo för övägar"
+        ],
+        "nl": [
+          "200cc",
+          "Helm inbegrepen",
+          "Klaar voor eilandwegen"
         ]
       },
       "relatedSlugs": [
@@ -537,14 +1082,24 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null,
+      "rateKey": "fiddle-125",
       "description": {
-        "en": "Well-kept Fiddle 125 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
-        "el": "Καλοσυντηρημένο scooter Fiddle 125 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+        "en": "Well-kept Fiddle 125 scooter rental in Sifnos, agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter Fiddle 125 στη Σίφνο, ευέλικτο για παραλίες, παραλαβή στην Απολλωνία.",
+        "it": "Scooter Fiddle 125 ben tenuto a Sifnos, agile per saltare da una spiaggia all'altra, ritiro ad Apollonia.",
+        "fr": "Scooter Fiddle 125 bien entretenu à Sifnos, agile pour enchaîner les plages, retrait à Apollonia.",
+        "de": "Gepflegter Fiddle 125 Roller auf Sifnos, wendig für Strandhopping, Abholung in Apollonia.",
+        "sv": "Välskött Fiddle 125 scooteruthyrning på Sifnos, smidig för strandhopp med hämtning i Apollonia.",
+        "nl": "Goed onderhouden Fiddle 125 scooterverhuur op Sifnos, wendbaar voor strandhoppen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a Fiddle 125 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση Fiddle 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση Fiddle 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia uno scooter Fiddle 125 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez un Fiddle 125 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen Fiddle 125 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en Fiddle 125 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een Fiddle 125 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -556,6 +1111,31 @@
           "125cc",
           "Κράνος περιλαμβάνεται",
           "Έτοιμο για το νησί"
+        ],
+        "it": [
+          "125cc",
+          "Casco incluso",
+          "Pronto per le strade dell'isola"
+        ],
+        "fr": [
+          "125cc",
+          "Casque inclus",
+          "Prêt pour les routes de l'île"
+        ],
+        "de": [
+          "125cc",
+          "Helm inklusive",
+          "Bereit für Inselstraßen"
+        ],
+        "sv": [
+          "125cc",
+          "Hjälm ingår",
+          "Redo för övägar"
+        ],
+        "nl": [
+          "125cc",
+          "Helm inbegrepen",
+          "Klaar voor eilandwegen"
         ]
       },
       "relatedSlugs": [
@@ -573,14 +1153,24 @@
       "seats": 2,
       "transmission": "automatic",
       "fuel": "petrol",
-      "rateKey": null,
+      "rateKey": "jet4-125",
       "description": {
-        "en": "Well-kept JET4 125 scooter rental in Sifnos — agile for beach hopping with pickup in Apollonia.",
-        "el": "Καλοσυντηρημένο scooter JET4 125 στη Σίφνο — ευέλικτο για παραλίες, παραλαβή στην Απολλωνία."
+        "en": "Well-kept JET4 125 scooter rental in Sifnos, agile for beach hopping with pickup in Apollonia.",
+        "el": "Καλοσυντηρημένο scooter JET4 125 στη Σίφνο, ευέλικτο για παραλίες, παραλαβή στην Απολλωνία.",
+        "it": "Scooter JET4 125 ben tenuto a Sifnos, agile per saltare da una spiaggia all'altra, ritiro ad Apollonia.",
+        "fr": "Scooter JET4 125 bien entretenu à Sifnos, agile pour enchaîner les plages, retrait à Apollonia.",
+        "de": "Gepflegter JET4 125 Roller auf Sifnos, wendig für Strandhopping, Abholung in Apollonia.",
+        "sv": "Välskött JET4 125 scooteruthyrning på Sifnos, smidig för strandhopp med hämtning i Apollonia.",
+        "nl": "Goed onderhouden JET4 125 scooterverhuur op Sifnos, wendbaar voor strandhoppen, ophalen in Apollonia."
       },
       "seoDescription": {
         "en": "Rent a JET4 125 in Sifnos with Artemis Rental. Pickup in Apollonia, Kamares on request. Since 1988.",
-        "el": "Ενοικίαση JET4 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988."
+        "el": "Ενοικίαση JET4 125 στη Σίφνο από Artemis Rental. Παραλαβή Απολλωνία, Καμάρες κατόπιν συνεννόησης. Από το 1988.",
+        "it": "Noleggia uno scooter JET4 125 a Sifnos con Artemis Rental. Ritiro ad Apollonia, Kamares su richiesta. Dal 1988.",
+        "fr": "Louez un JET4 125 à Sifnos avec Artemis Rental. Retrait à Apollonia, Kamares sur demande. Depuis 1988.",
+        "de": "Mieten Sie einen JET4 125 auf Sifnos bei Artemis Rental. Abholung in Apollonia, Kamares auf Anfrage. Seit 1988.",
+        "sv": "Hyr en JET4 125 på Sifnos hos Artemis Rental. Hämtning i Apollonia, Kamares på begäran. Sedan 1988.",
+        "nl": "Huur een JET4 125 op Sifnos bij Artemis Rental. Ophalen in Apollonia, Kamares op verzoek. Sinds 1988."
       },
       "highlights": {
         "en": [
@@ -592,6 +1182,31 @@
           "125cc",
           "Κράνος περιλαμβάνεται",
           "Έτοιμο για το νησί"
+        ],
+        "it": [
+          "125cc",
+          "Casco incluso",
+          "Pronto per le strade dell'isola"
+        ],
+        "fr": [
+          "125cc",
+          "Casque inclus",
+          "Prêt pour les routes de l'île"
+        ],
+        "de": [
+          "125cc",
+          "Helm inklusive",
+          "Bereit für Inselstraßen"
+        ],
+        "sv": [
+          "125cc",
+          "Hjälm ingår",
+          "Redo för övägar"
+        ],
+        "nl": [
+          "125cc",
+          "Helm inbegrepen",
+          "Klaar voor eilandwegen"
         ]
       },
       "relatedSlugs": [

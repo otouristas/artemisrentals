@@ -37,7 +37,6 @@ const nextConfig: NextConfig = {
       { source: "/en/rates.html", destination: "/en/rates", permanent: true },
       { source: "/en/contact.html", destination: "/en/book", permanent: true },
       { source: "/en/index.html", destination: "/en", permanent: true },
-      { source: "/fr/:path*", destination: "/en/:path*", permanent: false },
     ];
   },
 };

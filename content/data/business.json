@@ -26,6 +26,18 @@
     "minLicenceYears": 1,
     "prepaymentRequired": false,
     "pickupDefault": "Apollonia",
-    "pickupAlternate": "Kamares (on request)"
-  }
+    "pickupAlternate": "Kamares port, heliport, Artemonas & Kastro free for cars; Vathi, Platys Gialos & Faros on request",
+    "carFreePickup": ["kamares", "heliport", "apollonia", "artemonas", "kastro"],
+    "carOnRequestPickup": ["vathi", "platys-gialos", "faros"],
+    "scooterPickupOnly": ["apollonia"]
+  },
+  "included": [
+    "tpl",
+    "maintenance",
+    "helmets",
+    "carFreePickup",
+    "carOnRequestPickup",
+    "scooterOfficePickup",
+    "localHelp"
+  ]
 }

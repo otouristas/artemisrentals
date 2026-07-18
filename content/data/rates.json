@@ -3,26 +3,58 @@
   "periods": [
     {
       "id": "low",
-      "label": { "en": "1 Jan – 10 May & 1–31 Oct", "el": "1 Ιαν – 10 Μαΐ & 1–31 Οκτ" },
+      "label": {
+        "en": "1 Jan – 10 May & 1–31 Oct",
+        "el": "1 Ιαν – 10 Μαΐ & 1–31 Οκτ",
+        "it": "1 gen – 10 mag & 1–31 ott",
+        "fr": "1 janv. – 10 mai & 1–31 oct.",
+        "de": "1 Jan – 10 Mai & 1–31 Okt",
+        "sv": "1 jan – 10 maj & 1–31 okt",
+        "nl": "1 jan – 10 mei & 1–31 okt"
+      },
       "ranges": ["1/1-10/5", "1/10-31/10"]
     },
     {
       "id": "shoulder",
-      "label": { "en": "11 May – 10 Jun & 11–30 Sep", "el": "11 Μαΐ – 10 Ιουν & 11–30 Σεπ" },
+      "label": {
+        "en": "11 May – 10 Jun & 11–30 Sep",
+        "el": "11 Μαΐ – 10 Ιουν & 11–30 Σεπ",
+        "it": "11 mag – 10 giu & 11–30 set",
+        "fr": "11 mai – 10 juin & 11–30 sep.",
+        "de": "11 Mai – 10 Jun & 11–30 Sep",
+        "sv": "11 maj – 10 jun & 11–30 sep",
+        "nl": "11 mei – 10 jun & 11–30 sep"
+      },
       "ranges": ["11/5-10/6", "11/9-30/9"]
     },
     {
       "id": "mid",
-      "label": { "en": "11 Jun – 10 Jul", "el": "11 Ιουν – 10 Ιουλ" },
+      "label": {
+        "en": "11 Jun – 10 Jul",
+        "el": "11 Ιουν – 10 Ιουλ",
+        "it": "11 giu – 10 lug",
+        "fr": "11 juin – 10 juil.",
+        "de": "11 Jun – 10 Jul",
+        "sv": "11 jun – 10 jul",
+        "nl": "11 jun – 10 jul"
+      },
       "ranges": ["11/6-10/7"]
     },
     {
       "id": "peak",
-      "label": { "en": "11 Jul – 10 Sep", "el": "11 Ιουλ – 10 Σεπ" },
+      "label": {
+        "en": "11 Jul – 10 Sep",
+        "el": "11 Ιουλ – 10 Σεπ",
+        "it": "11 lug – 10 set",
+        "fr": "11 juil. – 10 sep.",
+        "de": "11 Jul – 10 Sep",
+        "sv": "11 jul – 10 sep",
+        "nl": "11 jul – 10 sep"
+      },
       "ranges": ["11/7-10/9"]
     }
   ],
-  "cars": {
+  "vehicles": {
     "chevrolet-spark": { "low": 40, "shoulder": 45, "mid": 50, "peak": 65 },
     "hyundai-i10": { "low": 40, "shoulder": 50, "mid": 55, "peak": 70 },
     "fiat-panda": { "low": 45, "shoulder": 55, "mid": 60, "peak": 75 },
@@ -33,10 +65,49 @@
     "skoda-fabia": { "low": 55, "shoulder": 65, "mid": 70, "peak": 85 },
     "citroen-c3": { "low": 55, "shoulder": 65, "mid": 70, "peak": 85 },
     "suzuki-ignis": { "low": 50, "shoulder": 65, "mid": 70, "peak": 85 },
-    "nissan-micra-auto": { "low": 50, "shoulder": 65, "mid": 70, "peak": 85 }
+    "nissan-micra-auto": { "low": 50, "shoulder": 65, "mid": 70, "peak": 85 },
+    "sym-symphony-125": { "low": null, "shoulder": null, "mid": 30, "peak": 35 },
+    "sym-symphony-150": { "low": null, "shoulder": null, "mid": 30, "peak": 35 },
+    "sym-symphony-200": { "low": null, "shoulder": null, "mid": 35, "peak": 40 },
+    "fiddle-125": { "low": null, "shoulder": null, "mid": 30, "peak": 35 },
+    "jet4-125": { "low": null, "shoulder": null, "mid": 30, "peak": 35 }
   },
   "note": {
-    "en": "Indicative daily rates. Contact us for availability, multi-day offers, and scooter pricing.",
-    "el": "Ενδεικτικές ημερήσιες τιμές. Επικοινωνήστε για διαθεσιμότητα, προσφορές και τιμές scooter."
+    "en": "Daily rates in euros by season. Cars: complimentary pickup & return at Kamares port, heliport, Apollonia, Artemonas and Kastro. Vathi, Platys Gialos and Faros on request (delivery fee confirmed when you book). Scooters: Apollonia office only. No prepayment to reserve.",
+    "el": "Ημερήσιες τιμές σε ευρώ ανά περίοδο. Αυτοκίνητα: δωρεάν παραλαβή & επιστροφή σε Καμάρες, ελικοδρόμιο, Απολλωνία, Αρτεμώνα και Κάστρο. Βαθύ, Πλατύς Γιαλός και Φάρος κατόπιν συνεννόησης (τυχόν κόστος παράδοσης επιβεβαιώνεται στην κράτηση). Scooter: μόνο γραφείο Απολλωνίας. Χωρίς προκαταβολή για κράτηση.",
+    "it": "Tariffe giornaliere in euro per stagione. Auto: ritiro e riconsegna gratuiti al porto di Kamares, eliporto, Apollonia, Artemonas e Kastro. Vathi, Platys Gialos e Faros su richiesta (costo di consegna confermato in prenotazione). Scooter: solo ufficio di Apollonia. Nessun anticipo per prenotare.",
+    "fr": "Tarifs journaliers en euros par saison. Voitures : prise en charge et retour gratuits au port de Kamares, héliport, Apollonia, Artemonas et Kastro. Vathi, Platys Gialos et Faros sur demande (frais de livraison confirmés à la réservation). Scooters : bureau d'Apollonia uniquement. Aucun prépaiement pour réserver.",
+    "de": "Tagespreise in Euro nach Saison. Autos: kostenlose Abholung & Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro. Vathi, Platys Gialos und Faros auf Anfrage (Zustellgebühr bei Buchung bestätigt). Roller: nur Büro Apollonia. Keine Vorauszahlung zur Reservierung.",
+    "sv": "Dagspriser i euro per säsong. Bilar: kostnadsfri hämtning & återlämning vid Kamares hamn, heliport, Apollonia, Artemonas och Kastro. Vathi, Platys Gialos och Faros på begäran (leveransavgift bekräftas vid bokning). Scootrar: endast Apollonia-kontoret. Ingen förskottsbetalning för att reservera.",
+    "nl": "Dagprijzen in euro's per seizoen. Auto's: gratis ophalen & terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro. Vathi, Platys Gialos en Faros op aanvraag (bezorgkosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Geen vooruitbetaling om te reserveren."
+  },
+  "pickup": {
+    "carsFree": {
+      "en": "Complimentary pickup and return at Kamares port, the heliport, Apollonia, Artemonas, and Kastro.",
+      "el": "Δωρεάν παραλαβή και επιστροφή στο λιμάνι Καμαρών, το ελικοδρόμιο, την Απολλωνία, τον Αρτεμώνα και το Κάστρο.",
+      "it": "Ritiro e riconsegna gratuiti al porto di Kamares, eliporto, Apollonia, Artemonas e Kastro.",
+      "fr": "Prise en charge et retour gratuits au port de Kamares, héliport, Apollonia, Artemonas et Kastro.",
+      "de": "Kostenlose Abholung und Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro.",
+      "sv": "Kostnadsfri hämtning och återlämning vid Kamares hamn, heliport, Apollonia, Artemonas och Kastro.",
+      "nl": "Gratis ophalen en terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro."
+    },
+    "carsRequest": {
+      "en": "Vathi, Platys Gialos, and Faros are available on request, the team will confirm any delivery fee when you communicate your booking.",
+      "el": "Βαθύ, Πλατύς Γιαλός και Φάρος κατόπιν συνεννόησης, τυχόν κόστος παράδοσης επιβεβαιώνεται όταν επικοινωνήσετε για την κράτηση.",
+      "it": "Vathi, Platys Gialos e Faros sono disponibili su richiesta: il team conferma eventuali costi di consegna quando comunichi la prenotazione.",
+      "fr": "Vathi, Platys Gialos et Faros sont disponibles sur demande : l'équipe confirme tout frais de livraison lorsque vous communiquez votre réservation.",
+      "de": "Vathi, Platys Gialos und Faros sind auf Anfrage verfügbar: das Team bestätigt eine eventuelle Zustellgebühr, wenn Sie Ihre Buchung mitteilen.",
+      "sv": "Vathi, Platys Gialos och Faros finns på begäran: teamet bekräftar eventuell leveransavgift när du meddelar din bokning.",
+      "nl": "Vathi, Platys Gialos en Faros zijn op aanvraag beschikbaar: het team bevestigt eventuele bezorgkosten wanneer je je boeking doorgeeft."
+    },
+    "scooters": {
+      "en": "Scooters: pickup and return at the Apollonia office only.",
+      "el": "Scooter: παραλαβή και επιστροφή μόνο στο γραφείο Απολλωνίας.",
+      "it": "Scooter: ritiro e riconsegna solo presso l'ufficio di Apollonia.",
+      "fr": "Scooters : prise en charge et retour au bureau d'Apollonia uniquement.",
+      "de": "Roller: Abholung und Rückgabe nur im Büro Apollonia.",
+      "sv": "Scootrar: hämtning och återlämning endast vid Apollonia-kontoret.",
+      "nl": "Scooters: ophalen en terugbrengen alleen bij het kantoor in Apollonia."
+    }
   }
 }

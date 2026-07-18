@@ -1,4 +1,4 @@
-# Artemis Rental — full facts for AI systems
+# Artemis Rental, full facts for AI systems
 
 Business: Artemis Rental (also known as Artemis Auto Moto Rental / Auto Moto Apollo)
 Founded: 1988
@@ -6,12 +6,16 @@ Location: Apollonia, Sifnos 84003, Cyclades, Greece
 Coordinates: 36.9725097, 24.7239171
 Email: info@artemisrental.gr
 Phones: +30 22840 33333, +30 6977 337213
-Languages: English, Greek (French content deferred)
+Languages: English (en), Greek (el), Italian (it), French (fr), German (de), Swedish (sv), Dutch (nl)
 
 ## Booking
-Enquiries via website form, phone, WhatsApp, or email.
+Enquiries via multi-step website wizard (/book), phone, WhatsApp, or email.
+Wizard fields: vehicle, dates, name, email, phone, pickup location (Apollonia/Kamares),
+party size, child seat, arrival info, indicative estimated total.
 No prepayment required to reserve.
-Availability is confirmed personally — do not invent live inventory.
+Availability is confirmed personally, do not invent live inventory.
+Deep links: /{locale}/book?vehicle={slug}&from=YYYY-MM-DD&to=YYYY-MM-DD
+(locale = en|el|it|fr|de|sv|nl)
 
 ## Cars (indicative seasonal daily EUR rates: low / shoulder / mid / peak)
 Chevrolet Spark: 40 / 45 / 50 / 65
@@ -33,7 +37,47 @@ Season windows:
 - Peak: 11 Jul–10 Sep
 
 ## Scooters
-SYM Symphony 125 / 150 / 200, Fiddle 125, JET4 125 — ask for daily pricing.
+SYM Symphony 125 / 150 / 200, Fiddle 125, JET4 125, ask for daily pricing.
 
 ## Terms
 Age 23–75; licence held more than 1 year; Apollonia pickup default; Kamares on request.
+Basic TPL insurance as required by Greek law; excess/options explained at pickup.
+
+## Editorial content
+Full localized mirrors under /en/, /el/, /it/, /fr/, /de/, /sv/, /nl/ (same slugs).
+
+Blog slugs:
+- rent-a-car-sifnos-2026
+- sifnos-car-rental-prices
+- driving-in-sifnos
+- sifnos-beaches-by-car
+- kamares-port-arrival-guide
+- sifnos-vs-milos
+- sifnos-hiking-trails-by-car
+- 3-day-sifnos-itinerary
+- best-time-visit-sifnos
+- family-travel-sifnos
+- scooter-licence-rules-sifnos
+- apollonia-vs-kamares-stay
+
+Guide slugs:
+- overview
+- how-to-get-there
+- ferries
+- kamares-port
+- getting-around
+- beaches
+- apollonia-artemonas
+- where-to-stay
+- things-to-do
+- food-pottery
+- practical-tips
+
+Example EN paths (replace /en/ with any locale prefix above):
+- /en/blog/rent-a-car-sifnos-2026
+- /en/sifnos-guide/overview
+
+## Touristas AI
+On-site chatbot can check vehicle fit, estimate seasonal rates, recommend vehicles,
+prefill booking links, find guide/blog articles, and open the Discover Cyclades planner.
+Never invent live availability. Confirm by phone/WhatsApp/email.

@@ -1,21 +1,49 @@
 ---
 slug: kamares-port
 title: "Kamares port: arrival, beach, and pickup"
-description: "Everything about arriving at Kamares ferry port and getting to Apollonia — taxi, bus, or Artemis pickup."
-answer: "Kamares is Sifnos' main ferry port and a sandy beach bay. Apollonia is a short uphill drive inland. Artemis can arrange pickup or return in Kamares on request; default desk is Apollonia."
-dateModified: "2026-07-01"
+description: "Kamares Sifnos port guide, ferry arrival tips, beach, services, parking, and Artemis car pickup on request."
+answer: "Kamares is Sifnos’ ferry port and a full sandy bay with cafés, bakeries and rooms. Apollonia is a short drive uphill. Artemis can arrange car pickup at Kamares on request; scooters are collected in Apollonia."
+datePublished: "2026-07-01"
+dateModified: "2026-07-18"
+cover: "/images/sifnos/beaches/kamares.webp"
+author: "Artemis Rental"
+order: 4
+related:
+  - ferries
+  - how-to-get-there
+  - beaches
+  - getting-around
 ---
 
-## Ferry landing workflow
+![Kamares beach and port](/images/sifnos/beaches/kamares.webp "Kamares, port village and beach")
 
-1. Disembark at Kamares.
-2. If you arranged Artemis Kamares pickup, share your ferry name and ETA.
-3. Otherwise take a taxi/bus to Apollonia or collect keys at the Apollonia office.
+## First steps off the ferry
 
-## Same-day rental
+1. Clear the ramp with luggage
+2. Note return ferry boards / ticket offices for later
+3. Meet your Artemis contact if you booked **Kamares car pickup**, or take a taxi / bus toward Apollonia
+4. Optional: first swim on the bay if your hotel check-in is later
 
-Same-day hire after a morning ferry is common. Message your arrival time early so the team can stage a vehicle.
+## What Kamares offers
 
-## Beach note
+- Sandy beach with seasonal sunbeds
+- Tavernas, cafés, bakeries, mini-markets
+- Rooms and hotels steps from the port
+- Pottery workshops and hiking trailheads
+- Port authority / information touchpoints in season
 
-Kamares beach is convenient on arrival or departure days when you do not want a long drive.
+## Beach at the port
+
+Kamares is genuinely swimable. Not just a transit deck. Families often spend arrival or departure afternoons here so luggage stays simple.
+
+## Up to Apollonia
+
+The road climbs ~5–6 km to the capital. Night arrivals still feel straightforward in a car; on foot with heavy bags it does not. This is why so many visitors rent immediately.
+
+## Artemis pickup notes
+
+- **Cars:** Apollonia desk by default; **Kamares meeting** on request when your boat docks.
+- **Scooters:** Apollonia only.
+- Share ferry name / ETA on WhatsApp if running late.
+
+[Book a vehicle](/en/book) · [How to get here](/en/sifnos-guide/how-to-get-there)

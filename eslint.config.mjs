@@ -12,6 +12,11 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Build / deploy artifacts
+    ".open-next/**",
+    ".wrangler/**",
+    // Unrelated nested project (not part of Artemis app)
+    "**/villa-olivia-nextjs/**",
   ]),
 ]);
 

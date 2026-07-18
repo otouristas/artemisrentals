@@ -4,8 +4,13 @@
     "year": 2025,
     "avatar": "/images/misc/sam.png",
     "quote": {
-      "en": "Lovely family business. Beyond respectful — genuinely kind. The son helpfully pointed out all the blemishes already on the car and the parents were warm and sweet. Helped us out in a pinch with zero fuss. Will be coming again.",
-      "el": "Υπέροχη οικογενειακή επιχείρηση. Πέρα από ευγενικοί — πραγματικά καλόκαρδοι. Μας βοήθησαν χωρίς καθόλου ταλαιπωρία. Θα ξανάρθουμε."
+      "en": "Lovely family business. Beyond respectful, genuinely kind. The son helpfully pointed out all the blemishes already on the car and the parents were warm and sweet. Helped us out in a pinch with zero fuss. Will be coming again.",
+      "el": "Υπέροχη οικογενειακή επιχείρηση. Πέρα από ευγενικοί, πραγματικά καλόκαρδοι. Μας βοήθησαν χωρίς καθόλου ταλαιπωρία. Θα ξανάρθουμε.",
+      "it": "Bellissima attività a conduzione familiare. Oltre che rispettosi, davvero gentili. Il figlio ci ha indicato con cura tutti i segni già presenti sull'auto e i genitori erano calorosi e disponibili. Ci hanno aiutato in un momento di bisogno senza alcun problema. Torneremo.",
+      "fr": "Belle entreprise familiale. Plus que respectueux, vraiment gentils. Le fils a utilement signalé toutes les marques déjà présentes sur la voiture, et les parents étaient chaleureux et adorables. Ils nous ont dépannés sans aucune complication. Nous reviendrons.",
+      "de": "Wunderschöner Familienbetrieb. Mehr als respektvoll, wirklich herzlich. Der Sohn hat hilfreich auf alle bereits vorhandenen Kratzer am Auto hingewiesen, und die Eltern waren warm und liebenswürdig. Sie haben uns in einer Notlage ohne jedes Aufheben geholfen. Wir kommen wieder.",
+      "sv": "Härligt familjeföretag. Mer än respektfulla, genuint snälla. Sonen pekade hjälpsamt ut alla märken som redan fanns på bilen, och föräldrarna var varma och trevliga. Hjälpte oss i knipa utan något krångel. Vi kommer tillbaka.",
+      "nl": "Lief familiebedrijf. Meer dan respectvol, echt vriendelijk. De zoon wees behulpzaam alle al aanwezige krasjes op de auto aan, en de ouders waren warm en aardig. Hielpen ons in nood zonder enig gedoe. We komen zeker terug."
     }
   },
   {
@@ -14,7 +19,12 @@
     "avatar": "/images/misc/panajota.png",
     "quote": {
       "en": "Friendly owners, willing to provide any information about the island when asked, with safe and reliable cars and scooters.",
-      "el": "Φιλικοί ιδιοκτήτες, πρόθυμοι να δώσουν πληροφορίες για το νησί, με ασφαλή και αξιόπιστα αυτοκίνητα και scooter."
+      "el": "Φιλικοί ιδιοκτήτες, πρόθυμοι να δώσουν πληροφορίες για το νησί, με ασφαλή και αξιόπιστα αυτοκίνητα και scooter.",
+      "it": "Proprietari cordiali, pronti a dare qualsiasi informazione sull'isola se richiesti, con auto e scooter sicuri e affidabili.",
+      "fr": "Propriétaires accueillants, prêts à donner toute information sur l'île quand on le demande, avec des voitures et scooters sûrs et fiables.",
+      "de": "Freundliche Inhaber, gerne bereit jede Information über die Insel zu geben wenn man fragt, mit sicheren und zuverlässigen Autos und Rollern.",
+      "sv": "Vänliga ägare, villiga att ge all information om ön när man frågar, med säkra och pålitliga bilar och scootrar.",
+      "nl": "Vriendelijke eigenaren, bereid om alle informatie over het eiland te geven als je ernaar vraagt, met veilige en betrouwbare auto's en scooters."
     }
   },
   {
@@ -23,7 +33,12 @@
     "avatar": "/images/misc/daniel.png",
     "quote": {
       "en": "We rented a scooter and everything was quick and hassle-free. We extended our stay spontaneously and kept the scooter another day with one short call. Return was equally smooth.",
-      "el": "Νοικιάσαμε scooter και όλα έγιναν γρήγορα και απλά. Παρατείναμε τη διαμονή μας με ένα σύντομο τηλεφώνημα. Η επιστροφή ήταν εξίσου ομαλή."
+      "el": "Νοικιάσαμε scooter και όλα έγιναν γρήγορα και απλά. Παρατείναμε τη διαμονή μας με ένα σύντομο τηλεφώνημα. Η επιστροφή ήταν εξίσου ομαλή.",
+      "it": "Abbiamo noleggiato uno scooter e tutto è stato rapido e senza complicazioni. Abbiamo prolungato il soggiorno all'improvviso e tenuto lo scooter un altro giorno con una breve telefonata. La riconsegna è stata altrettanto semplice.",
+      "fr": "Nous avons loué un scooter et tout a été rapide et sans souci. Nous avons prolongé notre séjour spontanément et gardé le scooter un jour de plus avec un court appel. Le retour a été tout aussi fluide.",
+      "de": "Wir haben einen Roller gemietet und alles war schnell und unkompliziert. Wir haben unseren Aufenthalt spontan verlängert und den Roller mit einem kurzen Anruf einen weiteren Tag behalten. Die Rückgabe war ebenso reibungslos.",
+      "sv": "Vi hyrde en scooter och allt gick snabbt och problemfritt. Vi förlängde vistelsen spontant och behöll scootern en dag till med ett kort samtal. Återlämningen var lika smidig.",
+      "nl": "We huurden een scooter en alles ging snel en zonder gedoe. We verlengden ons verblijf spontaan en hielden de scooter nog een dag met één kort telefoontje. Terugbrengen was even soepel."
     }
   },
   {
@@ -32,7 +47,12 @@
     "avatar": "/images/misc/gudron.png",
     "quote": {
       "en": "As a family-run business in Apollonia they were incredibly kind. They helped us choose the perfect scooter, explained everything, and swapped it without hassle when we needed a different fit.",
-      "el": "Ως οικογενειακή επιχείρηση στην Απολλωνία ήταν απίστευτα ευγενικοί. Μας βοήθησαν να διαλέξουμε το ιδανικό scooter και το άλλαξαν χωρίς πρόβλημα όταν χρειάστηκε."
+      "el": "Ως οικογενειακή επιχείρηση στην Απολλωνία ήταν απίστευτα ευγενικοί. Μας βοήθησαν να διαλέξουμε το ιδανικό scooter και το άλλαξαν χωρίς πρόβλημα όταν χρειάστηκε.",
+      "it": "Come attività a conduzione familiare ad Apollonia sono stati incredibilmente gentili. Ci hanno aiutato a scegliere lo scooter perfetto, ci hanno spiegato tutto e lo hanno cambiato senza problemi quando ci serviva un modello diverso.",
+      "fr": "En tant qu'entreprise familiale à Apollonia, ils ont été incroyablement gentils. Ils nous ont aidés à choisir le scooter parfait, ont tout expliqué et l'ont échangé sans souci lorsque nous avions besoin d'un autre modèle.",
+      "de": "Als Familienbetrieb in Apollonia waren sie unglaublich freundlich. Sie halfen uns, den perfekten Roller zu wählen, erklärten alles und tauschten ihn ohne Umstände, als wir ein anderes Modell brauchten.",
+      "sv": "Som familjeföretag i Apollonia var de otroligt snälla. De hjälpte oss välja den perfekta scootern, förklarade allt och bytte den utan krångel när vi behövde en annan modell.",
+      "nl": "Als familiebedrijf in Apollonia waren ze ongelooflijk vriendelijk. Ze hielpen ons de perfecte scooter te kiezen, legden alles uit en wisselden hem zonder gedoe toen we een ander model nodig hadden."
     }
   },
   {
@@ -41,7 +61,12 @@
     "avatar": "/images/misc/annick.png",
     "quote": {
       "en": "We rented a car on a busy weekend after refusals elsewhere. In 10 minutes we were driving a well-kept car, with kind advice on island driving customs. Simple, fast, fair price.",
-      "el": "Νοικιάσαμε αυτοκίνητο ένα πολυσύχναστο Σαββατοκύριακο μετά από αρνήσεις αλλού. Σε 10 λεπτά οδηγούσαμε ένα καλοσυντηρημένο αυτοκίνητο, με φιλικές συμβουλές. Απλά, γρήγορα, δίκαιη τιμή."
+      "el": "Νοικιάσαμε αυτοκίνητο ένα πολυσύχναστο Σαββατοκύριακο μετά από αρνήσεις αλλού. Σε 10 λεπτά οδηγούσαμε ένα καλοσυντηρημένο αυτοκίνητο, με φιλικές συμβουλές. Απλά, γρήγορα, δίκαιη τιμή.",
+      "it": "Abbiamo noleggiato un'auto in un weekend di punta dopo rifiuti altrove. In 10 minuti guidavamo un'auto ben tenuta, con consigli gentili sulle abitudini di guida sull'isola. Semplice, veloce, prezzo equo.",
+      "fr": "Nous avons loué une voiture un week-end chargé après des refus ailleurs. En 10 minutes, nous conduisions une voiture bien entretenue, avec de bons conseils sur les habitudes de conduite sur l'île. Simple, rapide, prix juste.",
+      "de": "Wir haben an einem vollen Wochenende ein Auto gemietet, nachdem wir anderswo Absagen bekommen hatten. In 10 Minuten fuhren wir ein gut gepflegtes Auto, mit freundlichen Tipps zu den Fahrgewohnheiten auf der Insel. Einfach, schnell, fairer Preis.",
+      "sv": "Vi hyrde en bil en hektisk helg efter avslag på andra ställen. På 10 minuter körde vi en välskött bil, med snälla råd om körvanor på ön. Enkelt, snabbt, rättvist pris.",
+      "nl": "We huurden een auto in een druk weekend na weigeringen elders. Binnen 10 minuten reden we in een goed onderhouden auto, met vriendelijke tips over rijgewoonten op het eiland. Eenvoudig, snel, eerlijke prijs."
     }
   },
   {
@@ -50,7 +75,12 @@
     "avatar": "/images/misc/nick.png",
     "quote": {
       "en": "Great experience renting a car. The team were incredibly helpful and picked us up from the port despite ferry delays. Highly recommend Artemis for exploring Sifnos.",
-      "el": "Εξαιρετική εμπειρία. Η ομάδα ήταν πολύ βοηθητική και μας παρέλαβε από το λιμάνι παρά τις καθυστερήσεις του ferry. Τους συστήνω ανεπιφύλακτα."
+      "el": "Εξαιρετική εμπειρία. Η ομάδα ήταν πολύ βοηθητική και μας παρέλαβε από το λιμάνι παρά τις καθυστερήσεις του ferry. Τους συστήνω ανεπιφύλακτα.",
+      "it": "Ottima esperienza di noleggio auto. Il team è stato incredibilmente disponibile e ci ha ritirati al porto nonostante i ritardi del traghetto. Consiglio vivamente Artemis per esplorare Sifnos.",
+      "fr": "Excellente expérience de location de voiture. L'équipe a été d'une aide précieuse et nous a récupérés au port malgré les retards du ferry. Je recommande vivement Artemis pour explorer Sifnos.",
+      "de": "Tolle Erfahrung beim Autoverleih. Das Team war unglaublich hilfsbereit und hat uns trotz Fährenverspätung vom Hafen abgeholt. Artemis für die Erkundung von Sifnos absolut empfehlenswert.",
+      "sv": "Fantastisk upplevelse att hyra bil. Teamet var otroligt hjälpsamma och hämtade oss i hamnen trots färjeförseningar. Rekommenderar starkt Artemis för att utforska Sifnos.",
+      "nl": "Geweldige ervaring met het huren van een auto. Het team was ongelooflijk behulpzaam en haalde ons op bij de haven ondanks ferryvertragingen. Artemis van harte aanbevolen om Sifnos te verkennen."
     }
   }
 ]

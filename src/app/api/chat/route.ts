@@ -1,76 +1,57 @@
-import { streamText, UIMessage, convertToModelMessages, tool, stepCountIs } from "ai";
-import { createOpenAI } from "@ai-sdk/openai";
-import { z } from "zod";
-import { buildArtemisSystemPrompt, toolHelpers } from "@/lib/ai-context";
-import { tripPlannerUrl } from "@/lib/site";
+import { answerTouristasLocal, type ChatDraft } from "@/lib/touristas-local";
+import { asLocale } from "@/lib/i18n-locale";
 
-export const maxDuration = 60;
+export const maxDuration = 30;
 
-const openai = createOpenAI({
-  apiKey: process.env.AI_GATEWAY_API_KEY ?? process.env.OPENAI_API_KEY,
-  baseURL: process.env.AI_GATEWAY_API_KEY
-    ? "https://ai-gateway.vercel.sh/v1"
-    : undefined,
-});
+type IncomingMessage = {
+  role?: string;
+  parts?: Array<{ type?: string; text?: string }>;
+  content?: string;
+};
 
+function lastUserText(messages: IncomingMessage[] | undefined): string {
+  if (!Array.isArray(messages)) return "";
+  for (let i = messages.length - 1; i >= 0; i -= 1) {
+    const m = messages[i];
+    if (m.role !== "user") continue;
+    if (typeof m.content === "string" && m.content.trim()) return m.content.trim();
+    if (Array.isArray(m.parts)) {
+      const text = m.parts
+        .filter((p) => p.type === "text" && typeof p.text === "string")
+        .map((p) => p.text!)
+        .join("")
+        .trim();
+      if (text) return text;
+    }
+  }
+  return "";
+}
+
+function asDraft(value: unknown): ChatDraft {
+  if (!value || typeof value !== "object") return {};
+  return value as ChatDraft;
+}
+
+/**
+ * Local Touristas only: answers from Artemis fleet, rates, FAQs and guide content.
+ * Keeps a booking draft across turns for conversational enquiries.
+ */
 export async function POST(req: Request) {
-  if (!process.env.AI_GATEWAY_API_KEY && !process.env.OPENAI_API_KEY) {
-    return Response.json(
-      {
-        error:
-          "AI is not configured. Set AI_GATEWAY_API_KEY or OPENAI_API_KEY. Meanwhile call +30 22840 33333 or use the booking form.",
-      },
-      { status: 503 },
-    );
+  const body = (await req.json()) as {
+    messages?: IncomingMessage[];
+    message?: string;
+    locale?: string;
+    draft?: ChatDraft;
+  };
+  const locale = asLocale(body.locale);
+  const text =
+    (typeof body.message === "string" && body.message.trim()) ||
+    lastUserText(body.messages);
+
+  if (!text) {
+    return Response.json({ error: "Empty message" }, { status: 400 });
   }
 
-  const body = (await req.json()) as { messages: UIMessage[]; locale?: string };
-  const helpers = toolHelpers();
-
-  const result = streamText({
-    model: openai(process.env.AI_MODEL ?? "gpt-4o-mini"),
-    system: buildArtemisSystemPrompt(),
-    messages: await convertToModelMessages(body.messages),
-    stopWhen: stepCountIs(3),
-    tools: {
-      checkVehicleFit: tool({
-        description: "Look up an Artemis vehicle by slug",
-        inputSchema: z.object({ slug: z.string() }),
-        execute: async ({ slug }) => helpers.checkVehicleFit(slug),
-      }),
-      estimateSeasonRate: tool({
-        description: "Estimate indicative daily car rate for a date using seasonal matrix",
-        inputSchema: z.object({
-          rateKey: z.string(),
-          isoDate: z.string(),
-        }),
-        execute: async ({ rateKey, isoDate }) =>
-          helpers.estimateSeasonRate(rateKey, isoDate),
-      }),
-      startBooking: tool({
-        description: "Return a booking form deep link with optional vehicle slug",
-        inputSchema: z.object({
-          vehicleSlug: z.string().optional(),
-          locale: z.enum(["en", "el"]).optional(),
-        }),
-        execute: async ({ vehicleSlug, locale }) => {
-          const loc = locale ?? "en";
-          const q = vehicleSlug ? `?vehicle=${encodeURIComponent(vehicleSlug)}` : "";
-          return { url: `/${loc}/book${q}` };
-        },
-      }),
-      openTripPlanner: tool({
-        description: "Open Discover Cyclades Touristas AI full trip planner",
-        inputSchema: z.object({
-          locale: z.enum(["en", "el"]).optional(),
-          prompt: z.string().optional(),
-        }),
-        execute: async ({ locale, prompt }) => ({
-          url: tripPlannerUrl(locale ?? "en", prompt),
-        }),
-      }),
-    },
-  });
-
-  return result.toUIMessageStreamResponse();
+  const reply = answerTouristasLocal(text, locale, asDraft(body.draft));
+  return Response.json(reply);
 }

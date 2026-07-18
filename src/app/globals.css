@@ -11,6 +11,8 @@
   --mist: rgba(247, 244, 239, 0.72);
   --background: var(--salt);
   --foreground: var(--aegean-ink);
+  --section-y: clamp(3.5rem, 6vw, 6rem);
+  --container: 72rem;
 }
 
 @theme inline {
@@ -23,8 +25,8 @@
   --color-olive: var(--olive);
   --color-sun: var(--sun);
   --color-foam: var(--foam);
-  --font-sans: var(--font-figtree);
-  --font-display: var(--font-fraunces);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-inter);
 }
 
 @layer base {
@@ -38,7 +40,7 @@
       radial-gradient(900px 500px at 100% 0%, rgba(18, 58, 82, 0.1), transparent 50%),
       linear-gradient(180deg, #fbf9f5 0%, var(--salt) 40%, #efe9df 100%);
     color: var(--foreground);
-    font-family: var(--font-figtree), system-ui, sans-serif;
+    font-family: var(--font-inter), system-ui, sans-serif;
   }
 
   ::selection {
@@ -48,17 +50,236 @@
 
 @layer utilities {
   .font-display {
-    font-family: var(--font-fraunces), Georgia, serif;
+    font-family: var(--font-inter), system-ui, sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
   }
 
   .text-balance {
     text-wrap: balance;
   }
 
+  .text-display {
+    font-family: var(--font-inter), system-ui, sans-serif;
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+  }
+
+  .text-title {
+    font-family: var(--font-inter), system-ui, sans-serif;
+    font-size: clamp(1.875rem, 3.2vw, 3rem);
+    font-weight: 650;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  .text-lead {
+    font-size: clamp(1.05rem, 1.6vw, 1.25rem);
+    line-height: 1.6;
+  }
+
+  .container-site {
+    width: 100%;
+    max-width: var(--container);
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  @media (min-width: 768px) {
+    .container-site {
+      padding-inline: 1.5rem;
+    }
+  }
+
+  .section {
+    padding-block: var(--section-y);
+  }
+
+  .section-tight {
+    padding-block: clamp(2.5rem, 4vw, 4rem);
+  }
+
+  .texture-grain {
+    position: relative;
+  }
+
+  .texture-grain::after {
+    content: "";
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+    opacity: 0.045;
+    mix-blend-mode: multiply;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .card-premium {
+    background: color-mix(in oklab, var(--foam) 82%, white);
+    border-radius: 1.25rem;
+    box-shadow: 0 12px 40px rgba(11, 42, 60, 0.07);
+    ring: 1px solid color-mix(in oklab, var(--aegean-ink) 8%, transparent);
+    outline: 1px solid color-mix(in oklab, var(--aegean-ink) 8%, transparent);
+    transition:
+      transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+      box-shadow 0.35s ease;
+  }
+
+  .card-premium:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 18px 48px rgba(11, 42, 60, 0.12);
+  }
+
+  .link-underline {
+    text-decoration: underline;
+    text-decoration-color: color-mix(in oklab, var(--sun) 55%, transparent);
+    text-underline-offset: 0.2em;
+    transition: text-decoration-color 0.2s ease;
+  }
+
+  .link-underline:hover {
+    text-decoration-color: var(--sun);
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    background: var(--aegean-ink);
+    color: var(--foam);
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: background 0.2s ease, filter 0.2s ease;
+  }
+
+  .btn-primary:hover {
+    background: var(--aegean-deep);
+  }
+
+  .btn-accent {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    background: var(--sun);
+    color: var(--aegean-ink);
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    transition: filter 0.2s ease;
+  }
+
+  .btn-accent:hover {
+    filter: brightness(1.05);
+  }
+
+  .btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    border: 1px solid color-mix(in oklab, var(--foam) 40%, transparent);
+    background: color-mix(in oklab, var(--foam) 10%, transparent);
+    color: var(--foam);
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    backdrop-filter: blur(8px);
+    transition: background 0.2s ease;
+  }
+
+  .btn-ghost:hover {
+    background: color-mix(in oklab, var(--foam) 20%, transparent);
+  }
+
+  .glass-nav {
+    background: color-mix(in oklab, var(--aegean-ink) 72%, transparent);
+    backdrop-filter: blur(14px) saturate(1.2);
+    -webkit-backdrop-filter: blur(14px) saturate(1.2);
+  }
+
+  /* iOS-style liquid glass dock (sticky request CTA) */
+  .glass-dock {
+    border-radius: 9999px;
+    background:
+      linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.72) 0%,
+        rgba(255, 255, 255, 0.48) 100%
+      );
+    backdrop-filter: blur(28px) saturate(1.85);
+    -webkit-backdrop-filter: blur(28px) saturate(1.85);
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow:
+      0 10px 40px rgba(11, 42, 60, 0.16),
+      0 1px 0 rgba(255, 255, 255, 0.85) inset,
+      0 -1px 0 rgba(11, 42, 60, 0.06) inset;
+  }
+
+  .touristas-glass-btn {
+    background:
+      linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.78) 0%,
+        rgba(232, 241, 236, 0.55) 100%
+      );
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.9) inset,
+      0 4px 14px rgba(11, 42, 60, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(16px) saturate(1.6);
+    -webkit-backdrop-filter: blur(16px) saturate(1.6);
+    transition: transform 0.2s ease, background 0.2s ease;
+  }
+
+  .touristas-glass-btn:hover {
+    transform: translateY(-1px);
+    background:
+      linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.9) 0%,
+        rgba(232, 241, 236, 0.7) 100%
+      );
+  }
+
+  .touristas-glass-btn:active {
+    transform: translateY(0);
+  }
+
+  .cookie-glass {
+    background:
+      linear-gradient(
+        165deg,
+        rgba(255, 255, 255, 0.88) 0%,
+        rgba(248, 244, 236, 0.78) 100%
+      );
+    backdrop-filter: blur(28px) saturate(1.7);
+    -webkit-backdrop-filter: blur(28px) saturate(1.7);
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.9) inset,
+      0 16px 48px rgba(11, 42, 60, 0.18);
+  }
+
   .hero-scrim {
     background:
       linear-gradient(90deg, rgba(11, 42, 60, 0.78) 0%, rgba(11, 42, 60, 0.45) 45%, rgba(11, 42, 60, 0.2) 100%),
       linear-gradient(180deg, rgba(11, 42, 60, 0.15) 0%, rgba(11, 42, 60, 0.55) 100%);
+  }
+
+  .page-hero {
+    padding-top: 7rem;
+    padding-bottom: 2.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .page-hero {
+      padding-top: 8rem;
+      padding-bottom: 3rem;
+    }
   }
 
   .animate-rise {
@@ -83,23 +304,30 @@
   .stagger-children > *:nth-child(4) { animation-delay: 0.26s; }
   .stagger-children > *:nth-child(5) { animation-delay: 0.33s; }
   .stagger-children > *:nth-child(6) { animation-delay: 0.4s; }
+  .stagger-children > *:nth-child(7) { animation-delay: 0.47s; }
+  .stagger-children > *:nth-child(8) { animation-delay: 0.54s; }
+  .stagger-children > *:nth-child(9) { animation-delay: 0.61s; }
 
   .prose-artemis {
-    max-width: 42rem;
+    max-width: 46rem;
     line-height: 1.75;
   }
 
   .prose-artemis h2 {
-    font-family: var(--font-fraunces), Georgia, serif;
+    font-family: var(--font-inter), system-ui, sans-serif;
     font-size: 1.75rem;
+    font-weight: 650;
     margin: 2rem 0 0.75rem;
     color: var(--aegean-ink);
+    scroll-margin-top: 6rem;
   }
 
   .prose-artemis h3 {
-    font-family: var(--font-fraunces), Georgia, serif;
+    font-family: var(--font-inter), system-ui, sans-serif;
     font-size: 1.25rem;
+    font-weight: 600;
     margin: 1.5rem 0 0.5rem;
+    scroll-margin-top: 6rem;
   }
 
   .prose-artemis p,
@@ -113,10 +341,65 @@
     list-style: disc;
   }
 
+  .prose-artemis ol {
+    padding-left: 1.2rem;
+    list-style: decimal;
+  }
+
   .prose-artemis a {
     color: var(--aegean-deep);
     text-decoration: underline;
     text-underline-offset: 3px;
+  }
+
+  .prose-artemis figure {
+    margin: 1.75rem 0;
+  }
+
+  .prose-artemis figcaption {
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    color: color-mix(in oklab, var(--aegean-ink) 60%, transparent);
+  }
+
+  .prose-artemis img {
+    border-radius: 1rem;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    background: color-mix(in oklab, var(--limestone) 70%, white);
+  }
+
+  .prose-artemis .table-wrap {
+    margin: 1.5rem 0;
+    overflow-x: auto;
+    border-radius: 1rem;
+    outline: 1px solid color-mix(in oklab, var(--aegean-ink) 10%, transparent);
+  }
+
+  .prose-artemis table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+
+  .prose-artemis th,
+  .prose-artemis td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid color-mix(in oklab, var(--aegean-ink) 10%, transparent);
+  }
+
+  .prose-artemis th {
+    background: color-mix(in oklab, var(--limestone) 65%, white);
+    font-weight: 600;
+    color: var(--aegean-ink);
+  }
+
+  .prose-artemis tbody tr:last-child td {
+    border-bottom: 0;
   }
 }
 
@@ -185,6 +468,17 @@
   }
 }
 
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .animate-dock {
   animation: dock-in 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
@@ -195,6 +489,14 @@
 
 .animate-message-in {
   animation: message-in 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.reveal-ready {
+  opacity: 0;
+}
+
+.reveal-in {
+  animation: reveal-up 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 .touristas-beacon {
@@ -216,7 +518,18 @@
   --rdp-accent-background-color: color-mix(in oklab, var(--sun) 35%, white);
   --rdp-range_middle-background-color: color-mix(in oklab, var(--sun) 18%, white);
   --rdp-today-color: var(--sun);
-  font-family: var(--font-figtree), system-ui, sans-serif;
+  font-family: var(--font-inter), system-ui, sans-serif;
+  color: var(--aegean-ink);
+}
+
+/* Solid, single-hue calendar for fleet booking panels (no sun wash / transparency). */
+.fleet-daypicker .rdp-root {
+  --rdp-accent-color: var(--foam);
+  --rdp-accent-background-color: var(--aegean-ink);
+  --rdp-range_middle-background-color: #d9e3ea;
+  --rdp-range_middle-color: var(--aegean-ink);
+  --rdp-today-color: var(--aegean-ink);
+  font-family: var(--font-inter), system-ui, sans-serif;
   color: var(--aegean-ink);
 }
 
@@ -229,7 +542,16 @@
   .animate-menu,
   .animate-message-in,
   .touristas-beacon,
-  .typing-dot {
+  .typing-dot,
+  .reveal-in,
+  .card-premium {
     animation: none !important;
+    transition: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  .reveal-ready {
+    opacity: 1;
   }
 }

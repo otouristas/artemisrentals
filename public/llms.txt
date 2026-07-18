@@ -8,6 +8,7 @@
 - Mobile / WhatsApp: +30 6977 337213
 - Address: Apollonia, Sifnos 84003, Cyclades, Greece
 - Geo: 36.9725097, 24.7239171
+- Languages: English (en), Greek (el), Italian (it), French (fr), German (de), Swedish (sv), Dutch (nl)
 
 ## Services
 - Car rental (manual and automatic)
@@ -16,7 +17,7 @@
 - No prepayment required to enquire
 - Drivers aged 23–75 with licence held > 1 year
 
-## Key pages
+## Key pages (en)
 - https://artemisrental.gr/en
 - https://artemisrental.gr/en/cars
 - https://artemisrental.gr/en/scooters
@@ -25,9 +26,272 @@
 - https://artemisrental.gr/en/sifnos-guide
 - https://artemisrental.gr/en/blog
 - https://artemisrental.gr/en/faq
+- https://artemisrental.gr/en/about
+- https://artemisrental.gr/en/terms
+
+## Blog (en)
+- https://artemisrental.gr/en/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/en/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/en/blog/best-time-visit-sifnos
+- https://artemisrental.gr/en/blog/driving-in-sifnos
+- https://artemisrental.gr/en/blog/family-travel-sifnos
+- https://artemisrental.gr/en/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/en/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/en/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/en/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/en/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/en/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/en/blog/sifnos-vs-milos
+
+## Sifnos Guide (en)
+- https://artemisrental.gr/en/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/en/sifnos-guide/beaches
+- https://artemisrental.gr/en/sifnos-guide/ferries
+- https://artemisrental.gr/en/sifnos-guide/food-pottery
+- https://artemisrental.gr/en/sifnos-guide/getting-around
+- https://artemisrental.gr/en/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/en/sifnos-guide/kamares-port
+- https://artemisrental.gr/en/sifnos-guide/overview
+- https://artemisrental.gr/en/sifnos-guide/practical-tips
+- https://artemisrental.gr/en/sifnos-guide/things-to-do
+- https://artemisrental.gr/en/sifnos-guide/where-to-stay
+
+## Key pages (el)
+- https://artemisrental.gr/el
+- https://artemisrental.gr/el/cars
+- https://artemisrental.gr/el/scooters
+- https://artemisrental.gr/el/rates
+- https://artemisrental.gr/el/book
+- https://artemisrental.gr/el/sifnos-guide
+- https://artemisrental.gr/el/blog
+- https://artemisrental.gr/el/faq
+- https://artemisrental.gr/el/about
+- https://artemisrental.gr/el/terms
+
+## Blog (el)
+- https://artemisrental.gr/el/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/el/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/el/blog/best-time-visit-sifnos
+- https://artemisrental.gr/el/blog/driving-in-sifnos
+- https://artemisrental.gr/el/blog/family-travel-sifnos
+- https://artemisrental.gr/el/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/el/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/el/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/el/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/el/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/el/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/el/blog/sifnos-vs-milos
+
+## Sifnos Guide (el)
+- https://artemisrental.gr/el/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/el/sifnos-guide/beaches
+- https://artemisrental.gr/el/sifnos-guide/ferries
+- https://artemisrental.gr/el/sifnos-guide/food-pottery
+- https://artemisrental.gr/el/sifnos-guide/getting-around
+- https://artemisrental.gr/el/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/el/sifnos-guide/kamares-port
+- https://artemisrental.gr/el/sifnos-guide/overview
+- https://artemisrental.gr/el/sifnos-guide/practical-tips
+- https://artemisrental.gr/el/sifnos-guide/things-to-do
+- https://artemisrental.gr/el/sifnos-guide/where-to-stay
+
+## Key pages (it)
+- https://artemisrental.gr/it
+- https://artemisrental.gr/it/cars
+- https://artemisrental.gr/it/scooters
+- https://artemisrental.gr/it/rates
+- https://artemisrental.gr/it/book
+- https://artemisrental.gr/it/sifnos-guide
+- https://artemisrental.gr/it/blog
+- https://artemisrental.gr/it/faq
+- https://artemisrental.gr/it/about
+- https://artemisrental.gr/it/terms
+
+## Blog (it)
+- https://artemisrental.gr/it/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/it/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/it/blog/best-time-visit-sifnos
+- https://artemisrental.gr/it/blog/driving-in-sifnos
+- https://artemisrental.gr/it/blog/family-travel-sifnos
+- https://artemisrental.gr/it/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/it/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/it/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/it/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/it/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/it/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/it/blog/sifnos-vs-milos
+
+## Sifnos Guide (it)
+- https://artemisrental.gr/it/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/it/sifnos-guide/beaches
+- https://artemisrental.gr/it/sifnos-guide/ferries
+- https://artemisrental.gr/it/sifnos-guide/food-pottery
+- https://artemisrental.gr/it/sifnos-guide/getting-around
+- https://artemisrental.gr/it/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/it/sifnos-guide/kamares-port
+- https://artemisrental.gr/it/sifnos-guide/overview
+- https://artemisrental.gr/it/sifnos-guide/practical-tips
+- https://artemisrental.gr/it/sifnos-guide/things-to-do
+- https://artemisrental.gr/it/sifnos-guide/where-to-stay
+
+## Key pages (fr)
+- https://artemisrental.gr/fr
+- https://artemisrental.gr/fr/cars
+- https://artemisrental.gr/fr/scooters
+- https://artemisrental.gr/fr/rates
+- https://artemisrental.gr/fr/book
+- https://artemisrental.gr/fr/sifnos-guide
+- https://artemisrental.gr/fr/blog
+- https://artemisrental.gr/fr/faq
+- https://artemisrental.gr/fr/about
+- https://artemisrental.gr/fr/terms
+
+## Blog (fr)
+- https://artemisrental.gr/fr/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/fr/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/fr/blog/best-time-visit-sifnos
+- https://artemisrental.gr/fr/blog/driving-in-sifnos
+- https://artemisrental.gr/fr/blog/family-travel-sifnos
+- https://artemisrental.gr/fr/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/fr/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/fr/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/fr/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/fr/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/fr/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/fr/blog/sifnos-vs-milos
+
+## Sifnos Guide (fr)
+- https://artemisrental.gr/fr/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/fr/sifnos-guide/beaches
+- https://artemisrental.gr/fr/sifnos-guide/ferries
+- https://artemisrental.gr/fr/sifnos-guide/food-pottery
+- https://artemisrental.gr/fr/sifnos-guide/getting-around
+- https://artemisrental.gr/fr/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/fr/sifnos-guide/kamares-port
+- https://artemisrental.gr/fr/sifnos-guide/overview
+- https://artemisrental.gr/fr/sifnos-guide/practical-tips
+- https://artemisrental.gr/fr/sifnos-guide/things-to-do
+- https://artemisrental.gr/fr/sifnos-guide/where-to-stay
+
+## Key pages (de)
+- https://artemisrental.gr/de
+- https://artemisrental.gr/de/cars
+- https://artemisrental.gr/de/scooters
+- https://artemisrental.gr/de/rates
+- https://artemisrental.gr/de/book
+- https://artemisrental.gr/de/sifnos-guide
+- https://artemisrental.gr/de/blog
+- https://artemisrental.gr/de/faq
+- https://artemisrental.gr/de/about
+- https://artemisrental.gr/de/terms
+
+## Blog (de)
+- https://artemisrental.gr/de/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/de/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/de/blog/best-time-visit-sifnos
+- https://artemisrental.gr/de/blog/driving-in-sifnos
+- https://artemisrental.gr/de/blog/family-travel-sifnos
+- https://artemisrental.gr/de/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/de/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/de/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/de/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/de/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/de/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/de/blog/sifnos-vs-milos
+
+## Sifnos Guide (de)
+- https://artemisrental.gr/de/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/de/sifnos-guide/beaches
+- https://artemisrental.gr/de/sifnos-guide/ferries
+- https://artemisrental.gr/de/sifnos-guide/food-pottery
+- https://artemisrental.gr/de/sifnos-guide/getting-around
+- https://artemisrental.gr/de/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/de/sifnos-guide/kamares-port
+- https://artemisrental.gr/de/sifnos-guide/overview
+- https://artemisrental.gr/de/sifnos-guide/practical-tips
+- https://artemisrental.gr/de/sifnos-guide/things-to-do
+- https://artemisrental.gr/de/sifnos-guide/where-to-stay
+
+## Key pages (sv)
+- https://artemisrental.gr/sv
+- https://artemisrental.gr/sv/cars
+- https://artemisrental.gr/sv/scooters
+- https://artemisrental.gr/sv/rates
+- https://artemisrental.gr/sv/book
+- https://artemisrental.gr/sv/sifnos-guide
+- https://artemisrental.gr/sv/blog
+- https://artemisrental.gr/sv/faq
+- https://artemisrental.gr/sv/about
+- https://artemisrental.gr/sv/terms
+
+## Blog (sv)
+- https://artemisrental.gr/sv/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/sv/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/sv/blog/best-time-visit-sifnos
+- https://artemisrental.gr/sv/blog/driving-in-sifnos
+- https://artemisrental.gr/sv/blog/family-travel-sifnos
+- https://artemisrental.gr/sv/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/sv/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/sv/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/sv/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/sv/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/sv/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/sv/blog/sifnos-vs-milos
+
+## Sifnos Guide (sv)
+- https://artemisrental.gr/sv/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/sv/sifnos-guide/beaches
+- https://artemisrental.gr/sv/sifnos-guide/ferries
+- https://artemisrental.gr/sv/sifnos-guide/food-pottery
+- https://artemisrental.gr/sv/sifnos-guide/getting-around
+- https://artemisrental.gr/sv/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/sv/sifnos-guide/kamares-port
+- https://artemisrental.gr/sv/sifnos-guide/overview
+- https://artemisrental.gr/sv/sifnos-guide/practical-tips
+- https://artemisrental.gr/sv/sifnos-guide/things-to-do
+- https://artemisrental.gr/sv/sifnos-guide/where-to-stay
+
+## Key pages (nl)
+- https://artemisrental.gr/nl
+- https://artemisrental.gr/nl/cars
+- https://artemisrental.gr/nl/scooters
+- https://artemisrental.gr/nl/rates
+- https://artemisrental.gr/nl/book
+- https://artemisrental.gr/nl/sifnos-guide
+- https://artemisrental.gr/nl/blog
+- https://artemisrental.gr/nl/faq
+- https://artemisrental.gr/nl/about
+- https://artemisrental.gr/nl/terms
+
+## Blog (nl)
+- https://artemisrental.gr/nl/blog/3-day-sifnos-itinerary
+- https://artemisrental.gr/nl/blog/apollonia-vs-kamares-stay
+- https://artemisrental.gr/nl/blog/best-time-visit-sifnos
+- https://artemisrental.gr/nl/blog/driving-in-sifnos
+- https://artemisrental.gr/nl/blog/family-travel-sifnos
+- https://artemisrental.gr/nl/blog/kamares-port-arrival-guide
+- https://artemisrental.gr/nl/blog/rent-a-car-sifnos-2026
+- https://artemisrental.gr/nl/blog/scooter-licence-rules-sifnos
+- https://artemisrental.gr/nl/blog/sifnos-beaches-by-car
+- https://artemisrental.gr/nl/blog/sifnos-car-rental-prices
+- https://artemisrental.gr/nl/blog/sifnos-hiking-trails-by-car
+- https://artemisrental.gr/nl/blog/sifnos-vs-milos
+
+## Sifnos Guide (nl)
+- https://artemisrental.gr/nl/sifnos-guide/apollonia-artemonas
+- https://artemisrental.gr/nl/sifnos-guide/beaches
+- https://artemisrental.gr/nl/sifnos-guide/ferries
+- https://artemisrental.gr/nl/sifnos-guide/food-pottery
+- https://artemisrental.gr/nl/sifnos-guide/getting-around
+- https://artemisrental.gr/nl/sifnos-guide/how-to-get-there
+- https://artemisrental.gr/nl/sifnos-guide/kamares-port
+- https://artemisrental.gr/nl/sifnos-guide/overview
+- https://artemisrental.gr/nl/sifnos-guide/practical-tips
+- https://artemisrental.gr/nl/sifnos-guide/things-to-do
+- https://artemisrental.gr/nl/sifnos-guide/where-to-stay
 
 ## AI assistants
-- On-site Touristas AI chatbot answers fleet, rates, and Sifnos questions
+- On-site Touristas AI chatbot answers fleet, rates, and Sifnos questions in all site languages
 - Full Cyclades trip planner: https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos
 
 ## Full facts

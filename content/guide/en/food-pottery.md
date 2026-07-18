@@ -1,15 +1,55 @@
 ---
 slug: food-pottery
 title: "Food & pottery: Sifnos traditions"
-description: "Why Sifnos is famous for cuisine and ceramics — and how a rental helps you reach pottery villages and tavernas."
-answer: "Sifnos is renowned for chickpea stews, mastelo, and a living pottery tradition. A car or scooter lets you reach workshops and hillside tavernas beyond the main strip."
-dateModified: "2026-07-01"
+description: "Sifnos food and pottery guide, revithada, mastelo, bakeries, ceramics villages, and how to plan tasting stops with a rental car."
+answer: "Sifnos is famous for chickpea revithada, mastelo, local cheeses and a living ceramics tradition. Eat in Apollonia at night; day-trip pottery villages like Kamares, Vathi and Herronisos between swims."
+datePublished: "2026-07-01"
+dateModified: "2026-07-18"
+cover: "/images/sifnos/beaches/heronissos.webp"
+author: "Artemis Rental"
+order: 10
+related:
+  - things-to-do
+  - apollonia-artemonas
+  - beaches
 ---
 
-## Eat like the island
+![Vathi pottery coast](/images/sifnos/beaches/vathi.webp "Vathi, swim and ceramics heritage")
 
-Book popular tavernas in high season. Ask locals (or Artemis) which places are open on your nights — island hours shift.
+## Why food is a reason to visit
 
-## Pottery stops
+Sifnos has a reputation among Greeks that outweighs its size. Clay pots, slow ovens, chickpeas, lamb, and thyme-scented hills show up on menus that still feel local. Plan **one destination lunch** and **one special dinner** minimum.
 
-Workshops around the island reward unhurried visits. Pair a morning workshop stop with an afternoon beach rather than stacking five errands.
+## Dishes to look for
+
+- **Revithada**, slow chickpea casserole, often a Sunday classic
+- **Mastelo**, lamb (or goat) baked in wine and herbs, traditionally in clay
+- **Manoura / local cheeses**, ask what is cutting that week
+- **Honey & almond sweets**, bakery fuel before beach drives
+
+## Where to base your meals
+
+- **Apollonia / Artemonas:** densest evening choice; walk from your parking spot.
+- **Beach tavernas:** Platis Gialos, Vathi, Faros, Kamares, book peak weeks.
+- **Village surprises:** follow recommendations for Exambela / hill kitchens when you want quiet.
+
+## Pottery & ceramics
+
+![Herronisos](/images/sifnos/beaches/heronissos.webp "Herronisos, northern pottery village")
+
+Sifnos clay work is not a souvenir myth, workshops still operate, historically along coastal villages such as **Kamares, Vathi and Herronisos**. Browse studios ethically (ask before photos), and pack fragile pieces in soft bags for the ferry home.
+
+Seasonal festivals and exhibitions sometimes spotlight ceramics, ask at your hotel or our desk what is on during your dates.
+
+## A tasty driving day
+
+1. Morning swim in **Vathi**
+2. Pottery browse in the village
+3. Afternoon headland stop at **Chrysopigi**
+4. Dinner back in **Apollonia**
+
+![Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi between meals")
+
+## Artemis angle
+
+A rental lets you chase lunch reservations across the island without watching the bus clock. [Request dates](/en/book) once your ferry is set.

@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/site";
 import { getCars, getScooters } from "@/lib/fleet";
 import { getBlogPosts, getGuideArticles } from "@/lib/content";
+import { routing, type Locale } from "@/i18n/routing";
 
 const staticPaths = [
   "",
@@ -14,10 +15,22 @@ const staticPaths = [
   "/faq",
   "/about",
   "/terms",
+  "/privacy",
+  "/cookies",
+  "/gdpr",
 ];
 
+function languageAlternates(path: string): Record<string, string> {
+  const languages: Record<string, string> = {};
+  for (const locale of routing.locales) {
+    languages[locale] = `${SITE_URL}/${locale}${path}`;
+  }
+  languages["x-default"] = `${SITE_URL}/en${path}`;
+  return languages;
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const locales = ["en", "el"] as const;
+  const locales = routing.locales as readonly Locale[];
   const entries: MetadataRoute.Sitemap = [];
 
   for (const locale of locales) {
@@ -28,10 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: path === "" ? "weekly" : "monthly",
         priority: path === "" ? 1 : 0.7,
         alternates: {
-          languages: {
-            en: `${SITE_URL}/en${path}`,
-            el: `${SITE_URL}/el${path}`,
-          },
+          languages: languageAlternates(path),
         },
       });
     }
@@ -43,6 +53,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: new Date(),
         changeFrequency: "monthly",
         priority: 0.6,
+        alternates: {
+          languages: languageAlternates(path),
+        },
       });
     }
     for (const scooter of getScooters()) {
@@ -52,22 +65,33 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: new Date(),
         changeFrequency: "monthly",
         priority: 0.6,
+        alternates: {
+          languages: languageAlternates(path),
+        },
       });
     }
     for (const g of getGuideArticles(locale)) {
+      const path = `/sifnos-guide/${g.slug}`;
       entries.push({
-        url: `${SITE_URL}/${locale}/sifnos-guide/${g.slug}`,
+        url: `${SITE_URL}/${locale}${path}`,
         lastModified: g.dateModified ? new Date(g.dateModified) : new Date(),
         changeFrequency: "monthly",
         priority: 0.8,
+        alternates: {
+          languages: languageAlternates(path),
+        },
       });
     }
     for (const p of getBlogPosts(locale)) {
+      const path = `/blog/${p.slug}`;
       entries.push({
-        url: `${SITE_URL}/${locale}/blog/${p.slug}`,
+        url: `${SITE_URL}/${locale}${path}`,
         lastModified: p.dateModified ? new Date(p.dateModified) : new Date(),
         changeFrequency: "monthly",
         priority: 0.7,
+        alternates: {
+          languages: languageAlternates(path),
+        },
       });
     }
   }

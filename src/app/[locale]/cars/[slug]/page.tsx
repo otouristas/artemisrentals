@@ -3,11 +3,11 @@ import { setRequestLocale } from "next-intl/server";
 import { VehicleDetail } from "@/components/VehicleDetail";
 import { getCars, getVehicleBySlug, localizeField } from "@/lib/fleet";
 import { buildMetadata } from "@/lib/seo";
-import type { Locale } from "@/i18n/routing";
+import { routing, type Locale } from "@/i18n/routing";
 
 export function generateStaticParams() {
   return getCars().flatMap((car) =>
-    (["en", "el"] as const).map((locale) => ({ locale, slug: car.slug })),
+    routing.locales.map((locale) => ({ locale, slug: car.slug })),
   );
 }
 

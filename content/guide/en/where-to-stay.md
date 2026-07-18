@@ -1,28 +1,48 @@
 ---
 slug: where-to-stay
 title: "Where to stay on Sifnos"
-description: "Apollonia, Kamares, Platis Gialos, Kastro and Artemonas — choose a base, then pick the right Artemis car or scooter."
-answer: "Stay in Apollonia for nightlife and central access, Kamares for ferry convenience, Platis Gialos for beach days, or Kastro/Artemonas for quieter village atmosphere — then rent wheels with Artemis to move freely."
+description: "Where to stay on Sifnos, Apollonia, Artemonas, Kamares, Platis Gialos, Vathi and quieter villages, with notes on renting a car from each base."
+answer: "Stay in Apollonia or Artemonas for nightlife and central drives; Kamares for ferry convenience; Platis Gialos or Vathi for beach-first holidays. A rental helps from every base except pure stay-put resort days."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
+cover: "/images/sifnos/villages/apollonia.webp"
+author: "Artemis Rental"
+order: 8
+related:
+  - apollonia-artemonas
+  - kamares-port
+  - getting-around
 ---
 
-## Apollonia (central)
+![Apollonia](/images/sifnos/villages/apollonia.webp "Apollonia, central base")
 
-The island’s lively hub: tavernas, shops, and easy access to Artemonas and night-time wandering. A compact car or scooter from Artemis makes day trips to beaches effortless.
+## Quick chooser
 
-## Kamares (port)
+| Base | Choose it if you want… | Rental notes |
+| --- | --- | --- |
+| **Apollonia** | Evenings, shops, central loops | Artemis desk on your doorstep |
+| **Artemonas** | Quieter nights, pretty lanes | 5 minutes to Apollonia keys |
+| **Kamares** | Ferry ease, bay beach | Easy car pickup days; scooter still Apollonia |
+| **Platis Gialos** | Beach-first week | Car/scooter for villages & Chrysopigi |
+| **Vathi** | Calm sand, romance | Scooter or car for island circuit |
+| **Faros / others** | Low-key coastal | Wheels almost essential |
 
-Ideal if you want the shortest transfer after the ferry and a sandy waterfront. Great for short stays; you will still want a vehicle to reach Platis Gialos, Vathi, or Chrissopigi without waiting on buses.
+## Apollonia & Artemonas
 
-## Platis Gialos & south coast
+Best all-rounder for first visits. Sleep near the centre, walk at night, drive out by day. More in [Apollonia & Artemonas](/en/sifnos-guide/apollonia-artemonas).
 
-Beach-first stays. A scooter is fun for couples; families usually prefer a car for shade, bags, and midday returns.
+![Artemonas](/images/sifnos/villages/artemonas.webp "Artemonas")
 
-## Kastro & Artemonas
+## Kamares
 
-Quieter, atmospheric villages. Roads are narrow — a small car or scooter fits the mood better than a large vehicle.
+Ideal when you have early boats or prefer sea-level mornings. Combine with Artemis **car pickup at the port** on arrival day.
 
-## Hotels & rooms
+## Beach villages
 
-For live hotel inventory and area filters, browse [Sifnos hotels on Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos), then [request Artemis dates](/en/book) once your stay is set.
+![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos stays")
+
+Platis Gialos suits families who want sand outside the door. Vathi suits travellers chasing quieter water. You will still want wheels for Kastro, north coast, and pottery hops.
+
+## Hotels inventory
+
+For live hotel search and filters, use [Sifnos hotels on Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos), then [request Artemis dates](/en/book) once your stay is set.

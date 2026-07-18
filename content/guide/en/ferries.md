@@ -1,30 +1,56 @@
 ---
 slug: ferries
 title: "Ferries to Sifnos: ports, timing & rental sync"
-description: "Reach Sifnos via Kamares from Piraeus and other Cyclades — and coordinate Artemis pickup when the boat docks."
-answer: "Most visitors arrive at Kamares, Sifnos' main port, on ferries from Piraeus or other Cycladic islands. Share your ferry time with Artemis if you want coordinated pickup or a same-day rental."
-datePublished: "2026-03-01"
+description: "Ferries to Sifnos explained, Piraeus to Kamares, high-speed vs conventional, island connections, and how to align sailings with Artemis rentals."
+answer: "Almost all visitors arrive by ferry into Kamares. Compare high-speed and conventional sailings from Piraeus (and seasonal Cyclades links), then send Artemis your arrival time so pickup in Apollonia or Kamares matches the boat."
+datePublished: "2026-07-01"
 dateModified: "2026-07-18"
+cover: "/images/sifnos/beaches/kamares.webp"
+author: "Artemis Rental"
+order: 3
+related:
+  - how-to-get-there
+  - kamares-port
+  - getting-around
 ---
 
-## Main port: Kamares
+## Port of entry: Kamares
 
-Almost all passenger ferries dock at **Kamares**. From there you can walk to waterfront hotels, take a bus or taxi to Apollonia, or arrange an Artemis pickup on request.
+Sifnos’ main passenger gateway is **Kamares** on the west coast. There is no commercial airport on the island, boats are the story.
 
-## From Athens (Piraeus)
+![Kamares](/images/sifnos/beaches/kamares.webp "Ferry bay at Kamares")
 
-Expect roughly **2.5–5 hours** depending on high-speed vs conventional vessels and the day’s timetable. Book tickets early in peak summer.
+## From Athens / Piraeus
 
 Check live options on [Athens–Sifnos ferries (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
 
-## From other islands
+**Booking tips**
+- Peak July–August weekends sell out popular seats, book ahead.
+- Read whether your ticket is **numbered seating** or flexible.
+- Conventional ferries can be steadier in open-sea chop; high-speed saves hours.
 
-Common hop links include Paros, Serifos, Milos, and Syros. Frequencies change weekly — verify the exact sailing before you promise a pickup time.
+## Other connections
 
-## Same-day rental tip
+Seasonal routes may include Serifos, Kythnos, Paros, Milos, Syros and further Cyclades links. Always verify the current year’s timetable, operators reshuffle.
 
-If you land late afternoon, tell Artemis your ETA. Guests often mention flexible help when boats run behind schedule — keep WhatsApp open after docking.
+## Same-day rental logic
 
-## Multi-island trips
+| Arrival | Practical plan |
+| --- | --- |
+| Morning ferry | Beach afternoon after Apollonia check-in / key collection |
+| Afternoon ferry | Settle, short Artemonas walk, full beach day tomorrow |
+| Late ferry | Pre-arrange handover; avoid ambitious night drives to remote coves |
 
-Use [Touristas AI on Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) for ferry-aware itineraries, then reserve local wheels with Artemis only for the Sifnos stretch.
+## Luggage strategy
+
+If you are renting on Sifnos, travel with **soft bags** you can lift onto gangways. Leave bulky beach kit purchases for island shops.
+
+## Artemis + ferries
+
+Tell us:
+- Arrival **date & approximate docking time**
+- Hotel / area
+- Car vs scooter preference
+- Whether you want **Kamares car pickup**
+
+[Request dates](/en/book) · Use [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) for ferry-aware itineraries spanning multiple islands.
