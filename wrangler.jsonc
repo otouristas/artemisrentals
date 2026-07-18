@@ -16,8 +16,5 @@
       "binding": "WORKER_SELF_REFERENCE",
       "service": "artemisrentals"
     }
-  ],
-  "build": {
-    "command": "npx opennextjs-cloudflare build"
-  }
+  ]
 }

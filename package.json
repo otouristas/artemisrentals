@@ -10,10 +10,17 @@
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
     "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
     "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
-    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts"
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
+    "postinstall": "node ./scripts/workers-ci-build.mjs"
   },
   "pnpm": {
-    "ignoredBuiltDependencies": ["sharp", "unrs-resolver"]
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "workerd",
+      "@parcel/watcher",
+      "@swc/core",
+      "sharp"
+    ]
   },
   "packageManager": "pnpm@10.11.1",
   "dependencies": {
