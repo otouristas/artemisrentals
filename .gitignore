@@ -30,6 +30,9 @@
 .DS_Store
 *.pem
 
+# sibling project checkout (not part of Artemis)
+/villa-olivia-nextjs/
+
 # debug
 npm-debug.log*
 yarn-debug.log*

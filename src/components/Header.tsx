@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import { useTranslations, useLocale } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
 import { routing, type Locale } from "@/i18n/routing";
@@ -29,11 +30,16 @@ export function Header() {
   const [mobileGuideOpen, setMobileGuideOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [langOpen, setLangOpen] = useState(false);
+  const [mounted, setMounted] = useState(false);
   const guideRef = useRef<HTMLDivElement>(null);
   const langRef = useRef<HTMLDivElement>(null);
   const currentLocale = locale as Locale;
   const isHome = pathname === "/" || pathname === "";
   const guideActive = pathname.startsWith("/sifnos-guide");
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   useEffect(() => {
     if (!open) return;
@@ -281,202 +287,205 @@ export function Header() {
         </div>
       </div>
 
-      {open && (
-        <div
-          className="animate-menu fixed inset-0 z-50 flex flex-col bg-aegean text-foam lg:hidden"
-          role="dialog"
-          aria-modal="true"
-          aria-label={t("openMenu")}
-        >
-          <div className="flex items-center justify-between gap-3 px-5 py-5">
-            <Image
-              src="/images/brand/artemis-auto-rental-white.svg"
-              alt="Artemis Rental"
-              width={140}
-              height={40}
-              className="h-9 w-auto"
-            />
-            <div className="flex items-center gap-2">
-              <div className="relative">
-                <details className="group">
-                  <summary className="inline-flex h-10 list-none items-center justify-center rounded-full border border-foam/30 px-3.5 text-sm font-semibold uppercase tracking-wide text-foam [&::-webkit-details-marker]:hidden">
-                    {currentLocale}
-                  </summary>
-                  <div className="absolute right-0 top-full z-50 mt-2 w-44 overflow-hidden rounded-2xl border border-foam/15 bg-aegean py-2 shadow-2xl">
-                    {routing.locales.map((loc) => (
-                      <Link
-                        key={loc}
-                        href={pathname || "/"}
-                        locale={loc}
-                        className={cn(
-                          "block px-4 py-2.5 text-sm text-foam/85 transition hover:bg-foam/10 hover:text-foam",
-                          loc === currentLocale && "bg-foam/10 font-semibold text-sun",
-                        )}
-                        onClick={() => setOpen(false)}
-                      >
-                        {LOCALE_NATIVE_NAMES[loc]}
-                      </Link>
-                    ))}
-                  </div>
-                </details>
-              </div>
-              <button
-                type="button"
-                onClick={() => setOpen(false)}
-                className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-foam/30"
-                aria-label={t("closeMenu")}
-              >
-                <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" aria-hidden>
-                  <path
-                    d="M6 6l12 12M18 6L6 18"
-                    stroke="currentColor"
-                    strokeWidth="1.8"
-                    strokeLinecap="round"
-                  />
-                </svg>
-              </button>
-            </div>
-          </div>
-
-          <div className="flex flex-1 flex-col overflow-y-auto px-5 pb-10 pt-4">
-            <p className="text-xs font-semibold uppercase tracking-[0.18em] text-foam/45">
-              {t("menuLabel")}
-            </p>
-            <nav className="mt-6 flex flex-col gap-1">
-              <Link
-                href="/"
-                className="border-b border-foam/10 py-3 font-display text-3xl text-foam"
-                onClick={() => setOpen(false)}
-              >
-                {t("home")}
-              </Link>
-              {links.slice(0, 3).map((l) => (
-                <Link
-                  key={l.href}
-                  href={l.href}
-                  className={cn(
-                    "border-b border-foam/10 py-3 font-display text-3xl text-foam/90",
-                    pathname.startsWith(l.href) && "text-sun",
-                  )}
-                  onClick={() => setOpen(false)}
-                >
-                  {t(l.key)}
-                </Link>
-              ))}
-
-              <div className="border-b border-foam/10">
+      {mounted &&
+        open &&
+        createPortal(
+          <div
+            className="animate-menu fixed inset-0 z-[100] flex flex-col bg-aegean text-foam lg:hidden"
+            role="dialog"
+            aria-modal="true"
+            aria-label={t("openMenu")}
+          >
+            <div className="flex items-center justify-between gap-3 px-5 py-5">
+              <Image
+                src="/images/brand/artemis-auto-rental-white.svg"
+                alt="Artemis Rental"
+                width={140}
+                height={40}
+                className="h-9 w-auto"
+              />
+              <div className="flex items-center gap-2">
+                <div className="relative">
+                  <details className="group">
+                    <summary className="inline-flex h-10 list-none items-center justify-center rounded-full border border-foam/30 px-3.5 text-sm font-semibold uppercase tracking-wide text-foam [&::-webkit-details-marker]:hidden">
+                      {currentLocale}
+                    </summary>
+                    <div className="absolute right-0 top-full z-50 mt-2 w-44 overflow-hidden rounded-2xl border border-foam/15 bg-aegean py-2 shadow-2xl">
+                      {routing.locales.map((loc) => (
+                        <Link
+                          key={loc}
+                          href={pathname || "/"}
+                          locale={loc}
+                          className={cn(
+                            "block px-4 py-2.5 text-sm text-foam/85 transition hover:bg-foam/10 hover:text-foam",
+                            loc === currentLocale && "bg-foam/10 font-semibold text-sun",
+                          )}
+                          onClick={() => setOpen(false)}
+                        >
+                          {LOCALE_NATIVE_NAMES[loc]}
+                        </Link>
+                      ))}
+                    </div>
+                  </details>
+                </div>
                 <button
                   type="button"
-                  className={cn(
-                    "flex w-full items-center justify-between py-3 font-display text-3xl text-foam/90",
-                    guideActive && "text-sun",
-                  )}
-                  aria-expanded={mobileGuideOpen}
-                  onClick={() => setMobileGuideOpen((v) => !v)}
+                  onClick={() => setOpen(false)}
+                  className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-foam/30"
+                  aria-label={t("closeMenu")}
                 >
-                  {t("guide")}
-                  <svg
-                    viewBox="0 0 16 16"
-                    className={cn("h-5 w-5 transition", mobileGuideOpen && "rotate-180")}
-                    fill="none"
-                    aria-hidden
-                  >
+                  <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" aria-hidden>
                     <path
-                      d="M4 6l4 4 4-4"
+                      d="M6 6l12 12M18 6L6 18"
                       stroke="currentColor"
-                      strokeWidth="1.5"
+                      strokeWidth="1.8"
                       strokeLinecap="round"
-                      strokeLinejoin="round"
                     />
                   </svg>
                 </button>
-                {mobileGuideOpen && (
-                  <div className="flex flex-col gap-1 pb-4 pl-1">
-                    {GUIDE_NAV.map((item) => (
-                      <Link
-                        key={item.href}
-                        href={item.href}
-                        className={cn(
-                          "py-2 text-lg text-foam/75",
-                          pathname === item.href && "font-semibold text-sun",
-                        )}
-                        onClick={() => setOpen(false)}
-                      >
-                        {t(item.key)}
-                      </Link>
-                    ))}
-                  </div>
-                )}
               </div>
+            </div>
 
-              {links.slice(3).map((l) => (
+            <div className="flex flex-1 flex-col overflow-y-auto px-5 pb-10 pt-4">
+              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-foam/45">
+                {t("menuLabel")}
+              </p>
+              <nav className="mt-6 flex flex-col gap-1">
                 <Link
-                  key={l.href}
-                  href={l.href}
-                  className={cn(
-                    "border-b border-foam/10 py-3 font-display text-3xl text-foam/90",
-                    pathname.startsWith(l.href) && "text-sun",
-                  )}
+                  href="/"
+                  className="border-b border-foam/10 py-3 font-display text-3xl text-foam"
                   onClick={() => setOpen(false)}
                 >
-                  {t(l.key)}
+                  {t("home")}
                 </Link>
-              ))}
-            </nav>
+                {links.slice(0, 3).map((l) => (
+                  <Link
+                    key={l.href}
+                    href={l.href}
+                    className={cn(
+                      "border-b border-foam/10 py-3 font-display text-3xl text-foam/90",
+                      pathname.startsWith(l.href) && "text-sun",
+                    )}
+                    onClick={() => setOpen(false)}
+                  >
+                    {t(l.key)}
+                  </Link>
+                ))}
 
-            <div className="mt-8 grid gap-3">
-              <Link
-                href="/book"
-                onClick={() => setOpen(false)}
-                className="rounded-2xl bg-sun px-5 py-4 text-center text-base font-semibold text-aegean"
-              >
-                {t("book")}
-              </Link>
-              <a
-                href={`tel:${business.phones[0].e164}`}
-                className="rounded-2xl border border-foam/25 px-5 py-4 text-center text-base font-semibold text-foam"
-              >
-                {t("call")}: {business.phones[0].display}
-              </a>
-              <a
-                href={whatsappUrl(t("whatsappPrefill"))}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#25D366] px-5 py-4 text-base font-semibold text-white"
-              >
-                <WhatsAppIcon className="h-5 w-5" />
-                {t("whatsapp")}
-              </a>
-              <button
-                type="button"
-                onClick={() => {
-                  setOpen(false);
-                  window.dispatchEvent(new CustomEvent("touristas:open"));
-                }}
-                className="rounded-2xl border border-sun/50 px-5 py-4 text-center text-base font-semibold text-sun"
-              >
-                {t("askTouristas")}
-              </button>
-            </div>
-
-            <div className="mt-10 grid grid-cols-2 gap-3 border-t border-foam/15 pt-8">
-              {[
-                t("indicatorSince", { year: business.since }),
-                t("indicatorPlace"),
-                t("indicatorNoPrepay"),
-                t("indicatorFamily"),
-              ].map((label) => (
-                <div
-                  key={label}
-                  className="rounded-xl border border-foam/12 bg-foam/5 px-3 py-3 text-sm text-foam/80"
-                >
-                  {label}
+                <div className="border-b border-foam/10">
+                  <button
+                    type="button"
+                    className={cn(
+                      "flex w-full items-center justify-between py-3 font-display text-3xl text-foam/90",
+                      guideActive && "text-sun",
+                    )}
+                    aria-expanded={mobileGuideOpen}
+                    onClick={() => setMobileGuideOpen((v) => !v)}
+                  >
+                    {t("guide")}
+                    <svg
+                      viewBox="0 0 16 16"
+                      className={cn("h-5 w-5 transition", mobileGuideOpen && "rotate-180")}
+                      fill="none"
+                      aria-hidden
+                    >
+                      <path
+                        d="M4 6l4 4 4-4"
+                        stroke="currentColor"
+                        strokeWidth="1.5"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                    </svg>
+                  </button>
+                  {mobileGuideOpen && (
+                    <div className="flex flex-col gap-1 pb-4 pl-1">
+                      {GUIDE_NAV.map((item) => (
+                        <Link
+                          key={item.href}
+                          href={item.href}
+                          className={cn(
+                            "py-2 text-lg text-foam/75",
+                            pathname === item.href && "font-semibold text-sun",
+                          )}
+                          onClick={() => setOpen(false)}
+                        >
+                          {t(item.key)}
+                        </Link>
+                      ))}
+                    </div>
+                  )}
                 </div>
-              ))}
+
+                {links.slice(3).map((l) => (
+                  <Link
+                    key={l.href}
+                    href={l.href}
+                    className={cn(
+                      "border-b border-foam/10 py-3 font-display text-3xl text-foam/90",
+                      pathname.startsWith(l.href) && "text-sun",
+                    )}
+                    onClick={() => setOpen(false)}
+                  >
+                    {t(l.key)}
+                  </Link>
+                ))}
+              </nav>
+
+              <div className="mt-8 grid gap-3">
+                <Link
+                  href="/book"
+                  onClick={() => setOpen(false)}
+                  className="rounded-2xl bg-sun px-5 py-4 text-center text-base font-semibold text-aegean"
+                >
+                  {t("book")}
+                </Link>
+                <a
+                  href={`tel:${business.phones[0].e164}`}
+                  className="rounded-2xl border border-foam/25 px-5 py-4 text-center text-base font-semibold text-foam"
+                >
+                  {t("call")}: {business.phones[0].display}
+                </a>
+                <a
+                  href={whatsappUrl(t("whatsappPrefill"))}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#25D366] px-5 py-4 text-base font-semibold text-white"
+                >
+                  <WhatsAppIcon className="h-5 w-5" />
+                  {t("whatsapp")}
+                </a>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setOpen(false);
+                    window.dispatchEvent(new CustomEvent("touristas:open"));
+                  }}
+                  className="rounded-2xl border border-sun/50 px-5 py-4 text-center text-base font-semibold text-sun"
+                >
+                  {t("askTouristas")}
+                </button>
+              </div>
+
+              <div className="mt-10 grid grid-cols-2 gap-3 border-t border-foam/15 pt-8">
+                {[
+                  t("indicatorSince", { year: business.since }),
+                  t("indicatorPlace"),
+                  t("indicatorNoPrepay"),
+                  t("indicatorFamily"),
+                ].map((label) => (
+                  <div
+                    key={label}
+                    className="rounded-xl border border-foam/12 bg-foam/5 px-3 py-3 text-sm text-foam/80"
+                  >
+                    {label}
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
-        </div>
-      )}
+          </div>,
+          document.body,
+        )}
     </header>
   );
 }
