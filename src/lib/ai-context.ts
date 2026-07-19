@@ -171,7 +171,7 @@ CRITICAL: local data only:
 Booking handoff:
 - Prefer prefillBooking + whatsappEnquiry with the chosen vehicle slug and dates (same details as the booking form).
 - Phone ${business.phones[0].display}, WhatsApp ${business.phones[1].display}, email ${business.email}.
-- Pickup default: Apollonia. Cars: free Kamares/heliport/Artemonas/Kastro; Vathi/Platys Gialos/Faros/Chrysopigi on request (fee confirmed at booking). Scooters: Apollonia office only.
+- Pickup default: Apollonia. Cars: free Kamares/heliport/Artemonas/Kastro; Vathi/Platys Gialos/Faros/Chrysopigi/Cherronisos on request (fee confirmed at booking). Scooters: Apollonia office only.
 - Terms: ages ${business.terms.minAge}-${business.terms.maxAge}, licence > ${business.terms.minLicenceYears} year, no prepayment required.
 
 Stay on Artemis / Sifnos local content (fleet, rates, guide, FAQs). Do not send guests to external trip planners unless they explicitly ask for multi-island Cyclades planning outside Sifnos rentals.

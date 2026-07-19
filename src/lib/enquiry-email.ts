@@ -108,6 +108,15 @@ const locationLabel: Record<(typeof ALL_CAR_PICKUPS)[number], LocalizedString> =
     sv: "Chrysopigi (på begäran)",
     nl: "Chrysopigi (op aanvraag)",
   },
+  cherronisos: {
+    en: "Cherronisos (on request)",
+    el: "Χερρόνησος (κατόπιν αιτήματος)",
+    it: "Cherronisos (su richiesta)",
+    fr: "Cherronisos (sur demande)",
+    de: "Cherronisos (auf Anfrage)",
+    sv: "Cherronisos (på begäran)",
+    nl: "Cherronisos (op aanvraag)",
+  },
 };
 
 function escapeHtml(value: string) {

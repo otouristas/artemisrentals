@@ -156,7 +156,7 @@ const en: TouristasCopy = {
   rates:
     "Indicative daily car rates below. Scooter prices are quoted on enquiry. Want to lock in dates next?",
   pickup:
-    "Car pickup is free in Apollonia, Kamares, heliport, Artemonas and Kastro. Vathi / Platys Gialos / Faros / Chrysopigi on request (fee confirmed at booking). Scooters: Apollonia office only. Shall we start a booking?",
+    "Car pickup is free in Apollonia, Kamares, heliport, Artemonas and Kastro. Vathi / Platys Gialos / Faros / Chrysopigi / Cherronisos on request (fee confirmed at booking). Scooters: Apollonia office only. Shall we start a booking?",
   deposit: `No prepayment is required. We can collect dates and contact details here, or call ${phone}.`,
   fallback:
     "I can help with cars, scooters, rates, booking and Sifnos tips. Tell me what you need, e.g. a scooter for two next week.",
@@ -244,7 +244,7 @@ const el: TouristasCopy = {
   rates:
     "Ενδεικτικές ημερήσιες τιμές αυτοκινήτων παρακάτω. Τα scooter τιμολογούνται στο αίτημα. Θέλετε να κλείσουμε ημερομηνίες;",
   pickup:
-    "Παραλαβή αυτοκινήτων: δωρεάν σε Απολλωνία, Καμάρες, ελικοδρόμιο, Αρτεμώνα και Κάστρο. Βαθύ / Πλατύς Γιαλός / Φάρος / Χρυσοπηγή κατόπιν αιτήματος (χρέωση επιβεβαιώνεται στην κράτηση). Scooter: μόνο γραφείο Απολλωνίας. Θέλετε να ξεκινήσουμε κράτηση;",
+    "Παραλαβή αυτοκινήτων: δωρεάν σε Απολλωνία, Καμάρες, ελικοδρόμιο, Αρτεμώνα και Κάστρο. Βαθύ / Πλατύς Γιαλός / Φάρος / Χρυσοπηγή / Χερρόνησος κατόπιν αιτήματος (χρέωση επιβεβαιώνεται στην κράτηση). Scooter: μόνο γραφείο Απολλωνίας. Θέλετε να ξεκινήσουμε κράτηση;",
   deposit: `Δεν απαιτείται προκαταβολή. Μπορούμε να μαζέψουμε ημερομηνίες και στοιχεία εδώ, ή καλέστε ${phone}.`,
   fallback:
     "Μπορώ να βοηθήσω με αυτοκίνητα, scooter, τιμές, κράτηση και συμβουλές για τη Σίφνο. Πείτε μου τι χρειάζεστε, π.χ. scooter για δύο την επόμενη εβδομάδα.",
@@ -332,7 +332,7 @@ const it: TouristasCopy = {
   rates:
     "Tariffe giornaliere indicative per le auto qui sotto. I prezzi scooter si comunicano su richiesta. Vuole fissare le date?",
   pickup:
-    "Ritiro auto gratuito ad Apollonia, Kamares, eliporto, Artemonas e Kastro. Vathi / Platys Gialos / Faros / Chrysopigi su richiesta (costo confermato in prenotazione). Scooter: solo ufficio Apollonia. Iniziamo una prenotazione?",
+    "Ritiro auto gratuito ad Apollonia, Kamares, eliporto, Artemonas e Kastro. Vathi / Platys Gialos / Faros / Chrysopigi / Cherronisos su richiesta (costo confermato in prenotazione). Scooter: solo ufficio Apollonia. Iniziamo una prenotazione?",
   deposit: `Non è richiesto alcun anticipo. Possiamo raccogliere date e contatti qui, oppure chiami ${phone}.`,
   fallback:
     "Posso aiutarla con auto, scooter, tariffe, prenotazione e consigli su Sifnos. Mi dica di cosa ha bisogno, ad es. uno scooter per due la prossima settimana.",
@@ -420,7 +420,7 @@ const fr: TouristasCopy = {
   rates:
     "Tarifs journaliers indicatifs pour les voitures ci-dessous. Les prix scooters sont communiqués sur demande. Souhaitez-vous fixer les dates ?",
   pickup:
-    "Prise en charge voiture gratuite à Apollonia, Kamares, héliport, Artemonas et Kastro. Vathi / Platys Gialos / Faros / Chrysopigi sur demande (frais confirmés à la réservation). Scooters : bureau Apollonia uniquement. On commence une réservation ?",
+    "Prise en charge voiture gratuite à Apollonia, Kamares, héliport, Artemonas et Kastro. Vathi / Platys Gialos / Faros / Chrysopigi / Cherronisos sur demande (frais confirmés à la réservation). Scooters : bureau Apollonia uniquement. On commence une réservation ?",
   deposit: `Aucun acompte n'est requis. Nous pouvons recueillir dates et coordonnées ici, ou appelez ${phone}.`,
   fallback:
     "Je peux vous aider avec voitures, scooters, tarifs, réservation et conseils sur Sifnos. Dites-moi ce dont vous avez besoin, ex. un scooter pour deux la semaine prochaine.",
@@ -508,7 +508,7 @@ const de: TouristasCopy = {
   rates:
     "Richtwerte für Tagespreise von Autos unten. Scooter-Preise werden auf Anfrage genannt. Möchten Sie als Nächstes Daten festlegen?",
   pickup:
-    "Auto-Abholung ist kostenlos in Apollonia, Kamares, Heliport, Artemonas und Kastro. Vathi / Platys Gialos / Faros / Chrysopigi auf Anfrage (Gebühr bei Buchung bestätigt). Scooter: nur Büro Apollonia. Sollen wir mit einer Buchung starten?",
+    "Auto-Abholung ist kostenlos in Apollonia, Kamares, Heliport, Artemonas und Kastro. Vathi / Platys Gialos / Faros / Chrysopigi / Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt). Scooter: nur Büro Apollonia. Sollen wir mit einer Buchung starten?",
   deposit: `Keine Vorauszahlung erforderlich. Wir können Daten und Kontaktdaten hier erfassen, oder rufen Sie ${phone} an.`,
   fallback:
     "Ich kann bei Autos, Scootern, Preisen, Buchung und Sifnos-Tipps helfen. Sagen Sie mir, was Sie brauchen, z. B. einen Scooter für zwei nächste Woche.",
@@ -596,7 +596,7 @@ const sv: TouristasCopy = {
   rates:
     "Indikativa dagspriser för bilar nedan. Scooterpriser anges vid förfrågan. Vill du låsa datum härnäst?",
   pickup:
-    "Bilhämtning är gratis i Apollonia, Kamares, helikopterplatta, Artemonas och Kastro. Vathi / Platys Gialos / Faros / Chrysopigi på begäran (avgift bekräftas vid bokning). Scootrar: endast kontor Apollonia. Ska vi starta en bokning?",
+    "Bilhämtning är gratis i Apollonia, Kamares, helikopterplatta, Artemonas och Kastro. Vathi / Platys Gialos / Faros / Chrysopigi / Cherronisos på begäran (avgift bekräftas vid bokning). Scootrar: endast kontor Apollonia. Ska vi starta en bokning?",
   deposit: `Ingen förskottsbetalning krävs. Vi kan samla in datum och kontaktuppgifter här, eller ring ${phone}.`,
   fallback:
     "Jag kan hjälpa till med bilar, scootrar, priser, bokning och Sifnos-tips. Säg vad du behöver, t.ex. en scooter för två nästa vecka.",
@@ -684,7 +684,7 @@ const nl: TouristasCopy = {
   rates:
     "Indicatieve dagtarieven voor auto's hieronder. Scooterprijzen worden op aanvraag gegeven. Wilt u hierna data vastleggen?",
   pickup:
-    "Auto-ophalen is gratis in Apollonia, Kamares, helikopterplatform, Artemonas en Kastro. Vathi / Platys Gialos / Faros / Chrysopigi op aanvraag (kosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Zal ik een boeking starten?",
+    "Auto-ophalen is gratis in Apollonia, Kamares, helikopterplatform, Artemonas en Kastro. Vathi / Platys Gialos / Faros / Chrysopigi / Cherronisos op aanvraag (kosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Zal ik een boeking starten?",
   deposit: `Geen vooruitbetaling vereist. We kunnen hier data en contactgegevens verzamelen, of bel ${phone}.`,
   fallback:
     "Ik kan helpen met auto's, scooters, tarieven, boeken en Sifnos-tips. Vertel me wat u nodig heeft, bijv. een scooter voor twee volgende week.",

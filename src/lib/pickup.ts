@@ -11,6 +11,7 @@ export const CAR_REQUEST_PICKUPS = [
   "platys-gialos",
   "faros",
   "chrysopigi",
+  "cherronisos",
 ] as const;
 
 export const ALL_CAR_PICKUPS = [...CAR_FREE_PICKUPS, ...CAR_REQUEST_PICKUPS] as const;

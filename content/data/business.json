@@ -26,9 +26,9 @@
     "minLicenceYears": 1,
     "prepaymentRequired": false,
     "pickupDefault": "Apollonia",
-    "pickupAlternate": "Kamares port, heliport, Artemonas & Kastro free for cars; Vathi, Platys Gialos, Faros & Chrysopigi on request (fee confirmed at booking)",
+    "pickupAlternate": "Kamares port, heliport, Artemonas & Kastro free for cars; Vathi, Platys Gialos, Faros, Chrysopigi & Cherronisos on request (fee confirmed at booking)",
     "carFreePickup": ["kamares", "heliport", "apollonia", "artemonas", "kastro"],
-    "carOnRequestPickup": ["vathi", "platys-gialos", "faros", "chrysopigi"],
+    "carOnRequestPickup": ["vathi", "platys-gialos", "faros", "chrysopigi", "cherronisos"],
     "scooterPickupOnly": ["apollonia"]
   },
   "included": [

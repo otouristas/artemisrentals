@@ -73,13 +73,13 @@
     "jet4-125": { "low": null, "shoulder": null, "mid": 30, "peak": 35 }
   },
   "note": {
-    "en": "Daily rates in euros by season. Cars: complimentary pickup & return at Kamares port, heliport, Apollonia, Artemonas and Kastro. Vathi, Platys Gialos, Faros and Chrysopigi on request (fee confirmed at booking). Scooters: Apollonia office only. No prepayment to reserve.",
-    "el": "Ημερήσιες τιμές σε ευρώ ανά περίοδο. Αυτοκίνητα: δωρεάν παραλαβή & επιστροφή σε Καμάρες, ελικοδρόμιο, Απολλωνία, Αρτεμώνα και Κάστρο. Βαθύ, Πλατύς Γιαλός, Φάρος και Χρυσοπηγή κατόπιν αιτήματος (χρέωση επιβεβαιώνεται στην κράτηση). Scooter: μόνο γραφείο Απολλωνίας. Χωρίς προκαταβολή για κράτηση.",
-    "it": "Tariffe giornaliere in euro per stagione. Auto: ritiro e riconsegna gratuiti al porto di Kamares, eliporto, Apollonia, Artemonas e Kastro. Vathi, Platys Gialos, Faros e Chrysopigi su richiesta (costo confermato in prenotazione). Scooter: solo ufficio di Apollonia. Nessun anticipo per prenotare.",
-    "fr": "Tarifs journaliers en euros par saison. Voitures : prise en charge et retour gratuits au port de Kamares, héliport, Apollonia, Artemonas et Kastro. Vathi, Platys Gialos, Faros et Chrysopigi sur demande (frais confirmés à la réservation). Scooters : bureau d'Apollonia uniquement. Aucun prépaiement pour réserver.",
-    "de": "Tagespreise in Euro nach Saison. Autos: kostenlose Abholung & Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro. Vathi, Platys Gialos, Faros und Chrysopigi auf Anfrage (Gebühr bei Buchung bestätigt). Roller: nur Büro Apollonia. Keine Vorauszahlung zur Reservierung.",
-    "sv": "Dagspriser i euro per säsong. Bilar: kostnadsfri hämtning & återlämning vid Kamares hamn, heliport, Apollonia, Artemonas och Kastro. Vathi, Platys Gialos, Faros och Chrysopigi på begäran (avgift bekräftas vid bokning). Scootrar: endast Apollonia-kontoret. Ingen förskottsbetalning för att reservera.",
-    "nl": "Dagprijzen in euro's per seizoen. Auto's: gratis ophalen & terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro. Vathi, Platys Gialos, Faros en Chrysopigi op aanvraag (kosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Geen vooruitbetaling om te reserveren."
+    "en": "Daily rates in euros by season. Cars: complimentary pickup & return at Kamares port, heliport, Apollonia, Artemonas and Kastro. Vathi, Platys Gialos, Faros, Chrysopigi and Cherronisos on request (fee confirmed at booking). Scooters: Apollonia office only. No prepayment to reserve.",
+    "el": "Ημερήσιες τιμές σε ευρώ ανά περίοδο. Αυτοκίνητα: δωρεάν παραλαβή & επιστροφή σε Καμάρες, ελικοδρόμιο, Απολλωνία, Αρτεμώνα και Κάστρο. Βαθύ, Πλατύς Γιαλός, Φάρος, Χρυσοπηγή και Χερρόνησος κατόπιν αιτήματος (χρέωση επιβεβαιώνεται στην κράτηση). Scooter: μόνο γραφείο Απολλωνίας. Χωρίς προκαταβολή για κράτηση.",
+    "it": "Tariffe giornaliere in euro per stagione. Auto: ritiro e riconsegna gratuiti al porto di Kamares, eliporto, Apollonia, Artemonas e Kastro. Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta (costo confermato in prenotazione). Scooter: solo ufficio di Apollonia. Nessun anticipo per prenotare.",
+    "fr": "Tarifs journaliers en euros par saison. Voitures : prise en charge et retour gratuits au port de Kamares, héliport, Apollonia, Artemonas et Kastro. Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sur demande (frais confirmés à la réservation). Scooters : bureau d'Apollonia uniquement. Aucun prépaiement pour réserver.",
+    "de": "Tagespreise in Euro nach Saison. Autos: kostenlose Abholung & Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro. Vathi, Platys Gialos, Faros, Chrysopigi und Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt). Roller: nur Büro Apollonia. Keine Vorauszahlung zur Reservierung.",
+    "sv": "Dagspriser i euro per säsong. Bilar: kostnadsfri hämtning & återlämning vid Kamares hamn, heliport, Apollonia, Artemonas och Kastro. Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgift bekräftas vid bokning). Scootrar: endast Apollonia-kontoret. Ingen förskottsbetalning för att reservera.",
+    "nl": "Dagprijzen in euro's per seizoen. Auto's: gratis ophalen & terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro. Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Geen vooruitbetaling om te reserveren."
   },
   "pickup": {
     "carsFree": {
@@ -92,13 +92,13 @@
       "nl": "Gratis ophalen en terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro."
     },
     "carsRequest": {
-      "en": "Vathi, Platys Gialos, Faros, and Chrysopigi on request (fee confirmed at booking).",
-      "el": "Βαθύ, Πλατύς Γιαλός, Φάρος και Χρυσοπηγή κατόπιν αιτήματος (χρέωση επιβεβαιώνεται στην κράτηση).",
-      "it": "Vathi, Platys Gialos, Faros e Chrysopigi su richiesta (costo confermato in prenotazione).",
-      "fr": "Vathi, Platys Gialos, Faros et Chrysopigi sur demande (frais confirmés à la réservation).",
-      "de": "Vathi, Platys Gialos, Faros und Chrysopigi auf Anfrage (Gebühr bei Buchung bestätigt).",
-      "sv": "Vathi, Platys Gialos, Faros och Chrysopigi på begäran (avgift bekräftas vid bokning).",
-      "nl": "Vathi, Platys Gialos, Faros en Chrysopigi op aanvraag (kosten bij boeking bevestigd)."
+      "en": "Vathi, Platys Gialos, Faros, Chrysopigi, and Cherronisos on request (fee confirmed at booking).",
+      "el": "Βαθύ, Πλατύς Γιαλός, Φάρος, Χρυσοπηγή και Χερρόνησος κατόπιν αιτήματος (χρέωση επιβεβαιώνεται στην κράτηση).",
+      "it": "Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta (costo confermato in prenotazione).",
+      "fr": "Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sur demande (frais confirmés à la réservation).",
+      "de": "Vathi, Platys Gialos, Faros, Chrysopigi und Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt).",
+      "sv": "Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgift bekräftas vid bokning).",
+      "nl": "Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bij boeking bevestigd)."
     },
     "scooters": {
       "en": "Scooters: pickup and return at the Apollonia office only.",

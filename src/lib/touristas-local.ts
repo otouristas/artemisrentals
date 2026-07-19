@@ -175,6 +175,7 @@ function parsePickupLocation(text: string): PickupLocation | undefined {
     [/platys|platy|πλατυ/, "platys-gialos"],
     [/faros|φαρ/, "faros"],
     [/chrysopigi|chrisopigi|χρυσοπηγ/, "chrysopigi"],
+    [/cherronisos|cheronisos|herronisos|χερρονήσ|χερρονησ/, "cherronisos"],
     [/apollonia|απολλων/, "apollonia"],
   ];
   for (const [re, loc] of map) {
