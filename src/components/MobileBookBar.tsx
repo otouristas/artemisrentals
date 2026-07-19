@@ -32,9 +32,9 @@ export function MobileBookBar({
   if (to) params.set("to", to);
   const bookHref = params.size ? `/book?${params.toString()}` : "/book";
   const waText = vehicleName
-    ? `Hello Artemis, I would like to enquire about the ${vehicleName}.`
+    ? `Hello Artemis Rental, I would like to enquire about the ${vehicleName}.\n\nSent by Rentacarsifnos.com`
     : resolvedSlug
-      ? `Hello Artemis, I would like to enquire about the ${resolvedSlug}.`
+      ? `Hello Artemis Rental, I would like to enquire about the ${resolvedSlug}.\n\nSent by Rentacarsifnos.com`
       : undefined;
 
   return (

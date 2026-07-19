@@ -27,80 +27,93 @@ export function buildWhatsAppEnquiryText({
       return: string;
       people: string;
       outro: string;
+      sentBy: string;
     }
   > = {
     en: {
-      intro: "Hello Artemis, I would like to enquire about a rental.",
+      intro: "Hello Artemis Rental, I would like to enquire about a rental.",
       followUpIntro:
-        "Hello Artemis, I am following up on my rental enquiry.",
+        "Hello Artemis Rental, I am following up on my rental enquiry.",
       name: "Name",
       vehicle: "Vehicle",
       pickup: "Pick-up",
       return: "Return",
       people: "People",
       outro: "Please confirm availability.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
     el: {
-      intro: "Γεια σας Artemis, θα ήθελα πληροφορίες για ενοικίαση.",
-      followUpIntro: "Γεια σας Artemis, συνεχίζω για το αίτημα ενοικίασής μου.",
+      intro: "Γεια σας Artemis Rental, θα ήθελα πληροφορίες για ενοικίαση.",
+      followUpIntro:
+        "Γεια σας Artemis Rental, συνεχίζω για το αίτημα ενοικίασής μου.",
       name: "Όνομα",
       vehicle: "Όχημα",
       pickup: "Παραλαβή",
       return: "Επιστροφή",
       people: "Άτομα",
       outro: "Παρακαλώ επιβεβαιώστε διαθεσιμότητα.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
     it: {
-      intro: "Ciao Artemis, vorrei informazioni su un noleggio.",
-      followUpIntro: "Ciao Artemis, continuo sulla mia richiesta di noleggio.",
+      intro: "Ciao Artemis Rental, vorrei informazioni su un noleggio.",
+      followUpIntro:
+        "Ciao Artemis Rental, continuo sulla mia richiesta di noleggio.",
       name: "Nome",
       vehicle: "Veicolo",
       pickup: "Ritiro",
       return: "Riconsegna",
       people: "Persone",
       outro: "Per favore confermate la disponibilità.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
     fr: {
-      intro: "Bonjour Artemis, je souhaite me renseigner sur une location.",
+      intro: "Bonjour Artemis Rental, je souhaite me renseigner sur une location.",
       followUpIntro:
-        "Bonjour Artemis, je fais suite à ma demande de location.",
+        "Bonjour Artemis Rental, je fais suite à ma demande de location.",
       name: "Nom",
       vehicle: "Véhicule",
       pickup: "Prise en charge",
       return: "Retour",
       people: "Personnes",
       outro: "Veuillez confirmer la disponibilité.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
     de: {
-      intro: "Hallo Artemis, ich möchte mich nach einer Mietmöglichkeit erkundigen.",
+      intro:
+        "Hallo Artemis Rental, ich möchte mich nach einer Mietmöglichkeit erkundigen.",
       followUpIntro:
-        "Hallo Artemis, ich melde mich zu meiner Mietanfrage.",
+        "Hallo Artemis Rental, ich melde mich zu meiner Mietanfrage.",
       name: "Name",
       vehicle: "Fahrzeug",
       pickup: "Abholung",
       return: "Rückgabe",
       people: "Personen",
       outro: "Bitte bestätigen Sie die Verfügbarkeit.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
     sv: {
-      intro: "Hej Artemis, jag skulle vilja fråga om en uthyrning.",
-      followUpIntro: "Hej Artemis, jag följer upp min hyresförfrågan.",
+      intro: "Hej Artemis Rental, jag skulle vilja fråga om en uthyrning.",
+      followUpIntro:
+        "Hej Artemis Rental, jag följer upp min hyresförfrågan.",
       name: "Namn",
       vehicle: "Fordon",
       pickup: "Upphämtning",
       return: "Återlämning",
       people: "Personer",
       outro: "Vänligen bekräfta tillgänglighet.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
     nl: {
-      intro: "Hallo Artemis, ik wil graag informeren over een verhuur.",
-      followUpIntro: "Hallo Artemis, ik volg mijn verhuuraanvraag op.",
+      intro: "Hallo Artemis Rental, ik wil graag informeren over een verhuur.",
+      followUpIntro:
+        "Hallo Artemis Rental, ik volg mijn verhuuraanvraag op.",
       name: "Naam",
       vehicle: "Voertuig",
       pickup: "Ophalen",
       return: "Retour",
       people: "Personen",
       outro: "Bevestig alstublieft de beschikbaarheid.",
+      sentBy: "Sent by Rentacarsifnos.com",
     },
   };
 
@@ -112,6 +125,8 @@ export function buildWhatsAppEnquiryText({
   if (to) lines.push(`${t.return}: ${to}`);
   if (partySize && partySize > 1) lines.push(`${t.people}: ${partySize}`);
   lines.push(t.outro);
+  lines.push("");
+  lines.push(t.sentBy);
   return lines.join("\n");
 }
 
