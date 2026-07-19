@@ -6,9 +6,9 @@
   "email": "info@artemisrental.gr",
   "phones": [
     { "label": "Office", "e164": "+302284033333", "display": "+30 22840 33333" },
-    { "label": "Mobile", "e164": "+306977337213", "display": "+30 6977 337213" }
+    { "label": "Mobile", "e164": "+306985908478", "display": "+30 698 590 8478" }
   ],
-  "whatsapp": "+306977337213",
+  "whatsapp": "+306985908478",
   "address": {
     "streetAddress": "Apollonia",
     "postalCode": "84003",

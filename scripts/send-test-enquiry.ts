@@ -49,7 +49,7 @@ async function main() {
   const sample = {
     name: "Giorgio Kasiotis",
     email: to,
-    phone: "+30 6977 337213",
+    phone: "+30 698 590 8478",
     vehicle: "SYM Symphony 125",
     pickup: "2026-07-19",
     returnDate: "2026-07-23",
