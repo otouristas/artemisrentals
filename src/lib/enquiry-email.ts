@@ -714,7 +714,7 @@ export function buildDeskEnquiryEmail(data: EnquiryEmailData) {
     `Pickup location: ${data.pickupLocation ?? "apollonia"}`,
     `Return location: ${data.returnLocation ?? data.pickupLocation ?? "apollonia"}`,
     `Child seat: ${data.childSeat ? "yes" : "no"}`,
-    `Party size: ${data.partySize ?? "-"}`,
+    `People: ${data.partySize ?? "-"}`,
     `Arrival info: ${data.arrivalInfo || "-"}`,
     `Estimated total: ${data.estimatedTotal != null ? `€${data.estimatedTotal}` : "-"}`,
     `Locale: ${locale}`,

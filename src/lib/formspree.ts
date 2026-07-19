@@ -1,3 +1,6 @@
+import { buildDeskEnquiryEmail, type EnquiryEmailData } from "@/lib/enquiry-email";
+import { ALL_CAR_PICKUPS } from "@/lib/pickup";
+
 /** Public Formspree form for Artemis booking / contact enquiries. */
 export const FORMSPREE_FORM_ID = "xaqrovvz";
 
@@ -21,25 +24,60 @@ export type FormspreeEnquiryInput = {
   source?: string;
 };
 
-/** Flat field map Formspree stores / emails. */
-export function buildFormspreeEnquiryPayload(data: FormspreeEnquiryInput) {
+function asPickup(value: string | undefined): EnquiryEmailData["pickupLocation"] {
+  if (!value) return undefined;
+  return (ALL_CAR_PICKUPS as readonly string[]).includes(value)
+    ? (value as NonNullable<EnquiryEmailData["pickupLocation"]>)
+    : undefined;
+}
+
+function toEnquiryEmailData(data: FormspreeEnquiryInput): EnquiryEmailData {
   return {
     name: data.name,
     email: data.email,
     phone: data.phone,
-    vehicle: data.vehicle ?? "",
+    vehicle: data.vehicle,
     pickup: data.pickup ?? "",
     returnDate: data.returnDate ?? "",
-    pickupLocation: data.pickupLocation ?? "",
-    returnLocation: data.returnLocation ?? "",
+    pickupLocation: asPickup(data.pickupLocation),
+    returnLocation: asPickup(data.returnLocation),
+    childSeat: data.childSeat,
+    arrivalInfo: data.arrivalInfo,
+    partySize: data.partySize,
+    estimatedTotal: data.estimatedTotal,
+    message: data.message,
+    locale: data.locale,
+  };
+}
+
+/**
+ * Flat field map for Formspree.
+ * Includes the same beautiful desk HTML/text as Resend (`html` / `text` / `_subject`).
+ * In Formspree → Project → Templates, use {{{html}}} so the notification matches Resend.
+ */
+export function buildFormspreeEnquiryPayload(data: FormspreeEnquiryInput) {
+  const enquiry = toEnquiryEmailData(data);
+  const desk = buildDeskEnquiryEmail(enquiry);
+
+  return {
+    name: data.name,
+    email: data.email,
+    phone: data.phone,
+    people: data.partySize ?? 1,
+    vehicle: data.vehicle ?? "",
+    pickup: enquiry.pickup,
+    returnDate: enquiry.returnDate,
+    pickupLocation: enquiry.pickupLocation ?? "apollonia",
+    returnLocation: enquiry.returnLocation ?? enquiry.pickupLocation ?? "apollonia",
     childSeat: data.childSeat ? "yes" : "no",
     arrivalInfo: data.arrivalInfo ?? "",
-    partySize: data.partySize ?? 1,
     message: data.message ?? "",
     estimatedTotal: data.estimatedTotal ?? "",
     locale: data.locale ?? "",
     source: data.source ?? "website",
-    _subject: `Booking enquiry from ${data.name}`,
+    html: desk.html,
+    text: desk.text,
+    _subject: desk.subject,
   };
 }
 
