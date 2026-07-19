@@ -6,7 +6,12 @@ export const CAR_FREE_PICKUPS = [
   "kastro",
 ] as const;
 
-export const CAR_REQUEST_PICKUPS = ["vathi", "platys-gialos", "faros"] as const;
+export const CAR_REQUEST_PICKUPS = [
+  "vathi",
+  "platys-gialos",
+  "faros",
+  "chrysopigi",
+] as const;
 
 export const ALL_CAR_PICKUPS = [...CAR_FREE_PICKUPS, ...CAR_REQUEST_PICKUPS] as const;
 

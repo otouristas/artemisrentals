@@ -99,6 +99,15 @@ const locationLabel: Record<(typeof ALL_CAR_PICKUPS)[number], LocalizedString> =
     sv: "Faros (på begäran)",
     nl: "Faros (op aanvraag)",
   },
+  chrysopigi: {
+    en: "Chrysopigi (on request)",
+    el: "Χρυσοπηγή (κατόπιν αιτήματος)",
+    it: "Chrysopigi (su richiesta)",
+    fr: "Chrysopigi (sur demande)",
+    de: "Chrysopigi (auf Anfrage)",
+    sv: "Chrysopigi (på begäran)",
+    nl: "Chrysopigi (op aanvraag)",
+  },
 };
 
 function escapeHtml(value: string) {
