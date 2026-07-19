@@ -306,7 +306,7 @@ export function TouristasChat({
         const bookRes = await fetch("/api/book", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(data.submitEnquiry),
+          body: JSON.stringify({ ...data.submitEnquiry, source: "touristas" }),
         });
         if (!bookRes.ok) {
           setError(t("unavailable"));

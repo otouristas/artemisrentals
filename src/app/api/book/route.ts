@@ -8,6 +8,7 @@ import {
   buildGuestEnquiryEmail,
 } from "@/lib/enquiry-email";
 import { sendWhatsAppGuestAck } from "@/lib/whatsapp-cloud";
+import { submitToFormspree } from "@/lib/formspree";
 
 const pickupEnum = z.enum(ALL_CAR_PICKUPS);
 
@@ -26,6 +27,9 @@ const schema = z.object({
   estimatedTotal: z.coerce.number().min(0).optional(),
   message: z.string().optional(),
   locale: z.string().optional(),
+  /** True when the client already posted to Formspree (booking wizard). */
+  formspreeClient: z.boolean().optional(),
+  source: z.string().optional(),
 });
 
 /**
@@ -45,6 +49,28 @@ export async function POST(req: Request) {
   const data = parsed.data;
   const locale = asLocale(data.locale);
   const payload = { ...data, locale };
+
+  // Global Formspree inbox (skip if the beautiful booking form already submitted client-side)
+  let formspree: { ok: boolean } = { ok: true };
+  if (!data.formspreeClient) {
+    formspree = await submitToFormspree({
+      name: data.name,
+      email: data.email,
+      phone: data.phone,
+      vehicle: data.vehicle,
+      pickup: data.pickup,
+      returnDate: data.returnDate,
+      pickupLocation: data.pickupLocation,
+      returnLocation: data.returnLocation,
+      childSeat: data.childSeat,
+      arrivalInfo: data.arrivalInfo,
+      partySize: data.partySize,
+      message: data.message,
+      estimatedTotal: data.estimatedTotal,
+      locale,
+      source: data.source ?? "api",
+    });
+  }
 
   const requestEmail = buildDeskEnquiryEmail(payload);
   const confirmationEmail = buildGuestEnquiryEmail(payload);
@@ -123,5 +149,6 @@ export async function POST(req: Request) {
       confirmation: emails.confirmation,
     },
     whatsapp,
+    formspree,
   });
 }

@@ -1,5 +1,7 @@
 "use client";
 
+import { ValidationError } from "@formspree/react";
+import type { ComponentProps } from "react";
 import { useTranslations } from "next-intl";
 import { getVehicleBySlug } from "@/lib/fleet";
 import {
@@ -19,6 +21,7 @@ export function StepDetails({
   vehicle,
   estimatedTotal,
   status,
+  formspreeErrors,
   whatsappHref,
   onChange,
   onBack,
@@ -28,6 +31,7 @@ export function StepDetails({
   vehicle: Vehicle | undefined;
   estimatedTotal: number | null;
   status: BookingStatus;
+  formspreeErrors?: ComponentProps<typeof ValidationError>["errors"];
   whatsappHref: string;
   onChange: (patch: Partial<BookingState>) => void;
   onBack: () => void;
@@ -72,16 +76,32 @@ export function StepDetails({
             {t("contactSection")}
           </h3>
           <div className="mt-4 grid gap-4 sm:grid-cols-2">
-            <Field label={t("name")} value={state.name} onValue={(v) => onChange({ name: v })} required />
             <Field
-              label={t("email")}
-              type="email"
-              value={state.email}
-              onValue={(v) => onChange({ email: v })}
+              label={t("name")}
+              name="name"
+              value={state.name}
+              onValue={(v) => onChange({ name: v })}
               required
             />
+            <div>
+              <Field
+                label={t("email")}
+                name="email"
+                type="email"
+                value={state.email}
+                onValue={(v) => onChange({ email: v })}
+                required
+              />
+              <ValidationError
+                prefix="Email"
+                field="email"
+                errors={formspreeErrors ?? null}
+                className="mt-1.5 text-sm text-olive"
+              />
+            </div>
             <Field
               label={t("phone")}
+              name="phone"
               value={state.phone}
               onValue={(v) => onChange({ phone: v })}
               required
@@ -90,6 +110,7 @@ export function StepDetails({
               <span className="mb-1.5 block font-medium text-aegean/75">{t("partySize")}</span>
               <input
                 type="number"
+                name="partySize"
                 min={1}
                 max={9}
                 inputMode="numeric"
@@ -101,6 +122,10 @@ export function StepDetails({
               />
             </label>
           </div>
+          <ValidationError
+            errors={formspreeErrors ?? null}
+            className="mt-3 text-sm text-olive"
+          />
         </section>
 
         <section className="mt-10 border-t border-aegean/10 pt-10">
@@ -170,10 +195,18 @@ export function StepDetails({
             <label className="block text-sm">
               <span className="mb-1.5 block font-medium text-aegean/75">{t("message")}</span>
               <textarea
+                id="message"
+                name="message"
                 rows={3}
                 value={state.message}
                 onChange={(e) => onChange({ message: e.target.value })}
                 className={`${fieldClass} resize-none`}
+              />
+              <ValidationError
+                prefix="Message"
+                field="message"
+                errors={formspreeErrors ?? null}
+                className="mt-1.5 text-sm text-olive"
               />
             </label>
           </div>
@@ -206,12 +239,14 @@ export function StepDetails({
 
 function Field({
   label,
+  name,
   value,
   onValue,
   type = "text",
   required,
 }: {
   label: string;
+  name?: string;
   value: string;
   onValue: (value: string) => void;
   type?: string;
@@ -221,6 +256,8 @@ function Field({
     <label className="block text-sm">
       <span className="mb-1.5 block font-medium text-aegean/75">{label}</span>
       <input
+        id={name}
+        name={name}
         type={type}
         required={required}
         value={value}

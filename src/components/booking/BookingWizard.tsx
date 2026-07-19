@@ -1,8 +1,10 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { useForm } from "@formspree/react";
 import { getAllVehicles, getVehicleBySlug, estimateRateForDate } from "@/lib/fleet";
 import { trackEvent } from "@/lib/analytics";
+import { buildFormspreeEnquiryPayload, FORMSPREE_FORM_ID } from "@/lib/formspree";
 import { whatsappUrl } from "@/lib/site";
 import { asLocale } from "@/lib/i18n-locale";
 import { buildWhatsAppEnquiryText } from "@/lib/whatsapp-enquiry";
@@ -86,6 +88,8 @@ export function BookingWizard({
   });
 
   const [status, setStatus] = useState<BookingStatus>("idle");
+  /** Formspree form id xaqrovvz — same as useForm("xaqrovvz") in Formspree's React docs. */
+  const [formspree, handleFormspree, resetFormspree] = useForm(FORMSPREE_FORM_ID);
 
   const selectedVehicle = state.vehicle ? getVehicleBySlug(state.vehicle) : undefined;
   const rateKey = selectedVehicle?.rateKey ?? null;
@@ -157,12 +161,12 @@ export function BookingWizard({
   }
 
   async function submit() {
+    if (status === "sending" || formspree.submitting) return;
+    resetFormspree();
     setStatus("sending");
     try {
-      const res = await fetch("/api/book", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
+      await handleFormspree(
+        buildFormspreeEnquiryPayload({
           name: state.name,
           email: state.email,
           phone: state.phone,
@@ -177,22 +181,101 @@ export function BookingWizard({
           message: state.message || undefined,
           estimatedTotal: estimatedTotal ?? undefined,
           locale,
+          source: "booking-wizard",
         }),
-      });
-      if (res.ok) {
-        trackEvent("generate_lead", {
-          method: "form",
-          vehicle: state.vehicle || undefined,
-          locale,
-        });
-        setStatus("success");
-      } else {
-        setStatus("error");
-      }
+      );
     } catch {
       setStatus("error");
     }
   }
+
+  // After useForm finishes (succeeded / errors), continue with Resend + WhatsApp via /api/book.
+  useEffect(() => {
+    if (status !== "sending" || formspree.submitting) return;
+
+    if (formspree.errors) {
+      setStatus("error");
+      return;
+    }
+    if (!formspree.succeeded) return;
+
+    let cancelled = false;
+    void (async () => {
+      try {
+        const res = await fetch("/api/book", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            name: state.name,
+            email: state.email,
+            phone: state.phone,
+            vehicle: state.vehicle || undefined,
+            pickup: state.from,
+            returnDate: state.to,
+            pickupLocation: state.pickupLocation,
+            returnLocation: state.returnLocation,
+            childSeat: state.childSeat,
+            arrivalInfo: state.arrivalInfo || undefined,
+            partySize: state.partySize,
+            message: state.message || undefined,
+            estimatedTotal: estimatedTotal ?? undefined,
+            locale,
+            formspreeClient: true,
+            source: "booking-wizard",
+          }),
+        });
+        if (cancelled) return;
+        if (res.ok) {
+          trackEvent("generate_lead", {
+            method: "form",
+            vehicle: state.vehicle || undefined,
+            locale,
+          });
+          setStatus("success");
+        } else {
+          // Formspree already received the lead; still show success for the guest.
+          trackEvent("generate_lead", {
+            method: "form",
+            vehicle: state.vehicle || undefined,
+            locale,
+          });
+          setStatus("success");
+        }
+      } catch {
+        if (!cancelled) {
+          trackEvent("generate_lead", {
+            method: "form",
+            vehicle: state.vehicle || undefined,
+            locale,
+          });
+          setStatus("success");
+        }
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [
+    status,
+    formspree.submitting,
+    formspree.succeeded,
+    formspree.errors,
+    state.name,
+    state.email,
+    state.phone,
+    state.vehicle,
+    state.from,
+    state.to,
+    state.pickupLocation,
+    state.returnLocation,
+    state.childSeat,
+    state.arrivalInfo,
+    state.partySize,
+    state.message,
+    estimatedTotal,
+    locale,
+  ]);
 
   return (
     <div>
@@ -223,6 +306,7 @@ export function BookingWizard({
             vehicle={selectedVehicle}
             estimatedTotal={estimatedTotal}
             status={status}
+            formspreeErrors={formspree.errors}
             whatsappHref={enquiryWhatsAppUrl()}
             onChange={updateState}
             onBack={goBack}
