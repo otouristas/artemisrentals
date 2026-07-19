@@ -4,7 +4,7 @@ title: "Ενοικίαση αυτοκινήτου στη Σίφνο 2026: τιμ
 description: "Τι να ξέρετε πριν νοικιάσετε αυτοκίνητο στη Σίφνο το 2026."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/rent-a-car-sifnos-2026.jpg"
+cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
 author: "Artemis Rental"
 tags: [αυτοκίνητα, 2026, κράτηση]
 related: [sifnos-car-rental-prices, driving-in-sifnos, kamares-port-arrival-guide]

@@ -4,7 +4,7 @@ title: "Kamares port arrival guide: ferry to first swim"
 description: "What to do when your ferry docks at Kamares, luggage, pickup options, and getting to Apollonia with Artemis rental."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
-cover: "/images/blog/kamares-port-arrival-guide.jpg"
+cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
 tags: [kamares, arrival, ferry]
 related: [apollonia-vs-kamares-stay, driving-in-sifnos, rent-a-car-sifnos-2026]

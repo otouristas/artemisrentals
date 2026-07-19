@@ -4,7 +4,7 @@ title: "Sifnos vs Milos: welk eiland past bij je trip?"
 description: "Vergelijk Sifnos en Milos voor een Cycladen-vakantie: tempo, stranden, rijden en wanneer Artemis-verhuur op Sifnos de betere basis is."
 datePublished: "2026-07-08"
 dateModified: "2026-07-16"
-cover: "/images/blog/sifnos-vs-milos.jpg"
+cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [planning, cyclades, comparison]
 related: [best-time-visit-sifnos, sifnos-beaches-by-car, 3-day-sifnos-itinerary]

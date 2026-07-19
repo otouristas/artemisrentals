@@ -4,7 +4,7 @@ title: "Σίφνος vs Μήλος: ποιο νησί ταιριάζει στο 
 description: "Σύγκριση Σίφνου και Μήλου για διακοπές στα Κυκλαδικά, ρυθμός, παραλίες, οδήγηση και πότε η Artemis στη Σίφνο είναι καλύτερη βάση."
 datePublished: "2026-07-08"
 dateModified: "2026-07-16"
-cover: "/images/blog/sifnos-vs-milos.jpg"
+cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [σχεδιασμός, κυκλάδες, σύγκριση]
 related: [best-time-visit-sifnos, sifnos-beaches-by-car, 3-day-sifnos-itinerary]

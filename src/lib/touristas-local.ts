@@ -8,6 +8,8 @@ import { touristasCopy } from "./touristas-copy";
 
 export type ChatDraft = {
   bookingActive?: boolean;
+  /** True after we have shown fleet cards for the current trip details. */
+  recommendationsOffered?: boolean;
   vehicleSlug?: string;
   vehicleName?: string;
   category?: "car" | "scooter";
@@ -132,6 +134,15 @@ function parsePhone(text: string): string | undefined {
 }
 
 function parseName(text: string): string | undefined {
+  const n = normalize(text);
+  // Never treat chip labels or funnel commands as a guest name.
+  if (
+    /continu|enquir|whatsapp|book|scooter|people|person|send|pickup|pick-up|guide|beach|dates|share my|i want|θελω|θέλω|συνεχ|αίτημα|αιτημα|richiesta|demande|anfrage|förfrågan|aanvraag/.test(
+      n,
+    )
+  ) {
+    return undefined;
+  }
   const named = text.match(
     /(?:(?:my name is|i'm|i am|this is|ονομαζομαι|με λενε|ειμαι)\s+)([A-Za-zΑ-Ωα-ωίϊΐόάέήύϋΰώς][A-Za-zΑ-Ωα-ωίϊΐόάέήύϋΰώς\s'-]{1,40})/i,
   );
@@ -265,9 +276,22 @@ function scoreFaq(query: string, q: string, a: string) {
 function wantsBooking(text: string, draft: ChatDraft) {
   const n = normalize(text);
   if (draft.bookingActive) return true;
-  return /book|reserv|enquire|inquiry|request|availability|rent|κρατησ|ενοικ|διαθεσιμο|θέλω|θελω|want a car|want a scooter|να κλεισ/.test(
+  // Tip / guide questions should not yank guests into the booking funnel.
+  if (/beach|ferry|guide|χωρι|παραλι|odigos|οδηγ|blog|stay|διαμον|tip|advice|συμβουλ/.test(n) &&
+    !/book|reserv|rent|ενοικ|κρατησ|want a car|want a scooter|θελω scooter|θελω αυτοκιν|θέλω scooter|θέλω αυτοκιν/.test(n)) {
+    return false;
+  }
+  return /book|reserv|enquire|inquiry|request|availability|rent|κρατησ|ενοικ|διαθεσιμο|want a car|want a scooter|να κλεισ|θελω να κλεισ|θέλω να κλείσ/.test(
     n,
-  );
+  ) || /^(i want a )?(car|scooter)s?$/.test(n.trim()) || /θελω (αυτοκιν|scooter)|θέλω (αυτοκιν|scooter)/.test(n);
+}
+
+/** Year-aware sample range chip for the dates step (avoids a stale fixed July label). */
+function exampleDateRangeChip() {
+  const now = new Date();
+  const month = now.getMonth() + 1;
+  const year = month >= 9 ? now.getFullYear() + 1 : now.getFullYear();
+  return `${year}-07-19 to ${year}-07-23`;
 }
 
 function wantsConfirmSend(text: string) {
@@ -298,6 +322,13 @@ function mergeDraft(prev: ChatDraft, message: string): ChatDraft {
   if (partySize) next.partySize = partySize;
   if (transmission) next.transmission = transmission;
   if (category) {
+    if (prev.category && category !== prev.category) {
+      next.recommendationsOffered = false;
+      if (next.vehicleSlug && next.category !== category) {
+        next.vehicleSlug = undefined;
+        next.vehicleName = undefined;
+      }
+    }
     next.category = category;
     if (category === "scooter" && !next.partySize) next.partySize = 2;
   }
@@ -310,10 +341,27 @@ function mergeDraft(prev: ChatDraft, message: string): ChatDraft {
     next.vehicleName = named.name;
     next.category = named.category === "scooter" ? "scooter" : "car";
     if (next.category === "scooter" && !next.partySize) next.partySize = 2;
+    next.recommendationsOffered = true;
+  }
+
+  // New dates for an existing trip reset the recommend gate so cards match the new range.
+  if (
+    (dates.from || dates.to) &&
+    prev.recommendationsOffered &&
+    ((dates.from && dates.from !== prev.from) || (dates.to && dates.to !== prev.to))
+  ) {
+    next.recommendationsOffered = false;
   }
 
   // Only treat bare names as the guest name when we already need contact details
-  if (next.bookingActive && next.from && next.to && !next.name) {
+  // (after recommendations, or once a vehicle is chosen).
+  const readyForContact =
+    next.bookingActive &&
+    next.from &&
+    next.to &&
+    (next.recommendationsOffered || next.vehicleSlug) &&
+    !next.name;
+  if (readyForContact) {
     const name = parseName(message);
     if (name && !named) next.name = name;
   } else {
@@ -344,8 +392,8 @@ function draftComplete(draft: ChatDraft) {
 
 function missingBookingStep(
   draft: ChatDraft,
-): "category" | "partySize" | "dates" | "name" | "email" | "phone" | "done" {
-  // Prefer type first, then people, then dates, then contact
+): "category" | "partySize" | "dates" | "recommend" | "name" | "email" | "phone" | "done" {
+  // Type → people → dates → fleet value → contact
   if (!draft.vehicleSlug && !draft.category) return "category";
   if (draft.category === "scooter" && !draft.partySize) {
     // scooters default to 2; treat as filled
@@ -353,6 +401,8 @@ function missingBookingStep(
     return "partySize";
   }
   if (!draft.from || !draft.to) return "dates";
+  // Show fleet cards before asking for contact, unless a vehicle is already chosen.
+  if (!draft.recommendationsOffered && !draft.vehicleSlug) return "recommend";
   if (!draft.name) return "name";
   if (!draft.email) return "email";
   if (!draft.phone) return "phone";
@@ -413,7 +463,6 @@ export function answerTouristasLocal(
   const helpers = toolHelpers(loc);
   const t = copy(loc);
   const n = normalize(message);
-  const hadDatesBefore = Boolean(incomingDraft.from && incomingDraft.to);
   let draft = mergeDraft(incomingDraft, message);
   const cards: LocalChatCard[] = [];
   let followUps: ChatFollowUp[] = [];
@@ -479,11 +528,25 @@ export function answerTouristasLocal(
     }
 
     if (step === "dates") {
-      // Show matching vehicles once type + people are known
-      cards.push(recommendCards(helpers, draft));
-      followUps = [msg(t.followDates)];
+      followUps = [msg(exampleDateRangeChip())];
       return {
         text: stripEmDashes(draft.from && !draft.to ? t.askReturn : t.askDates),
+        cards: [],
+        draft,
+        followUps,
+      };
+    }
+
+    if (step === "recommend") {
+      cards.push(recommendCards(helpers, draft));
+      draft = { ...draft, recommendationsOffered: true };
+      followUps = [
+        msg(t.followContinue),
+        { type: "whatsapp" as const, label: t.followWhatsApp },
+        msg(draft.category === "scooter" ? t.followCar : t.followScooter),
+      ];
+      return {
+        text: stripEmDashes(t.recommendForTrip(draft)),
         cards,
         draft,
         followUps,
@@ -491,40 +554,32 @@ export function answerTouristasLocal(
     }
 
     if (step === "name") {
-      const repeatedDates = hadDatesBefore && Boolean(parseDates(message).from);
-      const datesSaved: Record<Locale, string> = {
-        en: "Those dates are already saved.",
-        el: "Οι ημερομηνίες είναι ήδη καταχωρημένες.",
-        it: "Le date sono già salvate.",
-        fr: "Ces dates sont déjà enregistrées.",
-        de: "Diese Daten sind bereits gespeichert.",
-        sv: "De datumen är redan sparade.",
-        nl: "Die data zijn al opgeslagen.",
-      };
-      const lead = repeatedDates ? datesSaved[loc] : t.summary(draft);
+      followUps = [{ type: "whatsapp" as const, label: t.followWhatsApp }];
       return {
-        text: stripEmDashes(`${lead}\n\n${t.askName}`),
+        text: stripEmDashes(t.askNameForTrip(draft)),
         cards: [],
         draft,
-        followUps: [],
+        followUps,
       };
     }
 
     if (step === "email") {
+      followUps = [{ type: "whatsapp" as const, label: t.followWhatsApp }];
       return {
         text: stripEmDashes(t.askEmail),
         cards: [],
         draft,
-        followUps: [],
+        followUps,
       };
     }
 
     if (step === "phone") {
+      followUps = [{ type: "whatsapp" as const, label: t.followWhatsApp }];
       return {
         text: stripEmDashes(t.askPhone),
         cards: [],
         draft,
-        followUps: [],
+        followUps,
       };
     }
 
@@ -586,9 +641,11 @@ export function answerTouristasLocal(
 
   // Fleet browse (recommend only; do not force the booking funnel)
   const wantsFleet =
-    /fleet|vehicle|car|scooter|rent|ενοικ|στολο|αυτοκινητ|οικογεν|family|suggest|προτειν|ποιο|which|fits/.test(
+    (/fleet|vehicle|car|scooter|rent|ενοικ|στολο|αυτοκινητ|οικογεν|family|suggest|προτειν|ποιο|which|fits/.test(
       n,
-    ) || Boolean(draft.partySize);
+    ) ||
+      Boolean(draft.partySize)) &&
+    !/beach|παραλι|ferry|guide|odigos|οδηγ|blog|χωρι/.test(n);
 
   if (wantsFleet && !/pickup|παραλαβ|kamares|καμαρ/.test(n) && !draft.bookingActive) {
     const browseDraft: ChatDraft = {
@@ -672,22 +729,30 @@ export function answerTouristasLocal(
             ? t.askDates
             : step === "partySize"
               ? t.askPeopleAfterCategory
-              : step === "name"
-                ? t.askName
-                : step === "email"
-                  ? t.askEmail
-                  : t.askPhone;
-      if (step === "dates") {
+              : step === "recommend"
+                ? t.recommendForTrip(draft)
+                : step === "name"
+                  ? t.askNameForTrip(draft)
+                  : step === "email"
+                    ? t.askEmail
+                    : t.askPhone;
+      if (step === "recommend") {
         cards.push(recommendCards(helpers, draft));
+        draft = { ...draft, recommendationsOffered: true };
       }
       followUps =
         step === "category"
           ? [msg(t.followCar), msg(t.followScooter)]
           : step === "dates"
-            ? [msg(t.followDates)]
+            ? [msg(exampleDateRangeChip())]
             : step === "partySize"
               ? [msg(t.followPeople2), msg(t.followPeople4)]
-              : [];
+              : step === "recommend"
+                ? [
+                    msg(t.followContinue),
+                    { type: "whatsapp" as const, label: t.followWhatsApp },
+                  ]
+                : [{ type: "whatsapp" as const, label: t.followWhatsApp }];
       return {
         text: stripEmDashes(`${t.deposit}\n\n${ask}`),
         cards,

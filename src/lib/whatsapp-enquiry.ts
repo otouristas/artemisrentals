@@ -7,17 +7,21 @@ export function buildWhatsAppEnquiryText({
   from,
   to,
   partySize,
+  name,
 }: {
   locale: Locale;
   vehicleName?: string;
   from?: string;
   to?: string;
   partySize?: number;
+  name?: string;
 }) {
   const templates: Record<
     Locale,
     {
       intro: string;
+      followUpIntro: string;
+      name: string;
       vehicle: string;
       pickup: string;
       return: string;
@@ -27,6 +31,9 @@ export function buildWhatsAppEnquiryText({
   > = {
     en: {
       intro: "Hello Artemis, I would like to enquire about a rental.",
+      followUpIntro:
+        "Hello Artemis, I am following up on my rental enquiry.",
+      name: "Name",
       vehicle: "Vehicle",
       pickup: "Pick-up",
       return: "Return",
@@ -35,6 +42,8 @@ export function buildWhatsAppEnquiryText({
     },
     el: {
       intro: "Γεια σας Artemis, θα ήθελα πληροφορίες για ενοικίαση.",
+      followUpIntro: "Γεια σας Artemis, συνεχίζω για το αίτημα ενοικίασής μου.",
+      name: "Όνομα",
       vehicle: "Όχημα",
       pickup: "Παραλαβή",
       return: "Επιστροφή",
@@ -43,6 +52,8 @@ export function buildWhatsAppEnquiryText({
     },
     it: {
       intro: "Ciao Artemis, vorrei informazioni su un noleggio.",
+      followUpIntro: "Ciao Artemis, continuo sulla mia richiesta di noleggio.",
+      name: "Nome",
       vehicle: "Veicolo",
       pickup: "Ritiro",
       return: "Riconsegna",
@@ -51,6 +62,9 @@ export function buildWhatsAppEnquiryText({
     },
     fr: {
       intro: "Bonjour Artemis, je souhaite me renseigner sur une location.",
+      followUpIntro:
+        "Bonjour Artemis, je fais suite à ma demande de location.",
+      name: "Nom",
       vehicle: "Véhicule",
       pickup: "Prise en charge",
       return: "Retour",
@@ -59,6 +73,9 @@ export function buildWhatsAppEnquiryText({
     },
     de: {
       intro: "Hallo Artemis, ich möchte mich nach einer Mietmöglichkeit erkundigen.",
+      followUpIntro:
+        "Hallo Artemis, ich melde mich zu meiner Mietanfrage.",
+      name: "Name",
       vehicle: "Fahrzeug",
       pickup: "Abholung",
       return: "Rückgabe",
@@ -67,6 +84,8 @@ export function buildWhatsAppEnquiryText({
     },
     sv: {
       intro: "Hej Artemis, jag skulle vilja fråga om en uthyrning.",
+      followUpIntro: "Hej Artemis, jag följer upp min hyresförfrågan.",
+      name: "Namn",
       vehicle: "Fordon",
       pickup: "Upphämtning",
       return: "Återlämning",
@@ -75,6 +94,8 @@ export function buildWhatsAppEnquiryText({
     },
     nl: {
       intro: "Hallo Artemis, ik wil graag informeren over een verhuur.",
+      followUpIntro: "Hallo Artemis, ik volg mijn verhuuraanvraag op.",
+      name: "Naam",
       vehicle: "Voertuig",
       pickup: "Ophalen",
       return: "Retour",
@@ -84,11 +105,60 @@ export function buildWhatsAppEnquiryText({
   };
 
   const t = templates[locale] ?? templates.en;
-  const lines = [t.intro];
+  const lines = [name ? t.followUpIntro : t.intro];
+  if (name) lines.push(`${t.name}: ${name}`);
   if (vehicleName) lines.push(`${t.vehicle}: ${vehicleName}`);
   if (from) lines.push(`${t.pickup}: ${from}`);
   if (to) lines.push(`${t.return}: ${to}`);
   if (partySize && partySize > 1) lines.push(`${t.people}: ${partySize}`);
   lines.push(t.outro);
   return lines.join("\n");
+}
+
+/** Desk → guest follow-up message for WhatsApp from the enquiry email. */
+export function buildWhatsAppDeskFollowUpText({
+  locale,
+  name,
+  vehicleName,
+  from,
+  to,
+  partySize,
+}: {
+  locale: Locale;
+  name: string;
+  vehicleName?: string;
+  from?: string;
+  to?: string;
+  partySize?: number;
+}) {
+  const vehicle = vehicleName?.trim() || "a vehicle";
+  const dates =
+    from && to ? `${from} to ${to}` : from ? from : to ? to : "your travel dates";
+  const party =
+    partySize && partySize > 1 ? ` for ${partySize} people` : "";
+
+  const templates: Record<Locale, string> = {
+    en: `Dear ${name}, regarding your request for ${vehicle}${party}, for ${dates}.\n\nWe are checking availability and will confirm shortly.\nArtemis Rental, Apollonia`,
+    el: `Αγαπητέ/ή ${name}, σχετικά με το αίτημά σας για ${vehicle}${partySize && partySize > 1 ? ` για ${partySize} άτομα` : ""}, για ${dates}.\n\nΕλέγχουμε τη διαθεσιμότητα και θα επιβεβαιώσουμε σύντομα.\nArtemis Rental, Απολλωνία`,
+    it: `Gentile ${name}, riguardo alla sua richiesta per ${vehicle}${partySize && partySize > 1 ? ` per ${partySize} persone` : ""}, per ${dates}.\n\nStiamo verificando la disponibilità e le confermeremo a breve.\nArtemis Rental, Apollonia`,
+    fr: `Cher/Chère ${name}, concernant votre demande pour ${vehicle}${partySize && partySize > 1 ? ` pour ${partySize} personnes` : ""}, pour ${dates}.\n\nNous vérifions la disponibilité et confirmerons bientôt.\nArtemis Rental, Apollonia`,
+    de: `Liebe/r ${name}, bezüglich Ihrer Anfrage für ${vehicle}${partySize && partySize > 1 ? ` für ${partySize} Personen` : ""}, für ${dates}.\n\nWir prüfen die Verfügbarkeit und melden uns in Kürze.\nArtemis Rental, Apollonia`,
+    sv: `Hej ${name}, angående din förfrågan om ${vehicle}${partySize && partySize > 1 ? ` för ${partySize} personer` : ""}, för ${dates}.\n\nVi kontrollerar tillgängligheten och återkommer snart.\nArtemis Rental, Apollonia`,
+    nl: `Beste ${name}, betreffende uw aanvraag voor ${vehicle}${partySize && partySize > 1 ? ` voor ${partySize} personen` : ""}, voor ${dates}.\n\nWe controleren de beschikbaarheid en bevestigen binnenkort.\nArtemis Rental, Apollonia`,
+  };
+
+  return templates[locale] ?? templates.en;
+}
+
+/** Normalize a guest phone for wa.me (digits only, with GR country code when needed). */
+export function phoneToWhatsAppDigits(phone: string): string | null {
+  let digits = phone.replace(/\D/g, "");
+  if (digits.length < 8) return null;
+  if (digits.startsWith("00")) digits = digits.slice(2);
+  if (digits.startsWith("0") && digits.length >= 10) {
+    digits = `30${digits.slice(1)}`;
+  } else if (digits.startsWith("69") && digits.length === 10) {
+    digits = `30${digits}`;
+  }
+  return digits;
 }

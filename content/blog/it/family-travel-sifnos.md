@@ -4,7 +4,7 @@ title: "Viaggiare in famiglia a Sifnos: perché l'auto aiuta"
 description: "Consigli pratici per famiglie che noleggiano un'auto a Sifnos con Artemis: seggiolini, spiagge e logistica dei sonnellini."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/family-travel-sifnos.jpg"
+cover: "/images/blog/family-travel-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [family, cars, beaches]
 related: [driving-in-sifnos, sifnos-beaches-by-car, rent-a-car-sifnos-2026]

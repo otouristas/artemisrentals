@@ -4,7 +4,7 @@ title: "Prezzi noleggio auto a Sifnos 2026: tariffe stagionali spiegate"
 description: "Come funzionano i prezzi stagionali Artemis a Sifnos, dalla mezza stagione al picco di luglio, senza anticipo per la richiesta."
 datePublished: "2026-07-02"
 dateModified: "2026-07-12"
-cover: "/images/blog/sifnos-car-rental-prices.jpg"
+cover: "/images/blog/sifnos-car-rental-prices-cover.jpg"
 author: "Artemis Rental"
 tags: [prices, cars, planning]
 related: [driving-in-sifnos, rent-a-car-sifnos-2026, best-time-visit-sifnos]

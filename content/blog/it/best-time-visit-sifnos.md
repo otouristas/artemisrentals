@@ -4,7 +4,7 @@ title: "Periodo migliore per visitare Sifnos: guida e nuoto"
 description: "Quando meteo, mare e disponibilità Artemis a Sifnos si allineano, dalla mezza stagione al picco di agosto."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/best-time-visit-sifnos.jpg"
+cover: "/images/blog/best-time-visit-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [season, weather, planning]
 related: [sifnos-car-rental-prices, sifnos-vs-milos, rent-a-car-sifnos-2026]

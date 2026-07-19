@@ -4,7 +4,7 @@ title: "Οικογενειακό ταξίδι στη Σίφνο: γιατί βο
 description: "Πρακτικές συμβουλές για οικογένειες που ενοικιάζουν αυτοκίνητο στη Σίφνο με την Artemis."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/family-travel-sifnos.jpg"
+cover: "/images/blog/family-travel-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [οικογένεια, αυτοκίνητα, παραλίες]
 related: [driving-in-sifnos, sifnos-beaches-by-car, rent-a-car-sifnos-2026]

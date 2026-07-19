@@ -137,7 +137,7 @@
     "message": "Message",
     "submit": "Send enquiry",
     "sending": "Sending…",
-    "success": "Thank you. Your enquiry is on its way. We will reply shortly.",
+    "success": "Thank you. Your enquiry is on its way. We will get back to you as soon as possible.",
     "error": "Something went wrong. Please call us or try again.",
     "whatsapp": "WhatsApp us",
     "call": "Call the office",
@@ -200,7 +200,8 @@
     "stepReviewLead": "Check the summary, then send your enquiry.",
     "estimatedTotal": "Estimated total ~€{total}",
     "estimateLabel": "Estimated total",
-    "estimateDisclaimer": "Indicative price only. We confirm the final rate and availability by phone, WhatsApp, or email."
+    "estimateDisclaimer": "Indicative price only. We confirm the final rate and availability by phone, WhatsApp, or email.",
+    "whatsappAckHint": "If you use WhatsApp, we also send a short confirmation to your phone from Artemis. No WhatsApp is fine — we still reply by email or phone."
   },
   "Guide": {
     "title": "Sifnos Guide",
@@ -272,7 +273,7 @@
     "title": "Touristas AI",
     "subtitle": "Cars, scooters, rates & Sifnos tips",
     "statusOnline": "Online for Artemis guests",
-    "statusLive": "Live · Sifnos concierge",
+    "statusLive": "Sifnos concierge",
     "poweredBy": "Powered by",
     "poweredBrand": "Touristas.ai",
     "placeholder": "Ask about vehicles, rates, booking, or Sifnos…",
@@ -292,7 +293,7 @@
     "tipFerry": "Kamares pickup",
     "tipBeaches": "Beaches by car",
     "send": "Send",
-    "greeting": "Hi, I am Touristas AI for Artemis Rental. I can help you choose a car or scooter, answer Sifnos questions, and take a booking enquiry step by step: dates, people, then your name, email and phone.",
+    "greeting": "Hi, I am Touristas for Artemis Rental in Apollonia. Ask me to pick a car or scooter, check rates or pickup, or get a quick Sifnos tip. When you are ready, I can send an enquiry to the desk.",
     "suggestBook": "I want to book a vehicle",
     "suggestFleet": "Which car fits a family of four?",
     "suggestDates": "Car from 19-23 July",

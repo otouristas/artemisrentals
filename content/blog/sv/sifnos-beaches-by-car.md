@@ -4,7 +4,7 @@ title: "Bästa Sifnos-stränderna du når med bil"
 description: "En förarguide till Sifnos stränder: Platis Gialos, Vathi, Chrissopigi och lugnare vikar med parkeringstips från Artemis."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
-cover: "/images/blog/sifnos-beaches-by-car.jpg"
+cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [beaches, driving, itinerary]
 related: [kamares-port-arrival-guide, 3-day-sifnos-itinerary, sifnos-hiking-trails-by-car]

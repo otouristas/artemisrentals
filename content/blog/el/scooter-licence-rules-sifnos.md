@@ -4,7 +4,7 @@ title: "Άδεια οδήγησης για scooter στη Σίφνο"
 description: "Άδεια, ηλικία και πρακτικοί κανόνες για ενοικίαση scooter."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/scooter-licence-rules-sifnos.jpg"
+cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [scooter, άδεια, κανόνες]
 related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]

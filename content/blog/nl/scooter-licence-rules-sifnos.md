@@ -4,7 +4,7 @@ title: "Scooter rijbewijsregels voor huren op Sifnos"
 description: "Rijbewijs, leeftijd en praktische regels voor scooterverhuur bij Artemis op Sifnos."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/scooter-licence-rules-sifnos.jpg"
+cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [scooters, licence, rules]
 related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]

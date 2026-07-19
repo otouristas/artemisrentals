@@ -4,7 +4,7 @@ title: "Guidare a Sifnos: strade, parcheggi e consigli locali"
 description: "Cosa aspettarsi alla guida a Sifnos: corsie strette, salite, parcheggio alle spiagge e pickup Artemis ad Apollonia."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
-cover: "/images/blog/driving-in-sifnos.jpg"
+cover: "/images/blog/driving-in-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [driving, safety, planning]
 related: [sifnos-car-rental-prices, scooter-licence-rules-sifnos, family-travel-sifnos]

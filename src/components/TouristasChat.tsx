@@ -17,7 +17,12 @@ import type {
   LocalChatReply,
 } from "@/lib/touristas-local";
 
-const STARTER_KEYS = ["suggestBook", "suggestFleet", "suggestDates", "suggestGuide"] as const;
+const STARTER_KEYS = [
+  "suggestBook",
+  "suggestScooter",
+  "suggestFleet",
+  "suggestPickup",
+] as const;
 
 const TOURISTAS_AI_URL = "https://touristas.ai";
 const DRAFT_STORAGE_KEY = "artemis-touristas-draft";
@@ -370,7 +375,8 @@ export function TouristasChat({
       const url = whatsappUrl(
         buildWhatsAppEnquiryText({
           locale: locale as "en" | "el" | "it" | "fr" | "de" | "sv" | "nl",
-          vehicleName: d.vehicleName,
+          name: d.name,
+          vehicleName: d.vehicleName || (d.category === "scooter" ? "scooter" : d.category === "car" ? "car" : undefined),
           from: d.from,
           to: d.to,
           partySize: d.partySize,
@@ -488,7 +494,7 @@ export function TouristasChat({
                 {t("greeting")}
               </div>
 
-              {messages.length === 0 && (
+              {messages.length === 0 && !draft.bookingActive && (
                 <div className="flex flex-wrap gap-2 pt-1">
                   {STARTER_KEYS.map((key) => (
                     <button

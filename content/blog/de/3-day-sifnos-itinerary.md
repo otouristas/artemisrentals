@@ -4,7 +4,7 @@ title: "3-Tage-Sifnos-Reiseplan mit Mietwagen"
 description: "Ein praktischer 3-Tage-Plan für Sifnos mit Auto oder Scooter ab Apollonia."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/3-day-sifnos-itinerary.jpg"
+cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"
 author: "Artemis Rental"
 tags: [itinerary, planning, beaches]
 related: [sifnos-beaches-by-car, sifnos-hiking-trails-by-car, apollonia-vs-kamares-stay]

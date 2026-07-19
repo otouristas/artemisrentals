@@ -187,7 +187,7 @@ export async function renderOgImage({
           }}
         >
           <span>{subtitle}</span>
-          <span style={{ color: "#c9833a" }}>artemisrental.gr</span>
+          <span style={{ color: "#c9833a" }}>rentacarsifnos.com</span>
         </div>
       </div>
     ),

@@ -4,7 +4,7 @@ title: "Conduire à Sifnos: routes, parking et conseils locaux"
 description: "À quoi s'attendre en conduisant à Sifnos: voies étroites, côtes, parking aux plages et prise en charge Artemis à Apollonia."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
-cover: "/images/blog/driving-in-sifnos.jpg"
+cover: "/images/blog/driving-in-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [driving, safety, planning]
 related: [sifnos-car-rental-prices, scooter-licence-rules-sifnos, family-travel-sifnos]

@@ -4,7 +4,7 @@ title: "3ήμερο στη Σίφνο με ενοικιαζόμενο"
 description: "Πρακτικό 3ήμερο στη Σίφνο με βάση την Απολλωνία."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/3-day-sifnos-itinerary.jpg"
+cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"
 author: "Artemis Rental"
 tags: [δρομολόγιο, σχεδιασμός, παραλίες]
 related: [sifnos-beaches-by-car, sifnos-hiking-trails-by-car, apollonia-vs-kamares-stay]

@@ -4,7 +4,7 @@ title: "Prix location voiture à Sifnos 2026: tarifs saisonniers expliqués"
 description: "Comment fonctionnent les prix saisonniers Artemis à Sifnos, de l'intersaison au pic de juillet, sans acompte pour la demande."
 datePublished: "2026-07-02"
 dateModified: "2026-07-12"
-cover: "/images/blog/sifnos-car-rental-prices.jpg"
+cover: "/images/blog/sifnos-car-rental-prices-cover.jpg"
 author: "Artemis Rental"
 tags: [prices, cars, planning]
 related: [driving-in-sifnos, rent-a-car-sifnos-2026, best-time-visit-sifnos]

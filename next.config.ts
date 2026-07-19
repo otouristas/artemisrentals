@@ -17,6 +17,10 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
+        hostname: "rentacarsifnos.com",
+      },
+      {
+        protocol: "https",
         hostname: "artemisrental.gr",
       },
       {

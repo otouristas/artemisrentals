@@ -4,7 +4,7 @@ title: "Driving in Sifnos: roads, parking, and local tips"
 description: "What to expect when driving on Sifnos, narrow lanes, hill grades, parking at beaches, and how Artemis pickup in Apollonia helps."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
-cover: "/images/blog/driving-in-sifnos.jpg"
+cover: "/images/blog/driving-in-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [driving, safety, planning]
 related: [sifnos-car-rental-prices, scooter-licence-rules-sifnos, family-travel-sifnos]

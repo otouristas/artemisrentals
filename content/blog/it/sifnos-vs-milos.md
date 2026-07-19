@@ -4,7 +4,7 @@ title: "Sifnos vs Milos: quale isola fa al caso tuo?"
 description: "Confronta Sifnos e Milos per una vacanza nelle Cicladi: ritmo, spiagge, guida e quando il noleggio Artemis a Sifnos è la base migliore."
 datePublished: "2026-07-08"
 dateModified: "2026-07-16"
-cover: "/images/blog/sifnos-vs-milos.jpg"
+cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [planning, cyclades, comparison]
 related: [best-time-visit-sifnos, sifnos-beaches-by-car, 3-day-sifnos-itinerary]

@@ -4,7 +4,7 @@ title: "Απολλωνία ή Καμάρες;"
 description: "Πού να βάλετε βάση στη Σίφνο αν σκοπεύετε να ενοικιάσετε αυτοκίνητο ή scooter."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/apollonia-vs-kamares-stay.jpg"
+cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"
 author: "Artemis Rental"
 tags: [απολλωνία, καμάρες, διαμονή]
 related: [kamares-port-arrival-guide, 3-day-sifnos-itinerary, sifnos-beaches-by-car]

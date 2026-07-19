@@ -4,7 +4,7 @@ title: "Beste tijd om Sifnos te bezoeken voor rijden en zwemmen"
 description: "Wanneer weer, zwemmen en Artemis-verhuurbeschikbaarheid op Sifnos samenvallen, van schoudermanden tot piek augustus."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/best-time-visit-sifnos.jpg"
+cover: "/images/blog/best-time-visit-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [season, weather, planning]
 related: [sifnos-car-rental-prices, sifnos-vs-milos, rent-a-car-sifnos-2026]

@@ -4,7 +4,7 @@ title: "Sentieri di trekking a Sifnos raggiungibili in auto"
 description: "Trailhead e passeggiate giornaliere a Sifnos: parcheggia con Artemis, cammina sui sentieri antichi, torna ad Apollonia per cena."
 datePublished: "2026-07-10"
 dateModified: "2026-07-18"
-cover: "/images/blog/sifnos-hiking-trails-by-car.jpg"
+cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [hiking, trails, driving]
 related: [sifnos-beaches-by-car, driving-in-sifnos, family-travel-sifnos]

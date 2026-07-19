@@ -4,7 +4,7 @@ title: "Auto huren op Sifnos 2026: prijzen, tips en ophalen"
 description: "Wat je moet weten voor je een auto huurt op Sifnos in 2026: seizoensprijzen, ophalen in Apollonia en hoe je bij Artemis een aanvraag doet."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/rent-a-car-sifnos-2026.jpg"
+cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
 author: "Artemis Rental"
 tags: [cars, 2026, booking]
 related: [sifnos-car-rental-prices, driving-in-sifnos, kamares-port-arrival-guide]

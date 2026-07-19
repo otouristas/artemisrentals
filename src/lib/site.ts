@@ -1,6 +1,6 @@
 import business from "../../content/data/business.json";
 
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://artemisrental.gr";
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://rentacarsifnos.com";
 
 export { business };
 
@@ -15,9 +15,14 @@ export function tripPlannerUrl(locale: string, prompt?: string) {
   return url.toString();
 }
 
+/** Prefer NEXT_PUBLIC_WHATSAPP for local testing overrides. */
+export function whatsappPhoneDigits() {
+  const raw = process.env.NEXT_PUBLIC_WHATSAPP || business.whatsapp;
+  return raw.replace(/\D/g, "");
+}
+
 export function whatsappUrl(text?: string) {
-  const phone = business.whatsapp.replace(/\D/g, "");
-  const url = new URL(`https://wa.me/${phone}`);
+  const url = new URL(`https://wa.me/${whatsappPhoneDigits()}`);
   if (text) url.searchParams.set("text", text);
   return url.toString();
 }

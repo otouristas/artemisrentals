@@ -4,7 +4,7 @@ title: "Best Sifnos beaches to reach by car"
 description: "A driver's guide to Sifnos beaches, Platis Gialos, Vathi, Chrissopigi, and quieter coves with parking tips from Artemis."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
-cover: "/images/blog/sifnos-beaches-by-car.jpg"
+cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [beaches, driving, itinerary]
 related: [kamares-port-arrival-guide, 3-day-sifnos-itinerary, sifnos-hiking-trails-by-car]

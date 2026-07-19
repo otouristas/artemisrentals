@@ -10,6 +10,7 @@ import { MobileBookBar } from "@/components/MobileBookBar";
 import { TouristasFloatingChat } from "@/components/TouristasFloatingChat";
 import { WhatsAppFab } from "@/components/WhatsAppFab";
 import { Analytics } from "@/components/Analytics";
+import { AnalyticsEvents } from "@/components/AnalyticsEvents";
 import { CookieBanner } from "@/components/CookieBanner";
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { JsonLd } from "@/components/JsonLd";
@@ -76,6 +77,7 @@ export default async function LocaleLayout({
           <TouristasFloatingChat locale={locale} />
           <CookieBanner />
           <Analytics />
+          <AnalyticsEvents />
           <Suspense fallback={null}>
             <ScrollToTop />
           </Suspense>

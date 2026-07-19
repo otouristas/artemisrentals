@@ -4,7 +4,7 @@ title: "Köra på Sifnos: vägar, parkering och lokala tips"
 description: "Vad du kan vänta dig när du kör på Sifnos: smala vägar, backar, strandparkering och hur Artemis upphämtning i Apollonia hjälper."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
-cover: "/images/blog/driving-in-sifnos.jpg"
+cover: "/images/blog/driving-in-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [driving, safety, planning]
 related: [sifnos-car-rental-prices, scooter-licence-rules-sifnos, family-travel-sifnos]

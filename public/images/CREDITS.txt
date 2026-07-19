@@ -1,21 +1,35 @@
 Image credits for Artemis Rental (artemisrental.gr)
 
-Blog covers (public/images/blog/) are derived from on-site Sifnos, fleet, and guide photography
-already used elsewhere on artemisrental.gr (not generic Unsplash travel stock):
+Blog covers (public/images/blog/) — regenerated from on-site Sifnos photography
+and Artemis brand/fleet assets (not generic Unsplash travel stock):
 
 - 3-day-sifnos-itinerary.jpg ← sifnos/villages/apollonia
-- apollonia-vs-kamares-stay.jpg ← sifnos/beaches/kamares
+- apollonia-vs-kamares-stay.jpg ← sifnos/villages/artemonas
 - best-time-visit-sifnos.jpg ← sifnos/beaches/faros
-- driving-in-sifnos.jpg ← guide/getting-around
+- driving-in-sifnos.jpg ← brand/artemis-cars
 - family-travel-sifnos.jpg ← sifnos/beaches/plats-gialos
-- kamares-port-arrival-guide.jpg ← guide/kamares-port
-- rent-a-car-sifnos-2026.jpg ← fleet/sifnos-car-rentals
-- scooter-licence-rules-sifnos.jpg ← fleet/SYM-Symphony-125
+- kamares-port-arrival-guide.jpg ← sifnos/beaches/kamares
+- rent-a-car-sifnos-2026.jpg ← brand/hero-sifnos
+- scooter-licence-rules-sifnos.jpg ← brand/artemis-motos
 - sifnos-beaches-by-car.jpg ← sifnos/beaches/vathi
 - sifnos-car-rental-prices.jpg ← fleet/suzuki-ignis
-- sifnos-hiking-trails-by-car.jpg ← sifnos/villages/kastro
+- sifnos-hiking-trails-by-car-cover.jpg ← sifnos/beaches/fykiada
 - sifnos-vs-milos.jpg ← sifnos/beaches/chrysopigi
 
-Guide covers (public/images/guide/) and sifnos/* photography: site content assets.
+Guide covers (public/images/guide/) — same Sifnos / brand sources:
+
+- apollonia-artemonas.jpg ← sifnos/villages/apollonia
+- beaches.jpg ← sifnos/beaches/plats-gialos
+- ferries.jpg ← sifnos/beaches/kamares
+- food-pottery.jpg ← sifnos/beaches/heronissos
+- getting-around.jpg ← brand/artemis-cars
+- how-to-get-there.jpg ← brand/hero-sifnos
+- kamares-port.jpg ← sifnos/beaches/kamares
+- overview.jpg ← sifnos/beaches/vathi
+- practical-tips.jpg ← sifnos/beaches/vroulidia
+- things-to-do.jpg ← sifnos/beaches/chrysopigi
+- where-to-stay.jpg ← sifnos/villages/artemonas
+
 Brand photography in public/images/brand/ remains Artemis Rental property.
 Fleet vehicle images in public/images/fleet/ remain Artemis Rental property.
+Sifnos beach/village photography in public/images/sifnos/ is site content.

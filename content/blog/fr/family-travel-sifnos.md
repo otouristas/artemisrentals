@@ -4,7 +4,7 @@ title: "Voyager en famille à Sifnos: pourquoi une voiture aide"
 description: "Conseils pratiques pour les familles qui louent une voiture à Sifnos avec Artemis: sièges, plages et logistique des siestes."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/family-travel-sifnos.jpg"
+cover: "/images/blog/family-travel-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [family, cars, beaches]
 related: [driving-in-sifnos, sifnos-beaches-by-car, rent-a-car-sifnos-2026]

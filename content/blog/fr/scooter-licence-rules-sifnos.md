@@ -4,7 +4,7 @@ title: "Permis et règles pour louer un scooter à Sifnos"
 description: "Permis, âge et règles pratiques pour la location de scooter avec Artemis à Sifnos."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/scooter-licence-rules-sifnos.jpg"
+cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [scooters, licence, rules]
 related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]

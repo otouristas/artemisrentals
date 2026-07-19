@@ -4,7 +4,7 @@ title: "Stay in Apollonia or Kamares?"
 description: "Where to base yourself on Sifnos if you plan to rent a car or scooter with Artemis."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/apollonia-vs-kamares-stay.jpg"
+cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"
 author: "Artemis Rental"
 tags: [apollonia, kamares, accommodation]
 related: [kamares-port-arrival-guide, 3-day-sifnos-itinerary, sifnos-beaches-by-car]

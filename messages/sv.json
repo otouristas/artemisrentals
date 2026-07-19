@@ -137,7 +137,7 @@
     "message": "Meddelande",
     "submit": "Skicka förfrågan",
     "sending": "Skickar…",
-    "success": "Tack. Din förfrågan är på väg. Vi svarar snart.",
+    "success": "Tack. Din förfrågan är på väg. Vi återkommer så snart som möjligt.",
     "error": "Något gick fel. Ring oss eller försök igen.",
     "whatsapp": "WhatsAppa oss",
     "call": "Ring kontoret",
@@ -200,7 +200,8 @@
     "stepReviewLead": "Kontrollera sammanfattningen och skicka sedan din förfrågan.",
     "estimatedTotal": "Uppskattad total ~€{total}",
     "estimateLabel": "Uppskattad total",
-    "estimateDisclaimer": "Endast indikativt pris. Vi bekräftar slutpris och tillgänglighet via telefon, WhatsApp eller e-post."
+    "estimateDisclaimer": "Endast indikativt pris. Vi bekräftar slutpris och tillgänglighet via telefon, WhatsApp eller e-post.",
+    "whatsappAckHint": "Om du har WhatsApp skickar Artemis även en kort bekräftelse till din telefon. Inget WhatsApp går bra — vi svarar via e-post eller telefon."
   },
   "Guide": {
     "title": "Sifnos-guide",
@@ -272,7 +273,7 @@
     "title": "Touristas AI",
     "subtitle": "Bilar, scootrar, priser & Sifnos-tips",
     "statusOnline": "Online för Artemis-gäster",
-    "statusLive": "Live · Sifnos-concierge",
+    "statusLive": "Sifnos-concierge",
     "poweredBy": "Drivs av",
     "poweredBrand": "Touristas.ai",
     "placeholder": "Fråga om fordon, priser eller att ta dig runt…",
@@ -288,7 +289,7 @@
     "tipFerry": "Hämtning i Kamares",
     "tipBeaches": "Stränder med bil",
     "send": "Skicka",
-    "greeting": "Hej, jag är Touristas AI för Artemis Rental. Jag svarar bara utifrån vår lokala flotta, priser och FAQ på Sifnos. Fråga om bilar, scootrar, priser eller hämtning så visar jag Boknings- och WhatsApp-kort.",
+    "greeting": "Hej, jag är Touristas för Artemis Rental i Apollonia. Fråga om bil eller scooter, priser eller hämtning, eller ett snabbt Sifnos-tips. När du är redo kan jag skicka en förfrågan till disken.",
     "suggestFleet": "Vilken bil passar en familj på fyra?",
     "suggestRates": "Vad kostar en kompaktbil i augusti?",
     "suggestPickup": "Kan jag hämta vid Kamares hamn?",

@@ -137,7 +137,7 @@
     "message": "Bericht",
     "submit": "Aanvraag versturen",
     "sending": "Versturen…",
-    "success": "Dank je. Je aanvraag is onderweg. Wij antwoorden spoedig.",
+    "success": "Dank je. Je aanvraag is onderweg. We nemen zo snel mogelijk contact op.",
     "error": "Er ging iets mis. Bel ons of probeer het opnieuw.",
     "whatsapp": "WhatsApp ons",
     "call": "Bel het kantoor",
@@ -200,7 +200,8 @@
     "stepReviewLead": "Controleer de samenvatting en stuur daarna je aanvraag.",
     "estimatedTotal": "Geschat totaal ~€{total}",
     "estimateLabel": "Geschat totaal",
-    "estimateDisclaimer": "Alleen indicatieve prijs. Wij bevestigen het uiteindelijke tarief en beschikbaarheid via telefoon, WhatsApp of e-mail."
+    "estimateDisclaimer": "Alleen indicatieve prijs. Wij bevestigen het uiteindelijke tarief en beschikbaarheid via telefoon, WhatsApp of e-mail.",
+    "whatsappAckHint": "Als je WhatsApp gebruikt, sturen we ook een korte bevestiging van Artemis. Geen WhatsApp is oké — we antwoorden via e-mail of telefoon."
   },
   "Guide": {
     "title": "Sifnos-gids",
@@ -272,7 +273,7 @@
     "title": "Touristas AI",
     "subtitle": "Auto’s, scooters, prijzen & Sifnos-tips",
     "statusOnline": "Online voor Artemis-gasten",
-    "statusLive": "Live · Sifnos-concierge",
+    "statusLive": "Sifnos-concierge",
     "poweredBy": "Aangedreven door",
     "poweredBrand": "Touristas.ai",
     "placeholder": "Vraag over voertuigen, prijzen of rondkomen…",
@@ -288,7 +289,7 @@
     "tipFerry": "Ophalen in Kamares",
     "tipBeaches": "Stranden met de auto",
     "send": "Versturen",
-    "greeting": "Hoi, ik ben Touristas AI voor Artemis Rental. Ik antwoord alleen vanuit ons lokale wagenpark, prijzen en FAQ’s op Sifnos. Vraag naar auto’s, scooters, prijzen of ophalen en ik toon Boek- en WhatsApp-kaarten.",
+    "greeting": "Hoi, ik ben Touristas voor Artemis Rental in Apollonia. Vraag me om een auto of scooter, tarieven of ophalen, of een snelle Sifnos-tip. Als u klaar bent, stuur ik een aanvraag naar de balie.",
     "suggestFleet": "Welke auto past bij een gezin van vier?",
     "suggestRates": "Wat kost een compacte auto in augustus?",
     "suggestPickup": "Kan ik ophalen bij haven Kamares?",

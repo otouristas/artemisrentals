@@ -137,7 +137,7 @@
     "message": "Nachricht",
     "submit": "Anfrage senden",
     "sending": "Wird gesendet…",
-    "success": "Danke. Ihre Anfrage ist unterwegs. Wir melden uns in Kürze.",
+    "success": "Danke. Ihre Anfrage ist unterwegs. Wir melden uns so schnell wie möglich.",
     "error": "Etwas ist schiefgelaufen. Bitte rufen Sie uns an oder versuchen Sie es erneut.",
     "whatsapp": "WhatsApp schreiben",
     "call": "Büro anrufen",
@@ -200,7 +200,8 @@
     "stepReviewLead": "Prüfen Sie die Zusammenfassung und senden Sie dann Ihre Anfrage.",
     "estimatedTotal": "Geschätzter Gesamtpreis ~€{total}",
     "estimateLabel": "Geschätzter Gesamtpreis",
-    "estimateDisclaimer": "Nur Richtpreis. Endgültigen Tarif und Verfügbarkeit bestätigen wir per Telefon, WhatsApp oder E-Mail."
+    "estimateDisclaimer": "Nur Richtpreis. Endgültigen Tarif und Verfügbarkeit bestätigen wir per Telefon, WhatsApp oder E-Mail.",
+    "whatsappAckHint": "Wenn Sie WhatsApp nutzen, senden wir auch eine kurze Bestätigung von Artemis. Ohne WhatsApp ist das in Ordnung — wir antworten per E-Mail oder Telefon."
   },
   "Guide": {
     "title": "Sifnos-Guide",
@@ -272,7 +273,7 @@
     "title": "Touristas AI",
     "subtitle": "Autos, Roller, Preise & Sifnos-Tipps",
     "statusOnline": "Online für Artemis-Gäste",
-    "statusLive": "Live · Sifnos-Concierge",
+    "statusLive": "Sifnos-Concierge",
     "poweredBy": "Bereitgestellt von",
     "poweredBrand": "Touristas.ai",
     "placeholder": "Fragen zu Fahrzeugen, Preisen oder Fortbewegung…",
@@ -288,7 +289,7 @@
     "tipFerry": "Abholung in Kamares",
     "tipBeaches": "Strände mit dem Auto",
     "send": "Senden",
-    "greeting": "Hallo, ich bin Touristas AI für Artemis Rental. Ich antworte nur aus unserer lokalen Flotte, Preisen und FAQs zu Sifnos. Fragen Sie nach Autos, Rollern, Preisen oder Abholung, und ich zeige Buchungs- und WhatsApp-Karten.",
+    "greeting": "Hallo, ich bin Touristas für Artemis Rental in Apollonia. Fragen Sie nach Auto oder Scooter, Preisen oder Abholung, oder nach einem kurzen Sifnos-Tipp. Wenn Sie bereit sind, sende ich eine Anfrage an den Schalter.",
     "suggestFleet": "Welches Auto passt für eine vierköpfige Familie?",
     "suggestRates": "Was kostet ein Kompaktwagen im August?",
     "suggestPickup": "Kann ich am Hafen Kamares abholen?",

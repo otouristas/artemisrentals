@@ -24,6 +24,7 @@ export function BookingSummary({
   estimatedTotal,
   status,
   canSubmit,
+  whatsappHref,
   onSubmit,
 }: {
   state: BookingState;
@@ -31,6 +32,7 @@ export function BookingSummary({
   estimatedTotal: number | null;
   status: BookingStatus;
   canSubmit: boolean;
+  whatsappHref: string;
   onSubmit: () => void;
 }) {
   const t = useTranslations("Book");
@@ -89,19 +91,27 @@ export function BookingSummary({
           <p className="mt-2 text-xs leading-relaxed text-aegean/50">{t("estimateDisclaimer")}</p>
         </div>
 
-        <button
-          type="button"
-          onClick={onSubmit}
-          disabled={!canSubmit || status === "sending"}
-          className="btn-primary mt-6 w-full disabled:cursor-not-allowed disabled:opacity-50"
-        >
-          {status === "sending" ? t("sending") : t("submit")}
-        </button>
+        {status !== "success" && (
+          <button
+            type="button"
+            onClick={onSubmit}
+            disabled={!canSubmit || status === "sending"}
+            className="btn-primary mt-6 w-full disabled:cursor-not-allowed disabled:opacity-50"
+          >
+            {status === "sending" ? t("sending") : t("submit")}
+          </button>
+        )}
 
         {!canSubmit && status === "idle" && (
           <p className="mt-3 text-xs text-aegean/45">{t("fillRequired")}</p>
         )}
-        {status === "success" && <p className="mt-3 text-sm text-olive">{t("success")}</p>}
+
+        {status === "success" && (
+          <div className="mt-6 space-y-3">
+            <p className="text-sm text-olive">{t("success")}</p>
+            <p className="text-xs leading-relaxed text-aegean/55">{t("whatsappAckHint")}</p>
+          </div>
+        )}
         {status === "error" && <p className="mt-3 text-sm text-red-700">{t("error")}</p>}
 
         <div className="mt-8 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
@@ -112,7 +122,7 @@ export function BookingSummary({
             {business.phones[0].display}
           </a>
           <a
-            href={whatsappUrl("Hello Artemis, I would like to enquire about a rental.")}
+            href={whatsappHref || whatsappUrl()}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 font-medium text-aegean/70 underline-offset-4 transition hover:text-aegean hover:underline"

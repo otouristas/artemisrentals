@@ -4,7 +4,7 @@ title: "Sifnos vs Milos: vilken ö passar din resa?"
 description: "Jämför Sifnos och Milos för en Kykladersemester: tempo, stränder, körning och när Artemis-uthyrning på Sifnos är den bättre basen."
 datePublished: "2026-07-08"
 dateModified: "2026-07-16"
-cover: "/images/blog/sifnos-vs-milos.jpg"
+cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [planning, cyclades, comparison]
 related: [best-time-visit-sifnos, sifnos-beaches-by-car, 3-day-sifnos-itinerary]

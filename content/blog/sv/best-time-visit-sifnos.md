@@ -4,7 +4,7 @@ title: "Bästa tiden att besöka Sifnos för bilkörning och bad"
 description: "När väder, bad och Artemis uthyrningstider sammanfaller på Sifnos, från axelmånader till augustipeak."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/best-time-visit-sifnos.jpg"
+cover: "/images/blog/best-time-visit-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [season, weather, planning]
 related: [sifnos-car-rental-prices, sifnos-vs-milos, rent-a-car-sifnos-2026]

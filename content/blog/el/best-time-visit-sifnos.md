@@ -4,7 +4,7 @@ title: "Καλύτερη εποχή για Σίφνο: οδήγηση & κολύ
 description: "Πότε ο καιρός, το κολύμπι και η διαθεσιμότητα Artemis ευθυγραμμίζονται, από ενδιάμεσους μήνες έως Αύγουστο."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/best-time-visit-sifnos.jpg"
+cover: "/images/blog/best-time-visit-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [εποχή, καιρός, σχεδιασμός]
 related: [sifnos-car-rental-prices, sifnos-vs-milos, rent-a-car-sifnos-2026]

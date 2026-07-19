@@ -4,7 +4,7 @@ title: "Καλύτερες παραλίες Σίφνου με αυτοκίνητ
 description: "Οδηγός για παραλίες της Σίφνου, Πλατύς Γιαλός, Βαθύ, Χρυσοπηγή και ήσυχες ακρογιαλιές με tips parking από την Artemis."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
-cover: "/images/blog/sifnos-beaches-by-car.jpg"
+cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [παραλίες, οδήγηση, δρομολόγιο]
 related: [kamares-port-arrival-guide, 3-day-sifnos-itinerary, sifnos-hiking-trails-by-car]

@@ -4,7 +4,7 @@ title: "Sifnos car rental prices 2026: seasonal rates explained"
 description: "How Artemis seasonal car rental prices work on Sifnos, from shoulder months to peak July, with no prepayment to enquire."
 datePublished: "2026-07-02"
 dateModified: "2026-07-12"
-cover: "/images/blog/sifnos-car-rental-prices.jpg"
+cover: "/images/blog/sifnos-car-rental-prices-cover.jpg"
 author: "Artemis Rental"
 tags: [prices, cars, planning]
 related: [driving-in-sifnos, rent-a-car-sifnos-2026, best-time-visit-sifnos]

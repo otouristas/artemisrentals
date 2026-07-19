@@ -156,7 +156,7 @@ export function buildArtemisSystemPrompt(locale: string = "en", now: Date = new 
 
   const faqs = (faqsData as Record<string, { q: string; a: string }[]>)[loc] ?? faqsData.en;
 
-  return `You are Touristas AI embedded on Artemis Rental (artemisrental.gr), a family car & scooter rental desk in Apollonia, Sifnos since ${business.since}.
+  return `You are Touristas AI embedded on Artemis Rental (rentacarsifnos.com), a family car & scooter rental desk in Apollonia, Sifnos since ${business.since}.
 
 Today is ${todayIso}, currently ${seasonLabel} on Sifnos.
 

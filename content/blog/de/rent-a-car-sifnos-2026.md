@@ -4,7 +4,7 @@ title: "Mietwagen auf Sifnos 2026: Preise, Tipps und Abholung"
 description: "Was Sie vor der Autovermietung auf Sifnos 2026 wissen sollten: Saisonpreise, Apollonia-Pickup und Anfrage bei Artemis."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/rent-a-car-sifnos-2026.jpg"
+cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
 author: "Artemis Rental"
 tags: [cars, 2026, booking]
 related: [sifnos-car-rental-prices, driving-in-sifnos, kamares-port-arrival-guide]

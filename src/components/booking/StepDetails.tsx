@@ -19,6 +19,7 @@ export function StepDetails({
   vehicle,
   estimatedTotal,
   status,
+  whatsappHref,
   onChange,
   onBack,
   onSubmit,
@@ -27,6 +28,7 @@ export function StepDetails({
   vehicle: Vehicle | undefined;
   estimatedTotal: number | null;
   status: BookingStatus;
+  whatsappHref: string;
   onChange: (patch: Partial<BookingState>) => void;
   onBack: () => void;
   onSubmit: () => void;
@@ -195,6 +197,7 @@ export function StepDetails({
         estimatedTotal={estimatedTotal}
         status={status}
         canSubmit={canSubmit}
+        whatsappHref={whatsappHref}
         onSubmit={onSubmit}
       />
     </div>

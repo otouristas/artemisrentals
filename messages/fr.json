@@ -137,7 +137,7 @@
     "message": "Message",
     "submit": "Envoyer la demande",
     "sending": "Envoi…",
-    "success": "Merci. Votre demande est en route. Nous vous répondrons sous peu.",
+    "success": "Merci. Votre demande est en route. Nous vous recontacterons dès que possible.",
     "error": "Une erreur s'est produite. Appelez-nous ou réessayez.",
     "whatsapp": "Écrivez-nous sur WhatsApp",
     "call": "Appeler le bureau",
@@ -200,7 +200,8 @@
     "stepReviewLead": "Vérifiez le récapitulatif, puis envoyez votre demande.",
     "estimatedTotal": "Total estimé ~€{total}",
     "estimateLabel": "Total estimé",
-    "estimateDisclaimer": "Prix indicatif uniquement. Nous confirmons le tarif final et la disponibilité par téléphone, WhatsApp ou e-mail."
+    "estimateDisclaimer": "Prix indicatif uniquement. Nous confirmons le tarif final et la disponibilité par téléphone, WhatsApp ou e-mail.",
+    "whatsappAckHint": "Si vous utilisez WhatsApp, Artemis vous envoie aussi une courte confirmation. Sans WhatsApp, ce n’est pas grave — nous répondons par e-mail ou téléphone."
   },
   "Guide": {
     "title": "Guide de Sifnos",
@@ -272,7 +273,7 @@
     "title": "Touristas AI",
     "subtitle": "Voitures, scooters, tarifs et conseils Sifnos",
     "statusOnline": "En ligne pour les clients Artemis",
-    "statusLive": "Live · Concierge de Sifnos",
+    "statusLive": "Concierge de Sifnos",
     "poweredBy": "Powered by",
     "poweredBrand": "Touristas.ai",
     "placeholder": "Posez une question sur les véhicules, les tarifs ou les déplacements…",
@@ -288,7 +289,7 @@
     "tipFerry": "Prise en charge à Kamares",
     "tipBeaches": "Plages en voiture",
     "send": "Envoyer",
-    "greeting": "Bonjour, je suis Touristas AI pour Artemis Rental. Je réponds uniquement à partir de notre flotte locale à Sifnos, des tarifs et des FAQ. Demandez des voitures, scooters, tarifs ou une prise en charge et je vous montrerai les cartes Réserver et WhatsApp.",
+    "greeting": "Bonjour, je suis Touristas pour Artemis Rental à Apollonia. Demandez-moi une voiture ou un scooter, des tarifs ou une prise en charge, ou un conseil sur Sifnos. Quand vous êtes prêt, je peux envoyer une demande au bureau.",
     "suggestFleet": "Quelle voiture pour une famille de quatre ?",
     "suggestRates": "Combien coûte une voiture compacte en août ?",
     "suggestPickup": "Puis-je récupérer au port de Kamares ?",

@@ -2,6 +2,10 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { getAllVehicles, getVehicleBySlug, estimateRateForDate } from "@/lib/fleet";
+import { trackEvent } from "@/lib/analytics";
+import { whatsappUrl } from "@/lib/site";
+import { asLocale } from "@/lib/i18n-locale";
+import { buildWhatsAppEnquiryText } from "@/lib/whatsapp-enquiry";
 import { WizardProgress } from "./WizardProgress";
 import { StepVehicle } from "./StepVehicle";
 import { StepDates } from "./StepDates";
@@ -138,6 +142,20 @@ export function BookingWizard({
     goToStep(Math.max(1, step - 1) as BookingStep);
   }
 
+  /** Guest → desk link (manual). Auto ack is business → guest via Cloud API. */
+  function enquiryWhatsAppUrl() {
+    return whatsappUrl(
+      buildWhatsAppEnquiryText({
+        locale: asLocale(locale),
+        name: state.name.trim() || undefined,
+        vehicleName: selectedVehicle?.name,
+        from: state.from || undefined,
+        to: state.to || undefined,
+        partySize: state.partySize,
+      }),
+    );
+  }
+
   async function submit() {
     setStatus("sending");
     try {
@@ -161,7 +179,16 @@ export function BookingWizard({
           locale,
         }),
       });
-      setStatus(res.ok ? "success" : "error");
+      if (res.ok) {
+        trackEvent("generate_lead", {
+          method: "form",
+          vehicle: state.vehicle || undefined,
+          locale,
+        });
+        setStatus("success");
+      } else {
+        setStatus("error");
+      }
     } catch {
       setStatus("error");
     }
@@ -196,6 +223,7 @@ export function BookingWizard({
             vehicle={selectedVehicle}
             estimatedTotal={estimatedTotal}
             status={status}
+            whatsappHref={enquiryWhatsAppUrl()}
             onChange={updateState}
             onBack={goBack}
             onSubmit={submit}

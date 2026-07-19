@@ -4,7 +4,7 @@ title: "Familjeresa på Sifnos: därför hjälper en bil"
 description: "Praktiska råd för familjer som hyr bil på Sifnos hos Artemis: stolar, stränder och tupplurlogistik."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/family-travel-sifnos.jpg"
+cover: "/images/blog/family-travel-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [family, cars, beaches]
 related: [driving-in-sifnos, sifnos-beaches-by-car, rent-a-car-sifnos-2026]

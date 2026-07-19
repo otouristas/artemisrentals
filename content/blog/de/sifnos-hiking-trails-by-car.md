@@ -4,7 +4,7 @@ title: "Sifnos-Wanderwege, die Sie mit dem Auto erreichen"
 description: "Trailheads und Tageswanderungen auf Sifnos: parken mit Artemis-Miete, antike Pfade laufen, zurück nach Apollonia zum Abendessen."
 datePublished: "2026-07-10"
 dateModified: "2026-07-18"
-cover: "/images/blog/sifnos-hiking-trails-by-car.jpg"
+cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [hiking, trails, driving]
 related: [sifnos-beaches-by-car, driving-in-sifnos, family-travel-sifnos]

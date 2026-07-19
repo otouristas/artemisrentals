@@ -137,7 +137,7 @@
     "message": "Messaggio",
     "submit": "Invia richiesta",
     "sending": "Invio in corso…",
-    "success": "Grazie. La tua richiesta è in arrivo. Ti risponderemo a breve.",
+    "success": "Grazie. La tua richiesta è in arrivo. Ti risponderemo il prima possibile.",
     "error": "Qualcosa è andato storto. Chiamaci o riprova.",
     "whatsapp": "Scrivici su WhatsApp",
     "call": "Chiama l'ufficio",
@@ -200,7 +200,8 @@
     "stepReviewLead": "Controlla il riepilogo, poi invia la richiesta.",
     "estimatedTotal": "Totale stimato ~€{total}",
     "estimateLabel": "Totale stimato",
-    "estimateDisclaimer": "Prezzo solo indicativo. Confermamo tariffa finale e disponibilità per telefono, WhatsApp o email."
+    "estimateDisclaimer": "Prezzo solo indicativo. Confermamo tariffa finale e disponibilità per telefono, WhatsApp o email.",
+    "whatsappAckHint": "Se usi WhatsApp, riceverai anche una breve conferma sul telefono da Artemis. Senza WhatsApp va bene — rispondiamo via email o telefono."
   },
   "Guide": {
     "title": "Guida di Sifnos",
@@ -272,7 +273,7 @@
     "title": "Touristas AI",
     "subtitle": "Auto, scooter, tariffe e consigli su Sifnos",
     "statusOnline": "Online per gli ospiti Artemis",
-    "statusLive": "Live · Concierge di Sifnos",
+    "statusLive": "Concierge di Sifnos",
     "poweredBy": "Powered by",
     "poweredBrand": "Touristas.ai",
     "placeholder": "Chiedi di veicoli, tariffe o come spostarsi…",
@@ -288,7 +289,7 @@
     "tipFerry": "Ritiro a Kamares",
     "tipBeaches": "Spiagge in auto",
     "send": "Invia",
-    "greeting": "Ciao, sono Touristas AI per Artemis Rental. Rispondo solo con i dati locali di flotta, tariffe e FAQ di Sifnos. Chiedi di auto, scooter, tariffe o ritiro e ti mostrerò le schede Prenota e WhatsApp.",
+    "greeting": "Ciao, sono Touristas per Artemis Rental ad Apollonia. Chiedimi un'auto o uno scooter, tariffe o ritiro, o un consiglio su Sifnos. Quando sei pronto, posso inviare una richiesta allo sportello.",
     "suggestFleet": "Quale auto va bene per una famiglia di quattro?",
     "suggestRates": "Quanto costa un'auto compatta ad agosto?",
     "suggestPickup": "Posso ritirare al porto di Kamares?",

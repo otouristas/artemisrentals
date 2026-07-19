@@ -4,7 +4,7 @@ title: "Louer une voiture à Sifnos 2026: prix, conseils et prise en charge"
 description: "Ce qu'il faut savoir avant de louer une voiture à Sifnos en 2026: prix saisonniers, prise en charge à Apollonia et demande auprès d'Artemis."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/rent-a-car-sifnos-2026.jpg"
+cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
 author: "Artemis Rental"
 tags: [cars, 2026, booking]
 related: [sifnos-car-rental-prices, driving-in-sifnos, kamares-port-arrival-guide]

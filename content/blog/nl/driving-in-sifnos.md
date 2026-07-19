@@ -4,7 +4,7 @@ title: "Rijden op Sifnos: wegen, parkeren en lokale tips"
 description: "Wat je kunt verwachten bij rijden op Sifnos: smalle lanen, hellingen, strandparkeren en hoe Artemis-ophalen in Apollonia helpt."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
-cover: "/images/blog/driving-in-sifnos.jpg"
+cover: "/images/blog/driving-in-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [driving, safety, planning]
 related: [sifnos-car-rental-prices, scooter-licence-rules-sifnos, family-travel-sifnos]

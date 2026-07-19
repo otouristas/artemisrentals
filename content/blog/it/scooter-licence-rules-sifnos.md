@@ -4,7 +4,7 @@ title: "Patente e regole per noleggiare uno scooter a Sifnos"
 description: "Patente, età e regole pratiche per il noleggio scooter con Artemis a Sifnos."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
-cover: "/images/blog/scooter-licence-rules-sifnos.jpg"
+cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [scooters, licence, rules]
 related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]
