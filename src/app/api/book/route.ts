@@ -9,6 +9,7 @@ import {
 } from "@/lib/enquiry-email";
 import { sendWhatsAppGuestAck } from "@/lib/whatsapp-cloud";
 import { submitToFormspree } from "@/lib/formspree";
+import { persistBookingRequest } from "@/lib/persist-booking-request";
 
 const pickupEnum = z.enum(ALL_CAR_PICKUPS);
 
@@ -49,6 +50,25 @@ export async function POST(req: Request) {
   const data = parsed.data;
   const locale = asLocale(data.locale);
   const payload = { ...data, locale };
+
+  // Persist to CRM inbox when enabled (local testing); soft-fails so emails still send
+  const requestPersist = await persistBookingRequest({
+    name: data.name,
+    email: data.email,
+    phone: data.phone,
+    vehicle: data.vehicle,
+    pickup: data.pickup,
+    returnDate: data.returnDate,
+    pickupLocation: data.pickupLocation,
+    returnLocation: data.returnLocation,
+    childSeat: data.childSeat,
+    arrivalInfo: data.arrivalInfo,
+    partySize: data.partySize,
+    estimatedTotal: data.estimatedTotal,
+    message: data.message,
+    locale,
+    source: data.source ?? "website",
+  });
 
   // Global Formspree inbox (skip if the beautiful booking form already submitted client-side)
   let formspree: { ok: boolean } = { ok: true };
@@ -150,5 +170,6 @@ export async function POST(req: Request) {
     },
     whatsapp,
     formspree,
+    requestPersist,
   });
 }
