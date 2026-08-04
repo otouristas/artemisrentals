@@ -22,7 +22,7 @@ Sifnos huvudsakliga passagerarport är **Kamares** på västkusten. Det finns in
 
 ## Från Aten / Pireus
 
-Kolla live-alternativ på [Aten–Sifnos-färjor (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Kolla live-alternativ på [Aten–Sifnos-färjor (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 **Bokningstips**
 - Peak juli–augusti-helger säljer slut populära platser: boka tidigt.
@@ -53,4 +53,4 @@ Berätta:
 - Bil vs scooter-preferens
 - Om du vill ha **Kamares bilupphämtning**
 
-[Begär datum](/sv/book) · Använd [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) för färjemedvetna multiö-itinerarier.
+[Begär datum](/sv/book) · Använd [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) för färjemedvetna multiö-itinerarier.

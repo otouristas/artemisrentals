@@ -30,7 +30,7 @@ related:
 
 Les horaires oscillent fort entre hiver et août. Confirmez toujours le **retour** avant de bloquer des hôtels non remboursables.
 
-Options live Athènes–Sifnos: [page ferries Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Options live Athènes–Sifnos: [page ferries Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Pratique au Pirée
 
@@ -50,7 +50,7 @@ Les ferries relient aussi Sifnos à d’autres Cyclades (exemples selon saison: 
 
 1. Bloquez d’abord la **chaîne de ferries**
 2. Réservez les roues Artemis **uniquement pour les nuits à Sifnos**
-3. Utilisez [Touristas AI sur Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) pour planifier en tenant compte des ferries
+3. Utilisez [Touristas AI sur Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) pour planifier en tenant compte des ferries
 
 ## Synchroniser les horaires de location
 

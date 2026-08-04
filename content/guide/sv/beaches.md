@@ -193,4 +193,4 @@ Helt outvecklad sand, nåbar **bara till fots eller med båt**. Nära kapellet A
 
 Håll värdesaker utom synhåll, fyll bränsle före långa nordturer i peak och skriv till oss om du vill ha **Kamares-upphämtning** morgonen din färja lägger till. Bläddra [bilar](/sv/cars) och [scootrar](/sv/scooters), eller [begär datum](/sv/book).
 
-För live-ösidor och tidtabeller, se även [Sifnos på Discover Cyclades](https://discovercyclades.gr/en/sifnos) och [saker att göra](https://discovercyclades.gr/en/sifnos/things-to-do).
+För live-ösidor och tidtabeller, se även [Sifnos på Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) och [saker att göra](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

@@ -80,7 +80,7 @@ related:
 
 ## Boat days & island hopping
 
-Προγραμματίστε πρώτα τα ferry, μετά κλείστε Artemis **μόνο για τις νύχτες στη Σίφνο**. Βοηθά ο [Touristas AI](https://discovercyclades.gr/el/touristas-ai/chat?island=sifnos).
+Προγραμματίστε πρώτα τα ferry, μετά κλείστε Artemis **μόνο για τις νύχτες στη Σίφνο**. Βοηθά ο [Touristas AI](https://discovercyclades.gr/el/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Ενδεικτικό πρόγραμμα 4 ημερών
 
@@ -101,4 +101,4 @@ related:
 
 ## Έτοιμοι για κλειδιά;
 
-[Αίτημα ημερομηνιών](/el/book) · [Στόλος](/el/cars) · [Discover Cyclades – Σίφνος](https://discovercyclades.gr/el/sifnos/things-to-do)
+[Αίτημα ημερομηνιών](/el/book) · [Στόλος](/el/cars) · [Discover Cyclades – Σίφνος](https://discovercyclades.gr/el/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner)

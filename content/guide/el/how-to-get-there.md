@@ -30,7 +30,7 @@ related:
 
 Τα δρομολόγια αλλάζουν έντονα ανά εποχή. Επιβεβαιώστε πάντα την **επιστροφή**.
 
-Ζωντανά: [Ferry Αθήνα–Σίφνος (Discover Cyclades)](https://discovercyclades.gr/el/ferry-routes/direct/athens-piraeus-to-sifnos).
+Ζωντανά: [Ferry Αθήνα–Σίφνος (Discover Cyclades)](https://discovercyclades.gr/el/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Πειραιάς στην πράξη
 
@@ -46,7 +46,7 @@ related:
 
 ## Island hopping
 
-Αν η Σίφνος είναι μία στάση σε μεγαλύτερο πέρασμα Κυκλάδων: κλειδώστε πρώτα την **αλυσίδα ferry**, μετά κλείστε Artemis **μόνο για τις νύχτες στη Σίφνο**. Βοηθά ο [Touristas AI](https://discovercyclades.gr/el/touristas-ai/chat?island=sifnos).
+Αν η Σίφνος είναι μία στάση σε μεγαλύτερο πέρασμα Κυκλάδων: κλειδώστε πρώτα την **αλυσίδα ferry**, μετά κλείστε Artemis **μόνο για τις νύχτες στη Σίφνο**. Βοηθά ο [Touristas AI](https://discovercyclades.gr/el/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Συγχρονισμός ενοικίασης
 

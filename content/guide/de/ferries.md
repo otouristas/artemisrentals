@@ -22,7 +22,7 @@ Das wichtigste Passagier-Gateway von Sifnos ist **Kamares** an der Westküste. E
 
 ## Von Athen / Piräus
 
-Live-Optionen prüfen auf [Athen–Sifnos-Fähren (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Live-Optionen prüfen auf [Athen–Sifnos-Fähren (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 **Buchungstipps**
 - Peak-Wochenenden Juli–August verkaufen beliebte Plätze aus: früh buchen.
@@ -53,4 +53,4 @@ Sagen Sie uns:
 - Auto- vs Roller-Präferenz
 - Ob Sie **Kamares-Auto-Abholung** wollen
 
-[Daten anfragen](/de/book) · Nutzen Sie [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) für fährbewusste Multi-Insel-Itinerare.
+[Daten anfragen](/de/book) · Nutzen Sie [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) für fährbewusste Multi-Insel-Itinerare.

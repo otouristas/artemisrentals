@@ -90,7 +90,7 @@ Respecteer kledingcodes op actieve religieuze plekken; parkeer zonder processies
 
 Vanaf Sifnos kun je kustboottrips of veerhops naar naburige eilanden meedoen (bijv. Milos, Kimolos of Polyegos-daglandschappen afhankelijk van seizoen en operators). Plan eerst veerdagen, reserveer daarna Artemis-wielen **alleen voor de Sifnos-nachten** dat je aan land bent.
 
-Live veerideeën: [Athene–Sifnos-routes op Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos) en de [Touristas AI-planner](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos).
+Live veerideeën: [Athene–Sifnos-routes op Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en de [Touristas AI-planner](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Voorbeeld 4-dagenplan (met huur)
 
@@ -115,4 +115,4 @@ Live veerideeën: [Athene–Sifnos-routes op Discover Cyclades](https://discover
 
 ## Klaar voor sleutels?
 
-[Vraag data aan](/nl/book) bij Artemis, geen vooruitbetaling om te reserveren, of browse de [vloot](/nl/cars). Diepere live listings ook op [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos/things-to-do).
+[Vraag data aan](/nl/book) bij Artemis, geen vooruitbetaling om te reserveren, of browse de [vloot](/nl/cars). Diepere live listings ook op [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

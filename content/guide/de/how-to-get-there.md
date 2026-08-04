@@ -30,7 +30,7 @@ related:
 
 Fahrpläne schwanken stark zwischen Winter und August. Bestätigen Sie immer die **Rückfahrt**, bevor Sie nicht erstattbare Hotels festlegen.
 
-Live-Optionen Athen–Sifnos: [Discover Cyclades Fährseite](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Live-Optionen Athen–Sifnos: [Discover Cyclades Fährseite](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Piräus praktisch
 
@@ -50,7 +50,7 @@ Fähren verbinden Sifnos auch mit anderen Kykladen (je nach Saison z. B. Serifos
 
 1. Zuerst die **Fährkette** festlegen
 2. Artemis-Räder **nur für die Nächte auf Sifnos** reservieren
-3. [Touristas AI auf Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) für fährbewusstes Planen nutzen
+3. [Touristas AI auf Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) für fährbewusstes Planen nutzen
 
 ## Mietzeiten synchronisieren
 

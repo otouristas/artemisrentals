@@ -90,7 +90,7 @@ Respektera klädkoder på aktiva religiösa platser; parkera utan att blockera p
 
 Från Sifnos kan du gå med på kustbåtturer eller färjehopp mot grannöar (t.ex. Milos, Kimolos eller Polyegos-dagslandskap beroende på säsong och operatörer). Planera färjedagar först, boka sedan Artemis-hjul **bara för Sifnos-nätterna** du är iland.
 
-Live färjeidéer: [Aten–Sifnos-rutter på Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos) och [Touristas AI-planeraren](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos).
+Live färjeidéer: [Aten–Sifnos-rutter på Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) och [Touristas AI-planeraren](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Exempel 4-dagarsplan (med hyrbil)
 
@@ -115,4 +115,4 @@ Live färjeidéer: [Aten–Sifnos-rutter på Discover Cyclades](https://discover
 
 ## Redo för nycklar?
 
-[Begär datum](/sv/book) hos Artemis, ingen förskottsbetalning för att reservera, eller bläddra i [flottan](/sv/cars). Djupare live-listor också på [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos/things-to-do).
+[Begär datum](/sv/book) hos Artemis, ingen förskottsbetalning för att reservera, eller bläddra i [flottan](/sv/cars). Djupare live-listor också på [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

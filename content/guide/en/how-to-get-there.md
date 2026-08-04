@@ -30,7 +30,7 @@ related:
 
 Schedules swing hard between winter and August. Always confirm the **return sailing** before you lock non-refundable hotels.
 
-Live Athens–Sifnos options: [Discover Cyclades ferry page](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Live Athens–Sifnos options: [Discover Cyclades ferry page](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Piraeus practicalities
 
@@ -50,7 +50,7 @@ Ferries also link Sifnos with other Cyclades (examples by season: Serifos, Paros
 
 1. Lock the **ferry chain** first
 2. Reserve Artemis wheels **only for Sifnos nights**
-3. Use [Touristas AI on Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) for ferry-aware planning
+3. Use [Touristas AI on Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) for ferry-aware planning
 
 ## Syncing rental times
 

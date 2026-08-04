@@ -30,7 +30,7 @@ related:
 
 Dienstregelingen schommelen hard tussen winter en augustus. Bevestig altijd de **terugveer** vóór je niet-restitueerbare hotels vastzet.
 
-Live Athene–Sifnos-opties: [Discover Cyclades veerpagina](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Live Athene–Sifnos-opties: [Discover Cyclades veerpagina](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Piraeus praktisch
 
@@ -50,7 +50,7 @@ Veren verbinden Sifnos ook met andere Cycladen (voorbeelden per seizoen: Serifos
 
 1. Lock eerst de **veerketen**
 2. Reserveer Artemis-wielen **alleen voor Sifnos-nachten**
-3. Gebruik [Touristas AI op Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) voor veerbewuste planning
+3. Gebruik [Touristas AI op Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) voor veerbewuste planning
 
 ## Verhuurtijden syncen
 

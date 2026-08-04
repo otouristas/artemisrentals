@@ -45,4 +45,4 @@ Platis Gialos va bene alle famiglie che vogliono sabbia fuori dalla porta. Vathi
 
 ## Inventario hotel
 
-Per ricerca hotel live e filtri, usa [hotel Sifnos su Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos), poi [richiedi date Artemis](/it/book) una volta fissato il soggiorno.
+Per ricerca hotel live e filtri, usa [hotel Sifnos su Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner), poi [richiedi date Artemis](/it/book) una volta fissato il soggiorno.

@@ -68,4 +68,4 @@ related:
 - [Μετακινήσεις](/el/sifnos-guide/getting-around)
 - [Αίτημα οχήματος](/el/book)
 
-[Discover Cyclades – Σίφνος](https://discovercyclades.gr/el/sifnos)
+[Discover Cyclades – Σίφνος](https://discovercyclades.gr/el/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner)

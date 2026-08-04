@@ -115,4 +115,4 @@ related:
 
 Κρύψτε αντικείμενα αξίας, γεμίστε καύσιμο πριν τον βορρά στην αιχμή, και στείλτε μήνυμα για **παραλαβή στις Καμάρες**. [Στόλος αυτοκινήτων](/el/cars) · [Scooter](/el/scooters) · [Αίτημα ημερομηνιών](/el/book).
 
-Δείτε επίσης [Σίφνος στο Discover Cyclades](https://discovercyclades.gr/el/sifnos).
+Δείτε επίσης [Σίφνος στο Discover Cyclades](https://discovercyclades.gr/el/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

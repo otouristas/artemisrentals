@@ -193,4 +193,4 @@ Volledig onontwikkeld zand, bereikbaar **alleen te voet of per boot**. Bij de ka
 
 Houd waardevolle spullen uit zicht, tank vóór lange noordritten in piekseizoen en bericht ons als je **Kamares-ophaling** wilt de ochtend dat je veer aanlegt. Browse [auto's](/nl/cars) en [scooters](/nl/scooters), of [vraag data aan](/nl/book).
 
-Voor live eilandpagina's en dienstregelingen, zie ook [Sifnos op Discover Cyclades](https://discovercyclades.gr/en/sifnos) en [dingen om te doen](https://discovercyclades.gr/en/sifnos/things-to-do).
+Voor live eilandpagina's en dienstregelingen, zie ook [Sifnos op Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en [dingen om te doen](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

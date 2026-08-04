@@ -1,8 +1,10 @@
 import {
-  discoverCycladesUrl,
+  sifnosBeachesDcUrl,
   sifnosFerryUrl,
   sifnosGuideDcUrl,
   sifnosHotelsUrl,
+  sifnosHowToGetDcUrl,
+  sifnosThingsToDoDcUrl,
   tripPlannerUrl,
 } from "@/lib/site";
 
@@ -19,8 +21,9 @@ export type DiscoverLink = {
 
 /** Contextual Discover Cyclades deep links for each guide article. */
 export function getGuideDiscoverLinks(locale: string, slug: string): DiscoverLink[] {
-  const how = discoverCycladesUrl(locale, "/sifnos/how-to-get-there");
-  const things = discoverCycladesUrl(locale, "/sifnos/things-to-do");
+  const how = sifnosHowToGetDcUrl(locale);
+  const things = sifnosThingsToDoDcUrl(locale);
+  const beaches = sifnosBeachesDcUrl(locale);
   const guide = sifnosGuideDcUrl(locale);
   const ferries = sifnosFerryUrl(locale);
   const hotels = sifnosHotelsUrl(locale);
@@ -43,6 +46,11 @@ export function getGuideDiscoverLinks(locale: string, slug: string): DiscoverLin
         { href: planner, labelKey: "touristas" },
       ];
     case "beaches":
+      return [
+        { href: beaches, labelKey: "dcThings" },
+        { href: guide, labelKey: "dcGuide" },
+        { href: planner, labelKey: "touristas" },
+      ];
     case "things-to-do":
     case "food-pottery":
     case "apollonia-artemonas":

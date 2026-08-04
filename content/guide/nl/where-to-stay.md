@@ -45,4 +45,4 @@ Platis Gialos past bij gezinnen die zand voor de deur willen. Vathi bij reiziger
 
 ## Hotelinventaris
 
-Voor live hotelszoeken en filters: [Sifnos-hotels op Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos), vraag daarna [Artemis-data](/nl/book) zodra je verblijf vastligt.
+Voor live hotelszoeken en filters: [Sifnos-hotels op Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner), vraag daarna [Artemis-data](/nl/book) zodra je verblijf vastligt.

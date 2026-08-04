@@ -22,7 +22,7 @@ related:
 
 ## Από Αθήνα / Πειραιά
 
-Ζωντανά δρομολόγια: [Αθήνα–Σίφνος (Discover Cyclades)](https://discovercyclades.gr/el/ferry-routes/direct/athens-piraeus-to-sifnos).
+Ζωντανά δρομολόγια: [Αθήνα–Σίφνος (Discover Cyclades)](https://discovercyclades.gr/el/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 **Tips κράτησης**
 - Ιούλιος–Αύγουστος: κλείστε νωρίς δημοφιλείς ώρες
@@ -43,4 +43,4 @@ related:
 
 Πείτε μας ημερομηνία, ETA, κατάλυμα, αυτοκίνητο vs scooter, και αν θέλετε **παραλαβή στις Καμάρες**.
 
-[Αίτημα](/el/book) · [Touristas AI](https://discovercyclades.gr/el/touristas-ai/chat?island=sifnos)
+[Αίτημα](/el/book) · [Touristas AI](https://discovercyclades.gr/el/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner)

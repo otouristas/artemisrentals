@@ -29,4 +29,4 @@ related:
 ![Αρτεμώνας](/images/sifnos/villages/artemonas.webp "Αρτεμώνας")
 ![Πλατύς Γιαλός](/images/sifnos/beaches/plats-gialos.webp "Πλατύς Γιαλός")
 
-Ζωντανή αναζήτηση ξενοδοχείων: [Hotels Σίφνου στο Discover Cyclades](https://discovercyclades.gr/el/hotels/sifnos), μετά [αίτημα Artemis](/el/book).
+Ζωντανή αναζήτηση ξενοδοχείων: [Hotels Σίφνου στο Discover Cyclades](https://discovercyclades.gr/el/hotels/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner), μετά [αίτημα Artemis](/el/book).

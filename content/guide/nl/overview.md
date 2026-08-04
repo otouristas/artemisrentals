@@ -74,4 +74,4 @@ Artemis Rental zit sinds **1988 in Apollonia**, auto's en scooters, eerlijke sei
 - [Rondkomen](/nl/sifnos-guide/getting-around)
 - [Vraag een voertuig aan](/nl/book)
 
-Partner deep-dives en live dienstregelingen: [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos).
+Partner deep-dives en live dienstregelingen: [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

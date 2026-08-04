@@ -90,7 +90,7 @@ Respect dress codes at active religious sites; park without blocking processions
 
 From Sifnos you can join coastal boat trips or ferry hops toward neighbouring islands (for example Milos, Kimolos, or wild Polyegos day landscapes depending on season and operators). Plan ferry days first, then reserve Artemis wheels **only for the Sifnos nights** you are ashore.
 
-Live ferry ideas: [Athens–Sifnos routes on Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos) and the [Touristas AI planner](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos).
+Live ferry ideas: [Athens–Sifnos routes on Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) and the [Touristas AI planner](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Sample 4-day plan (with a rental)
 
@@ -115,4 +115,4 @@ Live ferry ideas: [Athens–Sifnos routes on Discover Cyclades](https://discover
 
 ## Ready for keys?
 
-[Request dates](/en/book) with Artemis, no prepayment to reserve, or browse the [fleet](/en/cars). Deeper live listings also sit on [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos/things-to-do).
+[Request dates](/en/book) with Artemis, no prepayment to reserve, or browse the [fleet](/en/cars). Deeper live listings also sit on [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

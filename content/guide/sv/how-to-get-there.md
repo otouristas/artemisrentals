@@ -30,7 +30,7 @@ related:
 
 Tidtabeller svänger kraftigt mellan vinter och augusti. Bekräfta alltid **returfärjan** innan du låser icke-återbetalningsbara hotell.
 
-Live Aten–Sifnos-alternativ: [Discover Cyclades färjesida](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Live Aten–Sifnos-alternativ: [Discover Cyclades färjesida](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Pireus praktiskt
 
@@ -50,7 +50,7 @@ Färjor länkar också Sifnos med andra Kykladerna (exempel per säsong: Serifos
 
 1. Lås **färjekedjan** först
 2. Boka Artemis-hjul **bara för Sifnos-nätterna**
-3. Använd [Touristas AI på Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) för färjemedveten planering
+3. Använd [Touristas AI på Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) för färjemedveten planering
 
 ## Synka uthyrningstider
 

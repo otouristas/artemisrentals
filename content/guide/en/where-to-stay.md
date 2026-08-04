@@ -45,4 +45,4 @@ Platis Gialos suits families who want sand outside the door. Vathi suits travell
 
 ## Hotels inventory
 
-For live hotel search and filters, use [Sifnos hotels on Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos), then [request Artemis dates](/en/book) once your stay is set.
+For live hotel search and filters, use [Sifnos hotels on Discover Cyclades](https://discovercyclades.gr/en/hotels/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner), then [request Artemis dates](/en/book) once your stay is set.

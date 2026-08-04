@@ -74,4 +74,4 @@ Artemis Rental est basé à **Apollonia depuis 1988**, voitures et scooters, tar
 - [Se déplacer](/fr/sifnos-guide/getting-around)
 - [Demander un véhicule](/fr/book)
 
-Analyses partenaires et horaires live: [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos).
+Analyses partenaires et horaires live: [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

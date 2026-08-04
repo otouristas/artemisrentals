@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { getGuideDiscoverLinks } from "@/lib/guide-discover";
+import { discoverCycladesUrl } from "@/lib/site";
 
 export async function GuideDiscoverLinks({
   locale,
@@ -17,7 +18,7 @@ export async function GuideDiscoverLinks({
     <aside className="mt-12 overflow-hidden rounded-3xl border border-aegean/10 bg-gradient-to-br from-limestone/80 via-foam to-foam p-6 md:p-8">
       <div className="flex flex-wrap items-start gap-4">
         <a
-          href={`https://discovercyclades.gr/${locale === "el" ? "el" : "en"}`}
+          href={discoverCycladesUrl(locale, "")}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-3"

@@ -193,4 +193,4 @@ Completely undeveloped sand, reachable **only on foot or by boat**. Near the cha
 
 Keep valuables out of sight, fill fuel before long north runs in peak season, and message us if you want **Kamares pickup** the morning your ferry docks. Browse [cars](/en/cars) and [scooters](/en/scooters), or [request dates](/en/book).
 
-For live island pages and schedules, see also [Sifnos on Discover Cyclades](https://discovercyclades.gr/en/sifnos) and [things to do](https://discovercyclades.gr/en/sifnos/things-to-do).
+For live island pages and schedules, see also [Sifnos on Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) and [things to do](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

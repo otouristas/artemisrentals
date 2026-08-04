@@ -193,4 +193,4 @@ Sable totalement non développé, accessible **uniquement à pied ou en bateau**
 
 Gardez les objets de valeur hors de vue, faites le plein avant les longs trajets nord en haute saison et contactez-nous si vous voulez une **prise en charge à Kamares** le matin où votre ferry accoste. Parcourez [voitures](/fr/cars) et [scooters](/fr/scooters), ou [demandez des dates](/fr/book).
 
-Pour pages île live et horaires, voir aussi [Sifnos sur Discover Cyclades](https://discovercyclades.gr/en/sifnos) et [choses à faire](https://discovercyclades.gr/en/sifnos/things-to-do).
+Pour pages île live et horaires, voir aussi [Sifnos sur Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) et [choses à faire](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

@@ -22,7 +22,7 @@ La porte passagers principale de Sifnos est **Kamares** sur la côte ouest. Il n
 
 ## Depuis Athènes / Pirée
 
-Vérifiez les options live sur [ferries Athènes–Sifnos (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Vérifiez les options live sur [ferries Athènes–Sifnos (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 **Conseils de réservation**
 - Les week-ends juillet–août épuisent les places populaires: réservez tôt.
@@ -53,4 +53,4 @@ Dites-nous:
 - Préférence voiture vs scooter
 - Si vous voulez une **prise en charge voiture à Kamares**
 
-[Demander des dates](/fr/book) · Utilisez [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) pour des itinéraires multi-îles conscients des ferries.
+[Demander des dates](/fr/book) · Utilisez [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) pour des itinéraires multi-îles conscients des ferries.

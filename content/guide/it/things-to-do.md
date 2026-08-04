@@ -90,7 +90,7 @@ Rispetta il dress code nei siti religiosi attivi; parcheggia senza bloccare proc
 
 Da Sifnos puoi unirti a gite costiere in barca o hop traghetto verso isole vicine (ad esempio Milos, Kimolos o paesaggi day Polyegos a seconda di stagione e operatori). Pianifica prima i giorni traghetto, poi prenota le ruote Artemis **solo per le notti a Sifnos** in cui sei a terra.
 
-Idee traghetti live: [rotte Atene–Sifnos su Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos) e il [planner Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos).
+Idee traghetti live: [rotte Atene–Sifnos su Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) e il [planner Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Piano campione 4 giorni (con noleggio)
 
@@ -115,4 +115,4 @@ Idee traghetti live: [rotte Atene–Sifnos su Discover Cyclades](https://discove
 
 ## Pronto per le chiavi?
 
-[Richiedi date](/it/book) con Artemis, nessun anticipo per riservare, oppure sfoglia la [flotta](/it/cars). Listing live più profondi anche su [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos/things-to-do).
+[Richiedi date](/it/book) con Artemis, nessun anticipo per riservare, oppure sfoglia la [flotta](/it/cars). Listing live più profondi anche su [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

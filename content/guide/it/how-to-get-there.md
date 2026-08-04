@@ -30,7 +30,7 @@ related:
 
 Gli orari oscillano forte tra inverno e agosto. Conferma sempre il **traghetto di ritorno** prima di bloccare hotel non rimborsabili.
 
-Opzioni live Atene–Sifnos: [pagina traghetti Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Opzioni live Atene–Sifnos: [pagina traghetti Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 ## Praticità al Pireo
 
@@ -50,7 +50,7 @@ I traghetti collegano anche Sifnos ad altre Cicladi (esempi per stagione: Serifo
 
 1. Blocca prima la **catena traghetti**
 2. Prenota le ruote Artemis **solo per le notti a Sifnos**
-3. Usa [Touristas AI su Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) per pianificare con i traghetti in mente
+3. Usa [Touristas AI su Discover Cyclades](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) per pianificare con i traghetti in mente
 
 ## Sincronizzare i tempi del noleggio
 

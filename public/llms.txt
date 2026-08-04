@@ -292,7 +292,7 @@
 
 ## AI assistants
 - On-site Touristas AI chatbot answers fleet, rates, and Sifnos questions in all site languages
-- Full Cyclades trip planner: https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos
+- Full Cyclades trip planner: https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner
 
 ## Full facts
 - https://rentacarsifnos.com/.well-known/llms-full.txt

@@ -74,4 +74,4 @@ Artemis Rental har bas i **Apollonia sedan 1988**, bilar och scootrar, rättvisa
 - [Ta sig runt](/sv/sifnos-guide/getting-around)
 - [Begär ett fordon](/sv/book)
 
-Partnerdjupdykningar och live-tidtabeller: [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/sifnos).
+Partnerdjupdykningar och live-tidtabeller: [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

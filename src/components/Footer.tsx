@@ -7,6 +7,8 @@ import {
   sifnosFerryUrl,
   sifnosGuideDcUrl,
   sifnosHotelsUrl,
+  sifnosHowToGetDcUrl,
+  sifnosThingsToDoDcUrl,
   tripPlannerUrl,
   whatsappUrl,
 } from "@/lib/site";
@@ -19,8 +21,8 @@ export function Footer({ locale }: { locale: string }) {
   const t = useTranslations("Footer");
   const nav = useTranslations("Nav");
   const year = new Date().getFullYear();
-  const dcThings = discoverCycladesUrl(locale, "/sifnos/things-to-do");
-  const dcHow = discoverCycladesUrl(locale, "/sifnos/how-to-get-there");
+  const dcThings = sifnosThingsToDoDcUrl(locale);
+  const dcHow = sifnosHowToGetDcUrl(locale);
 
   return (
     <footer className="mt-auto border-t border-foam/10 bg-aegean pb-[5.5rem] text-foam md:pb-0">

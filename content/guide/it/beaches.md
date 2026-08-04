@@ -193,4 +193,4 @@ Sabbia completamente non sviluppata, raggiungibile **solo a piedi o in barca**. 
 
 Tieni i valori fuori vista, fai pieno prima dei lunghi giri nord in alta stagione e scrivici se vuoi **ritiro a Kamares** la mattina in cui attracca il traghetto. Sfoglia [auto](/it/cars) e [scooter](/it/scooters), oppure [richiedi date](/it/book).
 
-Per pagine isola live e orari, vedi anche [Sifnos su Discover Cyclades](https://discovercyclades.gr/en/sifnos) e [cose da fare](https://discovercyclades.gr/en/sifnos/things-to-do).
+Per pagine isola live e orari, vedi anche [Sifnos su Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) e [cose da fare](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

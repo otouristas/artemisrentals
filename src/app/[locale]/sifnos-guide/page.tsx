@@ -6,10 +6,11 @@ import { JsonLd } from "@/components/JsonLd";
 import { getGuideArticles } from "@/lib/content";
 import { buildMetadata, absoluteUrl, itemListJsonLd } from "@/lib/seo";
 import {
-  discoverCycladesUrl,
   sifnosFerryUrl,
   sifnosGuideDcUrl,
   sifnosHotelsUrl,
+  sifnosHowToGetDcUrl,
+  sifnosThingsToDoDcUrl,
   tripPlannerUrl,
 } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
@@ -41,9 +42,9 @@ export default async function GuideIndexPage({
   const articles = getGuideArticles(locale as Locale);
   const loc = locale as Locale;
   const dcLinks = [
-    { href: discoverCycladesUrl(locale, "/sifnos/how-to-get-there"), label: footer("dcHowToGet") },
+    { href: sifnosHowToGetDcUrl(locale), label: footer("dcHowToGet") },
     { href: sifnosFerryUrl(locale), label: footer("dcFerries") },
-    { href: discoverCycladesUrl(locale, "/sifnos/things-to-do"), label: footer("dcThings") },
+    { href: sifnosThingsToDoDcUrl(locale), label: footer("dcThings") },
     { href: sifnosGuideDcUrl(locale), label: footer("dcGuide") },
     { href: sifnosHotelsUrl(locale), label: footer("dcHotels") },
   ];

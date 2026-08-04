@@ -193,4 +193,4 @@ Völlig unentwickelter Sand, erreichbar **nur zu Fuß oder per Boot**. Nahe der 
 
 Wertsachen außer Sicht halten, vor langen Nordfahrten in Peak-Saison tanken und uns schreiben, wenn Sie **Kamares-Abholung** am Morgen Ihrer Fährankunft wollen. [Autos](/de/cars) und [Roller](/de/scooters) durchstöbern oder [Daten anfragen](/de/book).
 
-Für Live-Inselseiten und Fahrpläne siehe auch [Sifnos auf Discover Cyclades](https://discovercyclades.gr/en/sifnos) und [Aktivitäten](https://discovercyclades.gr/en/sifnos/things-to-do).
+Für Live-Inselseiten und Fahrpläne siehe auch [Sifnos auf Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) und [Aktivitäten](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

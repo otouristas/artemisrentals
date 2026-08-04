@@ -22,7 +22,7 @@ De belangrijkste passagierspoort van Sifnos is **Kamares** aan de westkust. Er i
 
 ## Vanuit Athene / Piraeus
 
-Check live opties op [Athene–Sifnos-veren (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos).
+Check live opties op [Athene–Sifnos-veren (Discover Cyclades)](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
 **Boektips**
 - Piek juli–augustus-weekenden verkopen populaire plaatsen uit: boek vroeg.
@@ -53,4 +53,4 @@ Vertel ons:
 - Auto vs scooter-voorkeur
 - Of je **Kamares auto-ophaling** wilt
 
-[Vraag data aan](/nl/book) · Gebruik [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos) voor veerbewuste multi-eiland-itineraries.
+[Vraag data aan](/nl/book) · Gebruik [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) voor veerbewuste multi-eiland-itineraries.
