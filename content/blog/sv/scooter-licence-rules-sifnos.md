@@ -36,4 +36,4 @@ Par som delar åkdagar kan para en scooter-dag med en bildag i samma Artemis-fö
 
 Familjer, bara-automat-förare, tungt bagage eller vandringsutrustning pekar mot kompakter. Läs [familjeresa på Sifnos](/sv/blog/family-travel-sifnos) och [köra på Sifnos](/sv/blog/driving-in-sifnos) innan du binder dig till två hjul en hel vecka.
 
-Scooterpriser följer samma säsongslogik som bilar; se [biluthyrningspriser på Sifnos](/sv/blog/sifnos-car-rental-prices) för parallell planering. Redo? [Boka med Artemis](/book) med körkortsuppgifter och önskad motorstorlek. Scooteruthyrning här sedan **1988** betyder raka svar, inte upsell.
+Scooterpriser följer samma säsongslogik som bilar; se [biluthyrningspriser på Sifnos](/sv/blog/sifnos-car-rental-prices) för parallell planering. Redo? [Boka med Artemis](/sv/book) med körkortsuppgifter och önskad motorstorlek. Scooteruthyrning här sedan **1988** betyder raka svar, inte upsell.

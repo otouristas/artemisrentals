@@ -38,4 +38,4 @@ Couples on scooters can run this itinerary May–September; families should read
 
 Collect your Artemis vehicle Day 1 morning if you slept in Kamares, or Day 1 afternoon if you prefer a calm arrival swim first. **Kamares pickup on request** saves a bus leg when the ferry lands early. Return fuel-full before your outbound boat; the team explains the nearest pump when you collect keys in **Apollonia**.
 
-Three days is enough to see Sifnos highlights without racing. Stay longer if you want hiking days from our [trails by car](/en/blog/sifnos-hiking-trails-by-car) guide. [Book with Artemis](/book) with ferry dates, no prepayment to enquire.
+Three days is enough to see Sifnos highlights without racing. Stay longer if you want hiking days from our [trails by car](/en/blog/sifnos-hiking-trails-by-car) guide. [Book with Artemis](/en/book) with ferry dates, no prepayment to enquire.

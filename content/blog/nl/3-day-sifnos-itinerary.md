@@ -38,4 +38,4 @@ Stellen op scooters kunnen deze route mei–september rijden; gezinnen lezen [ge
 
 Haal je Artemis-voertuig dag 1 's ochtends op als je in Kamares sliep, of dag 1 's middags als je eerst rustig wilt zwemmen. **Kamares-ophalen op verzoek** spaart een busrit als de veerboot vroeg aankomt. Lever volgetankt in vóór je uitreisboot; het team wijst de dichtstbijzijnde pomp aan bij sleutelophalen in **Apollonia**.
 
-Drie dagen volstaan om Sifnos-highlights te zien zonder te racen. Blijf langer als je wandeldagen wilt uit onze gids [trails per auto](/nl/blog/sifnos-hiking-trails-by-car). [Boek bij Artemis](/book) met veerdata, geen vooruitbetaling om te vragen.
+Drie dagen volstaan om Sifnos-highlights te zien zonder te racen. Blijf langer als je wandeldagen wilt uit onze gids [trails per auto](/nl/blog/sifnos-hiking-trails-by-car). [Boek bij Artemis](/nl/book) met veerdata, geen vooruitbetaling om te vragen.

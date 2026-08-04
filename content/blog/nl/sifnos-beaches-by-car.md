@@ -54,4 +54,4 @@ Deze lus gaat uit van een compact van Artemis met **geen vooruitbetaling**-aanvr
 
 Waar je slaapt vormt rijtijd meer dan afstand suggereert. Lees [Apollonia of Kamares](/nl/blog/apollonia-vs-kamares-stay) als je nog niet geboekt hebt. Onze [3-daagse route](/nl/blog/3-day-sifnos-itinerary) rijgt deze stranden tot een samenhangend eerste bezoek.
 
-Klaar om je week te mappen? [Boek bij Artemis](/book) met data en passagiersaantal; WhatsApp werkt goed voor "welk strand morgen als de wind draait?"-vragen. Het team begeleidt huurders sinds **1988** en weet welke baai bij noordenwind past.
+Klaar om je week te mappen? [Boek bij Artemis](/nl/book) met data en passagiersaantal; WhatsApp werkt goed voor "welk strand morgen als de wind draait?"-vragen. Het team begeleidt huurders sinds **1988** en weet welke baai bij noordenwind past.

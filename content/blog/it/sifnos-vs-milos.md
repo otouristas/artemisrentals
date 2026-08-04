@@ -58,6 +58,6 @@ Gli scooter seguono la stessa regola: restituisci prima del traghetto salvo dive
 
 Scegli **Sifnos** se vuoi guida gestibile, base centrale ad Apollonia, baie family-friendly e un arco coerente da lungo weekend. Scegli **Milos** se spiagge vulcaniche e più chilometri costieri definiscono il sogno, e accetti più overhead di pianificazione.
 
-Visiti Sifnos per prima? [Prenota con Artemis](/book) con date del traghetto e se ti serve pickup a Kamares o Apollonia. Anche se Milos segue, iniziare calmi prepara bene l'isola più rumorosa.
+Visiti Sifnos per prima? [Prenota con Artemis](/it/book) con date del traghetto e se ti serve pickup a Kamares o Apollonia. Anche se Milos segue, iniziare calmi prepara bene l'isola più rumorosa.
 
 Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/it/sifnos-guide/rent-a-car-sifnos).

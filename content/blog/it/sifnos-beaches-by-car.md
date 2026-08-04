@@ -54,4 +54,4 @@ Questo loop presuppone una compatta da Artemis con richiesta **senza anticipo** 
 
 Dove dormi influenza i tempi di guida più di quanto suggerisca la distanza. Leggi [Apollonia vs Kamares](/it/blog/apollonia-vs-kamares-stay) se non hai ancora prenotato. Il nostro [itinerario di 3 giorni](/it/blog/3-day-sifnos-itinerary) intreccia queste spiagge in una prima visita coerente.
 
-Pronto a mappare la settimana? [Prenota con Artemis](/book) con date e numero di passeggeri: WhatsApp funziona bene per domande tipo "quale spiaggia domani se gira il vento?". Il team guida i noleggiatori dal **1988** e sa quale baia va con il vento da nord.
+Pronto a mappare la settimana? [Prenota con Artemis](/it/book) con date e numero di passeggeri: WhatsApp funziona bene per domande tipo "quale spiaggia domani se gira il vento?". Il team guida i noleggiatori dal **1988** e sa quale baia va con il vento da nord.

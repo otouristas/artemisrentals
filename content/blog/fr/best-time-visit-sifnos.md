@@ -46,4 +46,4 @@ Les riders en scooter sentent plus le vent: prévoyez une voiture de secours ou 
 
 Basse saison et intersaison récompensent les voyageurs flexibles: compactes de dernière minute, tarifs journaliers plus bas dans le [guide des prix](/fr/blog/sifnos-car-rental-prices), et scooters pour les couples sans le stress des ruptures de stock d'août. Les semaines de pointe inversent la logique: réservez les automatiques tôt, commencez les plages avant 10 h, et traitez la demande Artemis comme partie de la réservation ferry, pas comme une idée après coup.
 
-[Réservez avec Artemis](/book) quand votre fenêtre est fixée, **aucun acompte**, prise en charge à **Apollonia** ou **Kamares sur demande**, voitures et scooters depuis **1988**.
+[Réservez avec Artemis](/fr/book) quand votre fenêtre est fixée, **aucun acompte**, prise en charge à **Apollonia** ou **Kamares sur demande**, voitures et scooters depuis **1988**.

@@ -46,6 +46,6 @@ Chiedi i seggiolini quando fai la richiesta se viaggi con bambini piccoli. Indic
 
 **Cambio a metà soggiorno:** raro, ma alcune coppie iniziano con auto per i giorni in famiglia e poi passano allo scooter: chiedi se le date lo consentono.
 
-Per più contesto sui prezzi vedi [prezzi noleggio auto a Sifnos](/it/blog/sifnos-car-rental-prices). Pronto a confermare? [Prenota con Artemis](/book), nessun anticipo, risposta personale su WhatsApp o email.
+Per più contesto sui prezzi vedi [prezzi noleggio auto a Sifnos](/it/blog/sifnos-car-rental-prices). Pronto a confermare? [Prenota con Artemis](/it/book), nessun anticipo, risposta personale su WhatsApp o email.
 
 Full evergreen guide: [Rent a car in Sifnos](/it/sifnos-guide/rent-a-car-sifnos). See live [fleet](/it/cars) and [rates](/it/rates).

@@ -58,4 +58,4 @@ Partagez les passages étroits en donnant la priorité à ceux qui montent quand
 
 Rendez les clés chez Artemis Apollonia avec une marge; les chaussures boueuses vont dans le coffre, pas sur les sièges. Faites le plein avant de longues journées cross-island si vous enchaînez plusieurs départs de sentiers.
 
-Vous planifiez une semaine à pied? [Réservez avec Artemis](/book) et mentionnez la randonnée: l'équipe suggère voiture vs scooter selon où vous dormez et quels sentiers vous visez. Louer à Sifnos depuis **1988** signifie des conseils ancrés dans de vrais spots de parking, pas des apps génériques.
+Vous planifiez une semaine à pied? [Réservez avec Artemis](/fr/book) et mentionnez la randonnée: l'équipe suggère voiture vs scooter selon où vous dormez et quels sentiers vous visez. Louer à Sifnos depuis **1988** signifie des conseils ancrés dans de vrais spots de parking, pas des apps génériques.

@@ -48,4 +48,4 @@ Ben je prijsgevoelig, aankomst een week verschuiven, begin juni in plaats van ei
 
 Check de [prijspagina](/nl/rates) voor de actuele tabel en kruisverwijs met onze gids [beste tijd om te bezoeken](/nl/blog/best-time-visit-sifnos) als je data flexibel zijn. Lees [rijden op Sifnos](/nl/blog/driving-in-sifnos) voor wegcontext zodat je de juiste maat kiest, niet alleen het laagste getal.
 
-Wanneer je klaar bent, [Boek bij Artemis](/book) met veerdata, passagiersaantal en of je Kamares-ophalen nodig hebt. Geen vooruitbetaling, geen geautomatiseerde overboeking, gewoon een direct antwoord van een team dat Sifnos-verhuur sinds 1988 doet.
+Wanneer je klaar bent, [Boek bij Artemis](/nl/book) met veerdata, passagiersaantal en of je Kamares-ophalen nodig hebt. Geen vooruitbetaling, geen geautomatiseerde overboeking, gewoon een direct antwoord van een team dat Sifnos-verhuur sinds 1988 doet.

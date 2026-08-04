@@ -58,4 +58,4 @@ Teilen Sie enge Abschnitte, indem Sie bergauf Gehenden Vorrang geben, wenn mögl
 
 Geben Sie Schlüssel bei Artemis Apollonia mit Zeitpuffer zurück; schlammige Stiefel gehören in den Kofferraum, nicht auf die Polster. Tanken Sie vor langen Inselquerungen, wenn Sie mehrere Trailheads verkettet haben.
 
-Planen Sie eine wanderintensive Woche? [Bei Artemis buchen](/book) und erwähnen Sie Wandern: das Team schlägt Auto vs Scooter vor, je nachdem wo Sie wohnen und welche Pfade Sie anvisieren. Vermieten auf Sifnos seit **1988** bedeutet Rat, der auf echten Parkplätzen fußt, nicht auf generischen Trail-Apps.
+Planen Sie eine wanderintensive Woche? [Bei Artemis buchen](/de/book) und erwähnen Sie Wandern: das Team schlägt Auto vs Scooter vor, je nachdem wo Sie wohnen und welche Pfade Sie anvisieren. Vermieten auf Sifnos seit **1988** bedeutet Rat, der auf echten Parkplätzen fußt, nicht auf generischen Trail-Apps.

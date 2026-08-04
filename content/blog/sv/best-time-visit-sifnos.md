@@ -46,4 +46,4 @@ Scooterförare känner vinden mer; planera bilbackup eller välj skyddade vikar 
 
 Låg- och axelsäsong belönar flexibla resenärer: sista-minuten-kompakter, lägre dygnspriser i [prisguiden](/sv/blog/sifnos-car-rental-prices) och scootrar för par utan augustistress. Peakveckor vänder logiken: boka automat tidigt, börja stranddagar före kl. 10 och behandla Artemis-förfrågan som en del av färjebokningen, inte som en eftertanke.
 
-[Boka med Artemis](/book) när ditt fönster är klart, **ingen förskottsbetalning**, upphämtning i **Apollonia** eller **Kamares på begäran**, bilar och scootrar sedan **1988**.
+[Boka med Artemis](/sv/book) när ditt fönster är klart, **ingen förskottsbetalning**, upphämtning i **Apollonia** eller **Kamares på begäran**, bilar och scootrar sedan **1988**.

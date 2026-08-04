@@ -42,4 +42,4 @@ Automatikgetriebe reduziert Bergstress beim Verlassen von Stränden mit schlafen
 
 Vormittags Strand bis der Hunger kommt, Auto-Nickerchen auf dem Rückweg Richtung Apollonia, Pool oder ruhige Stunde im Hotel, abends Eis ohne noch einmal zu fahren. Ein großer Ausflug schlägt drei gehetzte Stopps und passt zum Tempo unseres [3-Tage-Itinerary](/de/blog/3-day-sifnos-itinerary).
 
-Fragen zu kinderwagenfreundlichen Routen oder Sitzverfügbarkeit? [Bei Artemis buchen](/book) per WhatsApp mit Alter der Kinder und Fährzeiten. Familienreisen gehören seit **1988** zur Mietgeschichte.
+Fragen zu kinderwagenfreundlichen Routen oder Sitzverfügbarkeit? [Bei Artemis buchen](/de/book) per WhatsApp mit Alter der Kinder und Fährzeiten. Familienreisen gehören seit **1988** zur Mietgeschichte.

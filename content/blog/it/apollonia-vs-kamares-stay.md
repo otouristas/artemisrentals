@@ -34,7 +34,7 @@ I rientri serali contano: ad Apollonia si torna a piedi dopo il vino; a Kamares 
 
 **Kamares è ideale per:** famiglie con bambini stanchi dopo il traghetto, nuotatori che vogliono la spiaggia al mattino, e arrivi tardi che hanno chiesto **pickup a Kamares su richiesta**.
 
-I soggiorni spezzati funzionano: due notti a Kamares, tre ad Apollonia, se non ti dispiace un cambio hotel. Un'unica auto copre lo spostamento senza restituire le chiavi a metà viaggio; conferma la durata quando [prenoti con Artemis](/book).
+I soggiorni spezzati funzionano: due notti a Kamares, tre ad Apollonia, se non ti dispiace un cambio hotel. Un'unica auto copre lo spostamento senza restituire le chiavi a metà viaggio; conferma la durata quando [prenoti con Artemis](/it/book).
 
 ## Artemonas e altri villaggi
 

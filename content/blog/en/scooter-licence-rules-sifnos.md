@@ -36,4 +36,4 @@ Couples splitting riding days can pair one scooter day with one car day from the
 
 Families, automatic-only drivers, heavy luggage, or hiking gear push you toward compacts. Read [family travel on Sifnos](/en/blog/family-travel-sifnos) and [driving in Sifnos](/en/blog/driving-in-sifnos) before committing to two wheels for a whole week.
 
-Scooter rates follow seasonal logic like cars, see [Sifnos car rental prices](/en/blog/sifnos-car-rental-prices) for parallel planning. Ready? [Book with Artemis](/book) with licence details and preferred engine size. Renting scooters here since **1988** means straight answers, not upsell.
+Scooter rates follow seasonal logic like cars, see [Sifnos car rental prices](/en/blog/sifnos-car-rental-prices) for parallel planning. Ready? [Book with Artemis](/en/book) with licence details and preferred engine size. Renting scooters here since **1988** means straight answers, not upsell.

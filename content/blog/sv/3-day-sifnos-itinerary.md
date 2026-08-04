@@ -38,4 +38,4 @@ Par på scooter kan köra den här planen maj–september; familjer bör läsa [
 
 Hämta ditt Artemis-fordon dag 1 på morgonen om du sovit i Kamares, eller dag 1 på eftermiddagen om du vill bada lugnt först. **Kamares-upphämtning på begäran** sparar en bussresa när färjan kommer tidigt. Lämna tillbaka med full tank innan utresan; teamet visar närmaste pump när du hämtar nycklar i **Apollonia**.
 
-Tre dagar räcker för Sifnos höjdpunkter utan att jaga. Stanna längre om du vill ha vandringsdagar från vår guide [leder med bil](/sv/blog/sifnos-hiking-trails-by-car). [Boka med Artemis](/book) med färjedatum, ingen förskottsbetalning för förfrågan.
+Tre dagar räcker för Sifnos höjdpunkter utan att jaga. Stanna längre om du vill ha vandringsdagar från vår guide [leder med bil](/sv/blog/sifnos-hiking-trails-by-car). [Boka med Artemis](/sv/book) med färjedatum, ingen förskottsbetalning för förfrågan.

@@ -34,7 +34,7 @@ Avondretouren tellen: Apollonia-gasten lopen na wijn naar huis; Kamares-gasten r
 
 **Kamares past bij:** gezinnen met vermoeide kids na de veerboot, zwemmers die strand-eerst-ochtenden willen, en late aankomsten die **Kamares-ophalen op verzoek** vroegen.
 
-Gesplitste verblijven werken: twee nachten Kamares, drie Apollonia, als je één hotelwissel aankan. Eén huurauto dekt de verhuizing zonder sleutels mid-trip in te leveren; bevestig duur bij [Boeken bij Artemis](/book).
+Gesplitste verblijven werken: twee nachten Kamares, drie Apollonia, als je één hotelwissel aankan. Eén huurauto dekt de verhuizing zonder sleutels mid-trip in te leveren; bevestig duur bij [Boeken bij Artemis](/nl/book).
 
 ## Artemonas en andere dorpen
 

@@ -58,4 +58,4 @@ Share narrow sections with uphill hikers when you can. Dogs on leads are welcome
 
 Return keys at Artemis Apollonia with time to spare; muddy boots belong in the boot, not on upholstery. Fuel before long cross-island days if you chained multiple trailheads.
 
-Planning a walk-heavy week? [Book with Artemis](/book) and mention hiking, the team suggests car vs scooter based on where you stay and which paths you target. Renting on Sifnos since **1988** means advice grounded in actual parking spots, not generic trail apps.
+Planning a walk-heavy week? [Book with Artemis](/en/book) and mention hiking, the team suggests car vs scooter based on where you stay and which paths you target. Renting on Sifnos since **1988** means advice grounded in actual parking spots, not generic trail apps.

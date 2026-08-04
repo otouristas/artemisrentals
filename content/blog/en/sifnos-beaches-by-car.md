@@ -54,4 +54,4 @@ This loop assumes a compact from Artemis with **no prepayment** enquiry and fuel
 
 Where you sleep shapes drive time more than distance suggests. Read [Apollonia vs Kamares](/en/blog/apollonia-vs-kamares-stay) if you have not booked yet. Our [3-day itinerary](/en/blog/3-day-sifnos-itinerary) strings these beaches into a coherent first visit.
 
-Ready to map your week? [Book with Artemis](/book) with dates and passenger count, WhatsApp works well for "which beach tomorrow if the wind shifts?" questions. The team has guided renters since **1988** and knows which bay suits north wind days.
+Ready to map your week? [Book with Artemis](/en/book) with dates and passenger count, WhatsApp works well for "which beach tomorrow if the wind shifts?" questions. The team has guided renters since **1988** and knows which bay suits north wind days.

@@ -38,4 +38,4 @@ Le coppie in scooter possono seguire questo itinerario da maggio a settembre; le
 
 Ritira il veicolo Artemis la mattina del Giorno 1 se hai dormito a Kamares, o il pomeriggio del Giorno 1 se preferisci prima un bagno tranquillo. Il **pickup a Kamares su richiesta** evita un tratto in bus quando il traghetto arriva presto. Restituisci con il pieno prima della partenza; il team indica la stazione più vicina quando ritiri le chiavi ad **Apollonia**.
 
-Tre giorni bastano per i punti forti di Sifnos senza correre. Resta più a lungo se vuoi giornate di trekking dalla nostra guida [sentieri in auto](/it/blog/sifnos-hiking-trails-by-car). [Prenota con Artemis](/book) con le date del traghetto, nessuna anticipo per la richiesta.
+Tre giorni bastano per i punti forti di Sifnos senza correre. Resta più a lungo se vuoi giornate di trekking dalla nostra guida [sentieri in auto](/it/blog/sifnos-hiking-trails-by-car). [Prenota con Artemis](/it/book) con le date del traghetto, nessuna anticipo per la richiesta.

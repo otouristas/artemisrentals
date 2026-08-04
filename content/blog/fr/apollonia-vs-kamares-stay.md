@@ -34,7 +34,7 @@ Les retours du soir comptent: à Apollonia on rentre à pied après le vin; à K
 
 **Kamares convient à:** familles avec enfants fatigués après le ferry, nageurs qui veulent la plage le matin, et arrivées tardives qui ont demandé une **prise en charge à Kamares sur demande**.
 
-Les séjours partagés fonctionnent: deux nuits à Kamares, trois à Apollonia, si un changement d'hôtel ne vous dérange pas. Une seule voiture couvre le déménagement sans rendre les clés en milieu de séjour; confirmez la durée quand vous [réservez avec Artemis](/book).
+Les séjours partagés fonctionnent: deux nuits à Kamares, trois à Apollonia, si un changement d'hôtel ne vous dérange pas. Une seule voiture couvre le déménagement sans rendre les clés en milieu de séjour; confirmez la durée quand vous [réservez avec Artemis](/fr/book).
 
 ## Artemonas et autres villages
 

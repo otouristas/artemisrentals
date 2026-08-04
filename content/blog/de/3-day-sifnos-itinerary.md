@@ -38,4 +38,4 @@ Paare auf Scootern können diesen Plan von Mai bis September fahren; Familien so
 
 Holen Sie Ihr Artemis-Fahrzeug am Morgen von Tag 1 ab, wenn Sie in Kamares geschlafen haben, oder am Nachmittag von Tag 1, wenn Sie zuerst ruhig baden möchten. **Kamares-Pickup auf Anfrage** spart einen Busweg, wenn die Fähre früh anlegt. Geben Sie vollgetankt vor der Abreise zurück; das Team erklärt die nächste Tankstelle, wenn Sie die Schlüssel in **Apollonia** abholen.
 
-Drei Tage reichen, um die Highlights von Sifnos ohne Hetze zu sehen. Bleiben Sie länger, wenn Sie Wandertage aus unserem [Wanderwege mit dem Auto](/de/blog/sifnos-hiking-trails-by-car)-Guide wollen. [Bei Artemis buchen](/book) mit Fährdaten, keine Vorauszahlung für die Anfrage.
+Drei Tage reichen, um die Highlights von Sifnos ohne Hetze zu sehen. Bleiben Sie länger, wenn Sie Wandertage aus unserem [Wanderwege mit dem Auto](/de/blog/sifnos-hiking-trails-by-car)-Guide wollen. [Bei Artemis buchen](/de/book) mit Fährdaten, keine Vorauszahlung für die Anfrage.

@@ -48,4 +48,4 @@ Si vous êtes sensible au prix, décaler l'arrivée d'une semaine (début juin p
 
 Consultez la [page tarifs](/fr/rates) pour le tableau actuel, puis croisez avec notre guide sur la [meilleure période pour visiter](/fr/blog/best-time-visit-sifnos) si vos dates sont flexibles. Lisez [conduire à Sifnos](/fr/blog/driving-in-sifnos) pour le contexte routier afin de choisir la bonne taille, pas seulement le chiffre le plus bas.
 
-Quand vous êtes prêt, [réservez avec Artemis](/book) avec vos dates de ferry, le nombre de passagers et si vous avez besoin d'une prise en charge à Kamares. Aucun acompte, pas de surbooking automatisé: juste une réponse directe d'une équipe qui gère les locations à Sifnos depuis 1988.
+Quand vous êtes prêt, [réservez avec Artemis](/fr/book) avec vos dates de ferry, le nombre de passagers et si vous avez besoin d'une prise en charge à Kamares. Aucun acompte, pas de surbooking automatisé: juste une réponse directe d'une équipe qui gère les locations à Sifnos depuis 1988.

@@ -51,6 +51,6 @@ Artemis loue voitures et scooters à Sifnos depuis **1988**, donc la flotte corr
 
 Emportez permis et passeport, réglez les rétroviseurs avant de sortir du sens unique d'Apollonia et téléchargez des cartes hors ligne: le signal mobile baisse dans certaines vallées. Pour un plan de voyage plus large, associez ce guide à notre [itinéraire de 3 jours](/fr/blog/3-day-sifnos-itinerary) ou à l'article [plages en voiture](/fr/blog/sifnos-beaches-by-car).
 
-Questions sur un itinéraire précis ou la taille du véhicule? [Réservez avec Artemis](/book) et décrivez votre base hôtel et les horaires de ferry. Un échange WhatsApp rapide vaut mieux que de deviner si une Panda ou un Ignis convient mieux à votre semaine.
+Questions sur un itinéraire précis ou la taille du véhicule? [Réservez avec Artemis](/fr/book) et décrivez votre base hôtel et les horaires de ferry. Un échange WhatsApp rapide vaut mieux que de deviner si une Panda ou un Ignis convient mieux à votre semaine.
 
 Need a car for these roads? [Rent a car in Sifnos](/fr/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/fr/rates).

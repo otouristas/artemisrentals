@@ -54,4 +54,4 @@ Diese Schleife setzt einen Kompaktwagen von Artemis mit **keine-Vorauszahlung**-
 
 Wo Sie schlafen, prägt die Fahrzeit mehr, als die Distanz vermuten lässt. Lesen Sie [Apollonia vs Kamares](/de/blog/apollonia-vs-kamares-stay), wenn Sie noch nicht gebucht haben. Unser [3-Tage-Itinerary](/de/blog/3-day-sifnos-itinerary) fädelt diese Strände zu einem kohärenten Erstbesuch.
 
-Bereit, Ihre Woche zu planen? [Bei Artemis buchen](/book) mit Daten und Passagierzahl: WhatsApp eignet sich gut für Fragen wie „welcher Strand morgen, wenn der Wind dreht?“. Das Team berät Mieter seit **1988** und weiß, welche Bucht zu Nordwindtagen passt.
+Bereit, Ihre Woche zu planen? [Bei Artemis buchen](/de/book) mit Daten und Passagierzahl: WhatsApp eignet sich gut für Fragen wie „welcher Strand morgen, wenn der Wind dreht?“. Das Team berät Mieter seit **1988** und weiß, welche Bucht zu Nordwindtagen passt.

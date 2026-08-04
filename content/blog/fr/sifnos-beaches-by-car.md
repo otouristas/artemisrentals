@@ -54,4 +54,4 @@ Cette boucle suppose une compacte Artemis avec demande **sans acompte** et un pl
 
 Où vous dormez façonne le temps de trajet plus que la distance ne le suggère. Lisez [Apollonia vs Kamares](/fr/blog/apollonia-vs-kamares-stay) si vous n'avez pas encore réservé. Notre [itinéraire de 3 jours](/fr/blog/3-day-sifnos-itinerary) enchaîne ces plages en une première visite cohérente.
 
-Prêt à cartographier votre semaine? [Réservez avec Artemis](/book) avec dates et nombre de passagers: WhatsApp marche bien pour les questions du type "quelle plage demain si le vent tourne?". L'équipe guide les locataires depuis **1988** et sait quelle baie convient aux jours de vent du nord.
+Prêt à cartographier votre semaine? [Réservez avec Artemis](/fr/book) avec dates et nombre de passagers: WhatsApp marche bien pour les questions du type "quelle plage demain si le vent tourne?". L'équipe guide les locataires depuis **1988** et sait quelle baie convient aux jours de vent du nord.

@@ -36,4 +36,4 @@ related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]
 
 Οικογένειες, μόνο αυτόματο, βαριές αποσκευές, πεζοπορία, δείτε [οικογενειακό ταξίδι](/el/blog/family-travel-sifnos) και [οδήγηση](/el/blog/driving-in-sifnos).
 
-Τιμές scooter εποχιακά όπως αυτοκίνητα, [τιμές](/el/blog/sifnos-car-rental-prices). [Κλείστε με την Artemis](/book) με άδεια και cc. Scooter από **1988**.
+Τιμές scooter εποχιακά όπως αυτοκίνητα, [τιμές](/el/blog/sifnos-car-rental-prices). [Κλείστε με την Artemis](/el/book) με άδεια και cc. Scooter από **1988**.

@@ -46,6 +46,6 @@ Fråga om barnstolar när du skickar förfrågan om ni reser med småbarn. Nämn
 
 **Byte mitt i vistelsen:** Ovanligt, men par börjar ibland med bil för familjedagar och byter sedan till scooter; fråga om dina datum tillåter det.
 
-För mer om priser, se [biluthyrningspriser på Sifnos](/sv/blog/sifnos-car-rental-prices). Redo att bekräfta? [Boka med Artemis](/book), ingen förskottsbetalning, personligt svar via WhatsApp eller e-post.
+För mer om priser, se [biluthyrningspriser på Sifnos](/sv/blog/sifnos-car-rental-prices). Redo att bekräfta? [Boka med Artemis](/sv/book), ingen förskottsbetalning, personligt svar via WhatsApp eller e-post.
 
 Full evergreen guide: [Rent a car in Sifnos](/sv/sifnos-guide/rent-a-car-sifnos). See live [fleet](/sv/cars) and [rates](/sv/rates).

@@ -58,6 +58,6 @@ Scootrar följer samma regel: lämna innan färjan om inte personalen sagt annat
 
 Välj **Sifnos** om du vill ha hanterbar körning, central Apollonia-bas, familjevänliga vikar och en sammanhängande långhelgsbåge. Välj **Milos** om vulkaniska stränder och längre kustkilometer definierar drömmen, och du accepterar mer planeringsoverhead.
 
-Besöker du Sifnos först? [Boka med Artemis](/book) med färjedatum och om du behöver Kamares- eller Apollonia-upphämtning. Även om Milos följer sätter en lugn start upp den högljuddare ön fint.
+Besöker du Sifnos först? [Boka med Artemis](/sv/book) med färjedatum och om du behöver Kamares- eller Apollonia-upphämtning. Även om Milos följer sätter en lugn start upp den högljuddare ön fint.
 
 Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/sv/sifnos-guide/rent-a-car-sifnos).

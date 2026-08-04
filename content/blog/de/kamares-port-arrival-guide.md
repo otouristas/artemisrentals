@@ -56,6 +56,6 @@ Der Kamares-Minimarkt deckt Wasser, Sonnencreme und Snacks vor der ersten Fahrt 
 
 Einmal eingerichtet wird Kamares Startpunkt für die Nordküste oder ein schnelles Hafenbad zwischen Inseltrips. Kombinieren Sie diesen Guide mit [Fahren auf Sifnos](/de/blog/driving-in-sifnos) und unserem Überblick [Mietwagenpreise](/de/blog/sifnos-car-rental-prices) für das volle Bild.
 
-Bald an Land? [Bei Artemis buchen](/book) mit Fährdatum, ungefährer Ankunftszeit und bevorzugtem Pickup-Ort. Artemis holt Boote in diesem Hafen seit **1988** ab: eine kurze Nachricht schlägt am Pier zu raten, ob Ihre Panda wartet.
+Bald an Land? [Bei Artemis buchen](/de/book) mit Fährdatum, ungefährer Ankunftszeit und bevorzugtem Pickup-Ort. Artemis holt Boote in diesem Hafen seit **1988** ab: eine kurze Nachricht schlägt am Pier zu raten, ob Ihre Panda wartet.
 
 Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/de/sifnos-guide/rent-a-car-sifnos) or [book dates](/de/book).

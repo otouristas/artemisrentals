@@ -56,6 +56,6 @@ Kamares minimarknad täcker vatten, solkräm och snacks innan första körningen
 
 När ni landat blir Kamares en startpunkt för nordkusten eller ett snabbt hamnbad mellan öturer. Para den här guiden med [köra på Sifnos](/sv/blog/driving-in-sifnos) och vår översikt över [biluthyrningspriser](/sv/blog/sifnos-car-rental-prices).
 
-Landar snart? [Boka med Artemis](/book) med färjedatum, ungefärlig ankomsttid och önskad upphämtningsplats. Artemis har mött båtar i den här hamnen sedan **1988**; ett kort meddelande slår att stå på piren och gissa om Pandan väntar.
+Landar snart? [Boka med Artemis](/sv/book) med färjedatum, ungefärlig ankomsttid och önskad upphämtningsplats. Artemis har mött båtar i den här hamnen sedan **1988**; ett kort meddelande slår att stå på piren och gissa om Pandan väntar.
 
 Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/sv/sifnos-guide/rent-a-car-sifnos) or [book dates](/sv/book).

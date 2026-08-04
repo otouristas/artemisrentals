@@ -46,6 +46,6 @@ Fragen Sie Kindersitze bei der Anfrage an, wenn Sie mit Kleinkindern reisen. Nen
 
 **Tausch mitten im Aufenthalt:** selten, aber manche Paare starten mit Auto für Familientage und wechseln dann zum Scooter: fragen Sie, ob Ihre Daten es erlauben.
 
-Für mehr Preiskontext siehe [Sifnos Mietwagenpreise](/de/blog/sifnos-car-rental-prices). Bereit zu bestätigen? [Bei Artemis buchen](/book), keine Vorauszahlung, persönliche Antwort per WhatsApp oder E-Mail.
+Für mehr Preiskontext siehe [Sifnos Mietwagenpreise](/de/blog/sifnos-car-rental-prices). Bereit zu bestätigen? [Bei Artemis buchen](/de/book), keine Vorauszahlung, persönliche Antwort per WhatsApp oder E-Mail.
 
 Full evergreen guide: [Rent a car in Sifnos](/de/sifnos-guide/rent-a-car-sifnos). See live [fleet](/de/cars) and [rates](/de/rates).

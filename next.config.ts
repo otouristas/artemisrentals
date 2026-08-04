@@ -31,6 +31,7 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // Legacy Artemis .html paths
       { source: "/cars.html", destination: "/el/cars", permanent: true },
       { source: "/motos.html", destination: "/el/scooters", permanent: true },
       { source: "/rates.html", destination: "/el/rates", permanent: true },
@@ -41,6 +42,25 @@ const nextConfig: NextConfig = {
       { source: "/en/rates.html", destination: "/en/rates", permanent: true },
       { source: "/en/contact.html", destination: "/en/book", permanent: true },
       { source: "/en/index.html", destination: "/en", permanent: true },
+      // Bare (no-locale) paths → English default. Permanent so GSC treats them as
+      // intentional redirects instead of soft locale negotiation (307).
+      { source: "/", destination: "/en", permanent: true },
+      { source: "/cars", destination: "/en/cars", permanent: true },
+      { source: "/cars/:slug", destination: "/en/cars/:slug", permanent: true },
+      { source: "/scooters", destination: "/en/scooters", permanent: true },
+      { source: "/scooters/:slug", destination: "/en/scooters/:slug", permanent: true },
+      { source: "/blog", destination: "/en/blog", permanent: true },
+      { source: "/blog/:slug", destination: "/en/blog/:slug", permanent: true },
+      { source: "/sifnos-guide", destination: "/en/sifnos-guide", permanent: true },
+      { source: "/sifnos-guide/:slug", destination: "/en/sifnos-guide/:slug", permanent: true },
+      { source: "/book", destination: "/en/book", permanent: true },
+      { source: "/rates", destination: "/en/rates", permanent: true },
+      { source: "/faq", destination: "/en/faq", permanent: true },
+      { source: "/about", destination: "/en/about", permanent: true },
+      { source: "/privacy", destination: "/en/privacy", permanent: true },
+      { source: "/terms", destination: "/en/terms", permanent: true },
+      { source: "/cookies", destination: "/en/cookies", permanent: true },
+      { source: "/gdpr", destination: "/en/gdpr", permanent: true },
     ];
   },
 };

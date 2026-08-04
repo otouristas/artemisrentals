@@ -34,7 +34,7 @@ Evening returns matter: Apollonia diners walk home after wine; Kamares guests dr
 
 **Kamares suits:** families with tired kids post-ferry, swimmers who want beach-first mornings, and late arrivals who requested **Kamares pickup on request**.
 
-Split stays work, two nights Kamares, three Apollonia, if you do not mind one hotel change. One rental car covers the move without returning keys mid-trip; confirm duration when you [Book with Artemis](/book).
+Split stays work, two nights Kamares, three Apollonia, if you do not mind one hotel change. One rental car covers the move without returning keys mid-trip; confirm duration when you [Book with Artemis](/en/book).
 
 ## Artemonas and other villages
 

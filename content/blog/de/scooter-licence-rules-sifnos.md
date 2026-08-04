@@ -36,4 +36,4 @@ Paare, die Fahrttage teilen, können einen Scooter-Tag mit einem Auto-Tag aus de
 
 Familien, nur-Automatik-Fahrer, schweres Gepäck oder Wanderausrüstung drängen Sie zu Kompakten. Lesen Sie [Familienreisen auf Sifnos](/de/blog/family-travel-sifnos) und [Fahren auf Sifnos](/de/blog/driving-in-sifnos), bevor Sie sich eine ganze Woche auf zwei Räder festlegen.
 
-Scooter-Raten folgen derselben Saisonlogik wie Autos: siehe [Sifnos Mietwagenpreise](/de/blog/sifnos-car-rental-prices) für parallele Planung. Bereit? [Bei Artemis buchen](/book) mit Führerscheindetails und bevorzugter Hubraumgröße. Scooter hier seit **1988** zu vermieten bedeutet klare Antworten, keinen Upsell.
+Scooter-Raten folgen derselben Saisonlogik wie Autos: siehe [Sifnos Mietwagenpreise](/de/blog/sifnos-car-rental-prices) für parallele Planung. Bereit? [Bei Artemis buchen](/de/book) mit Führerscheindetails und bevorzugter Hubraumgröße. Scooter hier seit **1988** zu vermieten bedeutet klare Antworten, keinen Upsell.

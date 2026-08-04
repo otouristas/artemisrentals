@@ -42,4 +42,4 @@ Automatische transmissie vermindert hellingstress bij het verlaten van stranden 
 
 Ochtendstrand tot honger toeslaat, autodutje op de terugrit naar Apollonia, pool of stille uur in het hotel, avondijsjeswandeling zonder opnieuw te rijden. Eén grote uitstap wint van drie gehaaste stops, in lijn met het tempo van onze [3-daagse route](/nl/blog/3-day-sifnos-itinerary).
 
-Vragen over buggyvriendelijke routes of zitjebeschikbaarheid? [Boek bij Artemis](/book) via WhatsApp met leeftijden van de kinderen en veertijden. Gezinsreizen horen bij het verhaal sinds **1988**.
+Vragen over buggyvriendelijke routes of zitjebeschikbaarheid? [Boek bij Artemis](/nl/book) via WhatsApp met leeftijden van de kinderen en veertijden. Gezinsreizen horen bij het verhaal sinds **1988**.

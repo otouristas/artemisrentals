@@ -58,4 +58,4 @@ Dela smala partier med uppförvandrare när du kan. Hundar i koppel är välkomn
 
 Lämna nycklar hos Artemis Apollonia med marginal; leriga kängor hör hemma i bagaget, inte på klädseln. Fyll bränsle innan långa korsö-dagar om du kedjat flera trailheads.
 
-Planerar du en vandringstung vecka? [Boka med Artemis](/book) och nämn hiking; teamet föreslår bil vs scooter utifrån boende och vilka stigar du siktar på. Uthyrning på Sifnos sedan **1988** betyder råd rotade i faktiska parkeringsplatser, inte generiska ledappar.
+Planerar du en vandringstung vecka? [Boka med Artemis](/sv/book) och nämn hiking; teamet föreslår bil vs scooter utifrån boende och vilka stigar du siktar på. Uthyrning på Sifnos sedan **1988** betyder råd rotade i faktiska parkeringsplatser, inte generiska ledappar.

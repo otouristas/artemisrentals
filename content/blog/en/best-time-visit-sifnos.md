@@ -46,4 +46,4 @@ Scooter riders feel wind more, plan car backup or choose sheltered bays on gusty
 
 Low and shoulder seasons reward flexible travellers: last-minute compacts, lower daily rates on the [price guide](/en/blog/sifnos-car-rental-prices), and scooters for couples without August sell-out stress. Peak weeks invert the logic, book automatics early, start beach days before 10 a.m., and treat your Artemis enquiry as part of ferry booking, not an afterthought.
 
-[Book with Artemis](/book) when your window is set, **no prepayment**, pickup in **Apollonia** or **Kamares on request**, cars and scooters since **1988**.
+[Book with Artemis](/en/book) when your window is set, **no prepayment**, pickup in **Apollonia** or **Kamares on request**, cars and scooters since **1988**.

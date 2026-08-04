@@ -42,4 +42,4 @@ Automatisk växellåda minskar backstress när ni lämnar stranden med ett sovan
 
 Strand på morgonen tills hungern kommer, bil-tupplur på vägen tillbaka mot Apollonia, pool eller tyst stund på hotellet, kvällsglasspromenad utan mer körning. En stor utflykt slår tre hastiga stopp, i linje med tempot i vår [3-dagarsitinerary](/sv/blog/3-day-sifnos-itinerary).
 
-Frågor om barnvagnsvänliga rutter eller stolstillgång? [Boka med Artemis](/book) via WhatsApp med barnens åldrar och färjetider. Familjeresor har varit en del av uthyrningshistorien sedan **1988**.
+Frågor om barnvagnsvänliga rutter eller stolstillgång? [Boka med Artemis](/sv/book) via WhatsApp med barnens åldrar och färjetider. Familjeresor har varit en del av uthyrningshistorien sedan **1988**.

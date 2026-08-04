@@ -58,6 +58,6 @@ Scooter folgen derselben Regel: vor der Fähre zurückgeben, außer Staff hat an
 
 Wählen Sie **Sifnos**, wenn Sie überschaubares Fahren, zentrale Apollonia-Basis, familienfreundliche Buchten und einen kohärenten Long-Weekend-Bogen wollen. Wählen Sie **Milos**, wenn vulkanische Strände und mehr Küstenkilometer den Traum definieren und Sie mehr Planungsaufwand akzeptieren.
 
-Besuchen Sie Sifnos zuerst? [Bei Artemis buchen](/book) mit Fährdaten und ob Sie Kamares- oder Apollonia-Pickup brauchen. Auch wenn Milos folgt, setzt ruhiger Start die lautere Insel gut auf.
+Besuchen Sie Sifnos zuerst? [Bei Artemis buchen](/de/book) mit Fährdaten und ob Sie Kamares- oder Apollonia-Pickup brauchen. Auch wenn Milos folgt, setzt ruhiger Start die lautere Insel gut auf.
 
 Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/de/sifnos-guide/rent-a-car-sifnos).

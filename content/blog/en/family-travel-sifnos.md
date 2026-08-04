@@ -42,4 +42,4 @@ Automatic transmission reduces hill stress leaving beaches with a sleeping child
 
 Morning beach until hunger strikes, car nap on the drive back toward Apollonia, pool or quiet hour at the hotel, evening gelato walk without driving again. One major outing beats three rushed stops, aligns with our [3-day itinerary](/en/blog/3-day-sifnos-itinerary) pacing.
 
-Questions about stroller-friendly routes or seat availability? [Book with Artemis](/book) on WhatsApp with children's ages and ferry times. Family trips have been part of the rental story since **1988**.
+Questions about stroller-friendly routes or seat availability? [Book with Artemis](/en/book) on WhatsApp with children's ages and ferry times. Family trips have been part of the rental story since **1988**.

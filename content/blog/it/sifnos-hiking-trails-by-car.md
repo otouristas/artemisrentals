@@ -58,4 +58,4 @@ Condividi i tratti stretti dando priorità a chi sale, quando puoi. I cani al gu
 
 Restituisci le chiavi all'ufficio Artemis ad Apollonia con un po' di margine; gli stivali fangosi stanno nel bagagliaio, non sui sedili. Fai il pieno prima di lunghe giornate cross-island se hai concatenato più trailhead.
 
-Pianifichi una settimana a piedi? [Prenota con Artemis](/book) e menziona il trekking: il team suggerisce auto vs scooter in base a dove dormi e a quali sentieri punti. Noleggiare a Sifnos dal **1988** significa consigli ancorati a posti di parcheggio reali, non ad app generiche.
+Pianifichi una settimana a piedi? [Prenota con Artemis](/it/book) e menziona il trekking: il team suggerisce auto vs scooter in base a dove dormi e a quali sentieri punti. Noleggiare a Sifnos dal **1988** significa consigli ancorati a posti di parcheggio reali, non ad app generiche.

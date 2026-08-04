@@ -48,4 +48,4 @@ If you are price-sensitive, shifting arrival by one week, early June instead of 
 
 Check the [rates page](/en/rates) for the current table, then cross-reference with our [best time to visit](/en/blog/best-time-visit-sifnos) guide if your dates are flexible. Read [driving in Sifnos](/en/blog/driving-in-sifnos) for road context so you pick the right size, not just the lowest number.
 
-When you are ready, [Book with Artemis](/book) with your ferry dates, passenger count, and whether you need Kamares pickup. No prepayment, no automated overbooking, just a direct reply from a team that has handled Sifnos rentals since 1988.
+When you are ready, [Book with Artemis](/en/book) with your ferry dates, passenger count, and whether you need Kamares pickup. No prepayment, no automated overbooking, just a direct reply from a team that has handled Sifnos rentals since 1988.

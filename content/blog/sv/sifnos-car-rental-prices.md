@@ -48,4 +48,4 @@ Scootrar startar lägre per dag och passar par som strandhoppar i lugnare månad
 
 Kolla [prissidan](/sv/rates) för aktuell tabell och korsreferera med vår guide [bästa tiden att besöka](/sv/blog/best-time-visit-sifnos) om datumen är flexibla. Läs [köra på Sifnos](/sv/blog/driving-in-sifnos) för vägkontext så du väljer rätt storlek, inte bara lägsta siffran.
 
-När du är redo, [Boka med Artemis](/book) med färjedatum, antal passagerare och om du behöver Kamares-upphämtning. Ingen förskottsbetalning, ingen automatisk överbokning, bara ett direkt svar från ett team som hanterat Sifnos-uthyrning sedan 1988.
+När du är redo, [Boka med Artemis](/sv/book) med färjedatum, antal passagerare och om du behöver Kamares-upphämtning. Ingen förskottsbetalning, ingen automatisk överbokning, bara ett direkt svar från ett team som hanterat Sifnos-uthyrning sedan 1988.

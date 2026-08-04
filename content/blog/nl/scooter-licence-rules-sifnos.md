@@ -36,4 +36,4 @@ Stellen die rijdagen splitsen kunnen één scooter-dag met één autodag combine
 
 Gezinnen, alleen-automatisch-chauffeurs, zware bagage of wandeluitrusting duwen je naar compacten. Lees [gezinsreis op Sifnos](/nl/blog/family-travel-sifnos) en [rijden op Sifnos](/nl/blog/driving-in-sifnos) vóór je een week aan twee wielen vastzit.
 
-Scooterprijzen volgen seizoenslogica zoals auto's; zie [autohuurprijzen op Sifnos](/nl/blog/sifnos-car-rental-prices) voor parallelle planning. Klaar? [Boek bij Artemis](/book) met rijbewijsdetails en gewenste motorgrootte. Scooters huren hier sinds **1988** betekent rechte antwoorden, geen upsell.
+Scooterprijzen volgen seizoenslogica zoals auto's; zie [autohuurprijzen op Sifnos](/nl/blog/sifnos-car-rental-prices) voor parallelle planning. Klaar? [Boek bij Artemis](/nl/book) met rijbewijsdetails en gewenste motorgrootte. Scooters huren hier sinds **1988** betekent rechte antwoorden, geen upsell.

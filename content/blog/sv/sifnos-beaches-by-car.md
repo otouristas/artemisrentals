@@ -54,4 +54,4 @@ Slingan förutsätter en kompakt från Artemis med **ingen förskottsbetalning**
 
 Var du sover formar körtid mer än avståndet antyder. Läs [Apollonia eller Kamares](/sv/blog/apollonia-vs-kamares-stay) om du inte bokat än. Vår [3-dagarsitinerary](/sv/blog/3-day-sifnos-itinerary) väver in dessa stränder i ett sammanhängande första besök.
 
-Redo att kartlägga veckan? [Boka med Artemis](/book) med datum och antal passagerare; WhatsApp fungerar bra för frågor som "vilken strand i morgon om vinden vänder?". Teamet har guidat hyresgäster sedan **1988** och vet vilken vik som passar nordvindsdagar.
+Redo att kartlägga veckan? [Boka med Artemis](/sv/book) med datum och antal passagerare; WhatsApp fungerar bra för frågor som "vilken strand i morgon om vinden vänder?". Teamet har guidat hyresgäster sedan **1988** och vet vilken vik som passar nordvindsdagar.

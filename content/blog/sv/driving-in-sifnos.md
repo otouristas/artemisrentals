@@ -51,6 +51,6 @@ Artemis har hyrt ut bilar och scootrar på Sifnos sedan **1988**, så flottan ma
 
 Ha körkort och pass med dig, justera speglar innan du lämnar Apollonias enkelriktning och ladda ner offlinekartor; mobilsignalen dippar i vissa dalar. För en bredare plan, para den här guiden med vår [3-dagarsitinerary](/sv/blog/3-day-sifnos-itinerary) eller artikeln [stränder med bil](/sv/blog/sifnos-beaches-by-car).
 
-Frågor om en specifik rutt eller fordonsstorlek? [Boka med Artemis](/book) och beskriv hotellbas och färjetider. Ett snabbt WhatsApp-utbyte slår gissningar om Panda eller Ignis passar din vecka bättre.
+Frågor om en specifik rutt eller fordonsstorlek? [Boka med Artemis](/sv/book) och beskriv hotellbas och färjetider. Ett snabbt WhatsApp-utbyte slår gissningar om Panda eller Ignis passar din vecka bättre.
 
 Need a car for these roads? [Rent a car in Sifnos](/sv/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/sv/rates).

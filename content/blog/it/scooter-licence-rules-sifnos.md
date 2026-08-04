@@ -36,4 +36,4 @@ Le coppie che si dividono i giorni di guida possono abbinare un giorno scooter e
 
 Famiglie, chi guida solo automatico, bagagli pesanti o attrezzatura da trekking ti spingono verso le compatte. Leggi [viaggiare in famiglia a Sifnos](/it/blog/family-travel-sifnos) e [guidare a Sifnos](/it/blog/driving-in-sifnos) prima di impegnarti due ruote per un'intera settimana.
 
-Le tariffe scooter seguono la logica stagionale delle auto: vedi [prezzi noleggio auto a Sifnos](/it/blog/sifnos-car-rental-prices) per una pianificazione parallela. Pronto? [Prenota con Artemis](/book) con dettagli della patente e cilindrata preferita. Noleggiare scooter qui dal **1988** significa risposte dirette, non upsell.
+Le tariffe scooter seguono la logica stagionale delle auto: vedi [prezzi noleggio auto a Sifnos](/it/blog/sifnos-car-rental-prices) per una pianificazione parallela. Pronto? [Prenota con Artemis](/it/book) con dettagli della patente e cilindrata preferita. Noleggiare scooter qui dal **1988** significa risposte dirette, non upsell.

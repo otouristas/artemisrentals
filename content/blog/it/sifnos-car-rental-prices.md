@@ -48,4 +48,4 @@ Se sei attento al prezzo, spostare l'arrivo di una settimana (inizio giugno inve
 
 Controlla la [pagina tariffe](/it/rates) per la tabella aggiornata, poi confronta con la guida sul [periodo migliore per visitare](/it/blog/best-time-visit-sifnos) se le date sono flessibili. Leggi [guidare a Sifnos](/it/blog/driving-in-sifnos) per il contesto stradale e scegliere la taglia giusta, non solo il numero più basso.
 
-Quando sei pronto, [prenota con Artemis](/book) con date del traghetto, numero di passeggeri e se ti serve il pickup a Kamares. Nessun anticipo, nessun overbooking automatico: solo una risposta diretta da un team che gestisce noleggi a Sifnos dal 1988.
+Quando sei pronto, [prenota con Artemis](/it/book) con date del traghetto, numero di passeggeri e se ti serve il pickup a Kamares. Nessun anticipo, nessun overbooking automatico: solo una risposta diretta da un team che gestisce noleggi a Sifnos dal 1988.

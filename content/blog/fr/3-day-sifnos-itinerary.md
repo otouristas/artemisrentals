@@ -38,4 +38,4 @@ Les couples en scooter peuvent suivre cet itinéraire de mai à septembre; les f
 
 Récupérez votre véhicule Artemis le matin du Jour 1 si vous avez dormi à Kamares, ou l'après-midi du Jour 1 si vous préférez d'abord une baignade calme. La **prise en charge à Kamares sur demande** évite un trajet en bus quand le ferry arrive tôt. Rendez le véhicule plein avant le départ; l'équipe indique la station la plus proche quand vous récupérez les clés à **Apollonia**.
 
-Trois jours suffisent pour voir les points forts de Sifnos sans courir. Restez plus longtemps si vous voulez des journées de randonnée grâce à notre guide [sentiers en voiture](/fr/blog/sifnos-hiking-trails-by-car). [Réservez avec Artemis](/book) avec les dates de ferry, aucun acompte pour la demande.
+Trois jours suffisent pour voir les points forts de Sifnos sans courir. Restez plus longtemps si vous voulez des journées de randonnée grâce à notre guide [sentiers en voiture](/fr/blog/sifnos-hiking-trails-by-car). [Réservez avec Artemis](/fr/book) avec les dates de ferry, aucun acompte pour la demande.

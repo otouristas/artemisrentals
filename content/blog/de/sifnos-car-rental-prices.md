@@ -48,4 +48,4 @@ Wenn Sie preissensibel sind, spart das Verschieben der Ankunft um eine Woche (An
 
 Prüfen Sie die [Preisseite](/de/rates) für die aktuelle Tabelle und gleichen Sie mit unserem Guide zur [besten Reisezeit](/de/blog/best-time-visit-sifnos) ab, wenn Ihre Daten flexibel sind. Lesen Sie [Fahren auf Sifnos](/de/blog/driving-in-sifnos) für Straßenkontext, damit Sie die richtige Größe wählen, nicht nur die niedrigste Zahl.
 
-Wenn Sie bereit sind, [bei Artemis buchen](/book) mit Fährdaten, Passagierzahl und ob Sie Kamares-Pickup brauchen. Keine Vorauszahlung, kein automatisiertes Overbooking: nur eine direkte Antwort von einem Team, das Sifnos-Vermietungen seit 1988 handhabt.
+Wenn Sie bereit sind, [bei Artemis buchen](/de/book) mit Fährdaten, Passagierzahl und ob Sie Kamares-Pickup brauchen. Keine Vorauszahlung, kein automatisiertes Overbooking: nur eine direkte Antwort von einem Team, das Sifnos-Vermietungen seit 1988 handhabt.

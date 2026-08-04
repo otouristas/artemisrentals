@@ -58,6 +58,6 @@ Scooters volgen dezelfde regel: inleveren vóór de veerboot tenzij personeel an
 
 Kies **Sifnos** als je beheersbaar rijden, centrale Apollonia-basis, gezinsvriendelijke baaien en een samenhangende langweekend-boog wilt. Kies **Milos** als vulkanische stranden en langere kustkilometers de droom definiëren, en je meer planningsoverhead accepteert.
 
-Sifnos eerst bezoeken? [Boek bij Artemis](/book) met veerdata en of je Kamares- of Apollonia-ophalen nodig hebt. Zelfs als Milos volgt, zet een kalme start het luidere eiland mooi neer.
+Sifnos eerst bezoeken? [Boek bij Artemis](/nl/book) met veerdata en of je Kamares- of Apollonia-ophalen nodig hebt. Zelfs als Milos volgt, zet een kalme start het luidere eiland mooi neer.
 
 Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/nl/sifnos-guide/rent-a-car-sifnos).

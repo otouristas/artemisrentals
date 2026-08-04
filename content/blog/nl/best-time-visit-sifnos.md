@@ -46,4 +46,4 @@ Scooterruiters voelen wind harder; plan auto-backup of kies beschutte baaien bij
 
 Laag- en schouderseizoen belonen flexibele reizigers: last-minute compacten, lagere dagprijzen in de [prijsgids](/nl/blog/sifnos-car-rental-prices) en scooters voor stellen zonder augustus-stress. Piekweken keren de logica om: boek automaten vroeg, begin stranddagen vóór 10 uur, en behandel je Artemis-aanvraag als onderdeel van de veerboeking, niet als bijzaak.
 
-[Boek bij Artemis](/book) wanneer je venster vastligt, **geen vooruitbetaling**, ophalen in **Apollonia** of **Kamares op verzoek**, auto's en scooters sinds **1988**.
+[Boek bij Artemis](/nl/book) wanneer je venster vastligt, **geen vooruitbetaling**, ophalen in **Apollonia** of **Kamares op verzoek**, auto's en scooters sinds **1988**.

@@ -34,7 +34,7 @@ Kvällsreturer spelar roll: Apollonia-gäster går hem efter vin; Kamares-gäste
 
 **Kamares passar:** familjer med trötta barn efter färjan, badare som vill ha strand först, och sena ankomster som bett om **Kamares-upphämtning på begäran**.
 
-Delade vistelser fungerar: två nätter Kamares, tre Apollonia, om du tål ett hotellbyte. En hyrbil täcker flytten utan att lämna tillbaka nycklar mitt i; bekräfta längd när du [Bokar med Artemis](/book).
+Delade vistelser fungerar: två nätter Kamares, tre Apollonia, om du tål ett hotellbyte. En hyrbil täcker flytten utan att lämna tillbaka nycklar mitt i; bekräfta längd när du [Bokar med Artemis](/sv/book).
 
 ## Artemonas och andra byar
 

@@ -58,4 +58,4 @@ Deel smalle stukken met bergop-wandelaars wanneer je kunt. Honden aan de lijn zi
 
 Lever sleutels bij Artemis Apollonia met marge; modderige laarzen horen in de kofferbak, niet op bekleding. Tank vóór lange eiland-door dagen als je meerdere trailheads aan elkaar rijgt.
 
-Plan je een wandelzware week? [Boek bij Artemis](/book) en noem hiking; het team stelt auto vs scooter voor op basis van waar je verblijft en welke paden je mikt. Huren op Sifnos sinds **1988** betekent advies geworteld in echte parkeerplekken, geen generieke trail-apps.
+Plan je een wandelzware week? [Boek bij Artemis](/nl/book) en noem hiking; het team stelt auto vs scooter voor op basis van waar je verblijft en welke paden je mikt. Huren op Sifnos sinds **1988** betekent advies geworteld in echte parkeerplekken, geen generieke trail-apps.

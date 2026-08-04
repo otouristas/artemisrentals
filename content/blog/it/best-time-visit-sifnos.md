@@ -46,4 +46,4 @@ Chi va in scooter sente di più il vento: pianifica un'auto di riserva o scegli 
 
 Bassa e mezza stagione premiano i viaggiatori flessibili: compatte last-minute, tariffe giornaliere più basse nella [guida prezzi](/it/blog/sifnos-car-rental-prices), e scooter per le coppie senza lo stress di esaurimento di agosto. Le settimane di punta invertiscono la logica: prenota le automatiche presto, inizia le spiagge prima delle 10, e tratta la richiesta Artemis come parte della prenotazione traghetto, non come ripensamento.
 
-[Prenota con Artemis](/book) quando hai la finestra, **nessun anticipo**, pickup ad **Apollonia** o **Kamares su richiesta**, auto e scooter dal **1988**.
+[Prenota con Artemis](/it/book) quando hai la finestra, **nessun anticipo**, pickup ad **Apollonia** o **Kamares su richiesta**, auto e scooter dal **1988**.

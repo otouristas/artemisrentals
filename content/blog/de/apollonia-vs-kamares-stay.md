@@ -34,7 +34,7 @@ Abendliche Rückkehr zählt: Apollonia-Gäste gehen nach dem Wein zu Fuß nach H
 
 **Kamares passt zu:** Familien mit müden Kindern nach der Fähre, Schwimmern mit strandfirst Morgen und späten Ankünften, die **Kamares-Pickup auf Anfrage** angefragt haben.
 
-Geteilte Aufenthalte funktionieren: zwei Nächte Kamares, drei Apollonia, wenn Ihnen ein Hotelwechsel nichts ausmacht. Ein Mietwagen deckt den Umzug ab, ohne Schlüssel mittendrin zurückzugeben; bestätigen Sie die Dauer, wenn Sie [bei Artemis buchen](/book).
+Geteilte Aufenthalte funktionieren: zwei Nächte Kamares, drei Apollonia, wenn Ihnen ein Hotelwechsel nichts ausmacht. Ein Mietwagen deckt den Umzug ab, ohne Schlüssel mittendrin zurückzugeben; bestätigen Sie die Dauer, wenn Sie [bei Artemis buchen](/de/book).
 
 ## Artemonas und andere Dörfer
 

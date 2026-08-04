@@ -42,4 +42,4 @@ La transmission automatique réduit le stress en côte en quittant les plages av
 
 Plage le matin jusqu'à la faim, sieste en voiture vers Apollonia, piscine ou heure calme à l'hôtel, glace le soir sans re-conduire. Une sortie importante bat trois arrêts précipités, en phase avec le rythme de notre [itinéraire de 3 jours](/fr/blog/3-day-sifnos-itinerary).
 
-Questions sur les itinéraires adaptés aux poussettes ou la disponibilité des sièges? [Réservez avec Artemis](/book) sur WhatsApp avec l'âge des enfants et les horaires de ferry. Les voyages en famille font partie de l'histoire de la location depuis **1988**.
+Questions sur les itinéraires adaptés aux poussettes ou la disponibilité des sièges? [Réservez avec Artemis](/fr/book) sur WhatsApp avec l'âge des enfants et les horaires de ferry. Les voyages en famille font partie de l'histoire de la location depuis **1988**.

@@ -46,4 +46,4 @@ Scooter-Fahrer spüren Wind stärker: planen Sie Auto-Backup oder wählen Sie ge
 
 Niedrig- und Zwischensaison belohnen flexible Reisende: last-minute Kompakte, niedrigere Tagesraten im [Preisguide](/de/blog/sifnos-car-rental-prices) und Scooter für Paare ohne August-Ausverkaufsstress. Spitzenwochen kehren die Logik um: Automatik früh buchen, Strandtage vor 10 Uhr starten und die Artemis-Anfrage als Teil der Fährbuchung behandeln, nicht als Nachgedanke.
 
-[Bei Artemis buchen](/book), wenn Ihr Fenster feststeht, **keine Vorauszahlung**, Abholung in **Apollonia** oder **Kamares auf Anfrage**, Autos und Scooter seit **1988**.
+[Bei Artemis buchen](/de/book), wenn Ihr Fenster feststeht, **keine Vorauszahlung**, Abholung in **Apollonia** oder **Kamares auf Anfrage**, Autos und Scooter seit **1988**.

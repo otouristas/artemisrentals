@@ -42,4 +42,4 @@ Il cambio automatico riduce lo stress in salita uscendo dalle spiagge con un bam
 
 Spiaggia al mattino fino alla fame, sonnellino in auto verso Apollonia, piscina o ora quieta in hotel, gelato serale senza guidare di nuovo. Un'uscita importante batte tre fermate frettolose, in linea con il ritmo del nostro [itinerario di 3 giorni](/it/blog/3-day-sifnos-itinerary).
 
-Domande su percorsi adatti al passeggino o disponibilità dei seggiolini? [Prenota con Artemis](/book) su WhatsApp con età dei bambini e orari del traghetto. I viaggi in famiglia fanno parte della storia del noleggio dal **1988**.
+Domande su percorsi adatti al passeggino o disponibilità dei seggiolini? [Prenota con Artemis](/it/book) su WhatsApp con età dei bambini e orari del traghetto. I viaggi in famiglia fanno parte della storia del noleggio dal **1988**.

@@ -56,6 +56,6 @@ The Kamares mini-market covers water, sunscreen, and snacks before a first drive
 
 Once settled, Kamares becomes a launch point for the north coast or a quick port swim between island drives. Pair this guide with [driving in Sifnos](/en/blog/driving-in-sifnos) and our [car rental prices](/en/blog/sifnos-car-rental-prices) overview for the full picture.
 
-Landing soon? [Book with Artemis](/book) with ferry date, approximate arrival time, and preferred pickup location. Artemis has met boats at this port since **1988**, a short message beats standing at the pier guessing whether your Panda is waiting.
+Landing soon? [Book with Artemis](/en/book) with ferry date, approximate arrival time, and preferred pickup location. Artemis has met boats at this port since **1988**, a short message beats standing at the pier guessing whether your Panda is waiting.
 
 Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) or [book dates](/en/book).
