@@ -4,7 +4,7 @@ title: "Getting around Sifnos: car vs scooter"
 description: "How to get around Sifnos, car vs scooter vs bus vs taxi, road tips, parking, fuel, and when Artemis rentals make the most sense."
 answer: "For most visitors staying three-plus nights, a car is the most comfortable way to reach beaches and villages. Scooters suit confident riders with light luggage. Buses exist in summer but are infrequent for beach-hopping; taxis are limited in peaks."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
@@ -29,9 +29,9 @@ related:
 
 ## Car rental on Sifnos
 
-Compact cars fit village lanes and tight parking best. Artemis maintains cars for island roads, request dates early for July–August automatics. **Pickup** is typically Apollonia; cars may also meet ferries at **Kamares** on request. Scooters are Apollonia-based.
+Compact cars fit village lanes and tight parking best. Artemis maintains cars for island roads; request dates early for July–August automatics. **Car pickup** is complimentary at Kamares port, heliport, Apollonia, Artemonas, and Kastro. Scooters are Apollonia-based; online scooter booking is temporarily unavailable.
 
-See also [practical driving tips](/en/sifnos-guide/practical-tips).
+See [rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) and [practical driving tips](/en/sifnos-guide/practical-tips).
 
 ## Scooter rental
 
@@ -68,4 +68,4 @@ Fill in the Apollonia / main-road area before a full north-coast day in high sea
 
 ## Artemis fleet
 
-[Cars](/en/cars) · [Scooters](/en/scooters) · [Rates](/en/rates) · [Request dates](/en/book)
+[Rent a car guide](/en/sifnos-guide/rent-a-car-sifnos) · [Cars](/en/cars) · [Rates](/en/rates) · [Request dates](/en/book)

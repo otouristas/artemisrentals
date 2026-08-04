@@ -1,8 +1,8 @@
 {
   "Meta": {
     "siteName": "Artemis Rental",
-    "homeTitle": "Hyr bil Sifnos | Artemis Rental bil & scooter",
-    "homeDescription": "Hyr bil och scooter på Sifnos med Artemis Rental. Pålitliga fordon, schysta säsongspriser och personlig service i Apollonia sedan 1988."
+    "homeTitle": "Hyr bil Sifnos | Artemis Rental",
+    "homeDescription": "Hyr bil på Sifnos hos Artemis Rental. Gratis upphämtning i Kamares hamn, disk i Apollonia sedan 1988, säsongspriser, ingen förskottsbetalning."
   },
   "Nav": {
     "home": "Hem",
@@ -40,12 +40,14 @@
     "privacy": "Integritet",
     "cookies": "Cookies",
     "gdpr": "GDPR",
-    "legal": "Juridiskt"
+    "legal": "Juridiskt",
+    "guideRentCar": "Hyr bil Sifnos",
+    "guideScooter": "Hyr scooter"
   },
   "Home": {
     "brand": "Artemis Rental",
-    "headline": "Friheten att upptäcka Sifnos",
-    "subhead": "Bilar och scootrar från Apollonia sedan 1988, välskötta, rättvist prissatta och redo när färjan lägger till.",
+    "headline": "Hyr bil och scooter på Sifnos",
+    "subhead": "Pålitliga bilar från Apollonia sedan 1988. Gratis upphämtning i Kamares, rättvisa säsongspriser, personlig bekräftelse utan förskott.",
     "ctaBook": "Boka ett fordon",
     "ctaFleet": "Utforska flottan",
     "ctaGuide": "Sifnos-guide",
@@ -58,7 +60,7 @@
     "why3Title": "Mänsklig hjälp, lokala svar",
     "why3Body": "Fråga om parkering i Kastro, vägen till Vathi eller en sista-minuten-förlängning. Vi svarar.",
     "fleetTitle": "Välj ditt fordon",
-    "fleetBody": "Bläddra bland bilar och scootrar, skicka sedan datum. Vi bekräftar tillgänglighet personligen.",
+    "fleetBody": "Bilar går att boka. Scooterbokning är tillfälligt otillgänglig.",
     "viewCars": "Visa bilar",
     "viewScooters": "Visa scootrar",
     "reviewsTitle": "Ord från nyliga gäster",
@@ -71,10 +73,10 @@
     "askTouristas": "Fråga Touristas AI"
   },
   "Fleet": {
-    "carsTitle": "Biluthyrning på Sifnos",
-    "carsLead": "Pålitliga, välskötta bilar för par, familjer och vänner som utforskar Sifnos. Välj datum på varje fordonssida. Vi bekräftar tillgänglighet personligen, utan förskottsbetalning.",
-    "scootersTitle": "Scooter- och motorcykeluthyrning på Sifnos",
-    "scootersLead": "Ta dig snabbt mellan stränder och byar med en välskött scooter från Artemis. Begär dina datum på varje scootersida så bekräftar vi tillgängligheten.",
+    "carsTitle": "Hyr bil på Sifnos",
+    "carsLead": "Kompakta och automatiska bilar för par och familjer på Sifnos. Gratis upphämtning i Kamares, helikopterplatta, Apollonia, Artemonas och Kastro. Ingen förskottsbetalning.",
+    "scootersTitle": "Hyr scooter på Sifnos",
+    "scootersLead": "SYM-scootrar från Apollonia-kontoret. Onlinebokning av scooter är tillfälligt otillgänglig.",
     "fromDay": "Från €{price}/dag",
     "todayFrom": "€{price}/dag denna säsong",
     "contactForPrice": "Fråga om dagspris",
@@ -111,15 +113,19 @@
     "nights": "{count} dagar",
     "indicativeTotal": "Indikativt totalt ~€{total}",
     "requestDates": "Förfråga dessa datum",
-    "calendarHint": "Endast förfrågan. Vi bekräftar tillgänglighet via telefon, WhatsApp eller e-post."
+    "calendarHint": "Endast förfrågan. Vi bekräftar tillgänglighet via telefon, WhatsApp eller e-post.",
+    "scooterUnavailableBadge": "Tillfälligt meddelande",
+    "scooterUnavailableTitle": "Scooterbokning är inte tillgänglig just nu",
+    "scooterUnavailableBody": "Vi tar för närvarande inte emot scooter- eller motorcykelbokningar. Bilar är fortfarande tillgängliga. Ring eller WhatsApp oss för uppdatering.",
+    "scooterUnavailableCarsCta": "Se bilar istället"
   },
   "Rates": {
-    "title": "Priser för bil- och scooteruthyrning på Sifnos",
-    "lead": "Publicerade dagspriser per säsong. Aktuell säsong markeras utifrån dagens datum.",
+    "title": "Priser hyrbil Sifnos",
+    "lead": "Publicerade dagspriser per säsong för Artemis-bilar på Sifnos. Scooterbokning tillfälligt otillgänglig.",
     "vehicle": "Fordon",
     "carsHeading": "Bilar",
     "scootersHeading": "Scootrar",
-    "scootersNote": "Scooterpriser gäller i mellan- och högsäsong (11 jun – 10 sep). Utanför dessa datum, fråga oss om tillgänglighet.",
+    "scootersNote": "Scooterpriser gäller mid/peak (11 jun – 10 sep). Scooterbokning är tillfälligt otillgänglig.",
     "note": "Ingen förskottsbetalning krävs för att reservera. Vi bekräftar via telefon, WhatsApp eller e-post.",
     "cta": "Kontrollera tillgänglighet",
     "now": "Nu"
@@ -408,5 +414,34 @@
     "s4Body": "Du kan vända dig till den grekiska dataskyddsmyndigheten (HDPA) eller din lokala EU-tillsynsmyndighet.",
     "s5Title": "Kontakt",
     "s5Body": "Artemis Rental, Apollonia, Sifnos. E-post {email}. Tel. {phone}."
+  },
+  "FleetSeo": {
+    "carsExtrasTitle": "Varför hyra bil på Sifnos hos Artemis",
+    "carsExtrasLead": "Övägar och färjeankomster blir enklare med en underhållen bil från en lokal disk i Apollonia.",
+    "carsPoint1": "Gratis bilupphämtning i Kamares, helikopterplatta, Apollonia, Artemonas och Kastro.",
+    "carsPoint2": "Säsongspriser utan förskott för att reservera.",
+    "carsPoint3": "Familjedisk sedan 1988, bekräftelse via WhatsApp eller telefon.",
+    "scootersExtrasTitle": "Scooteruthyrning på Sifnos",
+    "scootersExtrasLead": "Scootrar passar korta strandresor när bokning är öppen. Upphämtning endast i Apollonia.",
+    "scootersPoint1": "Upphämtning och återlämning endast vid Apollonia-kontoret.",
+    "scootersPoint2": "Hjälmar ingår när scooteruthyrning är tillgänglig.",
+    "scootersPoint3": "Onlinebokning av scooter är tillfälligt stängd.",
+    "linkRates": "Se säsongspriser",
+    "linkBook": "Kontrollera bil tillgänglighet",
+    "linkKamares": "Kamares upphämtningsguide",
+    "linkRentGuide": "Guide hyr bil Sifnos",
+    "faqTitle": "Vanliga frågor",
+    "carsFaq1Q": "Hämtar ni vid Kamares hamn?",
+    "carsFaq1A": "Ja. Bilupphämtning i Kamares är gratis, liksom helikopterplatta, Apollonia, Artemonas och Kastro.",
+    "carsFaq2Q": "Krävs förskottsbetalning?",
+    "carsFaq2A": "Nej. Skicka datum och önskad bil. Vi bekräftar personligen utan förskott.",
+    "carsFaq3Q": "Vilka bilar kan jag hyra på Sifnos?",
+    "carsFaq3A": "Kompakta manuella och automater som Peugeot 208, Nissan Micra, Skoda Fabia, Fiat Panda med mera.",
+    "scootersFaq1Q": "Kan jag boka scooter online nu?",
+    "scootersFaq1A": "Inte just nu. Scooterbokning är tillfälligt stängd. Bilar är fortfarande öppna.",
+    "scootersFaq2Q": "Var hämtar jag en scooter?",
+    "scootersFaq2A": "När bokningen öppnar igen, endast vid Apollonia-kontoret.",
+    "scootersFaq3Q": "Bättre bil eller scooter på Sifnos?",
+    "scootersFaq3A": "Familjer och bagage behöver oftast bil. Scootrar hjälper för korta sträckor när de finns."
   }
 }

@@ -4,7 +4,7 @@ title: "Haven Kamares: aankomst, strand en ophaling"
 description: "Kamares havengids Sifnos: tips bij veeraankomst, strand, services, parkeren en Artemis auto-ophaling op verzoek."
 answer: "Kamares is de veerhaven van Sifnos en een volwaardige zandbaai met cafés, bakkerijen en kamers. Apollonia is een korte rit bergop. Artemis kan auto-ophaling in Kamares op verzoek regelen; scooters worden in Apollonia opgehaald."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -47,3 +47,5 @@ De weg klimt ~5–6 km naar de hoofdstad. Nachtaankomsten voelen in een auto nog
 - Deel veernaam / ETA via WhatsApp bij vertraging.
 
 [Boek een voertuig](/nl/book) · [Hoe hier te komen](/nl/sifnos-guide/how-to-get-there)
+
+[Gids auto huren](/nl/sifnos-guide/rent-a-car-sifnos) · [Auto's](/nl/cars) · [Boeken](/nl/book)

@@ -47,3 +47,5 @@ Demandez les sièges enfants lors de la demande si vous voyagez avec des tout-pe
 **Échange en milieu de séjour:** rare, mais certains couples commencent en voiture pour les jours en famille puis passent au scooter: demandez si vos dates le permettent.
 
 Pour plus de contexte prix, voir [prix location voiture à Sifnos](/fr/blog/sifnos-car-rental-prices). Prêt à confirmer? [Réservez avec Artemis](/book), aucun acompte, réponse personnelle sur WhatsApp ou email.
+
+Full evergreen guide: [Rent a car in Sifnos](/fr/sifnos-guide/rent-a-car-sifnos). See live [fleet](/fr/cars) and [rates](/fr/rates).

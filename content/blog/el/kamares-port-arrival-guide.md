@@ -53,3 +53,5 @@ related: [apollonia-vs-kamares-stay, driving-in-sifnos, rent-a-car-sifnos-2026]
 Συνδυάστε με [οδήγηση στη Σίφνο](/el/blog/driving-in-sifnos) και [τιμές ενοικίασης](/el/blog/sifnos-car-rental-prices).
 
 Φτάνετε σύντομα; [Κλείστε με την Artemis](/book) με ημερομηνία ferry, ώρα άφιξης και προτιμώμενη παραλαβή. Η Artemis υποδέχεται πλοία εδώ από το **1988**.
+
+Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/el/sifnos-guide/rent-a-car-sifnos) or [book dates](/el/book).

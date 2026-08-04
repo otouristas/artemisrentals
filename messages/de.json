@@ -1,8 +1,8 @@
 {
   "Meta": {
     "siteName": "Artemis Rental",
-    "homeTitle": "Auto mieten Sifnos | Artemis Rental Autos & Roller",
-    "homeDescription": "Mieten Sie Autos und Roller auf Sifnos bei Artemis Rental. Zuverlässige Fahrzeuge, faire Saisonpreise und persönlicher Service in Apollonia seit 1988."
+    "homeTitle": "Mietwagen Sifnos | Artemis Rental Autovermietung",
+    "homeDescription": "Mietwagen auf Sifnos bei Artemis Rental. Kostenlose Abholung im Hafen Kamares, Schalter in Apollonia seit 1988, faire Saisonpreise, keine Vorauszahlung."
   },
   "Nav": {
     "home": "Start",
@@ -40,12 +40,14 @@
     "privacy": "Datenschutz",
     "cookies": "Cookies",
     "gdpr": "DSGVO",
-    "legal": "Rechtliches"
+    "legal": "Rechtliches",
+    "guideRentCar": "Mietwagen Sifnos",
+    "guideScooter": "Roller mieten"
   },
   "Home": {
     "brand": "Artemis Rental",
-    "headline": "Die Freiheit, Sifnos zu entdecken",
-    "subhead": "Autos und Roller aus Apollonia seit 1988: gepflegt, fair bepreist und bereit, wenn die Fähre anlegt.",
+    "headline": "Mietwagen & Roller auf Sifnos",
+    "subhead": "Zuverlässige Autos aus Apollonia seit 1988. Kostenlose Abholung in Kamares, faire Saisonpreise, persönliche Bestätigung ohne Vorauszahlung.",
     "ctaBook": "Fahrzeug buchen",
     "ctaFleet": "Flotte entdecken",
     "ctaGuide": "Sifnos-Guide",
@@ -58,7 +60,7 @@
     "why3Title": "Menschliche Hilfe, lokale Antworten",
     "why3Body": "Fragen Sie nach Parkplätzen in Kastro, der Straße nach Vathi oder einer kurzfristigen Verlängerung. Wir antworten.",
     "fleetTitle": "Wählen Sie Ihr Fahrzeug",
-    "fleetBody": "Stöbern Sie bei Autos und Rollern und senden Sie Ihre Daten. Wir bestätigen die Verfügbarkeit persönlich.",
+    "fleetBody": "Autos sind buchbar. Die Roller-Buchung ist vorübergehend nicht verfügbar.",
     "viewCars": "Autos ansehen",
     "viewScooters": "Roller ansehen",
     "reviewsTitle": "Stimmen aktueller Gäste",
@@ -71,10 +73,10 @@
     "askTouristas": "Touristas AI fragen"
   },
   "Fleet": {
-    "carsTitle": "Autovermietung auf Sifnos",
-    "carsLead": "Zuverlässige, gepflegte Autos für Paare, Familien und Freunde, die Sifnos erkunden. Wählen Sie Daten auf jeder Fahrzeugseite. Wir bestätigen die Verfügbarkeit persönlich, ohne Vorauszahlung.",
-    "scootersTitle": "Roller- und Motorradverleih auf Sifnos",
-    "scootersLead": "Erreichen Sie Strände und Dörfer schnell mit einem gepflegten Roller von Artemis. Fragen Sie Daten auf jeder Rollerseite an, und wir bestätigen die Verfügbarkeit.",
+    "carsTitle": "Mietwagen auf Sifnos",
+    "carsLead": "Kompakte und Automatik-Autos für Paare und Familien auf Sifnos. Kostenlose Abholung in Kamares, Heliport, Apollonia, Artemonas und Kastro. Keine Vorauszahlung.",
+    "scootersTitle": "Roller mieten auf Sifnos",
+    "scootersLead": "SYM-Roller vom Apollonia-Schalter. Online-Buchung für Roller ist vorübergehend nicht verfügbar.",
     "fromDay": "Ab €{price}/Tag",
     "todayFrom": "€{price}/Tag in dieser Saison",
     "contactForPrice": "Tagespreis anfragen",
@@ -111,15 +113,19 @@
     "nights": "{count} Tage",
     "indicativeTotal": "Richtpreis gesamt ~€{total}",
     "requestDates": "Diese Daten anfragen",
-    "calendarHint": "Nur Anfrage. Wir bestätigen die Verfügbarkeit per Telefon, WhatsApp oder E-Mail."
+    "calendarHint": "Nur Anfrage. Wir bestätigen die Verfügbarkeit per Telefon, WhatsApp oder E-Mail.",
+    "scooterUnavailableBadge": "Vorübergehender Hinweis",
+    "scooterUnavailableTitle": "Roller-Buchung ist derzeit nicht verfügbar",
+    "scooterUnavailableBody": "Wir nehmen derzeit keine Roller- oder Motorrad-Buchungen an. Autos bleiben verfügbar. Rufen Sie an oder schreiben Sie uns auf WhatsApp.",
+    "scooterUnavailableCarsCta": "Autos ansehen"
   },
   "Rates": {
-    "title": "Auto- und Rollerpreise auf Sifnos",
-    "lead": "Veröffentlichte Tagespreise nach Saison. Die aktuelle Saison ist anhand des heutigen Datums hervorgehoben.",
+    "title": "Mietwagen Preise Sifnos",
+    "lead": "Veröffentlichte Tagespreise nach Saison für Artemis-Autos auf Sifnos. Roller-Buchung vorübergehend nicht verfügbar.",
     "vehicle": "Fahrzeug",
     "carsHeading": "Autos",
     "scootersHeading": "Roller",
-    "scootersNote": "Rollerpreise gelten in der Mittel- und Hochsaison (11 Jun – 10 Sep). Außerhalb dieser Daten fragen Sie uns nach Verfügbarkeit.",
+    "scootersNote": "Rollerpreise gelten Mid/Peak (11. Jun – 10. Sep). Roller-Buchung ist vorübergehend nicht verfügbar.",
     "note": "Zur Reservierung ist keine Vorauszahlung nötig. Wir bestätigen per Telefon, WhatsApp oder E-Mail.",
     "cta": "Verfügbarkeit prüfen",
     "now": "Jetzt"
@@ -408,5 +414,34 @@
     "s4Body": "Sie können sich an die griechische Datenschutzbehörde (HDPA) oder Ihre lokale EU-Aufsichtsbehörde wenden.",
     "s5Title": "Kontakt",
     "s5Body": "Artemis Rental, Apollonia, Sifnos. E-Mail {email}. Tel. {phone}."
+  },
+  "FleetSeo": {
+    "carsExtrasTitle": "Warum Mietwagen auf Sifnos bei Artemis",
+    "carsExtrasLead": "Inselstraßen und Fährankünfte sind einfacher mit einem gewarteten Auto vom lokalen Schalter in Apollonia.",
+    "carsPoint1": "Kostenlose Auto-Abholung in Kamares, Heliport, Apollonia, Artemonas und Kastro.",
+    "carsPoint2": "Saisonpreise ohne Vorauszahlung zur Reservierung.",
+    "carsPoint3": "Familienbetrieb seit 1988, Bestätigung per WhatsApp oder Telefon.",
+    "scootersExtrasTitle": "Rollerverleih auf Sifnos",
+    "scootersExtrasLead": "Roller eignen sich für kurze Strandwege, wenn die Buchung offen ist. Abholung nur in Apollonia.",
+    "scootersPoint1": "Abholung und Rückgabe nur am Apollonia-Schalter.",
+    "scootersPoint2": "Helme inklusive, wenn Rollerverleih verfügbar ist.",
+    "scootersPoint3": "Online-Buchung für Roller ist vorübergehend geschlossen.",
+    "linkRates": "Saisonpreise ansehen",
+    "linkBook": "Auto-Verfügbarkeit prüfen",
+    "linkKamares": "Kamares Abhol-Guide",
+    "linkRentGuide": "Mietwagen-Guide Sifnos",
+    "faqTitle": "Häufige Fragen",
+    "carsFaq1Q": "Holen Sie am Hafen Kamares ab?",
+    "carsFaq1A": "Ja. Auto-Abholung in Kamares ist kostenlos, ebenso Heliport, Apollonia, Artemonas und Kastro.",
+    "carsFaq2Q": "Ist eine Vorauszahlung nötig?",
+    "carsFaq2A": "Nein. Senden Sie Daten und Wunschauto. Wir bestätigen persönlich ohne Vorauszahlung.",
+    "carsFaq3Q": "Welche Autos kann ich auf Sifnos mieten?",
+    "carsFaq3A": "Kompakte Schalt- und Automatikwagen wie Peugeot 208, Nissan Micra, Skoda Fabia, Fiat Panda und mehr.",
+    "scootersFaq1Q": "Kann ich jetzt online einen Roller buchen?",
+    "scootersFaq1A": "Derzeit nicht. Die Roller-Buchung ist vorübergehend geschlossen. Autos bleiben verfügbar.",
+    "scootersFaq2Q": "Wo hole ich einen Roller ab?",
+    "scootersFaq2A": "Wenn die Buchung wieder öffnet, nur am Apollonia-Schalter.",
+    "scootersFaq3Q": "Besser Auto oder Roller auf Sifnos?",
+    "scootersFaq3A": "Familien und Gepäck brauchen meist ein Auto. Roller eignen sich für kurze Strecken, wenn verfügbar."
   }
 }

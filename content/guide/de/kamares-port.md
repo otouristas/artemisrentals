@@ -4,7 +4,7 @@ title: "Hafen Kamares: Ankunft, Strand und Abholung"
 description: "Kamares-Hafenführer Sifnos: Tipps zur Fährankunft, Strand, Services, Parken und Artemis-Auto-Abholung auf Anfrage."
 answer: "Kamares ist der Fährhafen von Sifnos und eine volle Sandbucht mit Cafés, Bäckereien und Zimmern. Apollonia ist eine kurze Autofahrt bergauf. Artemis kann Auto-Abholung in Kamares auf Anfrage organisieren; Roller werden in Apollonia abgeholt."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -47,3 +47,5 @@ Die Straße steigt ~5–6 km zur Hauptstadt. Nachtankünfte bleiben im Auto unko
 - Teilen Sie Fährname / ETA per WhatsApp bei Verspätung.
 
 [Fahrzeug buchen](/de/book) · [Anreise](/de/sifnos-guide/how-to-get-there)
+
+[Mietwagen-Guide](/de/sifnos-guide/rent-a-car-sifnos) · [Autos](/de/cars) · [Buchen](/de/book)

@@ -4,7 +4,7 @@ title: "Kamares hamn: ankomst, strand och upphämtning"
 description: "Kamares hamnguide Sifnos: tips vid färjeankomst, strand, service, parkering och Artemis bilupphämtning på begäran."
 answer: "Kamares är Sifnos färjehamn och en full sandvik med caféer, bagerier och rum. Apollonia är en kort bilresa uppför. Artemis kan ordna bilupphämtning i Kamares på begäran; scootrar hämtas i Apollonia."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -47,3 +47,5 @@ Vägen stiger ~5–6 km till huvudorten. Nattankomster känns fortfarande raka i
 - Dela färjenamn / ETA på WhatsApp om du är sen.
 
 [Boka ett fordon](/sv/book) · [Hur man tar sig hit](/sv/sifnos-guide/how-to-get-there)
+
+[Guide hyr bil](/sv/sifnos-guide/rent-a-car-sifnos) · [Bilar](/sv/cars) · [Boka](/sv/book)

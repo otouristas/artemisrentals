@@ -4,7 +4,7 @@ title: "Port de Kamares: arrivée, plage et prise en charge"
 description: "Guide du port de Kamares à Sifnos: conseils d’arrivée ferry, plage, services, parking et prise en charge voiture Artemis sur demande."
 answer: "Kamares est le port ferry de Sifnos et une baie de sable complète avec cafés, boulangeries et chambres. Apollonia est une courte montée en voiture. Artemis peut organiser une prise en charge voiture à Kamares sur demande; les scooters se récupèrent à Apollonia."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -47,3 +47,5 @@ La route monte ~5–6 km jusqu’à la capitale. Les arrivées nocturnes restent
 - Partagez le nom du ferry / ETA sur WhatsApp en cas de retard.
 
 [Réserver un véhicule](/fr/book) · [Comment venir](/fr/sifnos-guide/how-to-get-there)
+
+[Guide location voiture](/fr/sifnos-guide/rent-a-car-sifnos) · [Voitures](/fr/cars) · [Réserver](/fr/book)

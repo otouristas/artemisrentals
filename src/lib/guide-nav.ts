@@ -1,10 +1,12 @@
 /** Primary Sifnos Guide items for header / mobile nav (routes match content/guide). */
 export const GUIDE_NAV = [
   { href: "/sifnos-guide", key: "guideHub" as const },
+  { href: "/sifnos-guide/rent-a-car-sifnos", key: "guideRentCar" as const },
   { href: "/sifnos-guide/how-to-get-there", key: "guideHowToGet" as const },
   { href: "/sifnos-guide/ferries", key: "guideFerries" as const },
   { href: "/sifnos-guide/kamares-port", key: "guideKamares" as const },
   { href: "/sifnos-guide/getting-around", key: "guideGettingAround" as const },
+  { href: "/sifnos-guide/scooter-rental-sifnos", key: "guideScooter" as const },
   { href: "/sifnos-guide/beaches", key: "guideBeaches" as const },
   { href: "/sifnos-guide/things-to-do", key: "guideThings" as const },
   { href: "/sifnos-guide/where-to-stay", key: "guideStay" as const },

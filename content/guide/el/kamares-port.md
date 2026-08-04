@@ -4,7 +4,7 @@ title: "Λιμάνι Καμαρών: άφιξη, παραλία και παρα�
 description: "Οδηγός λιμανιού Καμαρών Σίφνου, tips άφιξης ferry, παραλία, υπηρεσίες, πάρκινγκ και παραλαβή αυτοκινήτου Artemis κατόπιν συνεννόησης."
 answer: "Οι Καμάρες είναι το λιμάνι ferry της Σίφνου και αμμώδης κόλπος με καφέ, φούρνους και δωμάτια. Η Απολλωνία είναι μικρή ανηφορική διαδρομή. Η Artemis μπορεί να κανονίσει παραλαβή αυτοκινήτου στις Καμάρες· τα scooter παραλαμβάνονται στην Απολλωνία."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -42,3 +42,5 @@ related:
 - Στείλτε ETA στο WhatsApp αν καθυστερείτε
 
 [Κράτηση](/el/book) · [Πώς να φτάσετε](/el/sifnos-guide/how-to-get-there)
+
+[Οδηγός ενοικίασης αυτοκινήτου](/el/sifnos-guide/rent-a-car-sifnos) · [Αυτοκίνητα](/el/cars) · [Κράτηση](/el/book)

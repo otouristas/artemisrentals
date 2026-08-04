@@ -4,7 +4,7 @@ title: "Kamares port: arrival, beach, and pickup"
 description: "Kamares Sifnos port guide, ferry arrival tips, beach, services, parking, and Artemis car pickup on request."
 answer: "Kamares is Sifnos’ ferry port and a full sandy bay with cafés, bakeries and rooms. Apollonia is a short drive uphill. Artemis can arrange car pickup at Kamares on request; scooters are collected in Apollonia."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -42,8 +42,8 @@ The road climbs ~5–6 km to the capital. Night arrivals still feel straightforw
 
 ## Artemis pickup notes
 
-- **Cars:** Apollonia desk by default; **Kamares meeting** on request when your boat docks.
-- **Scooters:** Apollonia only.
+- **Cars:** complimentary meeting at **Kamares port** when your ferry docks, also heliport, Apollonia, Artemonas, and Kastro.
+- **Scooters:** Apollonia office only (online scooter booking is temporarily unavailable).
 - Share ferry name / ETA on WhatsApp if running late.
 
-[Book a vehicle](/en/book) · [How to get here](/en/sifnos-guide/how-to-get-there)
+Want keys waiting at the ramp? [Rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) · [Browse cars](/en/cars) · [Send dates](/en/book) · [How to get here](/en/sifnos-guide/how-to-get-there)

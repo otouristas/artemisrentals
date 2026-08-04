@@ -8,9 +8,11 @@ import {
   getCurrentSeason,
   getRatesMeta,
   getScooters,
+  isScooterBookingEnabled,
   localizeField,
   type PeriodId,
 } from "@/lib/fleet";
+import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
 import { buildMetadata } from "@/lib/seo";
 import type { Locale } from "@/i18n/routing";
 
@@ -140,6 +142,7 @@ export default async function RatesPage({
 
       <h2 className="mt-12 font-display text-2xl text-aegean">{t("scootersHeading")}</h2>
       <p className="mt-2 max-w-2xl text-sm text-aegean/65">{t("scootersNote")}</p>
+      {!isScooterBookingEnabled() ? <ScooterBookingNotice /> : null}
       <div className="mt-4">
         <RatesTable
           vehicles={scooters}

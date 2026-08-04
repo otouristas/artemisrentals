@@ -59,3 +59,5 @@ Les scooters suivent la même règle: rendre avant le ferry sauf accord contrair
 Choisissez **Sifnos** si vous voulez une conduite gérable, une base centrale à Apollonia, des baies family-friendly et un arc cohérent de long week-end. Choisissez **Milos** si les plages volcaniques et plus de kilomètres côtiers définissent le rêve, et que vous acceptez plus de planification.
 
 Vous visitez Sifnos en premier? [Réservez avec Artemis](/book) avec les dates de ferry et si vous avez besoin d'une prise en charge à Kamares ou Apollonia. Même si Milos suit, commencer calme prépare bien l'île plus bruyante.
+
+Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/fr/sifnos-guide/rent-a-car-sifnos).

@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { getCurrentSeasonRate, getLowestRate } from "@/lib/fleet";
+import { getCurrentSeasonRate, getLowestRate, isScooterBookingEnabled } from "@/lib/fleet";
 import type { Vehicle } from "./types";
 
 export function StepVehicle({
@@ -19,17 +19,30 @@ export function StepVehicle({
 }) {
   const t = useTranslations("Book");
   const tFleet = useTranslations("Fleet");
+  const scootersOpen = isScooterBookingEnabled();
   const selectedVehicle = vehicles.find((v) => v.slug === value);
   const [category, setCategory] = useState<"car" | "scooter">(() =>
-    selectedVehicle?.category === "scooter" ? "scooter" : "car",
+    selectedVehicle?.category === "scooter" && scootersOpen ? "scooter" : "car",
   );
   const [browsing, setBrowsing] = useState(() => !value);
 
   useEffect(() => {
-    if (selectedVehicle?.category === "scooter" || selectedVehicle?.category === "car") {
-      setCategory(selectedVehicle.category);
+    if (!scootersOpen && selectedVehicle?.category === "scooter") {
+      onChange("");
+      setCategory("car");
+      setBrowsing(true);
     }
-  }, [selectedVehicle?.category, value]);
+  }, [scootersOpen, selectedVehicle?.category, onChange]);
+
+  useEffect(() => {
+    if (selectedVehicle?.category === "scooter" || selectedVehicle?.category === "car") {
+      setCategory(
+        selectedVehicle.category === "scooter" && !scootersOpen
+          ? "car"
+          : selectedVehicle.category,
+      );
+    }
+  }, [selectedVehicle?.category, value, scootersOpen]);
 
   useEffect(() => {
     if (value) setBrowsing(false);
@@ -120,12 +133,24 @@ export function StepVehicle({
             </button>
           </div>
 
+          {category === "scooter" && !scootersOpen ? (
+            <aside
+              className="mt-5 border border-sun/40 bg-sun/10 px-4 py-4 text-sm leading-relaxed text-aegean"
+              role="status"
+            >
+              <p className="font-semibold">{tFleet("scooterUnavailableTitle")}</p>
+              <p className="mt-1 text-aegean/75">{tFleet("scooterUnavailableBody")}</p>
+            </aside>
+          ) : null}
+
           <div
             className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3"
             role="radiogroup"
             aria-label={t("stepVehicleTitle")}
           >
-            {filtered.map((v) => {
+            {category === "scooter" && !scootersOpen
+              ? null
+              : filtered.map((v) => {
               const selected = value === v.slug;
               const lowest = getLowestRate(v.rateKey);
               return (

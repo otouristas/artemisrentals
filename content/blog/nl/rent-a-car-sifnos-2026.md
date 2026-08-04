@@ -47,3 +47,5 @@ Vraag naar kinderzitjes bij je aanvraag als je met peuters reist. Noem automatis
 **Wissel mid-verblijf:** Zeldzaam, maar stellen beginnen soms met een auto voor familiebezoekdagen en stappen daarna over op een scooter; vraag of je data dat toelaten.
 
 Voor meer prijscontext zie [autohuurprijzen op Sifnos](/nl/blog/sifnos-car-rental-prices). Klaar om te bevestigen? [Boek bij Artemis](/book), geen vooruitbetaling, persoonlijk antwoord via WhatsApp of e-mail.
+
+Full evergreen guide: [Rent a car in Sifnos](/nl/sifnos-guide/rent-a-car-sifnos). See live [fleet](/nl/cars) and [rates](/nl/rates).

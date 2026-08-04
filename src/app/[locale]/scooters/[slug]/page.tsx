@@ -25,9 +25,10 @@ export async function generateMetadata({
   );
   return buildMetadata({
     locale: locale as Locale,
-    title: `${vehicle.name} | Artemis Rental Sifnos`,
+    title: `${vehicle.name} scooter rental Sifnos | Artemis`,
     description:
-      seoDescription || `Rent a ${vehicle.name} scooter in Sifnos with Artemis Rental.`,
+      seoDescription ||
+      `Rent a ${vehicle.name} scooter in Sifnos with Artemis Rental. Apollonia office pickup.`,
     path: `/scooters/${slug}`,
     image: vehicle.image,
   });

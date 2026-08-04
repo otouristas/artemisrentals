@@ -7,7 +7,8 @@ import { FleetGrid } from "@/components/FleetGrid";
 import { TrustBadges } from "@/components/TrustBadges";
 import { TouristasOpenButton } from "@/components/TouristasOpenButton";
 import { JsonLd } from "@/components/JsonLd";
-import { getCars, getScooters } from "@/lib/fleet";
+import { getCars, getScooters, isScooterBookingEnabled } from "@/lib/fleet";
+import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
 import testimonials from "../../../content/data/testimonials.json";
 import { buildMetadata, absoluteUrl, businessJsonLd } from "@/lib/seo";
 import { bcp47 } from "@/lib/i18n-locale";
@@ -51,7 +52,7 @@ export default async function HomePage({
           "@type": "WebPage",
           "@id": `${absoluteUrl(loc)}/#webpage`,
           url: absoluteUrl(loc),
-          name: t("brand"),
+          name: t("headline"),
           about: businessJsonLd(),
           inLanguage: bcp47(loc),
         }}
@@ -107,6 +108,11 @@ export default async function HomePage({
                   {t("viewScooters")}
                 </Link>
               </div>
+              {!isScooterBookingEnabled() ? (
+                <div className="mb-5">
+                  <ScooterBookingNotice />
+                </div>
+              ) : null}
               <FleetGrid vehicles={scooters} />
             </div>
           </div>

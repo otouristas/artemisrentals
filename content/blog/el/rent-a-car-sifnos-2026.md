@@ -45,3 +45,5 @@ related: [sifnos-car-rental-prices, driving-in-sifnos, kamares-port-arrival-guid
 **Καμάρες κατόπιν συνεννόησης:** Ιδανικό με άφιξη ferry και ξενοδοχείο στο νότο.
 
 Για τιμές δείτε [τιμές ενοικίασης Σίφνου](/el/blog/sifnos-car-rental-prices). [Κλείστε με την Artemis](/book), χωρίς προκαταβολή.
+
+Full evergreen guide: [Rent a car in Sifnos](/el/sifnos-guide/rent-a-car-sifnos). See live [fleet](/el/cars) and [rates](/el/rates).

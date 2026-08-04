@@ -57,3 +57,5 @@ De Kamares-minimarkt dekt water, zonnebrand en snacks vóór de eerste rit naar 
 Eenmaal gesetteld wordt Kamares een startpunt voor de noordkust of een snelle havenzwem tussen eilandritten. Combineer deze gids met [rijden op Sifnos](/nl/blog/driving-in-sifnos) en ons overzicht van [autohuurprijzen](/nl/blog/sifnos-car-rental-prices).
 
 Binnenkort landen? [Boek bij Artemis](/book) met veerdatum, geschatte aankomsttijd en gewenste ophaallocatie. Artemis ontmoet boten in deze haven sinds **1988**; een kort bericht wint van gissen op de pier of je Panda wacht.
+
+Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/nl/sifnos-guide/rent-a-car-sifnos) or [book dates](/nl/book).

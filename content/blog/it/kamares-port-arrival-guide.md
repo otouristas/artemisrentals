@@ -57,3 +57,5 @@ Il mini-market di Kamares copre acqua, crema solare e snack prima della prima gu
 Una volta sistemati, Kamares diventa un punto di partenza per la costa nord o un bagno rapido al porto tra una corsa e l'altra. Abbina questa guida a [guidare a Sifnos](/it/blog/driving-in-sifnos) e alla panoramica [prezzi noleggio auto](/it/blog/sifnos-car-rental-prices) per il quadro completo.
 
 Arrivi presto? [Prenota con Artemis](/book) con data del traghetto, orario di arrivo approssimativo e luogo di pickup preferito. Artemis incontra le navi in questo porto dal **1988**: un breve messaggio batte stare al molo a indovinare se la Panda ti aspetta.
+
+Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/it/sifnos-guide/rent-a-car-sifnos) or [book dates](/it/book).

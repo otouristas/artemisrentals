@@ -52,3 +52,5 @@ Peak Αύγουστος στον Πλατύ Γιαλό, Βαθύ και Χρυσ
 Έχετε άδεια και διαβατήριο, ρυθμίστε καθρέφτες πριν βγείτε από τον μονόδρομο της Απολλωνίας και κατεβάστε offline χάρτες, το σήμα πέφτει σε κάποιες κοιλάδες. Συνδυάστε με το [3ήμερο](/el/blog/3-day-sifnos-itinerary) ή [παραλίες με αυτοκίνητο](/el/blog/sifnos-beaches-by-car).
 
 Ερωτήσεις για διαδρομή ή μέγεθος; [Κλείστε με την Artemis](/book) με βάση διαμονής και ώρες ferry. Ένα μήνυμα WhatsApp αξίζει περισσότερο από το να μαντέψετε Panda ή Ignis.
+
+Need a car for these roads? [Rent a car in Sifnos](/el/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/el/rates).

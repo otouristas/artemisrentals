@@ -4,6 +4,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { TrustBadges } from "@/components/TrustBadges";
 import { JsonLd } from "@/components/JsonLd";
 import { getCars } from "@/lib/fleet";
+import { FleetSeoExtras } from "@/components/FleetSeoExtras";
 import { buildMetadata, absoluteUrl, itemListJsonLd } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
@@ -55,6 +56,7 @@ export default async function CarsPage({
       <div className="mt-12">
         <FleetGrid vehicles={cars} />
       </div>
+      <FleetSeoExtras variant="cars" />
     </div>
   );
 }

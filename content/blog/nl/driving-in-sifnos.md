@@ -52,3 +52,5 @@ Artemis verhuurt auto's en scooters op Sifnos sinds **1988**, dus de vloot past 
 Neem rijbewijs en paspoort mee, stel spiegels af vóór je Apollonias eenrichtingsstroom verlaat, en download offlinekaarten; mobielsignaal valt weg in sommige dalen. Voor een breder tripplan, combineer deze gids met onze [3-daagse route](/nl/blog/3-day-sifnos-itinerary) of [stranden per auto](/nl/blog/sifnos-beaches-by-car).
 
 Vragen over een specifieke route of voertuiggrootte? [Boek bij Artemis](/book) en beschrijf je hotelbasis en veertijden. Een korte WhatsApp-wisseling wint van gissen of een Panda of Ignis beter bij je week past.
+
+Need a car for these roads? [Rent a car in Sifnos](/nl/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/nl/rates).

@@ -52,3 +52,5 @@ Artemis has rented cars and scooters on Sifnos since **1988**, so the fleet matc
 Carry your licence and passport, adjust mirrors before leaving Apollonia's one-way flow, and download offline maps, mobile signal drops in some valleys. For a broader trip plan, pair this guide with our [3-day itinerary](/en/blog/3-day-sifnos-itinerary) or [beaches by car](/en/blog/sifnos-beaches-by-car) article.
 
 Questions about a specific route or vehicle size? [Book with Artemis](/book) and describe your hotel base and ferry times. A quick WhatsApp exchange beats guessing whether a Panda or an Ignis fits your week better.
+
+Need a car for these roads? [Rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/en/rates).

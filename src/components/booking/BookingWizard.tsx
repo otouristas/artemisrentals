@@ -2,7 +2,12 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { useForm } from "@formspree/react";
-import { getAllVehicles, getVehicleBySlug, estimateRateForDate } from "@/lib/fleet";
+import {
+  getAllVehicles,
+  getVehicleBySlug,
+  estimateRateForDate,
+  isScooterBookingEnabled,
+} from "@/lib/fleet";
 import { trackEvent } from "@/lib/analytics";
 import { buildFormspreeEnquiryPayload, FORMSPREE_FORM_ID } from "@/lib/formspree";
 import { whatsappUrl } from "@/lib/site";
@@ -67,13 +72,19 @@ export function BookingWizard({
   defaultTo?: string;
 }) {
   const vehicles = useMemo(() => getAllVehicles(), []);
-  const hasDeepLink = Boolean(defaultVehicle && defaultFrom && defaultTo);
+  const initialVehicle = useMemo(() => {
+    if (!defaultVehicle) return "";
+    const v = getVehicleBySlug(defaultVehicle);
+    if (v?.category === "scooter" && !isScooterBookingEnabled()) return "";
+    return defaultVehicle;
+  }, [defaultVehicle]);
+  const hasDeepLink = Boolean(initialVehicle && defaultFrom && defaultTo);
 
   const [step, setStep] = useState<BookingStep>(hasDeepLink ? 3 : 1);
   const [furthestStep, setFurthestStep] = useState<BookingStep>(hasDeepLink ? 3 : 1);
 
   const [state, setState] = useState<BookingState>({
-    vehicle: defaultVehicle ?? "",
+    vehicle: initialVehicle,
     from: defaultFrom ?? "",
     to: defaultTo ?? "",
     name: "",

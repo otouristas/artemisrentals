@@ -4,7 +4,7 @@ title: "Porto di Kamares: arrivo, spiaggia e ritiro"
 description: "Guida al porto di Kamares a Sifnos: consigli sull’arrivo in traghetto, spiaggia, servizi, parcheggio e ritiro auto Artemis su richiesta."
 answer: "Kamares è il porto traghetti di Sifnos e una baia sabbiosa completa con caffè, panetterie e camere. Apollonia è una breve salita in auto. Artemis può organizzare il ritiro auto a Kamares su richiesta; gli scooter si ritirano a Apollonia."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-08-04"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -47,3 +47,5 @@ La strada sale ~5–6 km fino alla capitale. Arrivi notturni restano lineari in 
 - Condividi nome traghetto / ETA su WhatsApp se sei in ritardo.
 
 [Prenota un veicolo](/it/book) · [Come arrivare](/it/sifnos-guide/how-to-get-there)
+
+[Guida noleggio auto](/it/sifnos-guide/rent-a-car-sifnos) · [Auto](/it/cars) · [Prenota](/it/book)

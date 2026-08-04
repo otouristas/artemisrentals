@@ -47,3 +47,5 @@ Ask about child seats when you enquire if travelling with toddlers. Mention auto
 **Mid-stay swap:** Rare, but couples sometimes start with a car for family visit days then switch to a scooter, ask if your dates allow.
 
 For deeper price context see [Sifnos car rental prices](/en/blog/sifnos-car-rental-prices). Ready to confirm? [Book with Artemis](/book), no prepayment, personal reply on WhatsApp or email.
+
+Full evergreen guide: [Rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos). See live [fleet](/en/cars) and [rates](/en/rates).

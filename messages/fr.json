@@ -1,8 +1,8 @@
 {
   "Meta": {
     "siteName": "Artemis Rental",
-    "homeTitle": "Location voiture et scooter à Sifnos | Artemis Rental",
-    "homeDescription": "Louez une voiture ou un scooter à Sifnos avec Artemis Rental. Véhicules fiables, tarifs saisonniers clairs et accueil chaleureux à Apollonia depuis 1988."
+    "homeTitle": "Location voiture Sifnos | Artemis Rental",
+    "homeDescription": "Location de voiture à Sifnos avec Artemis Rental. Retrait gratuit au port de Kamares, bureau à Apollonia depuis 1988, tarifs saisonniers, sans acompte."
   },
   "Nav": {
     "home": "Accueil",
@@ -40,12 +40,14 @@
     "privacy": "Confidentialité",
     "cookies": "Cookies",
     "gdpr": "RGPD",
-    "legal": "Mentions"
+    "legal": "Mentions",
+    "guideRentCar": "Location voiture Sifnos",
+    "guideScooter": "Location scooter"
   },
   "Home": {
     "brand": "Artemis Rental",
-    "headline": "La liberté de découvrir Sifnos",
-    "subhead": "Voitures et scooters depuis Apollonia depuis 1988 : entretenus, à prix justes, prêts à l'arrivée du ferry.",
+    "headline": "Location voiture et scooter à Sifnos",
+    "subhead": "Voitures fiables depuis Apollonia depuis 1988. Retrait gratuit à Kamares, tarifs saisonniers, confirmation personnelle sans acompte.",
     "ctaBook": "Réserver un véhicule",
     "ctaFleet": "Découvrir la flotte",
     "ctaGuide": "Guide de Sifnos",
@@ -58,7 +60,7 @@
     "why3Title": "De l'aide humaine, des réponses locales",
     "why3Body": "Demandez le stationnement à Kastro, la route vers Vathi, ou une prolongation de dernière minute. Nous répondons.",
     "fleetTitle": "Choisissez votre véhicule",
-    "fleetBody": "Parcourez voitures et scooters, puis envoyez vos dates. Nous confirmons la disponibilité personnellement.",
+    "fleetBody": "Les voitures restent réservables. La réservation scooter est temporairement indisponible.",
     "viewCars": "Voir les voitures",
     "viewScooters": "Voir les scooters",
     "reviewsTitle": "Avis d'hôtes récents",
@@ -72,9 +74,9 @@
   },
   "Fleet": {
     "carsTitle": "Location de voiture à Sifnos",
-    "carsLead": "Voitures fiables et bien entretenues pour couples, familles et amis qui explorent Sifnos. Choisissez les dates sur chaque page véhicule. Nous confirmons la disponibilité personnellement, sans acompte.",
-    "scootersTitle": "Location de scooter et moto à Sifnos",
-    "scootersLead": "Circulez vite entre plages et villages avec un scooter bien entretenu d'Artemis. Demandez vos dates sur chaque page scooter et nous confirmerons la disponibilité.",
+    "carsLead": "Voitures compactes et automatiques pour couples et familles à Sifnos. Retrait gratuit à Kamares, héliport, Apollonia, Artemonas et Kastro. Sans acompte.",
+    "scootersTitle": "Location scooter à Sifnos",
+    "scootersLead": "Scooters SYM depuis le bureau d'Apollonia. La réservation scooter en ligne est temporairement indisponible.",
     "fromDay": "À partir de €{price}/jour",
     "todayFrom": "€{price}/jour cette saison",
     "contactForPrice": "Demander le tarif journalier",
@@ -111,15 +113,19 @@
     "nights": "{count} jours",
     "indicativeTotal": "Total indicatif ~€{total}",
     "requestDates": "Demander ces dates",
-    "calendarHint": "Demande uniquement. Nous confirmons la disponibilité par téléphone, WhatsApp ou e-mail."
+    "calendarHint": "Demande uniquement. Nous confirmons la disponibilité par téléphone, WhatsApp ou e-mail.",
+    "scooterUnavailableBadge": "Avis temporaire",
+    "scooterUnavailableTitle": "La réservation scooter n'est pas disponible pour le moment",
+    "scooterUnavailableBody": "Nous n'acceptons pas de réservations scooter ou moto pour le moment. Les voitures restent disponibles. Appelez-nous ou écrivez sur WhatsApp.",
+    "scooterUnavailableCarsCta": "Voir les voitures"
   },
   "Rates": {
-    "title": "Prix location voiture et scooter à Sifnos",
-    "lead": "Tarifs journaliers publiés par saison. La saison en cours est mise en avant selon la date du jour.",
+    "title": "Prix location voiture Sifnos",
+    "lead": "Tarifs journaliers publiés par saison pour les voitures Artemis à Sifnos. Réservation scooter temporairement indisponible.",
     "vehicle": "Véhicule",
     "carsHeading": "Voitures",
     "scootersHeading": "Scooters",
-    "scootersNote": "Les tarifs scooter s'appliquent en moyenne et haute saison (11 juin – 10 sep.). En dehors de ces dates, demandez-nous la disponibilité.",
+    "scootersNote": "Tarifs scooter en mid/peak (11 juin – 10 sep). Réservation scooter temporairement indisponible.",
     "note": "Aucun acompte n'est requis pour réserver. Nous confirmons par téléphone, WhatsApp ou e-mail.",
     "cta": "Vérifier la disponibilité",
     "now": "Maintenant"
@@ -408,5 +414,34 @@
     "s4Body": "Vous pouvez saisir l’autorité hellénique (HDPA) ou l’autorité de contrôle de votre pays de l’UE.",
     "s5Title": "Contact",
     "s5Body": "Artemis Rental, Apollonia, Sifnos. E-mail {email}. Tél. {phone}."
+  },
+  "FleetSeo": {
+    "carsExtrasTitle": "Pourquoi louer une voiture à Sifnos avec Artemis",
+    "carsExtrasLead": "Routes de l'île et arrivées ferry sont plus simples avec une voiture entretenue depuis le bureau local d'Apollonia.",
+    "carsPoint1": "Retrait voiture gratuit à Kamares, héliport, Apollonia, Artemonas et Kastro.",
+    "carsPoint2": "Tarifs saisonniers publiés sans acompte pour réserver.",
+    "carsPoint3": "Comptoir familial depuis 1988, confirmation WhatsApp ou téléphone.",
+    "scootersExtrasTitle": "Location scooter à Sifnos",
+    "scootersExtrasLead": "Les scooters conviennent aux courts trajets plage quand la réservation est ouverte. Retrait à Apollonia uniquement.",
+    "scootersPoint1": "Retrait et retour uniquement au bureau d'Apollonia.",
+    "scootersPoint2": "Casques inclus lorsque la location scooter est disponible.",
+    "scootersPoint3": "La réservation scooter en ligne est temporairement fermée.",
+    "linkRates": "Voir les tarifs",
+    "linkBook": "Vérifier dispo voiture",
+    "linkKamares": "Guide retrait Kamares",
+    "linkRentGuide": "Guide location voiture Sifnos",
+    "faqTitle": "Questions fréquentes",
+    "carsFaq1Q": "Faites-vous le retrait au port de Kamares ?",
+    "carsFaq1A": "Oui. Le retrait voiture à Kamares est gratuit, comme héliport, Apollonia, Artemonas et Kastro.",
+    "carsFaq2Q": "Faut-il un acompte ?",
+    "carsFaq2A": "Non. Envoyez dates et voiture souhaitée. Nous confirmons sans acompte.",
+    "carsFaq3Q": "Quelles voitures puis-je louer à Sifnos ?",
+    "carsFaq3A": "Compactes manuelles et automatiques comme Peugeot 208, Nissan Micra, Skoda Fabia, Fiat Panda et plus.",
+    "scootersFaq1Q": "Puis-je réserver un scooter en ligne maintenant ?",
+    "scootersFaq1A": "Pas pour le moment. La réservation scooter est temporairement fermée. Les voitures restent ouvertes.",
+    "scootersFaq2Q": "Où récupérer un scooter ?",
+    "scootersFaq2A": "Quand les réservations reprennent, uniquement au bureau d'Apollonia.",
+    "scootersFaq3Q": "Mieux vaut voiture ou scooter à Sifnos ?",
+    "scootersFaq3A": "Familles et bagages demandent souvent une voiture. Les scooters aident pour de courts trajets quand disponibles."
   }
 }

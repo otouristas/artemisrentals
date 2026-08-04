@@ -52,3 +52,5 @@ Artemis vermietet Autos und Scooter auf Sifnos seit **1988**, daher passt die Fl
 Nehmen Sie Führerschein und Pass mit, stellen Sie Spiegel ein, bevor Sie Apollonia's Einbahnfluss verlassen, und laden Sie Offline-Karten: das Mobilfunksignal bricht in manchen Tälern ab. Für einen breiteren Reiseplan kombinieren Sie diesen Guide mit unserem [3-Tage-Itinerary](/de/blog/3-day-sifnos-itinerary) oder dem Artikel [Strände mit dem Auto](/de/blog/sifnos-beaches-by-car).
 
 Fragen zu einer bestimmten Route oder Fahrzeuggröße? [Bei Artemis buchen](/book) und beschreiben Sie Hotelbasis und Fährzeiten. Ein schneller WhatsApp-Austausch schlägt Raten, ob eine Panda oder ein Ignis besser zu Ihrer Woche passt.
+
+Need a car for these roads? [Rent a car in Sifnos](/de/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/de/rates).

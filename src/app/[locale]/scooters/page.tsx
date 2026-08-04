@@ -3,7 +3,9 @@ import { FleetGrid } from "@/components/FleetGrid";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { TrustBadges } from "@/components/TrustBadges";
 import { JsonLd } from "@/components/JsonLd";
-import { getScooters } from "@/lib/fleet";
+import { getScooters, isScooterBookingEnabled } from "@/lib/fleet";
+import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
+import { FleetSeoExtras } from "@/components/FleetSeoExtras";
 import { buildMetadata, absoluteUrl, itemListJsonLd } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
@@ -51,10 +53,12 @@ export default async function ScootersPage({
       />
       <h1 className="text-display text-aegean">{t("scootersTitle")}</h1>
       <p className="mt-4 max-w-2xl text-lead text-aegean/75">{t("scootersLead")}</p>
+      {!isScooterBookingEnabled() ? <ScooterBookingNotice /> : null}
       <TrustBadges className="mt-6" />
       <div className="mt-12">
         <FleetGrid vehicles={scooters} />
       </div>
+      <FleetSeoExtras variant="scooters" />
     </div>
   );
 }

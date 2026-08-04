@@ -1,8 +1,8 @@
 {
   "Meta": {
     "siteName": "Artemis Rental",
-    "homeTitle": "Auto huren Sifnos | Artemis Rental auto & scooter",
-    "homeDescription": "Huur auto’s en scooters op Sifnos bij Artemis Rental. Betrouwbare voertuigen, eerlijke seizoensprijzen en persoonlijke service in Apollonia sinds 1988."
+    "homeTitle": "Auto huren Sifnos | Artemis Rental",
+    "homeDescription": "Auto huren op Sifnos bij Artemis Rental. Gratis ophalen in de haven van Kamares, balie in Apollonia sinds 1988, seizoensprijzen, geen vooruitbetaling."
   },
   "Nav": {
     "home": "Home",
@@ -40,12 +40,14 @@
     "privacy": "Privacy",
     "cookies": "Cookies",
     "gdpr": "AVG",
-    "legal": "Juridisch"
+    "legal": "Juridisch",
+    "guideRentCar": "Auto huren Sifnos",
+    "guideScooter": "Scooter huren"
   },
   "Home": {
     "brand": "Artemis Rental",
-    "headline": "De vrijheid om Sifnos te ontdekken",
-    "subhead": "Auto’s en scooters vanuit Apollonia sinds 1988: onderhouden, eerlijk geprijsd en klaar wanneer de veerboot aanlegt.",
+    "headline": "Auto en scooter huren op Sifnos",
+    "subhead": "Betrouwbare auto's vanuit Apollonia sinds 1988. Gratis ophalen in Kamares, eerlijke seizoensprijzen, persoonlijke bevestiging zonder vooruitbetaling.",
     "ctaBook": "Boek een voertuig",
     "ctaFleet": "Bekijk het wagenpark",
     "ctaGuide": "Sifnos-gids",
@@ -58,7 +60,7 @@
     "why3Title": "Menselijke hulp, lokale antwoorden",
     "why3Body": "Vraag naar parkeren in Kastro, de weg naar Vathi of een last-minute verlenging. Wij antwoorden.",
     "fleetTitle": "Kies je rit",
-    "fleetBody": "Bekijk auto’s en scooters en stuur je data. Wij bevestigen beschikbaarheid persoonlijk.",
+    "fleetBody": "Auto's zijn beschikbaar. Scooterreservering is tijdelijk niet beschikbaar.",
     "viewCars": "Bekijk auto’s",
     "viewScooters": "Bekijk scooters",
     "reviewsTitle": "Woorden van recente gasten",
@@ -71,10 +73,10 @@
     "askTouristas": "Vraag Touristas AI"
   },
   "Fleet": {
-    "carsTitle": "Autoverhuur op Sifnos",
-    "carsLead": "Betrouwbare, goed onderhouden auto’s voor stellen, gezinnen en vrienden die Sifnos verkennen. Kies data op elke voertuigpagina. Wij bevestigen beschikbaarheid persoonlijk, zonder vooruitbetaling.",
-    "scootersTitle": "Scooter- en motorverhuur op Sifnos",
-    "scootersLead": "Bereik stranden en dorpen snel met een goed onderhouden scooter van Artemis. Vraag je data aan op elke scooterpagina en wij bevestigen de beschikbaarheid.",
+    "carsTitle": "Auto huren op Sifnos",
+    "carsLead": "Compacte en automatische auto's voor stellen en gezinnen op Sifnos. Gratis ophalen in Kamares, heliport, Apollonia, Artemonas en Kastro. Geen vooruitbetaling.",
+    "scootersTitle": "Scooter huren op Sifnos",
+    "scootersLead": "SYM-scooters vanaf het Apollonia-kantoor. Online scooterreservering is tijdelijk niet beschikbaar.",
     "fromDay": "Vanaf €{price}/dag",
     "todayFrom": "€{price}/dag dit seizoen",
     "contactForPrice": "Vraag dagprijs",
@@ -111,15 +113,19 @@
     "nights": "{count} dagen",
     "indicativeTotal": "Indicatief totaal ~€{total}",
     "requestDates": "Deze data aanvragen",
-    "calendarHint": "Alleen aanvraag. Wij bevestigen beschikbaarheid via telefoon, WhatsApp of e-mail."
+    "calendarHint": "Alleen aanvraag. Wij bevestigen beschikbaarheid via telefoon, WhatsApp of e-mail.",
+    "scooterUnavailableBadge": "Tijdelijke melding",
+    "scooterUnavailableTitle": "Scooterreservering is nu niet beschikbaar",
+    "scooterUnavailableBody": "We nemen momenteel geen scooter- of motorreserveringen aan. Auto's blijven beschikbaar. Bel of WhatsApp ons voor een update.",
+    "scooterUnavailableCarsCta": "Bekijk auto's"
   },
   "Rates": {
-    "title": "Prijzen auto- en scooterverhuur op Sifnos",
-    "lead": "Gepubliceerde dagprijzen per seizoen. Het huidige seizoen is gemarkeerd op basis van de datum van vandaag.",
+    "title": "Prijzen auto huren Sifnos",
+    "lead": "Gepubliceerde dagprijzen per seizoen voor Artemis-auto's op Sifnos. Scooterreservering tijdelijk niet beschikbaar.",
     "vehicle": "Voertuig",
     "carsHeading": "Auto’s",
     "scootersHeading": "Scooters",
-    "scootersNote": "Scooterprijzen gelden in midden- en hoogseizoen (11 jun – 10 sep). Buiten die data vraag ons naar beschikbaarheid.",
+    "scootersNote": "Scooterprijzen gelden mid/peak (11 jun – 10 sep). Scooterreservering is tijdelijk niet beschikbaar.",
     "note": "Er is geen vooruitbetaling nodig om te reserveren. Wij bevestigen via telefoon, WhatsApp of e-mail.",
     "cta": "Beschikbaarheid controleren",
     "now": "Nu"
@@ -408,5 +414,34 @@
     "s4Body": "U kunt terecht bij de Griekse gegevensautoriteit (HDPA) of uw lokale EU-toezichthouder.",
     "s5Title": "Contact",
     "s5Body": "Artemis Rental, Apollonia, Sifnos. E-mail {email}. Tel. {phone}."
+  },
+  "FleetSeo": {
+    "carsExtrasTitle": "Waarom auto huren op Sifnos bij Artemis",
+    "carsExtrasLead": "Eilandwegen en ferry-aankomsten zijn makkelijker met een onderhouden auto van een lokale balie in Apollonia.",
+    "carsPoint1": "Gratis auto ophalen in Kamares, heliport, Apollonia, Artemonas en Kastro.",
+    "carsPoint2": "Seizoensprijzen zonder vooruitbetaling om te reserveren.",
+    "carsPoint3": "Familiebedrijf sinds 1988, bevestiging via WhatsApp of telefoon.",
+    "scootersExtrasTitle": "Scooter huren op Sifnos",
+    "scootersExtrasLead": "Scooters passen bij korte strandritten als reservering open is. Ophalen alleen in Apollonia.",
+    "scootersPoint1": "Ophalen en terugbrengen alleen bij het Apollonia-kantoor.",
+    "scootersPoint2": "Helmen inbegrepen wanneer scooterverhuur beschikbaar is.",
+    "scootersPoint3": "Online scooterreservering is tijdelijk gesloten.",
+    "linkRates": "Bekijk seizoensprijzen",
+    "linkBook": "Controleer autobeschikbaarheid",
+    "linkKamares": "Kamares ophaalgids",
+    "linkRentGuide": "Gids auto huren Sifnos",
+    "faqTitle": "Veelgestelde vragen",
+    "carsFaq1Q": "Halen jullie op in de haven van Kamares?",
+    "carsFaq1A": "Ja. Auto ophalen in Kamares is gratis, net als heliport, Apollonia, Artemonas en Kastro.",
+    "carsFaq2Q": "Is vooruitbetaling nodig?",
+    "carsFaq2A": "Nee. Stuur data en gewenste auto. We bevestigen persoonlijk zonder vooruitbetaling.",
+    "carsFaq3Q": "Welke auto's kan ik huren op Sifnos?",
+    "carsFaq3A": "Compacte handschakeling en automaten zoals Peugeot 208, Nissan Micra, Skoda Fabia, Fiat Panda en meer.",
+    "scootersFaq1Q": "Kan ik nu online een scooter boeken?",
+    "scootersFaq1A": "Niet op dit moment. Scooterreservering is tijdelijk gesloten. Auto's blijven open.",
+    "scootersFaq2Q": "Waar haal ik een scooter op?",
+    "scootersFaq2A": "Wanneer reserveringen weer openen, alleen bij het Apollonia-kantoor.",
+    "scootersFaq3Q": "Beter een auto of scooter op Sifnos?",
+    "scootersFaq3A": "Gezinnen en bagage vragen meestal een auto. Scooters helpen voor korte ritten wanneer beschikbaar."
   }
 }

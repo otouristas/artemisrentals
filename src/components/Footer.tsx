@@ -67,10 +67,11 @@ export function Footer({ locale }: { locale: string }) {
             </p>
             <ul className="mt-4 flex flex-col gap-2.5">
               <li><Link href="/sifnos-guide" className={linkClass}>{nav("guideHub")}</Link></li>
+              <li><Link href="/sifnos-guide/rent-a-car-sifnos" className={linkClass}>{nav("guideRentCar")}</Link></li>
               <li><Link href="/sifnos-guide/how-to-get-there" className={linkClass}>{nav("guideHowToGet")}</Link></li>
-              <li><Link href="/sifnos-guide/beaches" className={linkClass}>{nav("guideBeaches")}</Link></li>
-              <li><Link href="/sifnos-guide/things-to-do" className={linkClass}>{nav("guideThings")}</Link></li>
+              <li><Link href="/sifnos-guide/kamares-port" className={linkClass}>{nav("guideKamares")}</Link></li>
               <li><Link href="/sifnos-guide/getting-around" className={linkClass}>{nav("guideGettingAround")}</Link></li>
+              <li><Link href="/sifnos-guide/scooter-rental-sifnos" className={linkClass}>{nav("guideScooter")}</Link></li>
             </ul>
           </div>
 

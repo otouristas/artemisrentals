@@ -10,9 +10,11 @@ import {
   getCurrentSeasonRate,
   getLowestRate,
   getRelatedVehicles,
+  isScooterBookingEnabled,
   localizeField,
   type Vehicle,
 } from "@/lib/fleet";
+import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
 import { absoluteUrl } from "@/lib/seo";
 import { business, SITE_URL } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
@@ -34,6 +36,10 @@ export async function VehicleDetail({
     (vehicle as { description?: { en: string; el: string } }).description,
     locale,
   );
+  const seoDescription = localizeField(
+    (vehicle as { seoDescription?: Partial<Record<string, string>> }).seoDescription,
+    locale,
+  );
   const highlightsField = (
     vehicle as { highlights?: Partial<Record<string, string[]>> }
   ).highlights;
@@ -43,6 +49,8 @@ export async function VehicleDetail({
   const backLabel = vehicle.category === "car" ? t("backToCars") : t("backToScooters");
   const path =
     vehicle.category === "car" ? `/cars/${vehicle.slug}` : `/scooters/${vehicle.slug}`;
+  const scooterPaused =
+    vehicle.category === "scooter" && !isScooterBookingEnabled();
 
   const specs = [
     vehicle.engineCc ? t("cc", { cc: vehicle.engineCc }) : null,
@@ -58,8 +66,8 @@ export async function VehicleDetail({
           data={{
             "@context": "https://schema.org",
             "@type": "Product",
-            name: vehicle.name,
-            description: description || undefined,
+            name: `${vehicle.name} rental Sifnos`,
+            description: seoDescription || description || undefined,
             image: `${SITE_URL}${vehicle.image}`,
             brand: "Artemis Rental",
             url: absoluteUrl(locale, path),
@@ -68,7 +76,10 @@ export async function VehicleDetail({
                   "@type": "Offer",
                   priceCurrency: "EUR",
                   price: offerPrice,
-                  availability: "https://schema.org/InStock",
+                  availability: scooterPaused
+                    ? "https://schema.org/OutOfStock"
+                    : "https://schema.org/InStock",
+                  priceValidUntil: `${new Date().getFullYear()}-12-31`,
                 }
               : undefined,
           }}
@@ -116,13 +127,17 @@ export async function VehicleDetail({
           </div>
 
           <aside className="lg:sticky lg:top-28 lg:row-span-2 lg:self-start">
-            <div className="border border-aegean/12 bg-foam p-5 md:p-6">
-              <VehicleBookingCalendar
-                vehicleSlug={vehicle.slug}
-                rateKey={vehicle.rateKey}
-                fromPrice={offerPrice}
-              />
-            </div>
+            {scooterPaused ? (
+              <ScooterBookingNotice variant="panel" />
+            ) : (
+              <div className="border border-aegean/12 bg-foam p-5 md:p-6">
+                <VehicleBookingCalendar
+                  vehicleSlug={vehicle.slug}
+                  rateKey={vehicle.rateKey}
+                  fromPrice={offerPrice}
+                />
+              </div>
+            )}
           </aside>
 
           <div className="min-w-0">

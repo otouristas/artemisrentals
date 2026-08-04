@@ -1,6 +1,47 @@
 {
   "clusters": [
     {
+      "id": "rent-a-car",
+      "guideSlug": "rent-a-car-sifnos",
+      "queries": {
+        "en": [
+          "Where can I rent a car in Sifnos?",
+          "Is Kamares port car pickup available?",
+          "Do I need to prepay a Sifnos car rental?"
+        ],
+        "el": [
+          "Πού κάνω ενοικίαση αυτοκινήτου στη Σίφνο;",
+          "Υπάρχει παραλαβή αυτοκινήτου στις Καμάρες;",
+          "Χρειάζεται προπληρωμή για ενοικίαση στη Σίφνο;"
+        ],
+        "it": [
+          "Dove noleggiare un'auto a Sifnos?",
+          "È disponibile il ritiro auto a Kamares?",
+          "Serve un anticipo per il noleggio auto a Sifnos?"
+        ],
+        "fr": [
+          "Où louer une voiture à Sifnos ?",
+          "Le retrait voiture au port de Kamares est-il possible ?",
+          "Faut-il un acompte pour louer une voiture à Sifnos ?"
+        ],
+        "de": [
+          "Wo kann ich auf Sifnos einen Mietwagen nehmen?",
+          "Gibt es Auto-Abholung im Hafen Kamares?",
+          "Muss ich einen Mietwagen auf Sifnos im Voraus bezahlen?"
+        ],
+        "sv": [
+          "Var kan jag hyra bil på Sifnos?",
+          "Finns bilupphämtning i Kamares hamn?",
+          "Behöver jag förskottsbetala biluthyrning på Sifnos?"
+        ],
+        "nl": [
+          "Waar kan ik een auto huren op Sifnos?",
+          "Kan ik een auto ophalen in de haven van Kamares?",
+          "Moet ik vooruitbetalen voor autohuur op Sifnos?"
+        ]
+      }
+    },
+    {
       "id": "car-vs-scooter",
       "guideSlug": "getting-around",
       "queries": {
@@ -325,6 +366,47 @@
           "Dingen om te doen op Sifnos",
           "Route langs stranden en dorpen van Sifnos",
           "Hoe bezoek je Chrysopigi"
+        ]
+      }
+    },
+    {
+      "id": "scooter-rental",
+      "guideSlug": "scooter-rental-sifnos",
+      "queries": {
+        "en": [
+          "Can I rent a scooter in Sifnos right now?",
+          "Where do I collect a scooter in Sifnos?",
+          "Is a scooter or car better on Sifnos?"
+        ],
+        "el": [
+          "Μπορώ να νοικιάσω scooter στη Σίφνο τώρα;",
+          "Πού παραλαμβάνω scooter στη Σίφνο;",
+          "Καλύτερα scooter ή αυτοκίνητο στη Σίφνο;"
+        ],
+        "it": [
+          "Posso noleggiare uno scooter a Sifnos adesso?",
+          "Dove ritiro uno scooter a Sifnos?",
+          "Meglio scooter o auto a Sifnos?"
+        ],
+        "fr": [
+          "Puis-je louer un scooter à Sifnos maintenant ?",
+          "Où récupérer un scooter à Sifnos ?",
+          "Mieux vaut scooter ou voiture à Sifnos ?"
+        ],
+        "de": [
+          "Kann ich jetzt einen Roller auf Sifnos mieten?",
+          "Wo hole ich einen Roller auf Sifnos ab?",
+          "Besser Roller oder Auto auf Sifnos?"
+        ],
+        "sv": [
+          "Kan jag hyra scooter på Sifnos just nu?",
+          "Var hämtar jag en scooter på Sifnos?",
+          "Bättre scooter eller bil på Sifnos?"
+        ],
+        "nl": [
+          "Kan ik nu een scooter huren op Sifnos?",
+          "Waar haal ik een scooter op Sifnos op?",
+          "Beter scooter of auto op Sifnos?"
         ]
       }
     }

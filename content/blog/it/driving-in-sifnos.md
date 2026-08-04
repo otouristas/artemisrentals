@@ -52,3 +52,5 @@ Artemis noleggia auto e scooter a Sifnos dal **1988**, quindi la flotta rispecch
 Porta patente e passaporto, regola gli specchietti prima di uscire dal senso unico di Apollonia e scarica mappe offline: il segnale mobile cala in alcune valli. Per un piano di viaggio più ampio, abbina questa guida al nostro [itinerario di 3 giorni](/it/blog/3-day-sifnos-itinerary) o all'articolo [spiagge in auto](/it/blog/sifnos-beaches-by-car).
 
 Domande su un percorso specifico o sulla taglia del veicolo? [Prenota con Artemis](/book) e descrivi base hotel e orari del traghetto. Uno scambio rapido su WhatsApp batte indovinare se una Panda o un Ignis si adatta meglio alla tua settimana.
+
+Need a car for these roads? [Rent a car in Sifnos](/it/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/it/rates).
