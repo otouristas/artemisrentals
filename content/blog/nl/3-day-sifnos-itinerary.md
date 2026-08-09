@@ -1,7 +1,7 @@
 ---
 slug: 3-day-sifnos-itinerary
 title: "3-daagse Sifnos-route met huurauto"
-description: "Een praktische 3-daagse Sifnos-planning met auto of scooter vanuit Apollonia."
+description: "Een praktische 3-daagse Sifnos-planning met auto of scooter vanuit Apollonia. Gratis ophalen in de haven van Kamares en in Apollonia, zonder vooruitbetaling."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"

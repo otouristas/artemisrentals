@@ -1,7 +1,7 @@
 ---
 slug: sifnos-beaches-by-car
 title: "Bästa Sifnos-stränderna du når med bil"
-description: "En förarguide till Sifnos stränder: Platis Gialos, Vathi, Chrissopigi och lugnare vikar med parkeringstips från Artemis."
+description: "En förarguide till Sifnos stränder: Platis Gialos, Vathi, Chrissopigi och lugnare vikar med parkeringstips från Artemis. Kostnadsfri upphämtning i Kamares hamn."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
@@ -38,7 +38,7 @@ Ett vettigt mönster: nordkustkaffe i Kastro eller Artemonas, sydkustbad före m
 
 Scootrar fungerar för par i maj och september; familjer med kylväska och barnstolar föredrar oftast halvkombi. Artemis erbjuder båda från samma Apollonia-kontor, **ingen förskottsbetalning** för förfrågan, säsongspriser på [prissidan](/sv/rates).
 
-## Parkering och peak-verklighet
+## Parkering och högsäsong
 
 Augusti belönar vana: samma ankomsttid dagligen, samma hörn av Platis Gialos-lotten, gå till din taverna. Blockera inte gårdsgrindar eller byinfarter; böter och bogsering finns även på sömniga öar.
 

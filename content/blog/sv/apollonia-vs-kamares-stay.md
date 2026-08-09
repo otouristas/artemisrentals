@@ -1,7 +1,7 @@
 ---
 slug: apollonia-vs-kamares-stay
 title: "Bo i Apollonia eller Kamares?"
-description: "Var du ska bo på Sifnos om du planerar att hyra bil eller scooter hos Artemis."
+description: "Var du ska bo på Sifnos om du planerar att hyra bil eller scooter hos Artemis. Kostnadsfri upphämtning i Kamares hamn och i Apollonia, utan förskott."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"
@@ -38,6 +38,6 @@ Delade vistelser fungerar: två nätter Kamares, tre Apollonia, om du tål ett h
 
 ## Artemonas och andra byar
 
-Vissa gäster bor i Artemonas för lugn och kör till Apollonia till middag, fem minuter med bil. Hotell i Kastro och Platis Gialos byter bekvämlighet mot parkeringsplanering under peakveckor. Vår guide [stränder med bil](/sv/blog/sifnos-beaches-by-car) hjälper oavsett bas.
+Vissa gäster bor i Artemonas för lugn och kör till Apollonia till middag, fem minuter med bil. Hotell i Kastro och Platis Gialos byter bekvämlighet mot parkeringsplanering under högsäsongsveckor. Vår guide [stränder med bil](/sv/blog/sifnos-beaches-by-car) hjälper oavsett bas.
 
 Artemis har rådgivit hyresgäster om boende sedan **1988**, **ingen förskottsbetalning** för förfrågan, säsongspriser, bilar och scootrar från ett Apollonia-team.

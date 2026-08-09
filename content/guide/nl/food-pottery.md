@@ -1,7 +1,7 @@
 ---
 slug: food-pottery
 title: "Eten & keramiek: tradities van Sifnos"
-description: "Eten- en keramiekgids Sifnos: revithada, mastelo, bakkerijen, keramiekdorpen en hoe je proefstops plant met een huurauto."
+description: "Eten- en keramiekgids Sifnos: revithada, mastelo, bakkerijen, keramiekdorpen en hoe je proefstops plant met een huurauto. Van Artemis Rental."
 answer: "Sifnos is beroemd om kikkererwten-revithada, mastelo, lokale kazen en een levende keramiektraditie. Eet 's avonds in Apollonia; dagtrip keramiekdorpen zoals Kamares, Vathi en Herronisos tussen zwembeurten."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

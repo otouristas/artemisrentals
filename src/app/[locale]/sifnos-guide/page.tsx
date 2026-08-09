@@ -5,14 +5,8 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { getGuideArticles } from "@/lib/content";
 import { buildMetadata, absoluteUrl, itemListJsonLd } from "@/lib/seo";
-import {
-  sifnosFerryUrl,
-  sifnosGuideDcUrl,
-  sifnosHotelsUrl,
-  sifnosHowToGetDcUrl,
-  sifnosThingsToDoDcUrl,
-  tripPlannerUrl,
-} from "@/lib/site";
+import { getDiscoverHubLinks } from "@/lib/guide-discover";
+import { sifnosGuideDcUrl, tripPlannerUrl } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
 
 export async function generateMetadata({
@@ -21,11 +15,11 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Guide" });
+  const seo = await getTranslations({ locale, namespace: "Seo" });
   return buildMetadata({
     locale: locale as Locale,
-    title: `${t("title")} | Artemis Rental`,
-    description: t("lead"),
+    title: seo("guide.title"),
+    description: seo("guide.description"),
     path: "/sifnos-guide",
   });
 }
@@ -41,13 +35,7 @@ export default async function GuideIndexPage({
   const footer = await getTranslations("Footer");
   const articles = getGuideArticles(locale as Locale);
   const loc = locale as Locale;
-  const dcLinks = [
-    { href: sifnosHowToGetDcUrl(locale), label: footer("dcHowToGet") },
-    { href: sifnosFerryUrl(locale), label: footer("dcFerries") },
-    { href: sifnosThingsToDoDcUrl(locale), label: footer("dcThings") },
-    { href: sifnosGuideDcUrl(locale), label: footer("dcGuide") },
-    { href: sifnosHotelsUrl(locale), label: footer("dcHotels") },
-  ];
+  const dcLinks = getDiscoverHubLinks(locale);
 
   return (
     <div className="container-site page-hero pb-20">
@@ -95,13 +83,13 @@ export default async function GuideIndexPage({
       <div className="mt-8 flex flex-wrap gap-2">
         {dcLinks.map((link) => (
           <a
-            key={link.href}
+            key={link.labelKey}
             href={link.href}
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full border border-aegean/12 bg-foam/70 px-3 py-1.5 text-xs font-medium text-aegean/75 transition hover:border-aegean/30 hover:text-aegean"
           >
-            {link.label} ↗
+            {footer(link.labelKey)} ↗
           </a>
         ))}
       </div>

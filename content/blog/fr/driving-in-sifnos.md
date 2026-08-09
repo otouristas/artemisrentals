@@ -1,7 +1,7 @@
 ---
 slug: driving-in-sifnos
 title: "Conduire à Sifnos: routes, parking et conseils locaux"
-description: "À quoi s'attendre en conduisant à Sifnos: voies étroites, côtes, parking aux plages et prise en charge Artemis à Apollonia."
+description: "À quoi s'attendre en conduisant à Sifnos: voies étroites, côtes, parking aux plages et prise en charge Artemis à Apollonia. Par Artemis Rental."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
 cover: "/images/blog/driving-in-sifnos-cover.jpg"
@@ -53,4 +53,4 @@ Emportez permis et passeport, réglez les rétroviseurs avant de sortir du sens 
 
 Questions sur un itinéraire précis ou la taille du véhicule? [Réservez avec Artemis](/fr/book) et décrivez votre base hôtel et les horaires de ferry. Un échange WhatsApp rapide vaut mieux que de deviner si une Panda ou un Ignis convient mieux à votre semaine.
 
-Need a car for these roads? [Rent a car in Sifnos](/fr/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/fr/rates).
+Besoin d'une voiture pour ces routes ? [Louer une voiture à Sifnos](/fr/sifnos-guide/rent-a-car-sifnos) ou [voir les tarifs saisonniers](/fr/rates).

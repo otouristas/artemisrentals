@@ -1,7 +1,7 @@
 ---
 slug: best-time-visit-sifnos
-title: "Meilleure période pour visiter Sifnos: conduite et baignade"
-description: "Quand météo, baignade et disponibilité Artemis à Sifnos s'alignent, de l'intersaison au pic d'août."
+title: "Meilleure période pour visiter Sifnos"
+description: "Quand météo, baignade et disponibilité Artemis à Sifnos s'alignent, de l'intersaison au pic d'août. Retrait gratuit au port de Kamares, sans acompte."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/best-time-visit-sifnos-cover.jpg"

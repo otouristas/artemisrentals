@@ -1,7 +1,7 @@
 ---
 slug: scooter-rental-sifnos
 title: "Noleggio scooter Sifnos: ritiro Apollonia"
-description: "Noleggio scooter a Sifnos con Artemis da Apollonia. Pausa temporanea prenotazioni online."
+description: "Noleggio scooter a Sifnos con Artemis da Apollonia. Pausa temporanea prenotazioni online. Ritiro gratuito al porto di Kamares e ad Apollonia, senza anticipo."
 answer: "Artemis offre scooter SYM a Sifnos dall'ufficio di Apollonia. La prenotazione online scooter è temporaneamente non disponibile; le auto restano aperte."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

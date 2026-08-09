@@ -1,7 +1,7 @@
 ---
 slug: scooter-rental-sifnos
 title: "Scooter rental in Sifnos: Apollonia pickup, fleet overview"
-description: "Scooter rental in Sifnos with Artemis Rental from Apollonia. Fleet overview and temporary booking pause notice."
+description: "Scooter rental in Sifnos with Artemis Rental from Apollonia. Fleet overview and temporary booking pause notice. Free pickup at Kamares port, no prepayment."
 answer: "Artemis lists SYM scooters for Sifnos from the Apollonia office. Online scooter booking is temporarily unavailable; cars remain open for hire."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

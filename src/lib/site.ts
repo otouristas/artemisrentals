@@ -2,6 +2,14 @@ import business from "../../content/data/business.json";
 
 export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://rentacarsifnos.com";
 
+/**
+ * Last material revision of the non-article pages (home, fleet, rates, faq, about).
+ * Bump this when those pages actually change. Guide and blog entries use their own
+ * frontmatter `dateModified` instead. Deliberately NOT `new Date()`: a sitemap where
+ * every URL changes on every deploy teaches Google to ignore the whole file.
+ */
+export const SITE_REVISED = "2026-08-09";
+
 export { business };
 
 /** UTM so Discover Cyclades can attribute traffic from Artemis / rentacarsifnos.com */

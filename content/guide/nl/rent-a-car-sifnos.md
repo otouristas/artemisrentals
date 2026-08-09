@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos
-title: "Auto huren Sifnos: lokale vloot, ophalen Kamares, duidelijke prijzen"
-description: "Auto huren op Sifnos bij Artemis Rental. Gratis ophalen in de haven van Kamares, balie in Apollonia sinds 1988, geen vooruitbetaling."
+title: "Auto huren Sifnos: lokale vloot, ophalen Kamares"
+description: "Auto huren op Sifnos bij Artemis Rental. Gratis ophalen in de haven van Kamares, balie in Apollonia sinds 1988, geen vooruitbetaling. Van Artemis Rental."
 answer: "Artemis Rental verhuurt auto's op Sifnos vanuit Apollonia sinds 1988, met gratis ophalen in Kamares, heliport, Apollonia, Artemonas en Kastro."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

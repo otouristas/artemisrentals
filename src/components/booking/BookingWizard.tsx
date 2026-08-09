@@ -99,7 +99,7 @@ export function BookingWizard({
   });
 
   const [status, setStatus] = useState<BookingStatus>("idle");
-  /** Formspree form id xaqrovvz — same as useForm("xaqrovvz") in Formspree's React docs. */
+  /** Formspree form id xaqrovvz, same as useForm("xaqrovvz") in Formspree's React docs. */
   const [formspree, handleFormspree, resetFormspree] = useForm(FORMSPREE_FORM_ID);
 
   const selectedVehicle = state.vehicle ? getVehicleBySlug(state.vehicle) : undefined;

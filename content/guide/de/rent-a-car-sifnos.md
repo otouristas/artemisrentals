@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos
-title: "Mietwagen Sifnos: lokale Flotte, Abholung Kamares, faire Preise"
-description: "Mietwagen auf Sifnos bei Artemis Rental. Kostenlose Abholung im Hafen Kamares, Schalter in Apollonia seit 1988, keine Vorauszahlung."
+title: "Mietwagen Sifnos: lokale Flotte, Abholung Kamares"
+description: "Mietwagen auf Sifnos bei Artemis Rental. Kostenlose Abholung im Hafen Kamares, Schalter in Apollonia seit 1988, keine Vorauszahlung. Von Artemis Rental."
 answer: "Artemis Rental vermietet Autos auf Sifnos seit 1988 von Apollonia aus, mit kostenloser Abholung in Kamares, Heliport, Apollonia, Artemonas und Kastro."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

@@ -1,7 +1,7 @@
 ---
 slug: kamares-port-arrival-guide
-title: "Guide d'arrivée au port de Kamares: du ferry au premier bain"
-description: "Que faire quand votre ferry accoste à Kamares: bagages, options de prise en charge et rejoindre Apollonia avec Artemis."
+title: "Guide d'arrivée au port de Kamares"
+description: "Que faire quand votre ferry accoste à Kamares: bagages, options de prise en charge et rejoindre Apollonia avec Artemis. Par Artemis Rental."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"

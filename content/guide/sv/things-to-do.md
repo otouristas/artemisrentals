@@ -70,7 +70,7 @@ Sifnos är en av Kykladernas stora vandringsöar. Stigar kopplar byar, keramikst
 
 ## Mat & gastronomi
 
-Sifnos pugnar över sin vikt: kikärts-**revithada**, långsamt tillagad **mastelo**, lokala ostar, honung och bagerisötsaker. Boka populära taverner under peakveckor; kör till byar för lugnare bord.
+Sifnos pugnar över sin vikt: kikärts-**revithada**, långsamt tillagad **mastelo**, lokala ostar, honung och bagerisötsaker. Boka populära taverner under högsäsongsveckor; kör till byar för lugnare bord.
 
 Se [Mat & keramik](/sv/sifnos-guide/food-pottery) för en djupare dykning.
 

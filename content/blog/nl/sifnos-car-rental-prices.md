@@ -1,7 +1,7 @@
 ---
 slug: sifnos-car-rental-prices
 title: "Autohuurprijzen Sifnos 2026: seizoenstarieven uitgelegd"
-description: "Hoe Artemis seizoensprijzen voor autohuur op Sifnos werken, van schoudermanden tot piek juli, zonder vooruitbetaling om te vragen."
+description: "Hoe Artemis seizoensprijzen voor autohuur op Sifnos werken, van schoudermanden tot piek juli, zonder vooruitbetaling om te vragen. Van Artemis Rental."
 datePublished: "2026-07-02"
 dateModified: "2026-07-12"
 cover: "/images/blog/sifnos-car-rental-prices-cover.jpg"

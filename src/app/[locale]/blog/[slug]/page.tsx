@@ -32,7 +32,7 @@ export async function generateMetadata({
   if (!post) return {};
   return buildMetadata({
     locale: locale as Locale,
-    title: `${post.title} | Artemis Rental`,
+    title: post.title,
     description: post.description,
     path: `/blog/${slug}`,
     type: "article",

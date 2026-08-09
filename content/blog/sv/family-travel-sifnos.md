@@ -1,7 +1,7 @@
 ---
 slug: family-travel-sifnos
 title: "Familjeresa på Sifnos: därför hjälper en bil"
-description: "Praktiska råd för familjer som hyr bil på Sifnos hos Artemis: stolar, stränder och tupplurlogistik."
+description: "Praktiska råd för familjer som hyr bil på Sifnos hos Artemis: stolar, stränder och tupplurlogistik. Kostnadsfri upphämtning i Kamares hamn."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/family-travel-sifnos-cover.jpg"
@@ -36,7 +36,7 @@ Chrissopigi kräver en kort promenad från parkeringen, vackert men mindre ideal
 
 Ange barnstolstyp och ålder när du frågar; Artemis förbereder tilldelning före upphämtning i **Apollonia** eller **Kamares på begäran**. En 5-sitsig kompakt rymmer två vuxna, två barn och mjuka väskor om ni undviker hårda resväskor på bakgolvet.
 
-Automatisk växellåda minskar backstress när ni lämnar stranden med ett sovande barn bak; värt peakpremiumet på Peugeot 208 Auto eller Micra Auto.
+Automatisk växellåda minskar backstress när ni lämnar stranden med ett sovande barn bak; värt högsäsongstillägget på Peugeot 208 Auto eller Micra Auto.
 
 ## Exempel på familjedagsrytm
 

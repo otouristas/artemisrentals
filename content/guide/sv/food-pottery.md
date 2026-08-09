@@ -1,7 +1,7 @@
 ---
 slug: food-pottery
 title: "Mat & keramik: Sifnos traditioner"
-description: "Mat- och keramikguide Sifnos: revithada, mastelo, bagerier, keramikbyar och hur du planerar smakstopp med hyrbil."
+description: "Mat- och keramikguide Sifnos: revithada, mastelo, bagerier, keramikbyar och hur du planerar smakstopp med hyrbil. Kostnadsfri upphämtning i Kamares hamn."
 answer: "Sifnos är känt för kikärtsrevithada, mastelo, lokala ostar och en levande keramiktradition. Ät i Apollonia på kvällen; dagstur till keramikbyar som Kamares, Vathi och Herronisos mellan baden."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
@@ -30,7 +30,7 @@ Sifnos har ett rykte bland greker som väger mer än öns storlek. Lerkrukor, l�
 ## Var du baserar måltiderna
 
 - **Apollonia / Artemonas:** tätast kvällsval; gå från parkeringen.
-- **Strandtaverner:** Platis Gialos, Vathi, Faros, Kamares; boka peakveckor.
+- **Strandtaverner:** Platis Gialos, Vathi, Faros, Kamares; boka högsäsongsveckor.
 - **Byöverraskningar:** följ tips för Exambela / kullekök när du vill ha lugn.
 
 ## Keramik

@@ -1,7 +1,7 @@
 ---
 slug: getting-around
 title: "Getting around Sifnos: car vs scooter"
-description: "How to get around Sifnos, car vs scooter vs bus vs taxi, road tips, parking, fuel, and when Artemis rentals make the most sense."
+description: "How to get around Sifnos, car vs scooter vs bus vs taxi, road tips, parking, fuel, and when Artemis rentals make the most sense. From Artemis Rental."
 answer: "For most visitors staying three-plus nights, a car is the most comfortable way to reach beaches and villages. Scooters suit confident riders with light luggage. Buses exist in summer but are infrequent for beach-hopping; taxis are limited in peaks."
 datePublished: "2026-07-01"
 dateModified: "2026-08-04"

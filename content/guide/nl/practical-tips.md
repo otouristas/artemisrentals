@@ -1,7 +1,7 @@
 ---
 slug: practical-tips
 title: "Praktische rijtips voor Sifnos"
-description: "Praktische rijtips voor Sifnos: parkeren, meltemi-wind, brandstof, middaghitte, scooterveiligheid en zomertiming van Artemis Rental."
+description: "Praktische rijtips voor Sifnos: parkeren, meltemi-wind, brandstof, middaghitte, scooterveiligheid en zomertiming van Artemis Rental. Van Artemis Rental."
 answer: "Start stranddagen vroeg in juli–augustus, parkeer 's avonds één keer in Apollonia, vertraag op ruwe inhamaanrijroutes, beveilig waardevolle spullen en respecteer wind op een scooter. Tank vóór lange noordkustlussen."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

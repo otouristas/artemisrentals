@@ -1,7 +1,7 @@
 ---
 slug: family-travel-sifnos
 title: "Familienreise auf Sifnos: warum ein Auto hilft"
-description: "Praktische Tipps für Familien, die auf Sifnos bei Artemis ein Auto mieten: Sitze, Strände und Nickerchen-Logistik."
+description: "Praktische Tipps für Familien, die auf Sifnos bei Artemis ein Auto mieten: Sitze, Strände und Nickerchen-Logistik. Familienbetrieb in Apollonia seit 1988."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/family-travel-sifnos-cover.jpg"
@@ -10,9 +10,9 @@ tags: [family, cars, beaches]
 related: [driving-in-sifnos, sifnos-beaches-by-car, rent-a-car-sifnos-2026]
 ---
 
-## Auto statt Scooter für die meisten Familien
+## Auto statt Roller für die meisten Familien
 
-Schatten, Platz für Strandzeug und weniger Logistik, wenn jemand abrupt zum Hotel-Nickerchen zurück muss. Scooter machen Paaren Spaß; Familien schlafen meist besser im Hatchback.
+Schatten, Platz für Strandzeug und weniger Logistik, wenn jemand abrupt zum Hotel-Nickerchen zurück muss. Roller machen Paaren Spaß; Familien schlafen meist besser im Hatchback.
 
 ## Was Sie Artemis sagen sollten
 

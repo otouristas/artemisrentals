@@ -1,7 +1,7 @@
 ---
 slug: apollonia-vs-kamares-stay
 title: "Stay in Apollonia or Kamares?"
-description: "Where to base yourself on Sifnos if you plan to rent a car or scooter with Artemis."
+description: "Where to base yourself on Sifnos if you plan to rent a car or scooter with Artemis. Free pickup at Kamares port and Apollonia, and no prepayment to reserve."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"

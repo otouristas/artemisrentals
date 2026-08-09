@@ -1,7 +1,7 @@
 ---
 slug: apollonia-vs-kamares-stay
 title: "Verblijven in Apollonia of Kamares?"
-description: "Waar je je op Sifnos baseert als je een auto of scooter wilt huren bij Artemis."
+description: "Waar je je op Sifnos baseert als je een auto of scooter wilt huren bij Artemis. Gratis ophalen in de haven van Kamares en in Apollonia, zonder vooruitbetaling."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"

@@ -1,7 +1,7 @@
 ---
 slug: 3-day-sifnos-itinerary
 title: "Itinéraire de 3 jours à Sifnos avec location"
-description: "Un plan pratique de 3 jours à Sifnos en voiture ou scooter depuis Apollonia."
+description: "Un plan pratique de 3 jours à Sifnos en voiture ou scooter depuis Apollonia. Retrait gratuit au port de Kamares et à Apollonia, et sans acompte."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"

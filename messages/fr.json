@@ -9,6 +9,7 @@
     "cars": "Voitures",
     "scooters": "Scooters",
     "rates": "Tarifs",
+    "reviews": "Avis",
     "guide": "Guide de Sifnos",
     "guideHub": "Hub du guide de l'île",
     "guideHowToGet": "Comment venir",
@@ -77,6 +78,10 @@
     "carsLead": "Voitures compactes et automatiques pour couples et familles à Sifnos. Retrait gratuit à Kamares, héliport, Apollonia, Artemonas et Kastro. Sans acompte.",
     "scootersTitle": "Location scooter à Sifnos",
     "scootersLead": "Scooters SYM depuis le bureau d'Apollonia. La réservation scooter en ligne est temporairement indisponible.",
+    "vehicleTitle": "Location {name} à Sifnos | Artemis Rental",
+    "vehicleDescription": "Location d'une {name} à Sifnos avec Artemis Rental. Retrait gratuit au port de Kamares et à Apollonia, sans acompte.",
+    "scooterTitle": "Location scooter {name} à Sifnos | Artemis Rental",
+    "scooterDescription": "Location d'un scooter {name} à Sifnos avec Artemis Rental. Retrait au bureau d'Apollonia, casques inclus, entreprise familiale depuis 1988.",
     "fromDay": "À partir de €{price}/jour",
     "todayFrom": "€{price}/jour cette saison",
     "contactForPrice": "Demander le tarif journalier",
@@ -125,7 +130,7 @@
     "vehicle": "Véhicule",
     "carsHeading": "Voitures",
     "scootersHeading": "Scooters",
-    "scootersNote": "Tarifs scooter en mid/peak (11 juin – 10 sep). Réservation scooter temporairement indisponible.",
+    "scootersNote": "Les tarifs scooter s'appliquent en moyenne et haute saison (11 juin – 10 sep). La réservation de scooter est temporairement indisponible.",
     "note": "Aucun acompte n'est requis pour réserver. Nous confirmons par téléphone, WhatsApp ou e-mail.",
     "cta": "Vérifier la disponibilité",
     "now": "Maintenant"
@@ -209,7 +214,7 @@
     "estimatedTotal": "Total estimé ~€{total}",
     "estimateLabel": "Total estimé",
     "estimateDisclaimer": "Prix indicatif uniquement. Nous confirmons le tarif final et la disponibilité par téléphone, WhatsApp ou e-mail.",
-    "whatsappAckHint": "Si vous utilisez WhatsApp, Artemis vous envoie aussi une courte confirmation. Sans WhatsApp, ce n’est pas grave — nous répondons par e-mail ou téléphone."
+    "whatsappAckHint": "Si vous utilisez WhatsApp, Artemis vous envoie aussi une courte confirmation. Sans WhatsApp, ce n’est pas grave : nous répondons par e-mail ou téléphone."
   },
   "Guide": {
     "title": "Guide de Sifnos",
@@ -443,5 +448,92 @@
     "scootersFaq2A": "Quand les réservations reprennent, uniquement au bureau d'Apollonia.",
     "scootersFaq3Q": "Mieux vaut voiture ou scooter à Sifnos ?",
     "scootersFaq3A": "Familles et bagages demandent souvent une voiture. Les scooters aident pour de courts trajets quand disponibles."
+  },
+  "Reviews": {
+    "title": "Ce que disent nos clients",
+    "lead": "Chaque avis ci-dessous est un véritable avis Google sur Artemis Rental, reproduit exactement tel qu'il a été rédigé. Nous ne les modifions pas et nous ne les écrivons pas.",
+    "eyebrow": "Avis Google",
+    "homeTitle": "Noté {rating} sur Google",
+    "basedOn": "{count} avis Google",
+    "starsLabel": "{rating} sur 5 étoiles",
+    "viewOnGoogle": "Les lire sur Google",
+    "writeReview": "Laisser un avis",
+    "verified": "Avis Google vérifié",
+    "localGuide": "Local Guide",
+    "ratingOnly": "Note attribuée sans commentaire écrit.",
+    "readMore": "Lire la suite",
+    "readLess": "Réduire",
+    "translatedBy": "Traduit du {lang} par Google",
+    "sortLabel": "Trier",
+    "sortNewest": "Plus récents",
+    "sortOldest": "Plus anciens",
+    "filterLanguage": "Langue",
+    "allLanguages": "Toutes",
+    "showingOf": "{shown} sur {total} affichés",
+    "loadMore": "Voir plus d'avis",
+    "seeAll": "Voir les {count} avis",
+    "vehicleTitle": "Ce que disent les locataires",
+    "lang": {
+      "el": "grec",
+      "en": "anglais"
+    }
+  },
+  "Seo": {
+    "home": {
+      "title": "Location de voiture à Sifnos",
+      "description": "Location de voiture à Sifnos auprès d'une entreprise familiale d'Apollonia depuis 1988. Retrait gratuit au port de Kamares et aucun acompte à verser."
+    },
+    "cars": {
+      "title": "Location de voitures à Sifnos",
+      "description": "Citadines, boîtes automatiques et voitures familiales adaptées aux routes de Sifnos, entretenues sur place. Livraison gratuite à Kamares et Apollonia."
+    },
+    "scooters": {
+      "title": "Location de scooter à Sifnos",
+      "description": "Scooters SYM pour les trajets courts sur l'île, remis à notre bureau d'Apollonia, casques et responsabilité civile compris. Vérifiez les disponibilités."
+    },
+    "rates": {
+      "title": "Prix location voiture Sifnos",
+      "description": "Tarifs journaliers publiés par saison pour la location de voiture à Sifnos, période en cours mise en avant. Sans frais cachés et sans acompte à la réservation."
+    },
+    "book": {
+      "title": "Réserver une voiture à Sifnos",
+      "description": "Indiquez vos dates et le véhicule souhaité, nous répondons avec les disponibilités réelles. Sans acompte, sans carte, retrait gratuit au port de Kamares."
+    },
+    "guide": {
+      "title": "Guide de Sifnos : plages, ferries, villages",
+      "description": "Tout pour préparer Sifnos : ferries depuis Le Pirée, les plus belles plages, où dormir, que faire et comment se déplacer sur l'île. Réponses claires d'abord."
+    },
+    "blog": {
+      "title": "Conseils de voyage et location à Sifnos",
+      "description": "Articles pratiques sur la conduite à Sifnos, les tarifs saisonniers, les plages qui valent le détour, le permis scooter et l'arrivée au port de Kamares."
+    },
+    "faq": {
+      "title": "Questions sur la location à Sifnos",
+      "description": "Réponses directes sur l'âge minimum, le permis, l'assurance, la caution, les points de retrait et le cas d'un ferry retardé. Entreprise familiale depuis 1988."
+    },
+    "about": {
+      "title": "À propos d'Artemis Rental, Sifnos",
+      "description": "Une agence familiale de location de voitures et scooters à Apollonia, Sifnos, tenue par la même famille depuis 1988. Véhicules entretenus et aide locale."
+    },
+    "reviews": {
+      "title": "Avis sur Artemis Rental, Sifnos",
+      "description": "De vrais avis Google sur Artemis Rental à Sifnos, reproduits exactement tels que les voyageurs les ont rédigés. Note de 5,0 sur la base de 11 avis publiés."
+    },
+    "terms": {
+      "title": "Conditions de location, Sifnos",
+      "description": "Âge minimum, permis exigé, responsabilité civile, politique carburant, points de retrait et de restitution, et annulation pour la location chez Artemis."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité, Sifnos",
+      "description": "Comment Artemis Rental collecte, utilise et conserve vos données personnelles lorsque vous naviguez, envoyez une demande ou louez un véhicule à Sifnos."
+    },
+    "cookies": {
+      "title": "Politique de cookies, Artemis Rental",
+      "description": "Quels cookies ce site utilise, pourquoi les outils de mesure ne se chargent qu'après votre consentement, et comment modifier ou retirer votre choix."
+    },
+    "gdpr": {
+      "title": "RGPD et vos droits, Artemis Rental",
+      "description": "Vos droits au titre du règlement général sur la protection des données face à Artemis Rental à Sifnos, et comment demander accès, rectification ou effacement."
+    }
   }
 }

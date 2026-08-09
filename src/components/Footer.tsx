@@ -4,14 +4,10 @@ import { Link } from "@/i18n/navigation";
 import {
   business,
   discoverCycladesUrl,
-  sifnosFerryUrl,
-  sifnosGuideDcUrl,
-  sifnosHotelsUrl,
-  sifnosHowToGetDcUrl,
-  sifnosThingsToDoDcUrl,
   tripPlannerUrl,
   whatsappUrl,
 } from "@/lib/site";
+import { getDiscoverHubLinks } from "@/lib/guide-discover";
 import { WhatsAppIcon } from "@/components/WhatsAppIcon";
 
 const linkClass =
@@ -21,8 +17,9 @@ export function Footer({ locale }: { locale: string }) {
   const t = useTranslations("Footer");
   const nav = useTranslations("Nav");
   const year = new Date().getFullYear();
-  const dcThings = sifnosThingsToDoDcUrl(locale);
-  const dcHow = sifnosHowToGetDcUrl(locale);
+  // Deduped: several of these helpers alias to the same destination, so building
+  // the list by hand rendered the same URL twice under two different labels.
+  const dcLinks = getDiscoverHubLinks(locale);
 
   return (
     <footer className="mt-auto border-t border-foam/10 bg-aegean pb-[5.5rem] text-foam md:pb-0">
@@ -56,6 +53,7 @@ export function Footer({ locale }: { locale: string }) {
               <li><Link href="/cars" className={linkClass}>{nav("cars")}</Link></li>
               <li><Link href="/scooters" className={linkClass}>{nav("scooters")}</Link></li>
               <li><Link href="/rates" className={linkClass}>{nav("rates")}</Link></li>
+              <li><Link href="/reviews" className={linkClass}>{nav("reviews")}</Link></li>
               <li><Link href="/book" className={linkClass}>{nav("book")}</Link></li>
               <li><Link href="/about" className={linkClass}>{nav("about")}</Link></li>
               <li><Link href="/faq" className={linkClass}>{nav("faq")}</Link></li>
@@ -83,31 +81,18 @@ export function Footer({ locale }: { locale: string }) {
               {t("discover")}
             </p>
             <ul className="mt-4 flex flex-col gap-2.5">
-              <li>
-                <a href={dcHow} target="_blank" rel="noopener noreferrer" className={linkClass}>
-                  {t("dcHowToGet")}
-                </a>
-              </li>
-              <li>
-                <a href={sifnosFerryUrl(locale)} target="_blank" rel="noopener noreferrer" className={linkClass}>
-                  {t("dcFerries")}
-                </a>
-              </li>
-              <li>
-                <a href={dcThings} target="_blank" rel="noopener noreferrer" className={linkClass}>
-                  {t("dcThings")}
-                </a>
-              </li>
-              <li>
-                <a href={sifnosGuideDcUrl(locale)} target="_blank" rel="noopener noreferrer" className={linkClass}>
-                  {t("dcGuide")}
-                </a>
-              </li>
-              <li>
-                <a href={sifnosHotelsUrl(locale)} target="_blank" rel="noopener noreferrer" className={linkClass}>
-                  {t("dcHotels")}
-                </a>
-              </li>
+              {dcLinks.map((link) => (
+                <li key={link.labelKey}>
+                  <a
+                    href={link.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className={linkClass}
+                  >
+                    {t(link.labelKey)}
+                  </a>
+                </li>
+              ))}
               <li>
                 <a
                   href={tripPlannerUrl(locale, "Plan a Sifnos stay and nearby Cyclades hop")}

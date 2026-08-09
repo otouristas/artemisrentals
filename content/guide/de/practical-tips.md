@@ -1,7 +1,7 @@
 ---
 slug: practical-tips
 title: "Praktische Fahrtipps für Sifnos"
-description: "Praktische Fahrtipps für Sifnos: Parken, Meltemi-Wind, Kraftstoff, Mittagshitze, Roller-Sicherheit und Sommer-Timing von Artemis Rental."
+description: "Praktische Fahrtipps für Sifnos: Parken, Meltemi-Wind, Kraftstoff, Mittagshitze, Roller-Sicherheit und Sommer-Timing von Artemis Rental. Von Artemis Rental."
 answer: "Starten Sie Strandtage im Juli–August früh, parken Sie abends einmal in Apollonia, fahren Sie langsam auf rauen Buchtzufahrten, sichern Sie Wertsachen und respektieren Sie Wind auf dem Roller. Tanken Sie vor langen Nordküstenschleifen."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
@@ -48,4 +48,4 @@ Führerschein mitbringen (und internationalen Führerschein, wenn die Nationalit
 
 ## Brauchen Sie Hilfe?
 
-Rufen Sie an oder WhatsApp die Nummern auf der Site: lokale Antworten schlagen generische Apps, wenn eine Fähre spät kommt. [Daten anfragen](/de/book).
+Rufen Sie an oder WhatsApp die Nummern auf der Website: lokale Antworten schlagen generische Apps, wenn eine Fähre spät kommt. [Daten anfragen](/de/book).

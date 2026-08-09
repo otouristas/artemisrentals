@@ -1,7 +1,7 @@
 ---
 slug: beaches
 title: "Sifnos-stranden die de rit waard zijn"
-description: "Complete Sifnos-strandgids voor auto- en scooterruiters: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia en Fykiada met toegang, wind, parkeren en voorzieningen."
+description: "Complete Sifnos-strandgids voor auto- en scooterruiters: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia en Fykiada met toegang, wind."
 answer: "Met een Artemis-auto of scooter prioriteer je Platis Gialos voor voorzieningen, Vathi voor een beschutte baai, Chrysopigi voor de kloosteransichtkaart en Herronisos of Vroulidia voor rustiger noordzwemmen. Kom vroeg in juli–augustus voor parkeren."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

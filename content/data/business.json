@@ -1,12 +1,24 @@
 {
   "name": "Artemis Rental",
   "legalName": "Artemis Auto Moto Rental",
-  "alternateNames": ["Artemis Car Rental Sifnos", "Artemis Auto Moto Rental", "Auto Moto Apollo"],
+  "alternateNames": [
+    "Artemis Car Rental Sifnos",
+    "Artemis Auto Moto Rental",
+    "Auto Moto Apollo"
+  ],
   "since": 1988,
   "email": "info@artemisrental.gr",
   "phones": [
-    { "label": "Office", "e164": "+302284033333", "display": "+30 22840 33333" },
-    { "label": "Mobile", "e164": "+306985908478", "display": "+30 698 590 8478" }
+    {
+      "label": "Office",
+      "e164": "+302284033333",
+      "display": "+30 22840 33333"
+    },
+    {
+      "label": "Mobile",
+      "e164": "+306985908478",
+      "display": "+30 698 590 8478"
+    }
   ],
   "whatsapp": "+306985908478",
   "address": {
@@ -16,8 +28,17 @@
     "addressRegion": "Cyclades",
     "addressCountry": "GR"
   },
-  "geo": { "latitude": 36.9725097, "longitude": 24.7239171 },
+  "geo": {
+    "latitude": 36.9725097,
+    "longitude": 24.7239171
+  },
   "priceRange": "€€",
+  "rating": {
+    "_comment": "Real Google Business Profile rating. Source of truth for review counts is content/data/reviews.json. Do not estimate these values.",
+    "value": 5,
+    "count": 11,
+    "url": "https://www.google.com/maps/search/?api=1&query=Artemis+Rental+Sifnos"
+  },
   "url": "https://rentacarsifnos.com",
   "discoverCycladesTripPlanner": "https://discovercyclades.gr/{locale}/touristas-ai/chat",
   "terms": {
@@ -27,9 +48,23 @@
     "prepaymentRequired": false,
     "pickupDefault": "Apollonia",
     "pickupAlternate": "Kamares port, heliport, Artemonas & Kastro free for cars; Vathi, Platys Gialos, Faros, Chrysopigi & Cherronisos on request (fee confirmed at booking)",
-    "carFreePickup": ["kamares", "heliport", "apollonia", "artemonas", "kastro"],
-    "carOnRequestPickup": ["vathi", "platys-gialos", "faros", "chrysopigi", "cherronisos"],
-    "scooterPickupOnly": ["apollonia"]
+    "carFreePickup": [
+      "kamares",
+      "heliport",
+      "apollonia",
+      "artemonas",
+      "kastro"
+    ],
+    "carOnRequestPickup": [
+      "vathi",
+      "platys-gialos",
+      "faros",
+      "chrysopigi",
+      "cherronisos"
+    ],
+    "scooterPickupOnly": [
+      "apollonia"
+    ]
   },
   "included": [
     "tpl",

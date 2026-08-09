@@ -1,7 +1,7 @@
 ---
 slug: food-pottery
 title: "Food & pottery: Sifnos traditions"
-description: "Sifnos food and pottery guide, revithada, mastelo, bakeries, ceramics villages, and how to plan tasting stops with a rental car."
+description: "Sifnos food and pottery guide, revithada, mastelo, bakeries, ceramics villages, and how to plan tasting stops with a rental car. From Artemis Rental."
 answer: "Sifnos is famous for chickpea revithada, mastelo, local cheeses and a living ceramics tradition. Eat in Apollonia at night; day-trip pottery villages like Kamares, Vathi and Herronisos between swims."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

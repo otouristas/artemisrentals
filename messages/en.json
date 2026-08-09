@@ -9,6 +9,7 @@
     "cars": "Cars",
     "scooters": "Scooters",
     "rates": "Rates",
+    "reviews": "Reviews",
     "guide": "Sifnos Guide",
     "guideHub": "Island guide hub",
     "guideHowToGet": "How to get here",
@@ -77,6 +78,10 @@
     "carsLead": "Compact and automatic cars for couples and families exploring Sifnos. Free pickup at Kamares port, heliport, Apollonia, Artemonas and Kastro. Choose dates on each vehicle page. No prepayment required.",
     "scootersTitle": "Scooter rental in Sifnos",
     "scootersLead": "SYM scooters from our Apollonia desk for beaches and villages. Browse the fleet below. Online scooter booking is temporarily unavailable.",
+    "vehicleTitle": "Rent a {name} in Sifnos | Artemis Rental",
+    "vehicleDescription": "Rent a {name} in Sifnos with Artemis Rental. Free pickup at Kamares port and Apollonia, no prepayment to reserve.",
+    "scooterTitle": "Rent a {name} scooter in Sifnos | Artemis Rental",
+    "scooterDescription": "Rent a {name} scooter in Sifnos with Artemis Rental. Apollonia office pickup, helmets included, family run since 1988.",
     "fromDay": "From €{price}/day",
     "todayFrom": "€{price}/day this season",
     "contactForPrice": "Ask for daily rate",
@@ -209,7 +214,7 @@
     "estimatedTotal": "Estimated total ~€{total}",
     "estimateLabel": "Estimated total",
     "estimateDisclaimer": "Indicative price only. We confirm the final rate and availability by phone, WhatsApp, or email.",
-    "whatsappAckHint": "If you use WhatsApp, we also send a short confirmation to your phone from Artemis. No WhatsApp is fine — we still reply by email or phone."
+    "whatsappAckHint": "If you use WhatsApp, we also send a short confirmation to your phone from Artemis. No WhatsApp is fine, we still reply by email or phone."
   },
   "Guide": {
     "title": "Sifnos Guide",
@@ -450,5 +455,92 @@
     "scootersFaq2A": "When booking reopens, scooters are collected and returned at the Apollonia office only.",
     "scootersFaq3Q": "Is a car better than a scooter on Sifnos?",
     "scootersFaq3A": "Families, luggage, and windy days usually suit a car. Scooters are handy for short beach hops when available."
+  },
+  "Reviews": {
+    "title": "What our customers say",
+    "lead": "Every review below is a real Google review of Artemis Rental, shown exactly as it was written. We do not edit them and we do not write them.",
+    "eyebrow": "Google reviews",
+    "homeTitle": "Rated {rating} on Google",
+    "basedOn": "{count} Google reviews",
+    "starsLabel": "{rating} out of 5 stars",
+    "viewOnGoogle": "Read them on Google",
+    "writeReview": "Write a review",
+    "verified": "Verified Google review",
+    "localGuide": "Local Guide",
+    "ratingOnly": "Rated without a written review.",
+    "readMore": "Read more",
+    "readLess": "Read less",
+    "translatedBy": "Translated by Google from {lang}",
+    "sortLabel": "Sort",
+    "sortNewest": "Newest",
+    "sortOldest": "Oldest",
+    "filterLanguage": "Language",
+    "allLanguages": "All",
+    "showingOf": "Showing {shown} of {total}",
+    "loadMore": "Show more reviews",
+    "seeAll": "See all {count} reviews",
+    "vehicleTitle": "What renters say",
+    "lang": {
+      "el": "Greek",
+      "en": "English"
+    }
+  },
+  "Seo": {
+    "home": {
+      "title": "Rent a Car in Sifnos",
+      "description": "Rent a car in Sifnos from a family desk in Apollonia, running since 1988. Free pickup at Kamares port, fair seasonal rates and no prepayment to reserve."
+    },
+    "cars": {
+      "title": "Car rental in Sifnos",
+      "description": "Compact, automatic and family cars for Sifnos roads, maintained locally. Free delivery to Kamares port and Apollonia, and no deposit to hold your dates."
+    },
+    "scooters": {
+      "title": "Scooter rental in Sifnos",
+      "description": "SYM scooters for short island hops, collected from our Apollonia office with helmets and insurance included. Check current availability before you travel."
+    },
+    "rates": {
+      "title": "Sifnos car rental prices",
+      "description": "Published daily car rental rates for Sifnos by season, with the current period highlighted. No hidden fees, no prepayment and no card details to reserve."
+    },
+    "book": {
+      "title": "Book a car in Sifnos",
+      "description": "Send your dates and preferred vehicle and we reply with real availability. No prepayment, no card details, and free pickup at Kamares port on arrival day."
+    },
+    "guide": {
+      "title": "Sifnos travel guide: beaches, ferries, villages",
+      "description": "Everything you need to plan Sifnos: ferries from Piraeus, the best beaches, where to stay, what to do and how to get around, answered clearly and first."
+    },
+    "blog": {
+      "title": "Sifnos travel tips and rental advice",
+      "description": "Practical articles on driving Sifnos, seasonal prices, beaches worth the drive, scooter licence rules and getting from Kamares port to your accommodation."
+    },
+    "faq": {
+      "title": "Sifnos car rental questions answered",
+      "description": "Straight answers on driver age, licences, insurance, deposits, pickup points and what happens when your ferry is delayed. Family run in Apollonia since 1988."
+    },
+    "about": {
+      "title": "About Artemis Rental, Sifnos since 1988",
+      "description": "A family car and scooter rental desk in Apollonia, Sifnos, run by the same family since 1988. Maintained vehicles, fair seasonal pricing and local help."
+    },
+    "reviews": {
+      "title": "Artemis Rental reviews, Sifnos car hire",
+      "description": "Real Google reviews of Artemis Rental in Sifnos, shown exactly as travellers wrote them. We do not edit them and we do not write them. Rated 5.0 from 11."
+    },
+    "terms": {
+      "title": "Rental terms and conditions, Sifnos",
+      "description": "Driver age, licence requirements, third-party insurance, fuel policy, pickup and return points, and cancellation for car and scooter hire with Artemis."
+    },
+    "privacy": {
+      "title": "Privacy policy, Artemis Rental Sifnos",
+      "description": "How Artemis Rental collects, uses and stores personal data when you browse this site, send a booking enquiry, or rent a car or scooter in Sifnos."
+    },
+    "cookies": {
+      "title": "Cookie policy, Artemis Rental Sifnos",
+      "description": "Which cookies and similar technologies this site uses, why analytics load only after you consent, and how to change or withdraw your choice at any time."
+    },
+    "gdpr": {
+      "title": "GDPR and your data rights, Sifnos",
+      "description": "Your rights under the EU General Data Protection Regulation when dealing with Artemis Rental in Sifnos, and how to exercise access, correction or erasure."
+    }
   }
 }

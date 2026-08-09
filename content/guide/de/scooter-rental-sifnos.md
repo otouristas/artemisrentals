@@ -1,7 +1,7 @@
 ---
 slug: scooter-rental-sifnos
 title: "Roller mieten Sifnos: Abholung Apollonia"
-description: "Rollerverleih auf Sifnos bei Artemis in Apollonia. Vorübergehende Online-Buchungspause."
+description: "Rollerverleih auf Sifnos bei Artemis in Apollonia. Vorübergehende Online-Buchungspause. Kostenlose Abholung in Kamares, ohne Vorauszahlung."
 answer: "Artemis führt SYM-Roller auf Sifnos vom Apollonia-Schalter. Online-Buchung für Roller ist vorübergehend nicht verfügbar; Autos bleiben buchbar."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

@@ -1,7 +1,7 @@
 ---
 slug: scooter-rental-sifnos
 title: "Scooter huren Sifnos: ophalen Apollonia"
-description: "Scooter huren op Sifnos bij Artemis in Apollonia. Tijdelijke pauze online reserveringen."
+description: "Scooter huren op Sifnos bij Artemis in Apollonia. Tijdelijke pauze online reserveringen. Gratis ophalen in Kamares, zonder vooruitbetaling."
 answer: "Artemis heeft SYM-scooters op Sifnos vanaf Apollonia. Online scooterreservering is tijdelijk niet beschikbaar; auto's blijven open."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

@@ -1,7 +1,7 @@
 ---
 slug: best-time-visit-sifnos
 title: "Best time to visit Sifnos for driving and swimming"
-description: "When Sifnos weather, swimming, and Artemis rental availability align, from shoulder months to peak August."
+description: "When Sifnos weather, swimming, and Artemis rental availability align, from shoulder months to peak August. Free pickup at Kamares port, no prepayment."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/best-time-visit-sifnos-cover.jpg"

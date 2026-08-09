@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos-2026
 title: "Hyr bil på Sifnos 2026: priser, tips och upphämtning"
-description: "Det du behöver veta innan du hyr bil på Sifnos 2026: säsongspriser, upphämtning i Apollonia och hur du frågar Artemis."
+description: "Det du behöver veta innan du hyr bil på Sifnos 2026: säsongspriser, upphämtning i Apollonia och hur du frågar Artemis. Kostnadsfri upphämtning i Kamares hamn."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
@@ -48,4 +48,4 @@ Fråga om barnstolar när du skickar förfrågan om ni reser med småbarn. Nämn
 
 För mer om priser, se [biluthyrningspriser på Sifnos](/sv/blog/sifnos-car-rental-prices). Redo att bekräfta? [Boka med Artemis](/sv/book), ingen förskottsbetalning, personligt svar via WhatsApp eller e-post.
 
-Full evergreen guide: [Rent a car in Sifnos](/sv/sifnos-guide/rent-a-car-sifnos). See live [fleet](/sv/cars) and [rates](/sv/rates).
+Fullständig guide: [Hyr bil på Sifnos](/sv/sifnos-guide/rent-a-car-sifnos). Se aktuell [flotta](/sv/cars) och [priser](/sv/rates).

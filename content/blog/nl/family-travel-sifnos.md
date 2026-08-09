@@ -1,7 +1,7 @@
 ---
 slug: family-travel-sifnos
 title: "Gezinsreis op Sifnos: waarom een auto helpt"
-description: "Praktisch advies voor gezinnen die een auto huren op Sifnos bij Artemis: zitjes, stranden en dutjeslogistiek."
+description: "Praktisch advies voor gezinnen die een auto huren op Sifnos bij Artemis: zitjes, stranden en dutjeslogistiek. Gratis ophalen in Kamares, zonder vooruitbetaling."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/family-travel-sifnos-cover.jpg"

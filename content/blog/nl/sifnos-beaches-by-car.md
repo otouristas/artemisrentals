@@ -1,7 +1,7 @@
 ---
 slug: sifnos-beaches-by-car
 title: "Beste Sifnos-stranden die je met de auto bereikt"
-description: "Een chauffeursgids voor Sifnos-stranden: Platis Gialos, Vathi, Chrissopigi en rustigere inhammen met parkeertips van Artemis."
+description: "Een chauffeursgids voor Sifnos-stranden: Platis Gialos, Vathi, Chrissopigi en rustigere inhammen met parkeertips van Artemis. Van Artemis Rental."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"

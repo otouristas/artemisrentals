@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { DayPicker, type DateRange } from "react-day-picker";
 import { useTranslations } from "next-intl";
-import { Link } from "@/i18n/navigation";
+import { useRouter } from "@/i18n/navigation";
 import { estimateRateForDate } from "@/lib/fleet";
 import "react-day-picker/style.css";
 
@@ -27,6 +27,7 @@ export function VehicleBookingCalendar({
   fromPrice?: number | null;
 }) {
   const t = useTranslations("Fleet");
+  const router = useRouter();
   const [range, setRange] = useState<DateRange | undefined>();
   const today = useMemo(() => {
     const d = new Date();
@@ -91,9 +92,15 @@ export function VehicleBookingCalendar({
         </div>
       )}
 
-      <Link href={href} className="btn-primary mt-5 w-full justify-center">
+      {/* Button, not <Link>: a crawlable href would let Google discover
+          /book?vehicle=… as duplicate URLs of /book. Same UX, no crawl waste. */}
+      <button
+        type="button"
+        onClick={() => router.push(href)}
+        className="btn-primary mt-5 w-full justify-center"
+      >
         {range?.from && range?.to ? t("requestDates") : t("bookThis")}
-      </Link>
+      </button>
 
       <p className="mt-3 text-xs leading-relaxed text-aegean/50">{t("termsNoPrepay")}</p>
     </div>

@@ -1,6 +1,6 @@
 ---
 slug: rent-a-car-sifnos
-title: "Rent a car in Sifnos: local fleet, Kamares pickup, fair rates"
+title: "Rent a car in Sifnos: local fleet, Kamares pickup"
 description: "Rent a car in Sifnos with Artemis Rental. Free Kamares port pickup, Apollonia desk since 1988, published seasonal rates, no prepayment to reserve."
 answer: "Artemis Rental offers car hire in Sifnos from Apollonia since 1988, with complimentary pickup at Kamares port, heliport, Apollonia, Artemonas, and Kastro. Enquire with dates, no prepayment required."
 datePublished: "2026-08-04"

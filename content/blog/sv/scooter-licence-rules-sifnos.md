@@ -1,7 +1,7 @@
 ---
 slug: scooter-licence-rules-sifnos
 title: "Körkortsregler för scooteruthyrning på Sifnos"
-description: "Körkort, ålder och praktiska regler för scooteruthyrning hos Artemis på Sifnos."
+description: "Körkort, ålder och praktiska regler för scooteruthyrning hos Artemis på Sifnos. Kostnadsfri upphämtning i Kamares hamn och i Apollonia, utan förskott."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"

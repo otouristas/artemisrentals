@@ -1,8 +1,8 @@
 ---
 slug: getting-around
 title: "Fortbewegung auf Sifnos: Auto vs Roller"
-description: "Fortbewegung auf Sifnos: Auto vs Roller vs Bus vs Taxi, Straßentipps, Parken, Kraftstoff und wann Artemis-Mieten am meisten Sinn ergeben."
-answer: "Für die meisten Besucher mit drei oder mehr Nächten ist ein Auto der komfortabelste Weg zu Stränden und Dörfern. Roller passen zu sicheren Fahrern mit leichtem Gepäck. Busse gibt es im Sommer, aber selten für Beach-Hopping; Taxis sind in Peak-Zeiten begrenzt."
+description: "Fortbewegung auf Sifnos: Auto vs Roller vs Bus vs Taxi, Straßentipps, Parken, Kraftstoff und wann Artemis-Mieten am meisten Sinn ergeben. Von Artemis Rental."
+answer: "Für die meisten Besucher mit drei oder mehr Nächten ist ein Auto der komfortabelste Weg zu Stränden und Dörfern. Roller passen zu sicheren Fahrern mit leichtem Gepäck. Busse gibt es im Sommer, aber selten für Beach-Hopping; Taxis sind in Hochsaison-Zeiten begrenzt."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/villages/kastro.webp"
@@ -21,7 +21,7 @@ related:
 
 | Modus | Am besten für | Achtung |
 | --- | --- | --- |
-| **Auto** | Familien, Strandausrüstung, Nordküste, Mischwetter | Peak-Parken an Platis Gialos / beliebten Buchten |
+| **Auto** | Familien, Strandausrüstung, Nordküste, Mischwetter | Hochsaison-Parken an Platis Gialos / beliebten Buchten |
 | **Roller** | Paare, leichte Taschen, Apollonia–Strand-Hops | Wind, Schotterzufahrten (Vroulidia), steile Hügel zu zweit |
 | **Bus** | Budgetreisende auf Hauptkorridoren | Dünne Fahrpläne für Multi-Strand-Tage |
 | **Taxi** | Späte Fähre, einmalige Transfers | Verfügbarkeit eng an August-Abenden |
@@ -39,7 +39,7 @@ Toll für erfahrene Fahrer, die Wind-im-Gesicht-Freiheit zwischen Apollonia, Far
 
 ## Busse & Taxis
 
-Sommerbusse verbinden Apollonia mit Kamares, Platis Gialos, Vathi, Faros und anderen Dörfern: nützlich, aber nicht ideal, wenn Sie drei Buchten an einem Tag wollen. Taxis gibt es; verlassen Sie sich nicht darauf, um 19:00 an einem abgelegenen Strand einen zu winken in Peak-Saison.
+Sommerbusse verbinden Apollonia mit Kamares, Platis Gialos, Vathi, Faros und anderen Dörfern: nützlich, aber nicht ideal, wenn Sie drei Buchten an einem Tag wollen. Taxis gibt es; verlassen Sie sich nicht darauf, um 19:00 an einem abgelegenen Strand einen zu winken in Hochsaison-Saison.
 
 ## Straßencharakter
 

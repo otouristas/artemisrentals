@@ -701,6 +701,7 @@ function FleetVehicleCard({
   dates?: { from?: string | null; to?: string | null };
   onNavigate?: () => void;
 }) {
+  const cardRouter = useRouter();
   const detailHref = vehicle.path ? stripLocalePrefix(vehicle.path) : undefined;
   const bookHref = vehicle.bookUrl
     ? stripLocalePrefix(vehicle.bookUrl)
@@ -762,13 +763,17 @@ function FleetVehicleCard({
         </div>
       </div>
       <div className="grid grid-cols-2 gap-1.5 border-t border-aegean/8 bg-salt/50 p-2">
-        <Link
-          href={bookHref}
-          onClick={onNavigate}
+        {/* Button, not <Link>: keeps /book?vehicle=… out of the crawlable link graph. */}
+        <button
+          type="button"
+          onClick={() => {
+            onNavigate?.();
+            cardRouter.push(bookHref);
+          }}
           className="inline-flex items-center justify-center rounded-lg bg-aegean px-2 py-2 text-[11px] font-semibold text-foam transition hover:bg-aegean-deep"
         >
           {t("toolBook")}
-        </Link>
+        </button>
         {vehicle.whatsappUrl ? (
           <a
             href={vehicle.whatsappUrl}

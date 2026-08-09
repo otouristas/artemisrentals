@@ -1,7 +1,7 @@
 ---
 slug: best-time-visit-sifnos
 title: "Beste tijd om Sifnos te bezoeken voor rijden en zwemmen"
-description: "Wanneer weer, zwemmen en Artemis-verhuurbeschikbaarheid op Sifnos samenvallen, van schoudermanden tot piek augustus."
+description: "Wanneer weer, zwemmen en Artemis-verhuurbeschikbaarheid op Sifnos samenvallen, van schoudermanden tot piek augustus. Familiebedrijf in Apollonia sinds 1988."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/best-time-visit-sifnos-cover.jpg"

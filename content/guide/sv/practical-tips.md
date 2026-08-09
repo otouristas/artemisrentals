@@ -1,7 +1,7 @@
 ---
 slug: practical-tips
 title: "Praktiska körtips för Sifnos"
-description: "Praktiska körtips för Sifnos: parkering, meltemi-vind, bränsle, middagshetta, scootersäkerhet och sommartiming från Artemis Rental."
+description: "Praktiska körtips för Sifnos: parkering, meltemi-vind, bränsle, middagshetta, scootersäkerhet och sommartiming från Artemis Rental. Från Artemis Rental."
 answer: "Börja stranddagar tidigt i juli–augusti, parkera en gång i Apollonia på natten, sakta ner på ojämna vikinfarter, säkra värdesaker och respektera vinden på scooter. Fyll bränsle före långa nordkustslingor."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

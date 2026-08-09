@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos-2026
-title: "Noleggiare un'auto a Sifnos 2026: prezzi, consigli e pickup"
-description: "Cosa sapere prima di noleggiare un'auto a Sifnos nel 2026: prezzi stagionali, pickup ad Apollonia e come richiedere ad Artemis."
+title: "Noleggiare un'auto a Sifnos 2026: prezzi"
+description: "Cosa sapere prima di noleggiare un'auto a Sifnos nel 2026: prezzi stagionali, pickup ad Apollonia e come richiedere ad Artemis. Di Artemis Rental."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
@@ -48,4 +48,4 @@ Chiedi i seggiolini quando fai la richiesta se viaggi con bambini piccoli. Indic
 
 Per più contesto sui prezzi vedi [prezzi noleggio auto a Sifnos](/it/blog/sifnos-car-rental-prices). Pronto a confermare? [Prenota con Artemis](/it/book), nessun anticipo, risposta personale su WhatsApp o email.
 
-Full evergreen guide: [Rent a car in Sifnos](/it/sifnos-guide/rent-a-car-sifnos). See live [fleet](/it/cars) and [rates](/it/rates).
+Guida completa: [Noleggia un'auto a Sifnos](/it/sifnos-guide/rent-a-car-sifnos). Guarda la [flotta](/it/cars) e le [tariffe](/it/rates) aggiornate.

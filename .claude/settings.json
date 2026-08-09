@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(npx tsc *)",
+      "Bash(pnpm build *)",
+      "Bash(echo \"--- tsc exit: $?\")",
+      "Bash(node ./scripts/lint-emdash.mjs)",
+      "Bash(echo \"--- emdash exit: $?\")",
+      "Bash(npx next *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3111/en)",
+      "Bash(curl -s \"http://localhost:3111/it/book?vehicle=fiat-panda\")",
+      "Bash(curl -s \"http://localhost:3111/it/book\")",
+      "Bash(curl -s \"http://localhost:3111/de/book?vehicle=citroen-c3&from=2026-08-20&to=2026-08-24\")",
+      "Bash(curl -s http://localhost:3111/en/cars/fiat-panda)",
+      "Bash(kill %1)",
+      "Bash(curl -s \"http://localhost:3112/en/book?vehicle=fiat-panda\")",
+      "Bash(npx eslint *)",
+      "Bash(echo \"eslint exit: $?\")",
+      "Bash(git stash *)",
+      "Bash(pkill -f \"next start\")",
+      "Bash(npx tsx -e ' *)",
+      "Bash(curl -s http://localhost:3120/en/cars/fiat-panda)",
+      "Bash(curl -s http://localhost:3120/en)",
+      "Bash(echo \"REAL exit code: $?\")",
+      "Bash(echo \"exit: $?\")",
+      "Bash(node ./scripts/lint-loanwords.mjs)",
+      "Bash(python3 /private/tmp/claude-501/-Users-iconicgiorgio-Documents-artemis-artemisrentals/5a15a66b-a6fd-492a-b4f3-a12a7b00bba4/scratchpad/el_blog.py)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('eslint errors:', sum\\(len\\(f['messages']\\) for f in d\\), '\\(baseline 11\\)'\\)\")",
+      "Bash(grep -rn 'Artemis Rental`\\\\|Artemis Rental\"\\\\|| Artemis`' src/app)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('eslint:',sum\\(len\\(f['messages']\\) for f in d\\),'\\(baseline 11\\)'\\)\")",
+      "Bash(node ./scripts/lint-metadata.mjs)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('errors:',sum\\(len\\(f['messages']\\) for f in d\\),'\\(baseline 11\\)'\\)\")"
+    ]
+  }
+}

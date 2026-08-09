@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos-2026
 title: "Rent a car in Sifnos 2026: prices, tips, and pickup"
-description: "What to know before renting a car on Sifnos in 2026, seasonal prices, Apollonia pickup, and how to enquire with Artemis."
+description: "What to know before renting a car on Sifnos in 2026, seasonal prices, Apollonia pickup, and how to enquire with Artemis. Family run in Apollonia since 1988."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"

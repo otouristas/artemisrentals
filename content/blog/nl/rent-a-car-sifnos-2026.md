@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos-2026
 title: "Auto huren op Sifnos 2026: prijzen, tips en ophalen"
-description: "Wat je moet weten voor je een auto huurt op Sifnos in 2026: seizoensprijzen, ophalen in Apollonia en hoe je bij Artemis een aanvraag doet."
+description: "Wat je moet weten voor je een auto huurt op Sifnos in 2026: seizoensprijzen, ophalen in Apollonia en hoe je bij Artemis een aanvraag doet. Van Artemis Rental."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
@@ -48,4 +48,4 @@ Vraag naar kinderzitjes bij je aanvraag als je met peuters reist. Noem automatis
 
 Voor meer prijscontext zie [autohuurprijzen op Sifnos](/nl/blog/sifnos-car-rental-prices). Klaar om te bevestigen? [Boek bij Artemis](/nl/book), geen vooruitbetaling, persoonlijk antwoord via WhatsApp of e-mail.
 
-Full evergreen guide: [Rent a car in Sifnos](/nl/sifnos-guide/rent-a-car-sifnos). See live [fleet](/nl/cars) and [rates](/nl/rates).
+Volledige gids: [Huur een auto op Sifnos](/nl/sifnos-guide/rent-a-car-sifnos). Bekijk de actuele [vloot](/nl/cars) en [tarieven](/nl/rates).

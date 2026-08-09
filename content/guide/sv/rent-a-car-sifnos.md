@@ -1,7 +1,7 @@
 ---
 slug: rent-a-car-sifnos
-title: "Hyr bil Sifnos: lokal flotta, hämtning Kamares, tydliga priser"
-description: "Hyr bil på Sifnos hos Artemis Rental. Gratis upphämtning i Kamares hamn, disk i Apollonia sedan 1988, ingen förskottsbetalning."
+title: "Hyr bil Sifnos: lokal flotta, hämtning Kamares"
+description: "Hyr bil på Sifnos hos Artemis Rental. Gratis upphämtning i Kamares hamn, disk i Apollonia sedan 1988, ingen förskottsbetalning. Från Artemis Rental."
 answer: "Artemis Rental hyr ut bilar på Sifnos från Apollonia sedan 1988, med gratis upphämtning i Kamares, helikopterplatta, Apollonia, Artemonas och Kastro."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

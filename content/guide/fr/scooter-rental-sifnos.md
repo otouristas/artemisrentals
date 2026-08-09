@@ -1,7 +1,7 @@
 ---
 slug: scooter-rental-sifnos
 title: "Location scooter Sifnos: retrait Apollonia, flotte"
-description: "Location scooter à Sifnos avec Artemis Rental depuis Apollonia. Aperçu de la flotte et avis de pause temporaire des réservations."
+description: "Location scooter à Sifnos avec Artemis Rental depuis Apollonia. Aperçu de la flotte et avis de pause temporaire des réservations. Par Artemis Rental."
 answer: "Artemis propose des scooters SYM à Sifnos depuis le bureau d'Apollonia. La réservation scooter en ligne est temporairement indisponible ; les voitures restent ouvertes."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"

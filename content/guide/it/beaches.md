@@ -1,7 +1,7 @@
 ---
 slug: beaches
 title: "Spiagge di Sifnos che valgono la guida"
-description: "Guida completa alle spiagge di Sifnos per chi guida auto o scooter: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia e Fykiada con accesso, vento, parcheggio e servizi."
+description: "Guida completa alle spiagge di Sifnos per chi guida auto o scooter: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos."
 answer: "Con un’auto o scooter Artemis, dai priorità a Platis Gialos per i servizi, Vathi per una baia riparata, Chrysopigi per la cartolina del monastero e Herronisos o Vroulidia quando vuoi nuotare più quieto a nord. Arriva presto a luglio–agosto per il parcheggio."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

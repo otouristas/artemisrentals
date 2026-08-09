@@ -8,17 +8,29 @@ import type { Locale } from "@/i18n/routing";
 
 export async function generateMetadata({
   params,
+  searchParams,
 }: {
   params: Promise<{ locale: string }>;
+  searchParams: Promise<{ vehicle?: string; from?: string; to?: string }>;
 }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Book" });
-  return buildMetadata({
+  const { vehicle, from, to } = await searchParams;
+  const seo = await getTranslations({ locale, namespace: "Seo" });
+  const metadata = buildMetadata({
     locale: locale as Locale,
-    title: `${t("title")} | Artemis Rental`,
-    description: t("lead"),
+    title: seo("book.title"),
+    description: seo("book.description"),
     path: "/book",
+    brand: "always",
   });
+
+  // Prefilled variants (/book?vehicle=…) are the same page with state applied.
+  // The canonical above already points at /[locale]/book; noindex additionally
+  // clears the variants Google discovered before the CTAs stopped emitting hrefs.
+  if (vehicle || from || to) {
+    return { ...metadata, robots: { index: false, follow: true } };
+  }
+  return metadata;
 }
 
 export default async function BookPage({

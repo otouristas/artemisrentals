@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { setRequestLocale } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { VehicleDetail } from "@/components/VehicleDetail";
 import { getCars, getVehicleBySlug, localizeField } from "@/lib/fleet";
 import { buildMetadata } from "@/lib/seo";
@@ -19,16 +19,15 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const vehicle = getVehicleBySlug(slug);
   if (!vehicle) return {};
+  const t = await getTranslations({ locale, namespace: "Fleet" });
   const seoDescription = localizeField(
-    (vehicle as { seoDescription?: { en: string; el: string } }).seoDescription,
+    (vehicle as { seoDescription?: Partial<Record<Locale, string>> }).seoDescription,
     locale,
   );
   return buildMetadata({
     locale: locale as Locale,
-    title: `Rent ${vehicle.name} in Sifnos | Artemis Rental`,
-    description:
-      seoDescription ||
-      `Rent a ${vehicle.name} in Sifnos with Artemis Rental. Free pickup at Kamares port and Apollonia.`,
+    title: t("vehicleTitle", { name: vehicle.name }),
+    description: seoDescription || t("vehicleDescription", { name: vehicle.name }),
     path: `/cars/${slug}`,
     image: vehicle.image,
   });

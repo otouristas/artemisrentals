@@ -1,7 +1,7 @@
 ---
 slug: kamares-port-arrival-guide
 title: "Kamares haven aankomst: van veerboot naar eerste zwem"
-description: "Wat te doen als je veerboot aanlegt in Kamares: bagage, ophaalopties en naar Apollonia met Artemis-huurauto."
+description: "Wat te doen als je veerboot aanlegt in Kamares: bagage, ophaalopties en naar Apollonia met Artemis-huurauto. Gratis ophalen in Kamares, zonder vooruitbetaling."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"

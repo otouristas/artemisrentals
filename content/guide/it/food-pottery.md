@@ -1,7 +1,7 @@
 ---
 slug: food-pottery
 title: "Cibo e ceramica: tradizioni di Sifnos"
-description: "Guida cibo e ceramica a Sifnos: revithada, mastelo, panetterie, villaggi ceramici e come pianificare soste di gusto con un’auto a noleggio."
+description: "Guida cibo e ceramica a Sifnos: revithada, mastelo, panetterie, villaggi ceramici e come pianificare soste di gusto con un’auto a noleggio. Di Artemis Rental."
 answer: "Sifnos è famosa per la revithada di ceci, il mastelo, i formaggi locali e una tradizione ceramica viva. Mangia a Apollonia di sera; fai day-trip nei villaggi ceramici come Kamares, Vathi e Herronisos tra un bagno e l’altro."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

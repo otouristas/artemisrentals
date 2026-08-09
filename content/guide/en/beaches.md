@@ -1,7 +1,7 @@
 ---
 slug: beaches
 title: "Sifnos beaches worth the drive"
-description: "Complete Sifnos beach guide for drivers and scooter riders, Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia and Fykiada with access, wind, parking and facilities."
+description: "Complete Sifnos beach guide for drivers and scooter riders, Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia and Fykiada with access."
 answer: "With an Artemis car or scooter, prioritise Platis Gialos for facilities, Vathi for a sheltered bay, Chrysopigi for the monastery postcard, and Herronisos or Vroulidia when you want quieter north-coast swimming. Arrive early in July–August for parking."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

@@ -1,7 +1,7 @@
 ---
 slug: sifnos-hiking-trails-by-car
 title: "Sifnos vandringsleder du når med bil"
-description: "Trailheads och dagsvandringar på Sifnos: parkera med Artemis-hyrbil, gå antika stigar, tillbaka till Apollonia för middag."
+description: "Trailheads och dagsvandringar på Sifnos: parkera med Artemis-hyrbil, gå antika stigar, tillbaka till Apollonia för middag. Från Artemis Rental."
 datePublished: "2026-07-10"
 dateModified: "2026-07-18"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"

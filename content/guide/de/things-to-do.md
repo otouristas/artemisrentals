@@ -1,7 +1,7 @@
 ---
 slug: things-to-do
 title: "Aktivitäten auf Sifnos"
-description: "Vollständiger Aktivitätenführer Sifnos: Strände, Dörfer, Wanderwege, Essen, Keramik, Klöster, Bootstage, geplant um eine Artemis-Miete."
+description: "Vollständiger Aktivitätenführer Sifnos: Strände, Dörfer, Wanderwege, Essen, Keramik, Klöster, Bootstage, geplant um eine Artemis-Miete. Von Artemis Rental."
 answer: "Baden Sie in Platis Gialos und Vathi, besuchen Sie Chrysopigi und das mittelalterliche Kastro, wandern Sie Dorf-zu-Küste-Wege, kosten Sie Mastelo und Revithada, stöbern Sie in Keramikwerkstätten und nutzen Sie eine Artemis-Miete, um alles ohne Busfahrpläne zu verbinden."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
@@ -70,7 +70,7 @@ Sifnos ist eine der großen Wanderinseln der Kykladen. Wege verbinden Dörfer, K
 
 ## Essen & Gastronomie
 
-Sifnos schlägt über seinem Gewicht: Kichererbsen-**Revithada**, langsam gegartes **Mastelo**, lokale Käse, Honig und Bäckereisüßes. Beliebte Tavernen in Peak-Wochen reservieren; zu Dörfern fahren für ruhigere Tische.
+Sifnos schlägt über seinem Gewicht: Kichererbsen-**Revithada**, langsam gegartes **Mastelo**, lokale Käse, Honig und Bäckereisüßes. Beliebte Tavernen in Hochsaison-Wochen reservieren; zu Dörfern fahren für ruhigere Tische.
 
 Siehe [Essen & Keramik](/de/sifnos-guide/food-pottery) für einen Deep Dive.
 

@@ -1,7 +1,7 @@
 ---
 slug: getting-around
 title: "Rondkomen op Sifnos: auto vs scooter"
-description: "Hoe je rondkomt op Sifnos: auto vs scooter vs bus vs taxi, wegtips, parkeren, brandstof en wanneer Artemis-verhuur het meest zin heeft."
+description: "Hoe je rondkomt op Sifnos: auto vs scooter vs bus vs taxi, wegtips, parkeren, brandstof en wanneer Artemis-verhuur het meest zin heeft. Van Artemis Rental."
 answer: "Voor de meeste bezoekers die drie of meer nachten blijven is een auto de comfortabelste manier om stranden en dorpen te bereiken. Scooters passen bij zelfverzekerde rijders met lichte bagage. Bussen bestaan in de zomer maar zijn dun voor strandhoppen; taxi's zijn beperkt in pieken."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

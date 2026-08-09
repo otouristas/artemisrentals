@@ -9,10 +9,11 @@ import { TouristasOpenButton } from "@/components/TouristasOpenButton";
 import { JsonLd } from "@/components/JsonLd";
 import { getCars, getScooters, isScooterBookingEnabled } from "@/lib/fleet";
 import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
-import testimonials from "../../../content/data/testimonials.json";
+import { ReviewCard } from "@/components/ReviewCard";
+import { ReviewsSummary } from "@/components/ReviewsSummary";
+import { getReviewsWithText, reviewKey, REVIEW_COUNT } from "@/lib/reviews";
 import { buildMetadata, absoluteUrl, businessJsonLd } from "@/lib/seo";
 import { bcp47 } from "@/lib/i18n-locale";
-import { localizeField } from "@/lib/fleet";
 import type { Locale } from "@/i18n/routing";
 
 export async function generateMetadata({
@@ -21,11 +22,11 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Meta" });
+  const seo = await getTranslations({ locale, namespace: "Seo" });
   return buildMetadata({
     locale: locale as Locale,
-    title: t("homeTitle"),
-    description: t("homeDescription"),
+    title: seo("home.title"),
+    description: seo("home.description"),
     path: "",
   });
 }
@@ -38,6 +39,7 @@ export default async function HomePage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("Home");
+  const reviews = await getTranslations("Reviews");
   // Two rows at lg:grid-cols-3 → up to 6 per category
   const cars = getCars().slice(0, 6);
   const scooters = getScooters().slice(0, 6);
@@ -121,25 +123,24 @@ export default async function HomePage({
 
       <section className="section container-site">
         <Reveal>
-          <h2 className="text-title text-aegean">{t("reviewsTitle")}</h2>
+          <div className="flex flex-wrap items-end justify-between gap-6">
+            <h2 className="text-title text-aegean">{t("reviewsTitle")}</h2>
+            <ReviewsSummary />
+          </div>
         </Reveal>
-        <div className="mt-10 grid gap-8 md:grid-cols-3">
-          {testimonials.slice(0, 3).map((r, i) => (
-            <Reveal key={r.name} delay={i * 80}>
-              <blockquote className="border-t border-aegean/15 pt-5">
-                <p className="text-aegean/80">
-                  “{localizeField(r.quote, loc)}”
-                </p>
-                <footer className="mt-4 flex items-center gap-3">
-                  <Image src={r.avatar} alt="" width={40} height={40} className="rounded-full" />
-                  <div>
-                    <p className="font-semibold text-aegean">{r.name}</p>
-                    <p className="text-xs text-aegean/55">{r.year}</p>
-                  </div>
-                </footer>
-              </blockquote>
-            </Reveal>
-          ))}
+        <div className="mt-10 grid items-stretch gap-6 md:grid-cols-3">
+          {getReviewsWithText()
+            .slice(0, 3)
+            .map((review, i) => (
+              <Reveal key={reviewKey(review)} delay={i * 80}>
+                <ReviewCard review={review} locale={locale} expandable={false} />
+              </Reveal>
+            ))}
+        </div>
+        <div className="mt-8">
+          <Link href="/reviews" className="btn-primary">
+            {reviews("seeAll", { count: REVIEW_COUNT })}
+          </Link>
         </div>
       </section>
 

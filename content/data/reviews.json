@@ -1,0 +1,120 @@
+{
+  "_comment": "Real Google Business Profile reviews for Artemis Rental, Sifnos. Verbatim as published. Never edit the wording of a review, never invent text for a rating-only entry, and never add an entry that does not exist on the profile. Dates carry dateApproximate:true because Google exposes only relative labels ('3 weeks ago'); replace with exact dates if the profile export provides them.",
+  "source": "Google",
+  "ratingValue": 5,
+  "reviewCount": 11,
+  "profileUrl": "https://www.google.com/maps/search/?api=1&query=Artemis+Rental+Sifnos",
+  "writeReviewUrl": "https://search.google.com/local/writereview?placeid=",
+  "capturedOn": "2026-08-09",
+  "reviews": [
+    {
+      "author": "Ηλίας Μάρας",
+      "date": "2026-08-02",
+      "dateApproximate": true,
+      "relativeLabel": "a week ago",
+      "rating": 5,
+      "lang": "el",
+      "source": "Google"
+    },
+    {
+      "author": "Ιωάννα",
+      "date": "2026-08-02",
+      "dateApproximate": true,
+      "relativeLabel": "a week ago",
+      "rating": 5,
+      "lang": "el",
+      "source": "Google"
+    },
+    {
+      "author": "Natalia Martinez",
+      "date": "2026-07-19",
+      "dateApproximate": true,
+      "relativeLabel": "3 weeks ago",
+      "rating": 5,
+      "lang": "en",
+      "localGuide": true,
+      "text": "Fantastic car rental place! The prices are very competitive, and Alexandra was incredibly friendly. She even picked us up and dropped us off at the port, and gave us some great local recommendations. We will definitely rent from them again the next time we are back in Sifnos!",
+      "source": "Google"
+    },
+    {
+      "author": "Ioannis Miniadis",
+      "date": "2026-07-19",
+      "dateApproximate": true,
+      "relativeLabel": "3 weeks ago",
+      "rating": 5,
+      "lang": "en",
+      "translatedFrom": "el",
+      "localGuide": true,
+      "text": "Very good service. I rent cars on most of the islands I visit and it was truly my best experience so far. The car was very good and ideal for our travels and its price was the best I found in my search. But above all, I was won over by the very good service and their truly friendly attitude. I highly recommend it.",
+      "source": "Google"
+    },
+    {
+      "author": "Φρόσω Μοίρου",
+      "date": "2026-07-19",
+      "dateApproximate": true,
+      "relativeLabel": "3 weeks ago",
+      "rating": 5,
+      "lang": "el",
+      "source": "Google"
+    },
+    {
+      "author": "john taylor",
+      "date": "2026-07-09",
+      "dateApproximate": true,
+      "relativeLabel": "a month ago",
+      "rating": 5,
+      "lang": "en",
+      "truncated": true,
+      "vehicleSlug": "suzuki-ignis",
+      "text": "I rented a little Suzuki Ignis from Artemis and if I could give this family company 6 stars, I would. The car was perfect for Sifnos - amazing AC, reverse camera and spotless inside.",
+      "source": "Google"
+    },
+    {
+      "author": "Jo Lapping",
+      "date": "2026-07-09",
+      "dateApproximate": true,
+      "relativeLabel": "a month ago",
+      "rating": 5,
+      "lang": "en",
+      "text": "The best car rental in sifnos !! So kind and helpful, could not recommend more.",
+      "source": "Google"
+    },
+    {
+      "author": "olivia durdevic",
+      "date": "2026-07-09",
+      "dateApproximate": true,
+      "relativeLabel": "a month ago",
+      "rating": 5,
+      "lang": "en",
+      "text": "Loved renting a car here. The staff were incredibly kind ♥️♥️",
+      "source": "Google"
+    },
+    {
+      "author": "Arthur Lonsdale",
+      "date": "2026-07-09",
+      "dateApproximate": true,
+      "relativeLabel": "a month ago",
+      "rating": 5,
+      "lang": "en",
+      "source": "Google"
+    },
+    {
+      "author": "Maria Apollon",
+      "date": "2026-07-09",
+      "dateApproximate": true,
+      "relativeLabel": "a month ago",
+      "rating": 5,
+      "lang": "en",
+      "source": "Google"
+    },
+    {
+      "author": "Alexandra Kalpaki",
+      "date": "2026-07-09",
+      "dateApproximate": true,
+      "relativeLabel": "a month ago",
+      "rating": 5,
+      "lang": "el",
+      "source": "Google"
+    }
+  ]
+}

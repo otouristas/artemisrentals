@@ -1,7 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import { Link, usePathname } from "@/i18n/navigation";
+import { usePathname, useRouter } from "@/i18n/navigation";
 import { scrollWindowToTop } from "@/components/ScrollToTop";
 import { business, whatsappUrl } from "@/lib/site";
 import { WhatsAppIcon } from "@/components/WhatsAppIcon";
@@ -25,6 +25,7 @@ export function MobileBookBar({
   const t = useTranslations("Common");
   const nav = useTranslations("Nav");
   const pathname = usePathname();
+  const router = useRouter();
   const resolvedSlug = vehicleSlug || vehicleSlugFromPath(pathname);
   const params = new URLSearchParams();
   if (resolvedSlug) params.set("vehicle", resolvedSlug);
@@ -40,13 +41,19 @@ export function MobileBookBar({
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-0 z-40 px-3 pb-[max(0.75rem,env(safe-area-inset-bottom))] md:hidden">
       <div className="glass-dock pointer-events-auto mx-auto flex max-w-lg items-center gap-2 p-2 pl-2.5">
-        <Link
-          href={bookHref}
-          onClick={scrollWindowToTop}
+        {/* Button, not <Link>: this bar renders on every vehicle page, so a
+            crawlable href here was the main way Google discovered
+            /book?vehicle=… as duplicates of /book. */}
+        <button
+          type="button"
+          onClick={() => {
+            scrollWindowToTop();
+            router.push(bookHref);
+          }}
           className="inline-flex min-h-11 flex-1 items-center justify-center rounded-full bg-aegean px-4 text-sm font-semibold text-foam shadow-[0_1px_0_rgba(255,255,255,0.25)_inset] transition hover:bg-aegean-deep"
         >
           {t("bookNow")}
-        </Link>
+        </button>
 
         <a
           href={whatsappUrl(waText)}

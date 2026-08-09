@@ -1,7 +1,7 @@
 ---
 slug: scooter-licence-rules-sifnos
 title: "Patente e regole per noleggiare uno scooter a Sifnos"
-description: "Patente, età e regole pratiche per il noleggio scooter con Artemis a Sifnos."
+description: "Patente, età e regole pratiche per il noleggio scooter con Artemis a Sifnos. Ritiro gratuito al porto di Kamares e ad Apollonia, senza anticipo."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"

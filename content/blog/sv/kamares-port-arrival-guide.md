@@ -1,7 +1,7 @@
 ---
 slug: kamares-port-arrival-guide
 title: "Kamares hamnankomst: från färja till första bad"
-description: "Vad du gör när färjan lägger till i Kamares: bagage, upphämtningsalternativ och vägen till Apollonia med Artemis-hyrbil."
+description: "Vad du gör när färjan lägger till i Kamares: bagage, upphämtningsalternativ och vägen till Apollonia med Artemis-hyrbil. Kostnadsfri upphämtning i Kamares hamn."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
@@ -49,7 +49,7 @@ Kamares minimarknad täcker vatten, solkräm och snacks innan första körningen
 ## Vanliga ankomstdagsmisstag
 
 - Anta att varje färja synkar med en buss; kolla tavlan eller fråga en caféserver.
-- Hämta en manuell bil trött från resan och attackera Apollonias enkelriktade backe i ettan; automatförare, säg så när ni bokar peak.
+- Hämta en manuell bil trött från resan och attackera Apollonias enkelriktade backe i ettan; automatförare, säg det när ni bokar under högsäsong.
 - Glömma att meddela Artemis om färjan är försenad; de justerar när de vet.
 
 ## Efter dag ett

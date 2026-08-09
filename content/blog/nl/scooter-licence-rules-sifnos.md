@@ -1,7 +1,7 @@
 ---
 slug: scooter-licence-rules-sifnos
 title: "Scooter rijbewijsregels voor huren op Sifnos"
-description: "Rijbewijs, leeftijd en praktische regels voor scooterverhuur bij Artemis op Sifnos."
+description: "Rijbewijs, leeftijd en praktische regels voor scooterverhuur bij Artemis op Sifnos. Gratis ophalen in Kamares, zonder vooruitbetaling."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"

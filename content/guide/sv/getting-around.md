@@ -1,8 +1,8 @@
 ---
 slug: getting-around
 title: "Ta sig runt på Sifnos: bil vs scooter"
-description: "Hur man tar sig runt på Sifnos: bil vs scooter vs buss vs taxi, vägtips, parkering, bränsle och när Artemis-uthyrning ger mest mening."
-answer: "För de flesta besökare som stannar tre nätter eller mer är bil det bekvämaste sättet att nå stränder och byar. Scootrar passar säkra förare med lätt bagage. Bussar finns på sommaren men är glesa för strandhopp; taxibilar är begränsade under peak."
+description: "Hur man tar sig runt på Sifnos: bil vs scooter vs buss vs taxi, vägtips, parkering, bränsle och när Artemis-uthyrning ger mest mening. Från Artemis Rental."
+answer: "För de flesta besökare som stannar tre nätter eller mer är bil det bekvämaste sättet att nå stränder och byar. Scootrar passar säkra förare med lätt bagage. Bussar finns på sommaren men är glesa för strandhopp; taxibilar är begränsade under högsäsong."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/villages/kastro.webp"
@@ -21,7 +21,7 @@ related:
 
 | Läge | Bäst för | Se upp för |
 | --- | --- | --- |
-| **Bil** | Familjer, strandutrustning, nordkust, blandat väder | Peakparkering vid Platis Gialos / populära vikar |
+| **Bil** | Familjer, strandutrustning, nordkust, blandat väder | Parkering i högsäsong vid Platis Gialos / populära vikar |
 | **Scooter** | Par, lätta väskor, Apollonia–strand-hopp | Vind, grusinfarter (Vroulidia), branta backar två upp |
 | **Buss** | Budgetresenärer på huvudkorridorer | Tunna tidtabeller för multi-stranddagar |
 | **Taxi** | Sen färja, engångstransfer | Tillgång trång på augustikvällar |
@@ -39,7 +39,7 @@ Bra för erfarna förare som vill ha vind-i-ansiktet-frihet mellan Apollonia, Fa
 
 ## Bussar & taxibilar
 
-Sommarbussar kopplar Apollonia med Kamares, Platis Gialos, Vathi, Faros och andra byar: användbara, men inte ideala om du vill ha tre vikar på en dag. Taxibilar finns; räkna inte med att vifta fram en vid en avlägsen strand kl. 19 i peak.
+Sommarbussar kopplar Apollonia med Kamares, Platis Gialos, Vathi, Faros och andra byar: användbara, men inte ideala om du vill ha tre vikar på en dag. Taxibilar finns; räkna inte med att vifta fram en vid en avlägsen strand kl. 19 under högsäsong.
 
 ## Vägens karaktär
 

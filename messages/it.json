@@ -9,6 +9,7 @@
     "cars": "Auto",
     "scooters": "Scooter",
     "rates": "Tariffe",
+    "reviews": "Recensioni",
     "guide": "Guida di Sifnos",
     "guideHub": "Hub guida dell'isola",
     "guideHowToGet": "Come arrivare",
@@ -77,6 +78,10 @@
     "carsLead": "Auto compatte e automatiche per coppie e famiglie a Sifnos. Ritiro gratuito a Kamares, eliporto, Apollonia, Artemonas e Kastro. Nessun anticipo.",
     "scootersTitle": "Noleggio scooter a Sifnos",
     "scootersLead": "Scooter SYM dall'ufficio di Apollonia. La prenotazione online scooter è temporaneamente non disponibile.",
+    "vehicleTitle": "Noleggio {name} a Sifnos | Artemis Rental",
+    "vehicleDescription": "Noleggia una {name} a Sifnos con Artemis Rental. Ritiro gratuito al porto di Kamares e ad Apollonia, senza anticipo.",
+    "scooterTitle": "Noleggio scooter {name} a Sifnos | Artemis Rental",
+    "scooterDescription": "Noleggia uno scooter {name} a Sifnos con Artemis Rental. Ritiro all'ufficio di Apollonia, caschi inclusi, gestione familiare dal 1988.",
     "fromDay": "Da €{price}/giorno",
     "todayFrom": "€{price}/giorno in questa stagione",
     "contactForPrice": "Chiedi la tariffa giornaliera",
@@ -125,7 +130,7 @@
     "vehicle": "Veicolo",
     "carsHeading": "Auto",
     "scootersHeading": "Scooter",
-    "scootersNote": "Tariffe scooter in mid/peak (11 giu – 10 set). Prenotazione scooter temporaneamente non disponibile.",
+    "scootersNote": "Le tariffe scooter valgono in media e alta stagione (11 giu – 10 set). La prenotazione scooter è temporaneamente non disponibile.",
     "note": "Non è richiesto alcun anticipo per prenotare. Confermamo per telefono, WhatsApp o email.",
     "cta": "Verifica disponibilità",
     "now": "Ora"
@@ -209,7 +214,7 @@
     "estimatedTotal": "Totale stimato ~€{total}",
     "estimateLabel": "Totale stimato",
     "estimateDisclaimer": "Prezzo solo indicativo. Confermamo tariffa finale e disponibilità per telefono, WhatsApp o email.",
-    "whatsappAckHint": "Se usi WhatsApp, riceverai anche una breve conferma sul telefono da Artemis. Senza WhatsApp va bene — rispondiamo via email o telefono."
+    "whatsappAckHint": "Se usi WhatsApp, riceverai anche una breve conferma sul telefono da Artemis. Senza WhatsApp va bene lo stesso: rispondiamo via email o telefono."
   },
   "Guide": {
     "title": "Guida di Sifnos",
@@ -443,5 +448,92 @@
     "scootersFaq2A": "Quando riprendono le prenotazioni, solo all'ufficio di Apollonia.",
     "scootersFaq3Q": "Meglio auto o scooter a Sifnos?",
     "scootersFaq3A": "Famiglie e bagagli di solito chiedono un'auto. Gli scooter servono per brevi tratti quando disponibili."
+  },
+  "Reviews": {
+    "title": "Cosa dicono i nostri clienti",
+    "lead": "Ogni recensione qui sotto è una vera recensione Google su Artemis Rental, riportata esattamente come è stata scritta. Non le modifichiamo e non le scriviamo noi.",
+    "eyebrow": "Recensioni Google",
+    "homeTitle": "Valutazione {rating} su Google",
+    "basedOn": "{count} recensioni Google",
+    "starsLabel": "{rating} stelle su 5",
+    "viewOnGoogle": "Leggile su Google",
+    "writeReview": "Scrivi una recensione",
+    "verified": "Recensione Google verificata",
+    "localGuide": "Local Guide",
+    "ratingOnly": "Valutazione senza commento scritto.",
+    "readMore": "Leggi di più",
+    "readLess": "Leggi meno",
+    "translatedBy": "Tradotto da Google dal {lang}",
+    "sortLabel": "Ordina",
+    "sortNewest": "Più recenti",
+    "sortOldest": "Meno recenti",
+    "filterLanguage": "Lingua",
+    "allLanguages": "Tutte",
+    "showingOf": "Mostrate {shown} di {total}",
+    "loadMore": "Mostra altre recensioni",
+    "seeAll": "Vedi tutte le {count} recensioni",
+    "vehicleTitle": "Cosa dice chi ha noleggiato",
+    "lang": {
+      "el": "greco",
+      "en": "inglese"
+    }
+  },
+  "Seo": {
+    "home": {
+      "title": "Noleggio auto a Sifnos",
+      "description": "Noleggio auto a Sifnos da un'attività familiare di Apollonia, attiva dal 1988. Ritiro gratuito al porto di Kamares, tariffe stagionali oneste e senza anticipo."
+    },
+    "cars": {
+      "title": "Auto a noleggio a Sifnos",
+      "description": "Utilitarie, automatiche e auto familiari adatte alle strade di Sifnos, con manutenzione locale. Consegna gratuita a Kamares e Apollonia, senza deposito."
+    },
+    "scooters": {
+      "title": "Noleggio scooter a Sifnos",
+      "description": "Scooter SYM per spostamenti brevi sull'isola, ritiro presso il nostro ufficio di Apollonia con caschi e responsabilità civile inclusi. Chiedi disponibilità."
+    },
+    "rates": {
+      "title": "Prezzi noleggio auto a Sifnos",
+      "description": "Tariffe giornaliere pubblicate per stagione per il noleggio auto a Sifnos, con il periodo in corso evidenziato. Nessun costo nascosto e nessun anticipo."
+    },
+    "book": {
+      "title": "Prenota un'auto a Sifnos",
+      "description": "Inviaci date e veicolo preferito e rispondiamo con la disponibilità reale. Nessun anticipo, nessun dato della carta e ritiro gratuito al porto di Kamares."
+    },
+    "guide": {
+      "title": "Guida di Sifnos: spiagge, traghetti, borghi",
+      "description": "Tutto per organizzare Sifnos: traghetti dal Pireo, le spiagge migliori, dove alloggiare, cosa fare e come spostarsi sull'isola. Risposte chiare, subito."
+    },
+    "blog": {
+      "title": "Consigli di viaggio e noleggio a Sifnos",
+      "description": "Articoli pratici su come guidare a Sifnos, tariffe stagionali, spiagge che valgono il viaggio, patente per scooter e arrivo al porto di Kamares con l'auto."
+    },
+    "faq": {
+      "title": "Domande sul noleggio auto a Sifnos",
+      "description": "Risposte dirette su età minima, patente, assicurazione, cauzione, punti di ritiro e cosa succede se il traghetto è in ritardo. Gestione familiare dal 1988."
+    },
+    "about": {
+      "title": "Chi è Artemis Rental, Sifnos dal 1988",
+      "description": "Un'attività familiare di noleggio auto e scooter ad Apollonia, Sifnos, nella stessa famiglia dal 1988. Veicoli curati, prezzi onesti e assistenza locale."
+    },
+    "reviews": {
+      "title": "Recensioni di Artemis Rental, Sifnos",
+      "description": "Recensioni Google autentiche su Artemis Rental a Sifnos, riportate esattamente come le hanno scritte i viaggiatori. Valutazione 5,0 su 11 recensioni pubblicate."
+    },
+    "terms": {
+      "title": "Condizioni di noleggio, Sifnos",
+      "description": "Età minima, patente richiesta, responsabilità civile, politica carburante, punti di ritiro e riconsegna e cancellazioni per il noleggio auto e scooter."
+    },
+    "privacy": {
+      "title": "Informativa privacy, Artemis Sifnos",
+      "description": "Come Artemis Rental raccoglie, utilizza e conserva i dati personali quando navighi sul sito, invii una richiesta o noleggi un'auto o uno scooter a Sifnos."
+    },
+    "cookies": {
+      "title": "Informativa cookie, Artemis Sifnos",
+      "description": "Quali cookie usa questo sito, perché gli strumenti di statistica si caricano solo dopo il tuo consenso e come modificare o revocare la scelta in ogni momento."
+    },
+    "gdpr": {
+      "title": "GDPR e i tuoi diritti, Sifnos",
+      "description": "I tuoi diritti ai sensi del Regolamento generale sulla protezione dei dati verso Artemis Rental a Sifnos, e come richiedere accesso, rettifica o cancellazione."
+    }
   }
 }

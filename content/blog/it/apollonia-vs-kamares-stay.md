@@ -1,7 +1,7 @@
 ---
 slug: apollonia-vs-kamares-stay
 title: "Soggiornare ad Apollonia o a Kamares?"
-description: "Dove basarsi a Sifnos se pensi di noleggiare auto o scooter con Artemis."
+description: "Dove basarsi a Sifnos se pensi di noleggiare auto o scooter con Artemis. Ritiro gratuito al porto di Kamares e ad Apollonia, senza anticipo."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"

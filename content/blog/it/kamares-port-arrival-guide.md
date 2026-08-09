@@ -1,7 +1,7 @@
 ---
 slug: kamares-port-arrival-guide
-title: "Guida all'arrivo al porto di Kamares: dal traghetto al primo bagno"
-description: "Cosa fare quando il traghetto attracca a Kamares: bagagli, opzioni di pickup e come raggiungere Apollonia con Artemis."
+title: "Guida all'arrivo al porto di Kamares"
+description: "Cosa fare quando il traghetto attracca a Kamares: bagagli, opzioni di pickup e come raggiungere Apollonia con Artemis. Gestione familiare ad Apollonia dal 1988."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"

@@ -9,6 +9,7 @@
     "cars": "Auto’s",
     "scooters": "Scooters",
     "rates": "Prijzen",
+    "reviews": "Beoordelingen",
     "guide": "Sifnos-gids",
     "guideHub": "Eilandgids-overzicht",
     "guideHowToGet": "Hoe kom je hier",
@@ -77,6 +78,10 @@
     "carsLead": "Compacte en automatische auto's voor stellen en gezinnen op Sifnos. Gratis ophalen in Kamares, heliport, Apollonia, Artemonas en Kastro. Geen vooruitbetaling.",
     "scootersTitle": "Scooter huren op Sifnos",
     "scootersLead": "SYM-scooters vanaf het Apollonia-kantoor. Online scooterreservering is tijdelijk niet beschikbaar.",
+    "vehicleTitle": "{name} huren op Sifnos | Artemis Rental",
+    "vehicleDescription": "Huur een {name} op Sifnos bij Artemis Rental. Gratis ophalen in de haven van Kamares en in Apollonia, geen vooruitbetaling.",
+    "scooterTitle": "{name} scooter huren op Sifnos | Artemis Rental",
+    "scooterDescription": "Huur een {name} scooter op Sifnos bij Artemis Rental. Ophalen bij het kantoor in Apollonia, helmen inbegrepen, familiebedrijf sinds 1988.",
     "fromDay": "Vanaf €{price}/dag",
     "todayFrom": "€{price}/dag dit seizoen",
     "contactForPrice": "Vraag dagprijs",
@@ -125,7 +130,7 @@
     "vehicle": "Voertuig",
     "carsHeading": "Auto’s",
     "scootersHeading": "Scooters",
-    "scootersNote": "Scooterprijzen gelden mid/peak (11 jun – 10 sep). Scooterreservering is tijdelijk niet beschikbaar.",
+    "scootersNote": "Scooterprijzen gelden in het midden- en hoogseizoen (11 jun – 10 sep). Scooterreservering is tijdelijk niet beschikbaar.",
     "note": "Er is geen vooruitbetaling nodig om te reserveren. Wij bevestigen via telefoon, WhatsApp of e-mail.",
     "cta": "Beschikbaarheid controleren",
     "now": "Nu"
@@ -209,7 +214,7 @@
     "estimatedTotal": "Geschat totaal ~€{total}",
     "estimateLabel": "Geschat totaal",
     "estimateDisclaimer": "Alleen indicatieve prijs. Wij bevestigen het uiteindelijke tarief en beschikbaarheid via telefoon, WhatsApp of e-mail.",
-    "whatsappAckHint": "Als je WhatsApp gebruikt, sturen we ook een korte bevestiging van Artemis. Geen WhatsApp is oké — we antwoorden via e-mail of telefoon."
+    "whatsappAckHint": "Als je WhatsApp gebruikt, sturen we ook een korte bevestiging van Artemis. Geen WhatsApp is ook prima: we antwoorden via e-mail of telefoon."
   },
   "Guide": {
     "title": "Sifnos-gids",
@@ -443,5 +448,92 @@
     "scootersFaq2A": "Wanneer reserveringen weer openen, alleen bij het Apollonia-kantoor.",
     "scootersFaq3Q": "Beter een auto of scooter op Sifnos?",
     "scootersFaq3A": "Gezinnen en bagage vragen meestal een auto. Scooters helpen voor korte ritten wanneer beschikbaar."
+  },
+  "Reviews": {
+    "title": "Wat onze klanten zeggen",
+    "lead": "Elke beoordeling hieronder is een echte Google-beoordeling van Artemis Rental, precies weergegeven zoals ze is geschreven. Wij bewerken ze niet en wij schrijven ze niet.",
+    "eyebrow": "Google-beoordelingen",
+    "homeTitle": "Beoordeeld met {rating} op Google",
+    "basedOn": "{count} Google-beoordelingen",
+    "starsLabel": "{rating} van de 5 sterren",
+    "viewOnGoogle": "Lees ze op Google",
+    "writeReview": "Schrijf een beoordeling",
+    "verified": "Geverifieerde Google-beoordeling",
+    "localGuide": "Local Guide",
+    "ratingOnly": "Beoordeeld zonder geschreven toelichting.",
+    "readMore": "Lees meer",
+    "readLess": "Lees minder",
+    "translatedBy": "Door Google vertaald uit het {lang}",
+    "sortLabel": "Sorteren",
+    "sortNewest": "Nieuwste",
+    "sortOldest": "Oudste",
+    "filterLanguage": "Taal",
+    "allLanguages": "Alle",
+    "showingOf": "{shown} van {total} getoond",
+    "loadMore": "Meer beoordelingen tonen",
+    "seeAll": "Bekijk alle {count} beoordelingen",
+    "vehicleTitle": "Wat huurders zeggen",
+    "lang": {
+      "el": "Grieks",
+      "en": "Engels"
+    }
+  },
+  "Seo": {
+    "home": {
+      "title": "Auto huren op Sifnos",
+      "description": "Auto huren op Sifnos bij een familiebedrijf in Apollonia, actief sinds 1988. Gratis ophalen in de haven van Kamares en geen vooruitbetaling om te reserveren."
+    },
+    "cars": {
+      "title": "Autoverhuur op Sifnos",
+      "description": "Compacte, automatische en gezinsauto's die passen bij de wegen van Sifnos, lokaal onderhouden. Gratis bezorging in Kamares en Apollonia, zonder borg vooraf."
+    },
+    "scooters": {
+      "title": "Scooter huren op Sifnos",
+      "description": "SYM scooters voor korte ritten over het eiland, op te halen bij ons kantoor in Apollonia met helmen en WA-verzekering inbegrepen. Vraag de beschikbaarheid."
+    },
+    "rates": {
+      "title": "Prijzen autoverhuur Sifnos",
+      "description": "Gepubliceerde dagtarieven per seizoen voor autoverhuur op Sifnos, met het huidige seizoen uitgelicht. Geen verborgen kosten en geen vooruitbetaling nodig."
+    },
+    "book": {
+      "title": "Auto reserveren op Sifnos",
+      "description": "Stuur uw data en gewenste voertuig, wij antwoorden met echte beschikbaarheid. Geen vooruitbetaling, geen kaartgegevens en gratis ophalen in de haven Kamares."
+    },
+    "guide": {
+      "title": "Sifnos reisgids: stranden, veerboten, dorpen",
+      "description": "Alles om Sifnos te plannen: veerboten vanuit Piraeus, de mooiste stranden, waar u verblijft, wat u doet en hoe u zich verplaatst. Eerst heldere antwoorden."
+    },
+    "blog": {
+      "title": "Reistips en huuradvies voor Sifnos",
+      "description": "Praktische artikelen over rijden op Sifnos, seizoensprijzen, stranden die de rit waard zijn, rijbewijsregels voor scooters en aankomst in de haven van Kamares."
+    },
+    "faq": {
+      "title": "Vragen over autoverhuur op Sifnos",
+      "description": "Directe antwoorden over leeftijd, rijbewijs, verzekering, borg, ophaalpunten en wat er gebeurt als uw veerboot vertraging heeft. Familiebedrijf sinds 1988."
+    },
+    "about": {
+      "title": "Over Artemis Rental, Sifnos sinds 1988",
+      "description": "Een familiebedrijf voor auto- en scooterverhuur in Apollonia op Sifnos, al sinds 1988 in dezelfde familie. Onderhouden voertuigen en hulp ter plaatse."
+    },
+    "reviews": {
+      "title": "Beoordelingen van Artemis Rental, Sifnos",
+      "description": "Echte Google-beoordelingen van Artemis Rental op Sifnos, precies weergegeven zoals reizigers ze schreven. Beoordeeld met 5,0 op basis van 11 beoordelingen."
+    },
+    "terms": {
+      "title": "Huurvoorwaarden, Artemis Sifnos",
+      "description": "Minimumleeftijd, vereist rijbewijs, WA-verzekering, brandstofbeleid, ophaal- en inleverpunten en annulering voor auto- en scooterhuur bij Artemis Rental."
+    },
+    "privacy": {
+      "title": "Privacybeleid, Artemis Rental Sifnos",
+      "description": "Hoe Artemis Rental persoonsgegevens verzamelt, gebruikt en bewaart wanneer u deze site bezoekt, een aanvraag stuurt of een auto of scooter huurt op Sifnos."
+    },
+    "cookies": {
+      "title": "Cookiebeleid, Artemis Rental Sifnos",
+      "description": "Welke cookies deze site gebruikt, waarom analysetools pas laden na uw toestemming en hoe u uw keuze op elk moment kunt wijzigen of weer kunt intrekken."
+    },
+    "gdpr": {
+      "title": "AVG en uw rechten, Artemis Sifnos",
+      "description": "Uw rechten onder de Algemene verordening gegevensbescherming tegenover Artemis Rental op Sifnos, en hoe u inzage, correctie of verwijdering aanvraagt."
+    }
   }
 }

@@ -1,7 +1,7 @@
 ---
 slug: driving-in-sifnos
 title: "Fahren auf Sifnos: Straßen, Parken und lokale Tipps"
-description: "Was Sie beim Fahren auf Sifnos erwarten: enge Gassen, Steigungen, Parken an Stränden und Artemis-Abholung in Apollonia."
+description: "Was Sie beim Fahren auf Sifnos erwarten: enge Gassen, Steigungen, Parken an Stränden und Artemis-Abholung in Apollonia. Familienbetrieb in Apollonia seit 1988."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
 cover: "/images/blog/driving-in-sifnos-cover.jpg"
@@ -24,7 +24,7 @@ Am ersten Abend nach der Fährankunft halten Sie das Fahren minimal. Straßenbel
 
 ## Parken an Stränden und in Dörfern
 
-Im August-Höhepunkt belohnen Platis Gialos, Vathi und Chrissopigi frühe Ankunft. Ziel: vor 10 Uhr in heißen Wochen, oder akzeptieren Sie einen kurzen Fußweg vom Overflow. Faros und Herronisos haben kleinere Plätze, die an Wochenendabenden schnell voll werden, wenn Locals zu Fishtavernen kommen.
+Im Hochsaison im August belohnen Platis Gialos, Vathi und Chrissopigi frühe Ankunft. Ziel: vor 10 Uhr in heißen Wochen, oder akzeptieren Sie einen kurzen Fußweg vom Overflow. Faros und Herronisos haben kleinere Plätze, die an Wochenendabenden schnell voll werden, wenn Locals zu Fishtavernen kommen.
 
 Parken in Apollonia nahe dem Artemis-Büro ist praktisch für Übernachtungen in der Hauptstadt. Sie können das Auto morgens abholen und Schlüssel dort am Ende der Miete zurückgeben. Kamares hat Plätze am Hafen, die gut funktionieren, wenn Ihr Hotel fußläufig zur Fähre liegt.
 
@@ -34,18 +34,18 @@ Parken in Apollonia nahe dem Artemis-Büro ist praktisch für Übernachtungen in
 
 Tankstellen sind begrenzt: tanken Sie vor einem langen Südküstentag nach, wenn die Anzeige unter halb ist. Artemis erklärt Rückgabeerwartungen bei der Abholung: gleicher Füllstand, keine Hetze am letzten Morgen, wenn Ihre Fähre am Nachmittag geht. **Keine Vorauszahlung** ist für die Anfrage nötig; Abholung standardmäßig in **Apollonia**, mit **Kamares auf Anfrage** für Fährankünfte.
 
-Wenn Sie statt eines Autos einen Scooter mieten, lesen Sie zuerst unsere [Führerscheinregeln](/de/blog/scooter-licence-rules-sifnos). Hügel mit Beifahrer auf einem 125cc sind machbar, aber langsamer, als sie auf der Karte aussehen.
+Wenn Sie statt eines Autos einen Roller mieten, lesen Sie zuerst unsere [Führerscheinregeln](/de/blog/scooter-licence-rules-sifnos). Hügel mit Beifahrer auf einem 125cc sind machbar, aber langsamer, als sie auf der Karte aussehen.
 
 ## Wer sollte was fahren
 
 | Situation | Vorschlag |
 |-----------|------------|
 | Familie mit Gepäck | Kompaktwagen, Automatik wenn Sie Berg-Abwürgen vermeiden wollen |
-| Paar, Zwischensaison | 125–150cc Scooter |
+| Paar, Zwischensaison | 125–150cc Roller |
 | Nur Automatik | Peugeot 208 Auto oder Micra Auto früh für Juli–August buchen |
 | Wanderer zwischen Trails und Tavernen | Auto zu Trailheads, vernünftig neben dem Asphaltrand parken |
 
-Artemis vermietet Autos und Scooter auf Sifnos seit **1988**, daher passt die Flotte zu realen Inselbedingungen statt zu Broschürenfantasien.
+Artemis vermietet Autos und Roller auf Sifnos seit **1988**, daher passt die Flotte zu realen Inselbedingungen statt zu Broschürenfantasien.
 
 ## Bevor Sie den Schlüssel drehen
 
@@ -53,4 +53,4 @@ Nehmen Sie Führerschein und Pass mit, stellen Sie Spiegel ein, bevor Sie Apollo
 
 Fragen zu einer bestimmten Route oder Fahrzeuggröße? [Bei Artemis buchen](/de/book) und beschreiben Sie Hotelbasis und Fährzeiten. Ein schneller WhatsApp-Austausch schlägt Raten, ob eine Panda oder ein Ignis besser zu Ihrer Woche passt.
 
-Need a car for these roads? [Rent a car in Sifnos](/de/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/de/rates).
+Brauchen Sie ein Auto für diese Straßen? [Mietwagen auf Sifnos](/de/sifnos-guide/rent-a-car-sifnos) oder [Saisonpreise ansehen](/de/rates).

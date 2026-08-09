@@ -1,7 +1,7 @@
 ---
 slug: 3-day-sifnos-itinerary
 title: "3-dagars Sifnos-itinerary med hyrbil"
-description: "En praktisk 3-dagarsplan för Sifnos med bil eller scooter från Apollonia."
+description: "En praktisk 3-dagarsplan för Sifnos med bil eller scooter från Apollonia. Kostnadsfri upphämtning i Kamares hamn och i Apollonia, utan förskott."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"

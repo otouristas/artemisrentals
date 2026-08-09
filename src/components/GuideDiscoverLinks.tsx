@@ -41,7 +41,7 @@ export async function GuideDiscoverLinks({
       <p className="mt-4 max-w-xl text-sm text-aegean/70">{guide("discoverLead")}</p>
       <ul className="mt-5 flex flex-wrap gap-2">
         {links.map((link) => (
-          <li key={link.href}>
+          <li key={link.labelKey}>
             <a
               href={link.href}
               target="_blank"

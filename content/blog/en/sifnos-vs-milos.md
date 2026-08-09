@@ -1,7 +1,7 @@
 ---
 slug: sifnos-vs-milos
 title: "Sifnos vs Milos: which island fits your trip?"
-description: "Compare Sifnos and Milos for a Cyclades holiday, pace, beaches, driving, and when Artemis rental on Sifnos is the better base."
+description: "Compare Sifnos and Milos for a Cyclades holiday, pace, beaches, driving, and when Artemis rental on Sifnos is the better base. From Artemis Rental."
 datePublished: "2026-07-08"
 dateModified: "2026-07-16"
 cover: "/images/blog/sifnos-vs-milos-cover.jpg"

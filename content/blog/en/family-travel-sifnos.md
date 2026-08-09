@@ -1,7 +1,7 @@
 ---
 slug: family-travel-sifnos
 title: "Family travel on Sifnos: why a car helps"
-description: "Practical advice for families renting a car on Sifnos with Artemis, seats, beaches, and nap logistics."
+description: "Practical advice for families renting a car on Sifnos with Artemis, seats, beaches, and nap logistics. Free pickup at Kamares port, no prepayment."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/family-travel-sifnos-cover.jpg"

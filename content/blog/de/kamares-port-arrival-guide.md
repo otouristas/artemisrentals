@@ -1,7 +1,7 @@
 ---
 slug: kamares-port-arrival-guide
 title: "Ankunftsguide Hafen Kamares: von der Fähre zum ersten Bad"
-description: "Was zu tun ist, wenn Ihre Fähre in Kamares anlegt: Gepäck, Pickup-Optionen und nach Apollonia mit Artemis-Miete."
+description: "Was zu tun ist, wenn Ihre Fähre in Kamares anlegt: Gepäck, Pickup-Optionen und nach Apollonia mit Artemis-Miete. Familienbetrieb in Apollonia seit 1988."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"

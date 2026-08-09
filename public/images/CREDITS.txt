@@ -1,6 +1,6 @@
 Image credits for Artemis Rental (artemisrental.gr)
 
-Blog covers (public/images/blog/) — regenerated from on-site Sifnos photography
+Blog covers (public/images/blog/): regenerated from on-site Sifnos photography
 and Artemis brand/fleet assets (not generic Unsplash travel stock):
 
 - 3-day-sifnos-itinerary.jpg ← sifnos/villages/apollonia
@@ -16,7 +16,7 @@ and Artemis brand/fleet assets (not generic Unsplash travel stock):
 - sifnos-hiking-trails-by-car-cover.jpg ← sifnos/beaches/fykiada
 - sifnos-vs-milos.jpg ← sifnos/beaches/chrysopigi
 
-Guide covers (public/images/guide/) — same Sifnos / brand sources:
+Guide covers (public/images/guide/): same Sifnos / brand sources:
 
 - apollonia-artemonas.jpg ← sifnos/villages/apollonia
 - beaches.jpg ← sifnos/beaches/plats-gialos

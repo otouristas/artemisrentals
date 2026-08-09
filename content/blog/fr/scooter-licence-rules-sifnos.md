@@ -1,7 +1,7 @@
 ---
 slug: scooter-licence-rules-sifnos
 title: "Permis et règles pour louer un scooter à Sifnos"
-description: "Permis, âge et règles pratiques pour la location de scooter avec Artemis à Sifnos."
+description: "Permis, âge et règles pratiques pour la location de scooter avec Artemis à Sifnos. Retrait gratuit au port de Kamares et à Apollonia, et sans acompte."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"

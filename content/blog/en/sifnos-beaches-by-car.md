@@ -1,7 +1,7 @@
 ---
 slug: sifnos-beaches-by-car
 title: "Best Sifnos beaches to reach by car"
-description: "A driver's guide to Sifnos beaches, Platis Gialos, Vathi, Chrissopigi, and quieter coves with parking tips from Artemis."
+description: "A driver's guide to Sifnos beaches, Platis Gialos, Vathi, Chrissopigi, and quieter coves with parking tips from Artemis. Family run in Apollonia since 1988."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"

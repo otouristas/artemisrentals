@@ -1,7 +1,7 @@
 ---
 slug: apollonia-artemonas
 title: "Apollonia & Artemonas: the island centre"
-description: "Guide to Apollonia and Artemonas on Sifnos, where to stroll, park, eat, and why Artemis Rental’s Apollonia base makes beach days easier."
+description: "Guide to Apollonia and Artemonas on Sifnos, where to stroll, park, eat, and why Artemis Rental’s Apollonia base makes beach days easier. From Artemis Rental."
 answer: "Apollonia is Sifnos’ lively capital for evenings and services; Artemonas is the elegant neighbour with neoclassical mansions. Artemis Rental is based in Apollonia, so you start and end beach loops from the island’s centre."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"

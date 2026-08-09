@@ -1,7 +1,7 @@
 ---
 slug: sifnos-hiking-trails-by-car
 title: "Sifnos-wandelpaden die je met de auto bereikt"
-description: "Trailheads en dagwandelingen op Sifnos: parkeer met je Artemis-huur, wandel oude paden, terug naar Apollonia voor diner."
+description: "Trailheads en dagwandelingen op Sifnos: parkeer met je Artemis-huur, wandel oude paden, terug naar Apollonia voor diner. Familiebedrijf in Apollonia sinds 1988."
 datePublished: "2026-07-10"
 dateModified: "2026-07-18"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"

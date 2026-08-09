@@ -22,12 +22,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Rates" });
+  const seo = await getTranslations({ locale, namespace: "Seo" });
   return buildMetadata({
     locale: locale as Locale,
-    title: `${t("title")} | Artemis Rental`,
-    description: t("lead"),
+    title: seo("rates.title"),
+    description: seo("rates.description"),
     path: "/rates",
+    brand: "always",
   });
 }
 

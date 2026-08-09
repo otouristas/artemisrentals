@@ -34,7 +34,7 @@ export async function generateMetadata({
   if (!article) return {};
   return buildMetadata({
     locale: locale as Locale,
-    title: `${article.title} | Artemis Rental`,
+    title: article.title,
     description: article.description,
     path: `/sifnos-guide/${slug}`,
     type: "article",
@@ -62,36 +62,22 @@ export default async function GuideArticlePage({
 
   return (
     <article className="container-site page-hero pb-20">
+      {/* No FAQPage markup: since 2023 Google only surfaces FAQ rich results for
+          government and health sites, so it carried no upside here, and the previous
+          version repeated one answer across every question. The Q&A below is real
+          on-page content instead, which is what actually earns the long-tail rankings. */}
       <JsonLd
-        data={[
-          {
-            "@context": "https://schema.org",
-            "@type": "Article",
-            headline: article.title,
-            description: article.description,
-            dateModified: article.dateModified,
-            image: article.cover ? `${SITE_URL}${article.cover}` : undefined,
-            inLanguage: bcp47(loc),
-            mainEntityOfPage: absoluteUrl(loc, `/sifnos-guide/${slug}`),
-            author: { "@type": "Organization", name: article.author ?? "Artemis Rental" },
-          },
-          ...(related.length
-            ? [
-                {
-                  "@context": "https://schema.org",
-                  "@type": "FAQPage",
-                  mainEntity: related.map((q) => ({
-                    "@type": "Question",
-                    name: q,
-                    acceptedAnswer: {
-                      "@type": "Answer",
-                      text: article.answer ?? article.description,
-                    },
-                  })),
-                },
-              ]
-            : []),
-        ]}
+        data={{
+          "@context": "https://schema.org",
+          "@type": "Article",
+          headline: article.title,
+          description: article.description,
+          dateModified: article.dateModified,
+          image: article.cover ? `${SITE_URL}${article.cover}` : undefined,
+          inLanguage: bcp47(loc),
+          mainEntityOfPage: absoluteUrl(loc, `/sifnos-guide/${slug}`),
+          author: { "@type": "Organization", name: article.author ?? "Artemis Rental" },
+        }}
       />
       <Breadcrumbs
         locale={loc}
@@ -143,13 +129,14 @@ export default async function GuideArticlePage({
       {related.length > 0 && (
         <section className="mt-12 border-t border-aegean/15 pt-8">
           <h2 className="font-display text-2xl text-aegean">{t("related")}</h2>
-          <ul className="mt-4 space-y-2">
-            {related.map((q) => (
-              <li key={q} className="text-aegean/80">
-                • {q}
-              </li>
+          <dl className="mt-6 max-w-2xl space-y-6">
+            {related.map((item) => (
+              <div key={item.q}>
+                <dt className="font-semibold text-aegean">{item.q}</dt>
+                <dd className="mt-2 leading-relaxed text-aegean/75">{item.a}</dd>
+              </div>
             ))}
-          </ul>
+          </dl>
         </section>
       )}
 

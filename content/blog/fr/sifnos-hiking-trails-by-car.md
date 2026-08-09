@@ -1,7 +1,7 @@
 ---
 slug: sifnos-hiking-trails-by-car
 title: "Sentiers de randonnée à Sifnos accessibles en voiture"
-description: "Départs de sentiers et balades à la journée à Sifnos: garez-vous avec Artemis, marchez sur les chemins anciens, rentrez dîner à Apollonia."
+description: "Départs de sentiers et balades à la journée à Sifnos: garez-vous avec Artemis, marchez sur les chemins anciens, rentrez dîner à Apollonia. Par Artemis Rental."
 datePublished: "2026-07-10"
 dateModified: "2026-07-18"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"

@@ -1,6 +1,6 @@
 ---
 slug: rent-a-car-sifnos-2026
-title: "Louer une voiture à Sifnos 2026: prix, conseils et prise en charge"
+title: "Louer une voiture à Sifnos 2026: prix"
 description: "Ce qu'il faut savoir avant de louer une voiture à Sifnos en 2026: prix saisonniers, prise en charge à Apollonia et demande auprès d'Artemis."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
@@ -48,4 +48,4 @@ Demandez les sièges enfants lors de la demande si vous voyagez avec des tout-pe
 
 Pour plus de contexte prix, voir [prix location voiture à Sifnos](/fr/blog/sifnos-car-rental-prices). Prêt à confirmer? [Réservez avec Artemis](/fr/book), aucun acompte, réponse personnelle sur WhatsApp ou email.
 
-Full evergreen guide: [Rent a car in Sifnos](/fr/sifnos-guide/rent-a-car-sifnos). See live [fleet](/fr/cars) and [rates](/fr/rates).
+Guide complet : [Louer une voiture à Sifnos](/fr/sifnos-guide/rent-a-car-sifnos). Voir la [flotte](/fr/cars) et les [tarifs](/fr/rates) actuels.

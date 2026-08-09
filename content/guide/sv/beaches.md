@@ -1,7 +1,7 @@
 ---
 slug: beaches
 title: "Sifnos-stränder som är värda körningen"
-description: "Komplett Sifnos-strandguide för bil- och scooterförare: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia och Fykiada med access, vind, parkering och faciliteter."
+description: "Komplett Sifnos-strandguide för bil- och scooterförare: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia och Fykiada med access, vind."
 answer: "Med en Artemis-bil eller scooter, prioritera Platis Gialos för faciliteter, Vathi för en skyddad vik, Chrysopigi för klosterkortet och Herronisos eller Vroulidia när du vill bada lugnare i norr. Kom tidigt i juli–augusti för parkering."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
@@ -40,7 +40,7 @@ En av de största och mest populära sandstränderna på Sifnos, särskilt älsk
 - Enkel bas för södra kustkörningar
 - Promenader nära Vita tornet (antik signal)
 
-**Access & parkering:** asfalterad väg från Apollonia; buss under säsong. Parkering nära sanden fylls sen förmiddag under peakveckor: använd sidogator och gå några minuter.
+**Access & parkering:** asfalterad väg från Apollonia; buss under säsong. Parkering nära sanden fylls sen förmiddag under högsäsongsveckor: använd sidogator och gå några minuter.
 
 **Vind:** måttlig, bättre skyddad från hårda nordvindar än öppna nordvikar.
 
@@ -60,7 +60,7 @@ Färjehamnen och största kustbyn. Bred sandvik, många tjänster och det prakti
 - Livsmedel, bagerier, keramikverkstäder
 - Strand + logistik på ett ställe
 
-**Access & parkering:** rak väg från Apollonia. Hamntrafik peakar när färjor lägger till: lämna extra minuter.
+**Access & parkering:** rak väg från Apollonia. Hamntrafik kulminerar när färjor lägger till: lämna extra minuter.
 
 **Vind:** bra, skyddad vik för de flesta förhållanden.
 
@@ -191,6 +191,6 @@ Helt outvecklad sand, nåbar **bara till fots eller med båt**. Nära kapellet A
 
 ## Artemis-tips
 
-Håll värdesaker utom synhåll, fyll bränsle före långa nordturer i peak och skriv till oss om du vill ha **Kamares-upphämtning** morgonen din färja lägger till. Bläddra [bilar](/sv/cars) och [scootrar](/sv/scooters), eller [begär datum](/sv/book).
+Håll värdesaker utom synhåll, fyll bränsle före långa nordturer under högsäsong och skriv till oss om du vill ha **Kamares-upphämtning** morgonen din färja lägger till. Bläddra [bilar](/sv/cars) och [scootrar](/sv/scooters), eller [begär datum](/sv/book).
 
 För live-ösidor och tidtabeller, se även [Sifnos på Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) och [saker att göra](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

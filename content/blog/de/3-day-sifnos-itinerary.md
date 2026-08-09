@@ -1,7 +1,7 @@
 ---
 slug: 3-day-sifnos-itinerary
 title: "3-Tage-Sifnos-Reiseplan mit Mietwagen"
-description: "Ein praktischer 3-Tage-Plan für Sifnos mit Auto oder Scooter ab Apollonia."
+description: "Ein praktischer 3-Tage-Plan für Sifnos mit Auto oder Roller ab Apollonia. Kostenlose Abholung im Hafen Kamares und in Apollonia, ohne Vorauszahlung."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"

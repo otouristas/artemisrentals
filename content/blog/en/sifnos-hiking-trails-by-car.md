@@ -1,7 +1,7 @@
 ---
 slug: sifnos-hiking-trails-by-car
 title: "Sifnos hiking trails you can reach by car"
-description: "Trailheads and day walks on Sifnos, park with your Artemis rental, hike ancient paths, return to Apollonia for dinner."
+description: "Trailheads and day walks on Sifnos, park with your Artemis rental, hike ancient paths, return to Apollonia for dinner. Family run in Apollonia since 1988."
 datePublished: "2026-07-10"
 dateModified: "2026-07-18"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"

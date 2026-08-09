@@ -10,11 +10,11 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Privacy" });
+  const seo = await getTranslations({ locale, namespace: "Seo" });
   return buildMetadata({
     locale: locale as Locale,
-    title: `${t("title")} | Artemis Rental`,
-    description: t("lead"),
+    title: seo("privacy.title"),
+    description: seo("privacy.description"),
     path: "/privacy",
   });
 }

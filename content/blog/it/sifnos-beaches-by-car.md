@@ -1,7 +1,7 @@
 ---
 slug: sifnos-beaches-by-car
 title: "Le migliori spiagge di Sifnos raggiungibili in auto"
-description: "Guida del guidatore alle spiagge di Sifnos: Platis Gialos, Vathi, Chrissopigi e calette più quiete, con consigli di parcheggio da Artemis."
+description: "Guida del guidatore alle spiagge di Sifnos: Platis Gialos, Vathi, Chrissopigi e calette più quiete, con consigli di parcheggio da Artemis. Di Artemis Rental."
 datePublished: "2026-07-05"
 dateModified: "2026-07-15"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"

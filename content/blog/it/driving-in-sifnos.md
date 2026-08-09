@@ -1,7 +1,7 @@
 ---
 slug: driving-in-sifnos
 title: "Guidare a Sifnos: strade, parcheggi e consigli locali"
-description: "Cosa aspettarsi alla guida a Sifnos: corsie strette, salite, parcheggio alle spiagge e pickup Artemis ad Apollonia."
+description: "Cosa aspettarsi alla guida a Sifnos: corsie strette, salite, parcheggio alle spiagge e pickup Artemis ad Apollonia. Gestione familiare ad Apollonia dal 1988."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
 cover: "/images/blog/driving-in-sifnos-cover.jpg"
@@ -53,4 +53,4 @@ Porta patente e passaporto, regola gli specchietti prima di uscire dal senso uni
 
 Domande su un percorso specifico o sulla taglia del veicolo? [Prenota con Artemis](/it/book) e descrivi base hotel e orari del traghetto. Uno scambio rapido su WhatsApp batte indovinare se una Panda o un Ignis si adatta meglio alla tua settimana.
 
-Need a car for these roads? [Rent a car in Sifnos](/it/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/it/rates).
+Ti serve un'auto per queste strade? [Noleggia un'auto a Sifnos](/it/sifnos-guide/rent-a-car-sifnos) oppure [guarda le tariffe stagionali](/it/rates).

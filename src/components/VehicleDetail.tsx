@@ -15,6 +15,8 @@ import {
   type Vehicle,
 } from "@/lib/fleet";
 import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
+import { ReviewCard } from "@/components/ReviewCard";
+import { getReviewForVehicle } from "@/lib/reviews";
 import { absoluteUrl } from "@/lib/seo";
 import { business, SITE_URL } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
@@ -28,6 +30,10 @@ export async function VehicleDetail({
 }) {
   const t = await getTranslations("Fleet");
   const terms = await getTranslations("Terms");
+  const reviewsT = await getTranslations("Reviews");
+  // Prefers a review naming this model, otherwise a general one. Never fabricates
+  // per-model coverage: only the Suzuki Ignis is named in a real review.
+  const review = getReviewForVehicle(vehicle.slug);
   const lowest = getLowestRate(vehicle.rateKey);
   const { price: todayRate } = getCurrentSeasonRate(vehicle.rateKey);
   const offerPrice = todayRate ?? lowest;
@@ -69,7 +75,7 @@ export async function VehicleDetail({
             name: `${vehicle.name} rental Sifnos`,
             description: seoDescription || description || undefined,
             image: `${SITE_URL}${vehicle.image}`,
-            brand: "Artemis Rental",
+            brand: { "@type": "Brand", name: "Artemis Rental" },
             url: absoluteUrl(locale, path),
             offers: offerPrice
               ? {
@@ -80,6 +86,16 @@ export async function VehicleDetail({
                     ? "https://schema.org/OutOfStock"
                     : "https://schema.org/InStock",
                   priceValidUntil: `${new Date().getFullYear()}-12-31`,
+                  url: absoluteUrl(locale, path),
+                  // Ties the offer back to the AutoRental node in the layout graph,
+                  // so the vehicle inherits the business trust signals.
+                  seller: { "@id": `${SITE_URL}/#business` },
+                  areaServed: { "@type": "Place", name: "Sifnos, Cyclades, Greece" },
+                  availableAtOrFrom: {
+                    "@type": "Place",
+                    name: `Artemis Rental, ${business.address.streetAddress}`,
+                    address: { "@type": "PostalAddress", ...business.address },
+                  },
                 }
               : undefined,
           }}
@@ -188,6 +204,17 @@ export async function VehicleDetail({
             </section>
           </div>
         </div>
+
+        {review ? (
+          <section className="mt-16 border-t border-aegean/10 pt-10">
+            <h2 className="text-xs font-semibold uppercase tracking-[0.16em] text-aegean/45">
+              {reviewsT("vehicleTitle")}
+            </h2>
+            <div className="mt-5 max-w-xl">
+              <ReviewCard review={review} locale={locale} expandable={false} />
+            </div>
+          </section>
+        ) : null}
 
         {related.length > 0 && (
           <section className="mt-20 border-t border-aegean/10 pt-14">

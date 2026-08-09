@@ -5,39 +5,102 @@
       "guideSlug": "rent-a-car-sifnos",
       "queries": {
         "en": [
-          "Where can I rent a car in Sifnos?",
-          "Is Kamares port car pickup available?",
-          "Do I need to prepay a Sifnos car rental?"
+          {
+            "q": "Where can I rent a car in Sifnos?",
+            "a": "Artemis Rental has been renting cars from its Apollonia office since 1988. You can collect the car there, or have it waiting for you free of charge at Kamares port, the heliport, Artemonas or Kastro."
+          },
+          {
+            "q": "Is Kamares port car pickup available?",
+            "a": "Yes, and it costs nothing extra. We meet the ferry at Kamares and hand over the car at the port, so you can drive straight to your accommodation instead of waiting for a taxi."
+          },
+          {
+            "q": "Do I need to prepay a Sifnos car rental?",
+            "a": "No. Reserving with Artemis Rental takes no deposit and no card details, you pay when you collect the car. Third-party liability insurance, maintenance and local help are already in the daily rate."
+          }
         ],
         "el": [
-          "Πού κάνω ενοικίαση αυτοκινήτου στη Σίφνο;",
-          "Υπάρχει παραλαβή αυτοκινήτου στις Καμάρες;",
-          "Χρειάζεται προπληρωμή για ενοικίαση στη Σίφνο;"
+          {
+            "q": "Πού μπορώ να νοικιάσω αυτοκίνητο στη Σίφνο;",
+            "a": "Η Artemis Rental νοικιάζει αυτοκίνητα από το γραφείο της στην Απολλωνία από το 1988. Μπορείτε να παραλάβετε εκεί ή να σας περιμένει το αυτοκίνητο δωρεάν στο λιμάνι των Καμαρών, στο ελικοδρόμιο, στον Αρτεμώνα ή στο Κάστρο."
+          },
+          {
+            "q": "Γίνεται παραλαβή αυτοκινήτου στο λιμάνι των Καμαρών;",
+            "a": "Ναι, χωρίς επιπλέον χρέωση. Σας περιμένουμε στο πλοίο στις Καμάρες και παραδίδουμε το αυτοκίνητο στο λιμάνι, ώστε να ξεκινήσετε αμέσως αντί να περιμένετε ταξί."
+          },
+          {
+            "q": "Χρειάζεται προπληρωμή για ενοικίαση αυτοκινήτου στη Σίφνο;",
+            "a": "Όχι. Η κράτηση στην Artemis Rental δεν απαιτεί προκαταβολή ούτε στοιχεία κάρτας, πληρώνετε κατά την παραλαβή. Η ασφάλεια αστικής ευθύνης, η συντήρηση και η τοπική υποστήριξη περιλαμβάνονται στην ημερήσια τιμή."
+          }
         ],
         "it": [
-          "Dove noleggiare un'auto a Sifnos?",
-          "È disponibile il ritiro auto a Kamares?",
-          "Serve un anticipo per il noleggio auto a Sifnos?"
+          {
+            "q": "Dove posso noleggiare un'auto a Sifnos?",
+            "a": "Artemis Rental noleggia auto dal suo ufficio di Apollonia dal 1988. Puoi ritirare l'auto lì oppure trovarla ad attenderti gratuitamente al porto di Kamares, all'eliporto, ad Artemonas o a Kastro."
+          },
+          {
+            "q": "È possibile il ritiro dell'auto al porto di Kamares?",
+            "a": "Sì, senza costi aggiuntivi. Ti aspettiamo al traghetto a Kamares e ti consegniamo l'auto in porto, così parti subito invece di aspettare un taxi."
+          },
+          {
+            "q": "Serve un anticipo per noleggiare un'auto a Sifnos?",
+            "a": "No. La prenotazione con Artemis Rental non richiede acconto né dati della carta, paghi al ritiro. Responsabilità civile, manutenzione e assistenza locale sono già inclusi nella tariffa giornaliera."
+          }
         ],
         "fr": [
-          "Où louer une voiture à Sifnos ?",
-          "Le retrait voiture au port de Kamares est-il possible ?",
-          "Faut-il un acompte pour louer une voiture à Sifnos ?"
+          {
+            "q": "Où louer une voiture à Sifnos ?",
+            "a": "Artemis Rental loue des voitures depuis son bureau d'Apollonia depuis 1988. Vous pouvez récupérer la voiture sur place ou la trouver gratuitement au port de Kamares, à l'héliport, à Artemonas ou à Kastro."
+          },
+          {
+            "q": "Le retrait de la voiture au port de Kamares est-il possible ?",
+            "a": "Oui, sans supplément. Nous vous attendons au ferry à Kamares et vous remettons la voiture au port, vous partez donc immédiatement au lieu d'attendre un taxi."
+          },
+          {
+            "q": "Faut-il verser un acompte pour louer une voiture à Sifnos ?",
+            "a": "Non. Réserver chez Artemis Rental ne demande ni acompte ni coordonnées bancaires, vous payez au retrait. La responsabilité civile, l'entretien et l'assistance locale sont déjà compris dans le tarif journalier."
+          }
         ],
         "de": [
-          "Wo kann ich auf Sifnos einen Mietwagen nehmen?",
-          "Gibt es Auto-Abholung im Hafen Kamares?",
-          "Muss ich einen Mietwagen auf Sifnos im Voraus bezahlen?"
+          {
+            "q": "Wo kann ich auf Sifnos ein Auto mieten?",
+            "a": "Artemis Rental vermietet seit 1988 Autos vom Büro in Apollonia aus. Sie können dort abholen oder das Auto kostenlos am Hafen Kamares, am Heliport, in Artemonas oder in Kastro übernehmen."
+          },
+          {
+            "q": "Gibt es eine Autoabholung im Hafen Kamares?",
+            "a": "Ja, ohne Aufpreis. Wir erwarten Sie an der Fähre in Kamares und übergeben das Auto direkt am Hafen, sodass Sie sofort losfahren können, statt auf ein Taxi zu warten."
+          },
+          {
+            "q": "Muss ich einen Mietwagen auf Sifnos im Voraus bezahlen?",
+            "a": "Nein. Eine Reservierung bei Artemis Rental verlangt weder Anzahlung noch Kartendaten, Sie zahlen bei der Übernahme. Haftpflicht, Wartung und Hilfe vor Ort sind im Tagespreis bereits enthalten."
+          }
         ],
         "sv": [
-          "Var kan jag hyra bil på Sifnos?",
-          "Finns bilupphämtning i Kamares hamn?",
-          "Behöver jag förskottsbetala biluthyrning på Sifnos?"
+          {
+            "q": "Var kan jag hyra bil på Sifnos?",
+            "a": "Artemis Rental har hyrt ut bilar från sitt kontor i Apollonia sedan 1988. Du kan hämta bilen där eller få den kostnadsfritt levererad till Kamares hamn, helikopterplattan, Artemonas eller Kastro."
+          },
+          {
+            "q": "Går det att hämta bilen i Kamares hamn?",
+            "a": "Ja, utan extra kostnad. Vi möter färjan i Kamares och lämnar över bilen i hamnen, så du kan köra direkt i stället för att vänta på taxi."
+          },
+          {
+            "q": "Behöver jag förskottsbetala en hyrbil på Sifnos?",
+            "a": "Nej. Att boka hos Artemis Rental kräver varken deposition eller kortuppgifter, du betalar vid upphämtning. Trafikförsäkring, service och lokal hjälp ingår redan i dagspriset."
+          }
         ],
         "nl": [
-          "Waar kan ik een auto huren op Sifnos?",
-          "Kan ik een auto ophalen in de haven van Kamares?",
-          "Moet ik vooruitbetalen voor autohuur op Sifnos?"
+          {
+            "q": "Waar kan ik een auto huren op Sifnos?",
+            "a": "Artemis Rental verhuurt sinds 1988 auto's vanuit het kantoor in Apollonia. U kunt de auto daar ophalen of hem gratis laten klaarstaan in de haven van Kamares, op de helihaven, in Artemonas of in Kastro."
+          },
+          {
+            "q": "Is ophalen van de auto in de haven van Kamares mogelijk?",
+            "a": "Ja, zonder meerprijs. We staan bij de veerboot in Kamares en overhandigen de auto in de haven, zodat u meteen kunt wegrijden in plaats van op een taxi te wachten."
+          },
+          {
+            "q": "Moet ik een huurauto op Sifnos vooruitbetalen?",
+            "a": "Nee. Reserveren bij Artemis Rental vraagt geen aanbetaling en geen kaartgegevens, u betaalt bij het ophalen. WA-verzekering, onderhoud en hulp ter plaatse zitten al in de dagprijs."
+          }
         ]
       }
     },
@@ -46,39 +109,102 @@
       "guideSlug": "getting-around",
       "queries": {
         "en": [
-          "Should I rent a car or scooter on Sifnos?",
-          "Is a scooter enough for Sifnos beaches?",
-          "Best transport for families in Sifnos"
+          {
+            "q": "Should I rent a car or a scooter on Sifnos?",
+            "a": "Take a car if you are two or more people, carrying luggage, or staying at a beach with a steep access road. A scooter suits solo travellers and couples doing short village hops in high summer."
+          },
+          {
+            "q": "Is a scooter enough for Sifnos beaches?",
+            "a": "For Platys Gialos, Faros and Vathi a 125cc scooter is fine in good weather. For Cherronisos and the more remote north the road is long and exposed, and most visitors prefer a car."
+          },
+          {
+            "q": "What is the best transport for families in Sifnos?",
+            "a": "A car, comfortably. Our five-seat Skoda Fabia, Peugeot 208 and Nissan Micra all take a family plus ferry luggage, and automatics are available if you would rather not shift gears on the hill roads."
+          }
         ],
         "el": [
-          "Αυτοκίνητο ή scooter στη Σίφνο;",
-          "Φτάνει scooter για τις παραλίες;",
-          "Μετακίνηση με οικογένεια στη Σίφνο"
+          {
+            "q": "Να νοικιάσω αυτοκίνητο ή μηχανάκι στη Σίφνο;",
+            "a": "Αυτοκίνητο αν είστε δύο ή περισσότεροι, έχετε αποσκευές ή μένετε σε παραλία με απότομο δρόμο πρόσβασης. Το μηχανάκι ταιριάζει σε μοναχικούς ταξιδιώτες και ζευγάρια για σύντομες μετακινήσεις μεταξύ χωριών."
+          },
+          {
+            "q": "Αρκεί ένα μηχανάκι για τις παραλίες της Σίφνου;",
+            "a": "Για Πλατύ Γιαλό, Φάρο και Βαθύ ένα 125άρι είναι μια χαρά με καλό καιρό. Για τη Χερρόνησο και τον απομακρυσμένο βορρά ο δρόμος είναι μεγάλος και εκτεθειμένος, οπότε οι περισσότεροι προτιμούν αυτοκίνητο."
+          },
+          {
+            "q": "Ποιο είναι το καλύτερο μέσο για οικογένειες στη Σίφνο;",
+            "a": "Το αυτοκίνητο, άνετα. Τα πεντάθεσια Skoda Fabia, Peugeot 208 και Nissan Micra χωρούν οικογένεια και αποσκευές πλοίου, ενώ υπάρχουν και αυτόματα αν δεν θέλετε να αλλάζετε ταχύτητες στους ανηφορικούς δρόμους."
+          }
         ],
         "it": [
-          "Meglio noleggiare auto o scooter a Sifnos?",
-          "Basta uno scooter per le spiagge di Sifnos?",
-          "Miglior mezzo per famiglie a Sifnos"
+          {
+            "q": "Meglio noleggiare un'auto o uno scooter a Sifnos?",
+            "a": "Scegli l'auto se siete in due o più, avete bagagli o alloggiate in una spiaggia con strada d'accesso ripida. Lo scooter è adatto a chi viaggia da solo o in coppia per brevi spostamenti tra i villaggi."
+          },
+          {
+            "q": "Uno scooter basta per le spiagge di Sifnos?",
+            "a": "Per Platys Gialos, Faros e Vathi uno scooter 125 va benissimo con bel tempo. Per Cherronisos e il nord più remoto la strada è lunga ed esposta, e la maggior parte dei visitatori preferisce l'auto."
+          },
+          {
+            "q": "Qual è il mezzo migliore per le famiglie a Sifnos?",
+            "a": "L'auto, senza dubbio. Skoda Fabia, Peugeot 208 e Nissan Micra a cinque posti accolgono una famiglia con i bagagli del traghetto, e ci sono automatiche se preferisci non cambiare marcia sulle salite."
+          }
         ],
         "fr": [
-          "Faut-il louer une voiture ou un scooter à Sifnos ?",
-          "Un scooter suffit-il pour les plages de Sifnos ?",
-          "Meilleur transport pour familles à Sifnos"
+          {
+            "q": "Faut-il louer une voiture ou un scooter à Sifnos ?",
+            "a": "Prenez une voiture si vous êtes deux ou plus, avec des bagages, ou si vous logez près d'une plage à route d'accès pentue. Le scooter convient aux voyageurs seuls et aux couples pour de courts trajets entre villages."
+          },
+          {
+            "q": "Un scooter suffit-il pour les plages de Sifnos ?",
+            "a": "Pour Platys Gialos, Faros et Vathi, un 125 cm³ convient par beau temps. Pour Cherronisos et le nord plus isolé, la route est longue et exposée, et la plupart des visiteurs préfèrent une voiture."
+          },
+          {
+            "q": "Quel est le meilleur moyen de transport pour les familles à Sifnos ?",
+            "a": "La voiture, sans hésiter. Nos Skoda Fabia, Peugeot 208 et Nissan Micra cinq places accueillent une famille et les bagages du ferry, et des automatiques sont disponibles pour éviter de passer les vitesses en côte."
+          }
         ],
         "de": [
-          "Auto oder Roller auf Sifnos mieten?",
-          "Reicht ein Roller für die Strände auf Sifnos?",
-          "Beste Transportmittel für Familien auf Sifnos"
+          {
+            "q": "Auto oder Roller auf Sifnos mieten?",
+            "a": "Nehmen Sie ein Auto, wenn Sie zu zweit oder mehr reisen, Gepäck haben oder an einem Strand mit steiler Zufahrt wohnen. Ein Roller passt zu Alleinreisenden und Paaren für kurze Fahrten zwischen den Dörfern."
+          },
+          {
+            "q": "Reicht ein Roller für die Strände von Sifnos?",
+            "a": "Für Platys Gialos, Faros und Vathi genügt ein 125er bei gutem Wetter. Für Cherronisos und den abgelegenen Norden ist die Strecke lang und ungeschützt, weshalb die meisten Gäste ein Auto vorziehen."
+          },
+          {
+            "q": "Was ist das beste Verkehrsmittel für Familien auf Sifnos?",
+            "a": "Ganz klar das Auto. Skoda Fabia, Peugeot 208 und Nissan Micra mit fünf Sitzen fassen eine Familie samt Fährgepäck, und Automatikwagen gibt es, wenn Sie an den Bergstraßen nicht schalten möchten."
+          }
         ],
         "sv": [
-          "Ska jag hyra bil eller scooter på Sifnos?",
-          "Räcker en scooter till Sifnos stränder?",
-          "Bästa transport för familjer på Sifnos"
+          {
+            "q": "Ska jag hyra bil eller scooter på Sifnos?",
+            "a": "Välj bil om ni är två eller fler, har bagage eller bor vid en strand med brant tillfartsväg. En scooter passar ensamresenärer och par som gör korta hopp mellan byarna."
+          },
+          {
+            "q": "Räcker en scooter till Sifnos stränder?",
+            "a": "Till Platys Gialos, Faros och Vathi fungerar en 125:a bra i fint väder. Till Cherronisos och den avlägsna norra delen är vägen lång och oskyddad, och de flesta besökare föredrar bil."
+          },
+          {
+            "q": "Vilket är bästa transportmedlet för familjer på Sifnos?",
+            "a": "Bil, med god marginal. Våra femsitsiga Skoda Fabia, Peugeot 208 och Nissan Micra rymmer en familj plus färjebagage, och automatlådor finns om du hellre slipper växla i backarna."
+          }
         ],
         "nl": [
-          "Auto of scooter huren op Sifnos?",
-          "Is een scooter genoeg voor de stranden van Sifnos?",
-          "Beste vervoer voor gezinnen op Sifnos"
+          {
+            "q": "Moet ik een auto of een scooter huren op Sifnos?",
+            "a": "Neem een auto als u met twee of meer bent, bagage hebt of bij een strand met een steile toegangsweg verblijft. Een scooter past bij alleenreizigers en stellen die korte ritjes tussen de dorpen maken."
+          },
+          {
+            "q": "Is een scooter genoeg voor de stranden van Sifnos?",
+            "a": "Voor Platys Gialos, Faros en Vathi volstaat een 125cc bij goed weer. Voor Cherronisos en het afgelegen noorden is de weg lang en onbeschut, en kiezen de meeste bezoekers een auto."
+          },
+          {
+            "q": "Wat is het beste vervoer voor gezinnen op Sifnos?",
+            "a": "Een auto, met gemak. Onze vijfzits Skoda Fabia, Peugeot 208 en Nissan Micra nemen een gezin plus veerbootbagage mee, en er zijn automaten als u liever niet schakelt op de bergwegen."
+          }
         ]
       }
     },
@@ -87,39 +213,102 @@
       "guideSlug": "kamares-port",
       "queries": {
         "en": [
-          "How to get from Kamares to Apollonia",
-          "Sifnos port to Apollonia by car",
-          "Taxi vs rental from Kamares ferry"
+          {
+            "q": "How do I get from Kamares to Apollonia?",
+            "a": "It is about 5.5 km uphill and roughly ten minutes by car. Buses meet most ferries and taxis are few in August, which is why we hand cars over at the port itself."
+          },
+          {
+            "q": "How long is Sifnos port to Apollonia by car?",
+            "a": "Around ten minutes on a well-surfaced but winding road that climbs steadily from sea level to the island's central ridge. Take it slowly on the bends and there is nothing difficult about it."
+          },
+          {
+            "q": "Taxi or rental car from the Kamares ferry?",
+            "a": "Sifnos has only a handful of taxis and they are heavily booked when a ferry lands in peak season. Picking up a rental at the port removes the queue and costs less than a few taxi trips."
+          }
         ],
         "el": [
-          "Πώς πάω από Καμάρες στην Απολλωνία",
-          "Από το λιμάνι στην Απολλωνία με αυτοκίνητο",
-          "Ταξί ή ενοικίαση από Καμάρες"
+          {
+            "q": "Πώς πάω από τις Καμάρες στην Απολλωνία;",
+            "a": "Είναι περίπου 5,5 χλμ ανηφορικά και γύρω στα δέκα λεπτά με αυτοκίνητο. Τα λεωφορεία συνδέονται με τα περισσότερα πλοία και τα ταξί είναι λίγα τον Αύγουστο, γι' αυτό παραδίδουμε τα αυτοκίνητα στο ίδιο το λιμάνι."
+          },
+          {
+            "q": "Πόσο διαρκεί η διαδρομή από το λιμάνι στην Απολλωνία με αυτοκίνητο;",
+            "a": "Περίπου δέκα λεπτά σε καλό αλλά στριφογυριστό δρόμο που ανεβαίνει σταθερά από τη θάλασσα στην κεντρική ράχη του νησιού. Με χαμηλή ταχύτητα στις στροφές δεν έχει καμία δυσκολία."
+          },
+          {
+            "q": "Ταξί ή ενοικιαζόμενο αυτοκίνητο από το πλοίο στις Καμάρες;",
+            "a": "Η Σίφνος έχει ελάχιστα ταξί και είναι υπερφορτωμένα όταν φτάνει πλοίο στην αιχμή της σεζόν. Η παραλαβή αυτοκινήτου στο λιμάνι σας γλιτώνει την ουρά και κοστίζει λιγότερο από λίγες διαδρομές με ταξί."
+          }
         ],
         "it": [
-          "Come arrivare da Kamares ad Apollonia",
-          "Dal porto di Sifnos ad Apollonia in auto",
-          "Taxi o noleggio dal traghetto di Kamares"
+          {
+            "q": "Come si arriva da Kamares ad Apollonia?",
+            "a": "Sono circa 5,5 km in salita, una decina di minuti in auto. Gli autobus coincidono con la maggior parte dei traghetti e i taxi sono pochi ad agosto, per questo consegniamo le auto direttamente al porto."
+          },
+          {
+            "q": "Quanto ci vuole dal porto di Sifnos ad Apollonia in auto?",
+            "a": "Circa dieci minuti su una strada asfaltata ma tortuosa che sale dal livello del mare fino al crinale centrale dell'isola. Andando piano in curva non presenta alcuna difficoltà."
+          },
+          {
+            "q": "Taxi o auto a noleggio dal traghetto di Kamares?",
+            "a": "Sifnos ha pochissimi taxi e sono presi d'assalto quando arriva un traghetto in alta stagione. Ritirare un'auto al porto elimina la fila e costa meno di qualche corsa in taxi."
+          }
         ],
         "fr": [
-          "Comment aller de Kamares à Apollonia",
-          "Du port de Sifnos à Apollonia en voiture",
-          "Taxi ou location depuis le ferry de Kamares"
+          {
+            "q": "Comment aller de Kamares à Apollonia ?",
+            "a": "Environ 5,5 km de montée, soit une dizaine de minutes en voiture. Les bus assurent la correspondance avec la plupart des ferries et les taxis sont rares en août, d'où la remise des voitures directement au port."
+          },
+          {
+            "q": "Combien de temps du port de Sifnos à Apollonia en voiture ?",
+            "a": "Une dizaine de minutes sur une route bien revêtue mais sinueuse qui grimpe régulièrement du niveau de la mer jusqu'à la crête centrale de l'île. En roulant doucement dans les virages, rien de difficile."
+          },
+          {
+            "q": "Taxi ou voiture de location depuis le ferry de Kamares ?",
+            "a": "Sifnos ne compte qu'une poignée de taxis, très sollicités à l'arrivée d'un ferry en haute saison. Récupérer une location au port évite la file d'attente et revient moins cher que quelques trajets en taxi."
+          }
         ],
         "de": [
-          "Von Kamares nach Apollonia kommen",
-          "Vom Hafen Sifnos nach Apollonia mit dem Auto",
-          "Taxi oder Mietwagen von der Fähre Kamares"
+          {
+            "q": "Wie komme ich von Kamares nach Apollonia?",
+            "a": "Es sind rund 5,5 km bergauf und etwa zehn Minuten mit dem Auto. Busse warten auf die meisten Fähren, Taxis sind im August rar, deshalb übergeben wir die Autos direkt am Hafen."
+          },
+          {
+            "q": "Wie lange dauert die Fahrt vom Hafen nach Apollonia?",
+            "a": "Etwa zehn Minuten auf einer gut ausgebauten, aber kurvigen Straße, die stetig vom Meeresspiegel zum zentralen Bergrücken der Insel ansteigt. Langsam durch die Kurven, dann ist sie völlig unproblematisch."
+          },
+          {
+            "q": "Taxi oder Mietwagen ab der Fähre in Kamares?",
+            "a": "Sifnos hat nur eine Handvoll Taxis, und die sind bei Fährankunft in der Hochsaison stark ausgelastet. Ein Mietwagen am Hafen erspart die Warteschlange und kostet weniger als ein paar Taxifahrten."
+          }
         ],
         "sv": [
-          "Hur tar man sig från Kamares till Apollonia",
-          "Från Sifnos hamn till Apollonia med bil",
-          "Taxi eller hyrbil från Kamares färja"
+          {
+            "q": "Hur tar jag mig från Kamares till Apollonia?",
+            "a": "Det är cirka 5,5 km uppför och ungefär tio minuter med bil. Bussar möter de flesta färjor och taxibilarna är få i augusti, därför lämnar vi över bilarna i själva hamnen."
+          },
+          {
+            "q": "Hur lång tid tar det från Sifnos hamn till Apollonia med bil?",
+            "a": "Ungefär tio minuter på en välasfalterad men slingrande väg som stiger stadigt från havsnivå till öns centrala ås. Kör lugnt i kurvorna så är den helt oproblematisk."
+          },
+          {
+            "q": "Taxi eller hyrbil från färjan i Kamares?",
+            "a": "Sifnos har bara en handfull taxibilar och de är hårt bokade när en färja anländer i högsäsong. Att hämta en hyrbil i hamnen slipper kön och kostar mindre än några taxiresor."
+          }
         ],
         "nl": [
-          "Hoe ga je van Kamares naar Apollonia",
-          "Van Sifnos haven naar Apollonia met de auto",
-          "Taxi of huurauto vanaf ferry Kamares"
+          {
+            "q": "Hoe kom ik van Kamares naar Apollonia?",
+            "a": "Het is ongeveer 5,5 km bergop en zo'n tien minuten met de auto. Bussen sluiten aan op de meeste veerboten en taxi's zijn schaars in augustus, daarom leveren wij auto's in de haven zelf af."
+          },
+          {
+            "q": "Hoe lang duurt het van de haven van Sifnos naar Apollonia met de auto?",
+            "a": "Ongeveer tien minuten over een goed verharde maar bochtige weg die gestaag klimt van zeeniveau naar de centrale bergrug van het eiland. Rustig door de bochten en er is niets moeilijks aan."
+          },
+          {
+            "q": "Taxi of huurauto vanaf de veerboot in Kamares?",
+            "a": "Sifnos heeft maar een handvol taxi's en die zijn zwaar bezet als er in het hoogseizoen een veerboot aankomt. Een huurauto in de haven ophalen scheelt de rij en kost minder dan een paar taxiritten."
+          }
         ]
       }
     },
@@ -128,39 +317,102 @@
       "guideSlug": "beaches",
       "queries": {
         "en": [
-          "Best Sifnos beaches with parking",
-          "Driving to Platis Gialos Sifnos",
-          "Chrissopigi how to get there"
+          {
+            "q": "Which Sifnos beaches have parking?",
+            "a": "Platys Gialos, Vathi, Faros and Kamares all have parking areas near the sand, though they fill by late morning in August. Arriving before 10am or after 4pm makes a noticeable difference."
+          },
+          {
+            "q": "How do I drive to Platys Gialos in Sifnos?",
+            "a": "It is a straightforward 20 minute drive south from Apollonia on a good sealed road, ending at the beach car park. The route is well signposted and suits any car in our fleet."
+          },
+          {
+            "q": "How do I get to Chrysopigi?",
+            "a": "Drive towards Faros and follow the signs to the monastery, roughly 15 minutes from Apollonia. There is a parking area above the chapel and a short walk down to the rocks and the small beach at Apokofto."
+          }
         ],
         "el": [
-          "Παραλίες Σίφνου με parking",
-          "Οδήγηση για Πλατύ Γιαλό",
-          "Πώς πάω στη Χρυσοπηγή"
+          {
+            "q": "Ποιες παραλίες της Σίφνου έχουν πάρκινγκ;",
+            "a": "Ο Πλατύς Γιαλός, το Βαθύ, ο Φάρος και οι Καμάρες έχουν χώρους στάθμευσης κοντά στην άμμο, αν και γεμίζουν αργά το πρωί τον Αύγουστο. Η άφιξη πριν τις 10 ή μετά τις 16 κάνει αισθητή διαφορά."
+          },
+          {
+            "q": "Πώς πάω με αυτοκίνητο στον Πλατύ Γιαλό;",
+            "a": "Είναι μια απλή διαδρομή 20 λεπτών νότια από την Απολλωνία σε καλό ασφαλτοστρωμένο δρόμο που καταλήγει στο πάρκινγκ της παραλίας. Η διαδρομή έχει καλή σήμανση και είναι κατάλληλη για κάθε αυτοκίνητο του στόλου μας."
+          },
+          {
+            "q": "Πώς πάω στη Χρυσοπηγή;",
+            "a": "Οδηγήστε προς τον Φάρο και ακολουθήστε τις πινακίδες για το μοναστήρι, περίπου 15 λεπτά από την Απολλωνία. Υπάρχει χώρος στάθμευσης πάνω από το εκκλησάκι και μια σύντομη κατάβαση προς τα βράχια και την παραλία του Αποκοφτού."
+          }
         ],
         "it": [
-          "Migliori spiagge di Sifnos con parcheggio",
-          "Guidare fino a Platis Gialos Sifnos",
-          "Come arrivare a Chrysopigi"
+          {
+            "q": "Quali spiagge di Sifnos hanno parcheggio?",
+            "a": "Platys Gialos, Vathi, Faros e Kamares hanno aree di sosta vicino alla sabbia, anche se si riempiono già a metà mattina ad agosto. Arrivare prima delle 10 o dopo le 16 fa una differenza notevole."
+          },
+          {
+            "q": "Come si arriva in auto a Platys Gialos?",
+            "a": "Sono 20 minuti di guida verso sud da Apollonia su una buona strada asfaltata che termina al parcheggio della spiaggia. Il percorso è ben segnalato e adatto a qualsiasi auto della nostra flotta."
+          },
+          {
+            "q": "Come si raggiunge Chrysopigi?",
+            "a": "Guida verso Faros e segui le indicazioni per il monastero, circa 15 minuti da Apollonia. C'è un parcheggio sopra la cappella e una breve discesa a piedi verso gli scogli e la spiaggetta di Apokofto."
+          }
         ],
         "fr": [
-          "Meilleures plages de Sifnos avec parking",
-          "Conduire jusqu'à Platis Gialos Sifnos",
-          "Comment aller à Chrysopigi"
+          {
+            "q": "Quelles plages de Sifnos disposent d'un parking ?",
+            "a": "Platys Gialos, Vathi, Faros et Kamares ont des aires de stationnement près du sable, mais elles se remplissent dès la fin de matinée en août. Arriver avant 10h ou après 16h change nettement la donne."
+          },
+          {
+            "q": "Comment rejoindre Platys Gialos en voiture ?",
+            "a": "C'est un trajet simple de 20 minutes vers le sud depuis Apollonia sur une bonne route goudronnée qui se termine au parking de la plage. L'itinéraire est bien fléché et convient à toutes les voitures de notre flotte."
+          },
+          {
+            "q": "Comment se rendre à Chrysopigi ?",
+            "a": "Roulez vers Faros et suivez les panneaux du monastère, environ 15 minutes depuis Apollonia. Un parking se trouve au-dessus de la chapelle, puis une courte descente mène aux rochers et à la petite plage d'Apokofto."
+          }
         ],
         "de": [
-          "Beste Strände auf Sifnos mit Parkplatz",
-          "Mit dem Auto nach Platis Gialos Sifnos",
-          "Wie komme ich nach Chrysopigi"
+          {
+            "q": "Welche Strände auf Sifnos haben Parkplätze?",
+            "a": "Platys Gialos, Vathi, Faros und Kamares haben Stellflächen nahe am Sand, die sich im August aber schon am späten Vormittag füllen. Vor 10 Uhr oder nach 16 Uhr anzukommen macht einen spürbaren Unterschied."
+          },
+          {
+            "q": "Wie fahre ich nach Platys Gialos?",
+            "a": "Eine unkomplizierte 20-minütige Fahrt südlich von Apollonia auf gut asphaltierter Straße, die direkt am Strandparkplatz endet. Die Strecke ist gut ausgeschildert und für jedes Auto unserer Flotte geeignet."
+          },
+          {
+            "q": "Wie komme ich nach Chrysopigi?",
+            "a": "Fahren Sie Richtung Faros und folgen Sie den Schildern zum Kloster, etwa 15 Minuten ab Apollonia. Oberhalb der Kapelle gibt es einen Parkplatz, von dort führt ein kurzer Weg hinunter zu den Felsen und zum kleinen Strand von Apokofto."
+          }
         ],
         "sv": [
-          "Bästa stränderna på Sifnos med parkering",
-          "Köra till Platis Gialos Sifnos",
-          "Hur tar man sig till Chrysopigi"
+          {
+            "q": "Vilka stränder på Sifnos har parkering?",
+            "a": "Platys Gialos, Vathi, Faros och Kamares har parkeringsytor nära sanden, även om de fylls redan på förmiddagen i augusti. Att komma före klockan 10 eller efter 16 gör märkbar skillnad."
+          },
+          {
+            "q": "Hur kör jag till Platys Gialos?",
+            "a": "Det är en enkel 20 minuters körning söderut från Apollonia på bra asfaltväg som slutar vid strandens parkering. Vägen är väl skyltad och passar alla bilar i vår flotta."
+          },
+          {
+            "q": "Hur tar jag mig till Chrysopigi?",
+            "a": "Kör mot Faros och följ skyltarna mot klostret, ungefär 15 minuter från Apollonia. Det finns parkering ovanför kapellet och en kort promenad ner till klipporna och den lilla stranden vid Apokofto."
+          }
         ],
         "nl": [
-          "Beste stranden op Sifnos met parkeergelegenheid",
-          "Rijden naar Platis Gialos Sifnos",
-          "Hoe kom je bij Chrysopigi"
+          {
+            "q": "Welke stranden op Sifnos hebben parkeergelegenheid?",
+            "a": "Platys Gialos, Vathi, Faros en Kamares hebben parkeerplaatsen dicht bij het zand, al lopen ze in augustus al laat in de ochtend vol. Voor 10 uur of na 16 uur aankomen scheelt merkbaar."
+          },
+          {
+            "q": "Hoe rijd ik naar Platys Gialos?",
+            "a": "Het is een eenvoudige rit van 20 minuten zuidwaarts vanaf Apollonia over een goede asfaltweg die eindigt bij de strandparkeerplaats. De route is goed bewegwijzerd en geschikt voor elke auto uit ons wagenpark."
+          },
+          {
+            "q": "Hoe kom ik bij Chrysopigi?",
+            "a": "Rijd richting Faros en volg de borden naar het klooster, ongeveer 15 minuten vanaf Apollonia. Boven de kapel is een parkeerplaats en een korte wandeling omlaag brengt u bij de rotsen en het strandje van Apokofto."
+          }
         ]
       }
     },
@@ -169,39 +421,102 @@
       "guideSlug": "practical-tips",
       "queries": {
         "en": [
-          "Driving tips Sifnos Cyclades",
-          "Are Sifnos roads difficult?",
-          "Night driving on Sifnos"
+          {
+            "q": "What should I know about driving in Sifnos?",
+            "a": "Roads are sealed and well maintained but narrow, winding and often without barriers. Drive slowly, use the horn lightly before blind bends, and give way uphill where the road narrows to a single lane."
+          },
+          {
+            "q": "Are Sifnos roads difficult?",
+            "a": "Not difficult, just narrow. The main Kamares to Apollonia to Platys Gialos routes are comfortable for any driver, while the smaller roads to Vathi and Cherronisos ask for a little more care."
+          },
+          {
+            "q": "Is it safe to drive on Sifnos at night?",
+            "a": "Yes, though most rural roads have no street lighting and goats do wander onto them after dark. Keep your speed down, use full beam where there is no oncoming traffic, and allow extra time."
+          }
         ],
         "el": [
-          "Συμβουλές οδήγησης στη Σίφνο",
-          "Είναι δύσκολοι οι δρόμοι;",
-          "Οδήγηση το βράδυ στη Σίφνο"
+          {
+            "q": "Τι πρέπει να ξέρω για την οδήγηση στη Σίφνο;",
+            "a": "Οι δρόμοι είναι ασφαλτοστρωμένοι και καλοσυντηρημένοι αλλά στενοί, στριφογυριστοί και συχνά χωρίς στηθαία. Οδηγήστε αργά, χρησιμοποιήστε ελαφρά την κόρνα πριν από τυφλές στροφές και δώστε προτεραιότητα στην ανηφόρα όπου ο δρόμος στενεύει."
+          },
+          {
+            "q": "Είναι δύσκολοι οι δρόμοι της Σίφνου;",
+            "a": "Δεν είναι δύσκολοι, απλώς στενοί. Οι κύριοι δρόμοι Καμάρες, Απολλωνία και Πλατύς Γιαλός είναι άνετοι για κάθε οδηγό, ενώ οι μικρότεροι προς Βαθύ και Χερρόνησο θέλουν λίγη περισσότερη προσοχή."
+          },
+          {
+            "q": "Είναι ασφαλής η νυχτερινή οδήγηση στη Σίφνο;",
+            "a": "Ναι, αν και οι περισσότεροι αγροτικοί δρόμοι δεν έχουν φωτισμό και κατσίκες βγαίνουν στο οδόστρωμα μετά το σκοτάδι. Κρατήστε χαμηλή ταχύτητα, χρησιμοποιήστε μεγάλη σκάλα όπου δεν έρχονται αυτοκίνητα και υπολογίστε επιπλέον χρόνο."
+          }
         ],
         "it": [
-          "Consigli di guida Sifnos Cicladi",
-          "Le strade di Sifnos sono difficili?",
-          "Guidare di notte a Sifnos"
+          {
+            "q": "Cosa devo sapere per guidare a Sifnos?",
+            "a": "Le strade sono asfaltate e ben tenute ma strette, tortuose e spesso senza guardrail. Guida piano, usa un colpo di clacson prima delle curve cieche e dai precedenza a chi sale dove la carreggiata si restringe."
+          },
+          {
+            "q": "Le strade di Sifnos sono difficili?",
+            "a": "Non difficili, solo strette. Gli assi principali Kamares, Apollonia e Platys Gialos sono comodi per chiunque, mentre le stradine verso Vathi e Cherronisos richiedono un po' più di attenzione."
+          },
+          {
+            "q": "È sicuro guidare a Sifnos di notte?",
+            "a": "Sì, anche se la maggior parte delle strade di campagna non ha illuminazione e le capre attraversano dopo il tramonto. Tieni bassa la velocità, usa gli abbaglianti quando non arriva nessuno e calcola più tempo."
+          }
         ],
         "fr": [
-          "Conseils de conduite Sifnos Cyclades",
-          "Les routes de Sifnos sont-elles difficiles ?",
-          "Conduire de nuit à Sifnos"
+          {
+            "q": "Que faut-il savoir pour conduire à Sifnos ?",
+            "a": "Les routes sont goudronnées et bien entretenues mais étroites, sinueuses et souvent sans glissière. Roulez lentement, donnez un léger coup de klaxon avant les virages sans visibilité et cédez le passage en montée là où la voie se resserre."
+          },
+          {
+            "q": "Les routes de Sifnos sont-elles difficiles ?",
+            "a": "Pas difficiles, simplement étroites. Les axes Kamares, Apollonia et Platys Gialos sont confortables pour tout conducteur, tandis que les petites routes vers Vathi et Cherronisos demandent un peu plus d'attention."
+          },
+          {
+            "q": "Peut-on conduire la nuit à Sifnos en toute sécurité ?",
+            "a": "Oui, même si la plupart des routes de campagne ne sont pas éclairées et que les chèvres s'y aventurent après la tombée du jour. Réduisez votre vitesse, utilisez les pleins phares quand personne n'arrive et prévoyez plus de temps."
+          }
         ],
         "de": [
-          "Fahrtipps Sifnos Kykladen",
-          "Sind die Straßen auf Sifnos schwierig?",
-          "Nachtfahrten auf Sifnos"
+          {
+            "q": "Was sollte ich zum Autofahren auf Sifnos wissen?",
+            "a": "Die Straßen sind asphaltiert und gut instand, aber schmal, kurvig und oft ohne Leitplanke. Fahren Sie langsam, hupen Sie kurz vor unübersichtlichen Kurven und lassen Sie bergauf fahrende Fahrzeuge vor, wo es einspurig wird."
+          },
+          {
+            "q": "Sind die Straßen auf Sifnos schwierig?",
+            "a": "Nicht schwierig, nur schmal. Die Hauptachsen Kamares, Apollonia und Platys Gialos sind für jeden Fahrer bequem, die kleineren Straßen nach Vathi und Cherronisos verlangen etwas mehr Aufmerksamkeit."
+          },
+          {
+            "q": "Ist Nachtfahren auf Sifnos sicher?",
+            "a": "Ja, allerdings sind die meisten Landstraßen unbeleuchtet und Ziegen laufen nach Einbruch der Dunkelheit auf die Fahrbahn. Bleiben Sie langsam, nutzen Sie Fernlicht ohne Gegenverkehr und planen Sie mehr Zeit ein."
+          }
         ],
         "sv": [
-          "Körtips Sifnos Kykladerna",
-          "Är vägarna på Sifnos svåra?",
-          "Köra på natten på Sifnos"
+          {
+            "q": "Vad bör jag veta om att köra bil på Sifnos?",
+            "a": "Vägarna är asfalterade och välskötta men smala, slingrande och ofta utan räcken. Kör långsamt, tuta lätt före skymda kurvor och lämna företräde uppför där vägen smalnar till ett körfält."
+          },
+          {
+            "q": "Är vägarna på Sifnos svåra?",
+            "a": "Inte svåra, bara smala. Huvudstråken Kamares, Apollonia och Platys Gialos är bekväma för alla förare, medan de mindre vägarna mot Vathi och Cherronisos kräver lite mer uppmärksamhet."
+          },
+          {
+            "q": "Är det säkert att köra på Sifnos nattetid?",
+            "a": "Ja, men de flesta landsvägar saknar belysning och getter rör sig på vägbanan efter mörkrets inbrott. Håll nere farten, använd helljus när ingen möter och räkna med extra tid."
+          }
         ],
         "nl": [
-          "Rijtips Sifnos Cycladen",
-          "Zijn de wegen op Sifnos moeilijk?",
-          "Rijden 's nachts op Sifnos"
+          {
+            "q": "Wat moet ik weten over autorijden op Sifnos?",
+            "a": "De wegen zijn geasfalteerd en goed onderhouden maar smal, bochtig en vaak zonder vangrail. Rijd langzaam, toeter kort voor blinde bochten en verleen voorrang aan wie omhoog rijdt waar de weg versmalt."
+          },
+          {
+            "q": "Zijn de wegen op Sifnos moeilijk?",
+            "a": "Niet moeilijk, alleen smal. De hoofdroutes Kamares, Apollonia en Platys Gialos zijn comfortabel voor elke bestuurder, terwijl de kleinere wegen naar Vathi en Cherronisos wat meer aandacht vragen."
+          },
+          {
+            "q": "Is het veilig om 's nachts op Sifnos te rijden?",
+            "a": "Ja, al hebben de meeste landwegen geen verlichting en lopen er na het donker geiten op de weg. Houd uw snelheid laag, gebruik groot licht als er niemand aankomt en reken op extra tijd."
+          }
         ]
       }
     },
@@ -210,39 +525,102 @@
       "guideSlug": "ferries",
       "queries": {
         "en": [
-          "Ferry to Sifnos from Athens",
-          "Sifnos ferry port name",
-          "Same-day ferry and car rental Sifnos"
+          {
+            "q": "How do I get a ferry to Sifnos from Athens?",
+            "a": "Ferries leave from Piraeus, the port serving Athens, and take roughly two to five hours depending on whether you take a conventional ferry or a high-speed catamaran. Sailings run daily in summer and thin out sharply from November to March."
+          },
+          {
+            "q": "What is the name of the Sifnos ferry port?",
+            "a": "Kamares, on the west coast. Every ferry to the island docks there, and it is about ten minutes by car from Apollonia, the capital."
+          },
+          {
+            "q": "Can I get a ferry and rent a car on the same day?",
+            "a": "Yes, that is the normal pattern here. Send us your ferry arrival time and we will have the car waiting at Kamares port, at no extra cost, so you drive away as you step off the boat."
+          }
         ],
         "el": [
-          "Ferry για Σίφνο από Αθήνα",
-          "Πώς λέγεται το λιμάνι Σίφνου",
-          "Ferry και ενοικίαση αυθημερόν"
+          {
+            "q": "Πώς πάω με πλοίο στη Σίφνο από την Αθήνα;",
+            "a": "Τα πλοία αναχωρούν από τον Πειραιά και η διαδρομή διαρκεί περίπου δύο έως πέντε ώρες, ανάλογα με το αν επιλέξετε συμβατικό πλοίο ή ταχύπλοο. Το καλοκαίρι υπάρχουν καθημερινά δρομολόγια, ενώ από Νοέμβριο έως Μάρτιο αραιώνουν αισθητά."
+          },
+          {
+            "q": "Πώς λέγεται το λιμάνι της Σίφνου;",
+            "a": "Καμάρες, στη δυτική ακτή. Εκεί δένουν όλα τα πλοία που έρχονται στο νησί και απέχει περίπου δέκα λεπτά με αυτοκίνητο από την Απολλωνία."
+          },
+          {
+            "q": "Μπορώ να φτάσω με πλοίο και να νοικιάσω αυτοκίνητο την ίδια μέρα;",
+            "a": "Ναι, έτσι γίνεται συνήθως. Στείλτε μας την ώρα άφιξης του πλοίου και το αυτοκίνητο θα σας περιμένει στο λιμάνι των Καμαρών, χωρίς επιπλέον χρέωση, ώστε να ξεκινήσετε μόλις κατεβείτε."
+          }
         ],
         "it": [
-          "Traghetto per Sifnos da Atene",
-          "Come si chiama il porto di Sifnos",
-          "Traghetto e noleggio auto lo stesso giorno a Sifnos"
+          {
+            "q": "Come si prende il traghetto per Sifnos da Atene?",
+            "a": "I traghetti partono dal Pireo, il porto di Atene, e impiegano da due a cinque ore circa a seconda che si scelga una nave convenzionale o un catamarano veloce. D'estate ci sono corse quotidiane, da novembre a marzo si riducono nettamente."
+          },
+          {
+            "q": "Come si chiama il porto di Sifnos?",
+            "a": "Kamares, sulla costa occidentale. Tutti i traghetti per l'isola attraccano lì, a circa dieci minuti d'auto da Apollonia, il capoluogo."
+          },
+          {
+            "q": "Posso arrivare in traghetto e noleggiare l'auto lo stesso giorno?",
+            "a": "Sì, è la prassi qui. Comunicaci l'orario di arrivo del traghetto e troverai l'auto ad attenderti al porto di Kamares, senza costi aggiuntivi, così parti appena sbarchi."
+          }
         ],
         "fr": [
-          "Ferry pour Sifnos depuis Athènes",
-          "Nom du port de ferry de Sifnos",
-          "Ferry et location de voiture le même jour à Sifnos"
+          {
+            "q": "Comment prendre un ferry pour Sifnos depuis Athènes ?",
+            "a": "Les ferries partent du Pirée, le port d'Athènes, et mettent environ deux à cinq heures selon que vous choisissez un navire classique ou un catamaran rapide. Les liaisons sont quotidiennes en été et se raréfient fortement de novembre à mars."
+          },
+          {
+            "q": "Quel est le nom du port de Sifnos ?",
+            "a": "Kamares, sur la côte ouest. Tous les ferries desservant l'île y accostent, à une dizaine de minutes en voiture d'Apollonia, la capitale."
+          },
+          {
+            "q": "Puis-je arriver en ferry et louer une voiture le même jour ?",
+            "a": "Oui, c'est le fonctionnement habituel ici. Indiquez-nous votre heure d'arrivée et la voiture vous attendra au port de Kamares, sans supplément, pour partir dès la descente du bateau."
+          }
         ],
         "de": [
-          "Fähre nach Sifnos von Athen",
-          "Name des Fährhafens Sifnos",
-          "Am selben Tag Fähre und Autoverleih Sifnos"
+          {
+            "q": "Wie komme ich mit der Fähre von Athen nach Sifnos?",
+            "a": "Die Fähren fahren ab Piräus, dem Hafen von Athen, und brauchen je nach konventioneller Fähre oder Schnellkatamaran etwa zwei bis fünf Stunden. Im Sommer gibt es tägliche Verbindungen, von November bis März werden sie deutlich dünner."
+          },
+          {
+            "q": "Wie heißt der Fährhafen von Sifnos?",
+            "a": "Kamares an der Westküste. Dort legen alle Fähren zur Insel an, rund zehn Autominuten von Apollonia, dem Hauptort, entfernt."
+          },
+          {
+            "q": "Kann ich am selben Tag anreisen und ein Auto mieten?",
+            "a": "Ja, das ist hier der Normalfall. Teilen Sie uns Ihre Ankunftszeit mit, dann wartet das Auto ohne Aufpreis am Hafen Kamares, und Sie fahren direkt vom Schiff los."
+          }
         ],
         "sv": [
-          "Färja till Sifnos från Aten",
-          "Namn på Sifnos färjehamn",
-          "Färja och biluthyrning samma dag på Sifnos"
+          {
+            "q": "Hur tar jag färjan till Sifnos från Aten?",
+            "a": "Färjorna avgår från Pireus, Atens hamn, och tar ungefär två till fem timmar beroende på om du väljer en konventionell färja eller en snabbkatamaran. På sommaren går de dagligen, från november till mars glesnar turerna kraftigt."
+          },
+          {
+            "q": "Vad heter Sifnos färjehamn?",
+            "a": "Kamares på västkusten. Alla färjor till ön lägger till där, ungefär tio minuters bilfärd från Apollonia, huvudorten."
+          },
+          {
+            "q": "Kan jag komma med färjan och hyra bil samma dag?",
+            "a": "Ja, så gör de flesta här. Skicka din ankomsttid så står bilen och väntar i Kamares hamn, utan extra kostnad, och du kör i väg direkt när du stiger av."
+          }
         ],
         "nl": [
-          "Ferry naar Sifnos vanuit Athene",
-          "Naam van de ferryhaven van Sifnos",
-          "Zelfde dag ferry en autoverhuur Sifnos"
+          {
+            "q": "Hoe neem ik de veerboot naar Sifnos vanuit Athene?",
+            "a": "De veerboten vertrekken vanuit Piraeus, de haven van Athene, en doen er ongeveer twee tot vijf uur over, afhankelijk van of u een gewone veerboot of een snelle catamaran neemt. In de zomer varen ze dagelijks, van november tot maart flink minder."
+          },
+          {
+            "q": "Hoe heet de veerhaven van Sifnos?",
+            "a": "Kamares, aan de westkust. Alle veerboten naar het eiland meren daar aan, ongeveer tien minuten rijden van Apollonia, de hoofdplaats."
+          },
+          {
+            "q": "Kan ik met de veerboot aankomen en dezelfde dag een auto huren?",
+            "a": "Ja, dat is hier de gewoonte. Geef uw aankomsttijd door en de auto staat klaar in de haven van Kamares, zonder meerprijs, zodat u meteen kunt wegrijden."
+          }
         ]
       }
     },
@@ -251,39 +629,102 @@
       "guideSlug": "how-to-get-there",
       "queries": {
         "en": [
-          "How to get to Sifnos from Athens",
-          "Airport to Sifnos ferry",
-          "Best way to reach Sifnos"
+          {
+            "q": "How do I get to Sifnos from Athens?",
+            "a": "By sea only. Take a ferry from Piraeus, roughly two to five hours depending on the vessel, arriving at Kamares port on the west coast of the island."
+          },
+          {
+            "q": "Is there an airport on Sifnos, or do I fly and take a ferry?",
+            "a": "Sifnos has no airport, only a heliport. Fly into Athens, transfer to Piraeus, and continue by ferry, or connect via Milos airport and take the short island-hop ferry across."
+          },
+          {
+            "q": "What is the best way to reach Sifnos?",
+            "a": "A direct ferry from Piraeus is simplest. Allow a comfortable margin between your flight landing in Athens and the sailing, since the transfer to Piraeus takes about an hour and ferries do not wait."
+          }
         ],
         "el": [
-          "Πώς πάω στη Σίφνο από Αθήνα",
-          "Αεροδρόμιο προς ferry Σίφνου",
-          "Καλύτερος τρόπος για Σίφνο"
+          {
+            "q": "Πώς πάω στη Σίφνο από την Αθήνα;",
+            "a": "Μόνο ακτοπλοϊκώς. Πάρτε πλοίο από τον Πειραιά, περίπου δύο έως πέντε ώρες ανάλογα με το σκάφος, με άφιξη στο λιμάνι των Καμαρών στη δυτική πλευρά του νησιού."
+          },
+          {
+            "q": "Έχει αεροδρόμιο η Σίφνος ή χρειάζεται πλοίο;",
+            "a": "Η Σίφνος δεν έχει αεροδρόμιο, μόνο ελικοδρόμιο. Πετάτε στην Αθήνα, μεταβαίνετε στον Πειραιά και συνεχίζετε με πλοίο, ή περνάτε από το αεροδρόμιο της Μήλου και παίρνετε το κοντινό δρομολόγιο."
+          },
+          {
+            "q": "Ποιος είναι ο καλύτερος τρόπος να φτάσω στη Σίφνο;",
+            "a": "Το απευθείας πλοίο από τον Πειραιά είναι το απλούστερο. Αφήστε άνετο περιθώριο ανάμεσα στην προσγείωση στην Αθήνα και την αναχώρηση, καθώς η μεταφορά στον Πειραιά θέλει περίπου μία ώρα και τα πλοία δεν περιμένουν."
+          }
         ],
         "it": [
-          "Come arrivare a Sifnos da Atene",
-          "Dall'aeroporto al traghetto per Sifnos",
-          "Il modo migliore per raggiungere Sifnos"
+          {
+            "q": "Come si arriva a Sifnos da Atene?",
+            "a": "Solo via mare. Prendi un traghetto dal Pireo, da due a cinque ore circa secondo il tipo di nave, con arrivo al porto di Kamares sulla costa occidentale dell'isola."
+          },
+          {
+            "q": "C'è un aeroporto a Sifnos o serve il traghetto?",
+            "a": "Sifnos non ha aeroporto, solo un eliporto. Vola ad Atene, raggiungi il Pireo e prosegui in traghetto, oppure passa dall'aeroporto di Milos e prendi il breve collegamento tra le isole."
+          },
+          {
+            "q": "Qual è il modo migliore per raggiungere Sifnos?",
+            "a": "Il traghetto diretto dal Pireo è il più semplice. Lascia un margine ampio tra l'atterraggio ad Atene e la partenza, perché il trasferimento al Pireo richiede circa un'ora e i traghetti non aspettano."
+          }
         ],
         "fr": [
-          "Comment aller à Sifnos depuis Athènes",
-          "De l'aéroport au ferry pour Sifnos",
-          "Meilleur moyen d'atteindre Sifnos"
+          {
+            "q": "Comment se rendre à Sifnos depuis Athènes ?",
+            "a": "Uniquement par la mer. Prenez un ferry au Pirée, environ deux à cinq heures selon le navire, avec arrivée au port de Kamares sur la côte ouest de l'île."
+          },
+          {
+            "q": "Y a-t-il un aéroport à Sifnos, ou faut-il prendre le ferry ?",
+            "a": "Sifnos n'a pas d'aéroport, seulement un héliport. Atterrissez à Athènes, rejoignez Le Pirée et poursuivez en ferry, ou passez par l'aéroport de Milos et empruntez la courte liaison inter-îles."
+          },
+          {
+            "q": "Quel est le meilleur moyen de rejoindre Sifnos ?",
+            "a": "Le ferry direct depuis Le Pirée reste le plus simple. Prévoyez une marge confortable entre l'atterrissage à Athènes et le départ, car le transfert vers Le Pirée prend environ une heure et les ferries n'attendent pas."
+          }
         ],
         "de": [
-          "Wie komme ich von Athen nach Sifnos",
-          "Vom Flughafen zur Fähre nach Sifnos",
-          "Bester Weg nach Sifnos"
+          {
+            "q": "Wie komme ich von Athen nach Sifnos?",
+            "a": "Ausschließlich über das Meer. Nehmen Sie eine Fähre ab Piräus, je nach Schiff etwa zwei bis fünf Stunden, mit Ankunft im Hafen Kamares an der Westküste der Insel."
+          },
+          {
+            "q": "Gibt es auf Sifnos einen Flughafen, oder brauche ich die Fähre?",
+            "a": "Sifnos hat keinen Flughafen, nur einen Heliport. Fliegen Sie nach Athen, fahren Sie nach Piräus und weiter mit der Fähre, oder nutzen Sie den Flughafen Milos und die kurze Verbindung zwischen den Inseln."
+          },
+          {
+            "q": "Was ist der beste Weg nach Sifnos?",
+            "a": "Die Direktfähre ab Piräus ist am einfachsten. Planen Sie genug Puffer zwischen Landung in Athen und Abfahrt ein, denn der Transfer nach Piräus dauert rund eine Stunde und Fähren warten nicht."
+          }
         ],
         "sv": [
-          "Hur tar man sig till Sifnos från Aten",
-          "Från flygplatsen till färjan till Sifnos",
-          "Bästa sättet att nå Sifnos"
+          {
+            "q": "Hur tar jag mig till Sifnos från Aten?",
+            "a": "Enbart sjövägen. Ta en färja från Pireus, ungefär två till fem timmar beroende på fartyg, med ankomst till Kamares hamn på öns västkust."
+          },
+          {
+            "q": "Finns det flygplats på Sifnos, eller krävs färja?",
+            "a": "Sifnos har ingen flygplats, bara en helikopterplatta. Flyg till Aten, ta dig till Pireus och fortsätt med färja, eller res via Milos flygplats och ta den korta förbindelsen mellan öarna."
+          },
+          {
+            "q": "Vilket är bästa sättet att nå Sifnos?",
+            "a": "Direktfärjan från Pireus är enklast. Lämna god marginal mellan landningen i Aten och avgången, eftersom transfern till Pireus tar ungefär en timme och färjorna inte väntar."
+          }
         ],
         "nl": [
-          "Hoe kom je van Athene naar Sifnos",
-          "Van luchthaven naar ferry naar Sifnos",
-          "Beste manier om Sifnos te bereiken"
+          {
+            "q": "Hoe kom ik van Athene naar Sifnos?",
+            "a": "Alleen over zee. Neem een veerboot vanuit Piraeus, ongeveer twee tot vijf uur afhankelijk van het schip, met aankomst in de haven van Kamares aan de westkust van het eiland."
+          },
+          {
+            "q": "Heeft Sifnos een vliegveld, of moet ik de veerboot nemen?",
+            "a": "Sifnos heeft geen vliegveld, alleen een helihaven. Vlieg naar Athene, reis door naar Piraeus en ga verder met de veerboot, of reis via het vliegveld van Milos en neem de korte overtocht."
+          },
+          {
+            "q": "Wat is de beste manier om Sifnos te bereiken?",
+            "a": "De directe veerboot vanuit Piraeus is het eenvoudigst. Houd ruime marge tussen de landing in Athene en de afvaart, want de transfer naar Piraeus duurt ongeveer een uur en veerboten wachten niet."
+          }
         ]
       }
     },
@@ -292,39 +733,102 @@
       "guideSlug": "where-to-stay",
       "queries": {
         "en": [
-          "Where to stay in Sifnos",
-          "Apollonia vs Kamares hotels",
-          "Best area to stay Sifnos with a car"
+          {
+            "q": "Where should I stay in Sifnos?",
+            "a": "Apollonia for restaurants, nightlife and central access, Kamares for the port and a sandy family beach, Platys Gialos and Vathi for beachfront calm, Artemonas and Kastro for quiet character."
+          },
+          {
+            "q": "Apollonia or Kamares: which is better?",
+            "a": "Apollonia sits inland on the central ridge and puts you a short drive from everywhere, while Kamares is at sea level by the ferry and the beach. Apollonia suits exploring, Kamares suits arriving late or leaving early."
+          },
+          {
+            "q": "What is the best area to stay in Sifnos with a car?",
+            "a": "With a car the whole island opens up, so pick on atmosphere rather than convenience. Staying outside Apollonia is usually cheaper and quieter, and every beach is within a 25 minute drive."
+          }
         ],
         "el": [
-          "Πού να μείνω στη Σίφνο",
-          "Απολλωνία ή Καμάρες",
-          "Καλύτερη περιοχή με αυτοκίνητο"
+          {
+            "q": "Πού να μείνω στη Σίφνο;",
+            "a": "Απολλωνία για εστιατόρια, νυχτερινή ζωή και κεντρική πρόσβαση, Καμάρες για το λιμάνι και την αμμώδη οικογενειακή παραλία, Πλατύς Γιαλός και Βαθύ για ησυχία δίπλα στη θάλασσα, Αρτεμώνας και Κάστρο για χαρακτήρα και γαλήνη."
+          },
+          {
+            "q": "Απολλωνία ή Καμάρες;",
+            "a": "Η Απολλωνία βρίσκεται στο εσωτερικό, στην κεντρική ράχη, και σας φέρνει κοντά σε όλα με λίγα λεπτά οδήγησης, ενώ οι Καμάρες είναι στη θάλασσα δίπλα στο λιμάνι και την παραλία. Η Απολλωνία ταιριάζει για εξερεύνηση, οι Καμάρες για αργή άφιξη ή πρωινή αναχώρηση."
+          },
+          {
+            "q": "Ποια περιοχή είναι καλύτερη αν έχω αυτοκίνητο;",
+            "a": "Με αυτοκίνητο ανοίγει όλο το νησί, οπότε επιλέξτε με βάση την ατμόσφαιρα και όχι την ευκολία. Η διαμονή εκτός Απολλωνίας είναι συνήθως φθηνότερη και πιο ήσυχη, ενώ κάθε παραλία απέχει το πολύ 25 λεπτά."
+          }
         ],
         "it": [
-          "Dove soggiornare a Sifnos",
-          "Hotel Apollonia o Kamares",
-          "La zona migliore a Sifnos con un'auto"
+          {
+            "q": "Dove alloggiare a Sifnos?",
+            "a": "Apollonia per ristoranti, vita serale e posizione centrale, Kamares per il porto e la spiaggia sabbiosa adatta alle famiglie, Platys Gialos e Vathi per la calma fronte mare, Artemonas e Kastro per carattere e tranquillità."
+          },
+          {
+            "q": "Meglio Apollonia o Kamares?",
+            "a": "Apollonia sorge nell'entroterra sul crinale centrale e ti lascia a pochi minuti d'auto da ovunque, mentre Kamares è sul mare accanto al traghetto e alla spiaggia. Apollonia è ideale per esplorare, Kamares per arrivi tardi o partenze presto."
+          },
+          {
+            "q": "Qual è la zona migliore avendo un'auto?",
+            "a": "Con l'auto tutta l'isola si apre, quindi scegli per atmosfera più che per comodità. Alloggiare fuori Apollonia costa in genere meno ed è più tranquillo, e ogni spiaggia è entro 25 minuti di guida."
+          }
         ],
         "fr": [
-          "Où séjourner à Sifnos",
-          "Hôtels Apollonia ou Kamares",
-          "Meilleur quartier à Sifnos avec une voiture"
+          {
+            "q": "Où dormir à Sifnos ?",
+            "a": "Apollonia pour les restaurants, la vie nocturne et la position centrale, Kamares pour le port et sa plage de sable familiale, Platys Gialos et Vathi pour le calme en bord de mer, Artemonas et Kastro pour le caractère et la tranquillité."
+          },
+          {
+            "q": "Apollonia ou Kamares ?",
+            "a": "Apollonia se situe à l'intérieur des terres sur la crête centrale et vous met à quelques minutes de tout, tandis que Kamares est au bord de l'eau, près du ferry et de la plage. Apollonia convient pour explorer, Kamares pour arriver tard ou partir tôt."
+          },
+          {
+            "q": "Quel quartier privilégier avec une voiture ?",
+            "a": "Avec une voiture, toute l'île s'ouvre à vous : choisissez donc l'ambiance plutôt que la commodité. Se loger hors d'Apollonia revient généralement moins cher et plus calme, et chaque plage est à moins de 25 minutes."
+          }
         ],
         "de": [
-          "Wo übernachten auf Sifnos",
-          "Hotels Apollonia oder Kamares",
-          "Beste Gegend auf Sifnos mit Auto"
+          {
+            "q": "Wo soll ich auf Sifnos übernachten?",
+            "a": "Apollonia für Restaurants, Abendleben und zentrale Lage, Kamares für Hafen und familienfreundlichen Sandstrand, Platys Gialos und Vathi für Ruhe direkt am Meer, Artemonas und Kastro für Charakter und Stille."
+          },
+          {
+            "q": "Apollonia oder Kamares?",
+            "a": "Apollonia liegt im Landesinneren auf dem zentralen Bergrücken und bringt Sie in wenigen Minuten überallhin, Kamares dagegen direkt am Wasser bei Fähre und Strand. Apollonia eignet sich zum Erkunden, Kamares für späte Ankunft oder frühe Abreise."
+          },
+          {
+            "q": "Welche Gegend ist mit Auto am besten?",
+            "a": "Mit dem Auto steht Ihnen die ganze Insel offen, wählen Sie also nach Atmosphäre statt nach Bequemlichkeit. Unterkünfte außerhalb Apollonias sind meist günstiger und ruhiger, und jeder Strand liegt höchstens 25 Fahrminuten entfernt."
+          }
         ],
         "sv": [
-          "Var ska man bo på Sifnos",
-          "Hotell Apollonia eller Kamares",
-          "Bästa området att bo på Sifnos med bil"
+          {
+            "q": "Var ska jag bo på Sifnos?",
+            "a": "Apollonia för restauranger, kvällsliv och centralt läge, Kamares för hamnen och den barnvänliga sandstranden, Platys Gialos och Vathi för lugn vid havet, Artemonas och Kastro för karaktär och stillhet."
+          },
+          {
+            "q": "Apollonia eller Kamares?",
+            "a": "Apollonia ligger inåt land på den centrala åsen och ger dig några minuters bilfärd till allt, medan Kamares ligger vid vattnet intill färjan och stranden. Apollonia passar för utforskande, Kamares för sen ankomst eller tidig avresa."
+          },
+          {
+            "q": "Vilket område är bäst om jag har bil?",
+            "a": "Med bil öppnar sig hela ön, så välj efter atmosfär snarare än bekvämlighet. Boende utanför Apollonia är oftast billigare och lugnare, och varje strand ligger inom 25 minuters körning."
+          }
         ],
         "nl": [
-          "Waar te verblijven op Sifnos",
-          "Hotels Apollonia of Kamares",
-          "Beste gebied om te verblijven op Sifnos met auto"
+          {
+            "q": "Waar kun je het beste verblijven op Sifnos?",
+            "a": "Apollonia voor restaurants, avondleven en een centrale ligging, Kamares voor de haven en het zandstrand voor gezinnen, Platys Gialos en Vathi voor rust aan zee, Artemonas en Kastro voor karakter en stilte."
+          },
+          {
+            "q": "Apollonia of Kamares?",
+            "a": "Apollonia ligt landinwaarts op de centrale bergrug en brengt u binnen enkele minuten overal, terwijl Kamares aan het water ligt bij de veerboot en het strand. Apollonia is fijn om te verkennen, Kamares bij late aankomst of vroeg vertrek."
+          },
+          {
+            "q": "Welk gebied is het beste met een auto?",
+            "a": "Met een auto ligt het hele eiland open, dus kies op sfeer in plaats van gemak. Buiten Apollonia verblijven is doorgaans goedkoper en rustiger, en elk strand ligt binnen 25 minuten rijden."
+          }
         ]
       }
     },
@@ -333,39 +837,102 @@
       "guideSlug": "things-to-do",
       "queries": {
         "en": [
-          "Things to do in Sifnos",
-          "Sifnos beaches and villages itinerary",
-          "Chrysopigi how to visit"
+          {
+            "q": "What are the best things to do in Sifnos?",
+            "a": "Walk the old stone footpaths between villages, eat your way through the island's celebrated pottery-baked cooking, swim at Chrysopigi and Vathi, and climb to Kastro for the sunset over the Aegean."
+          },
+          {
+            "q": "What is a good beaches and villages itinerary for Sifnos?",
+            "a": "Give yourself three days: Apollonia, Artemonas and Kastro on day one, Platys Gialos, Faros and Chrysopigi on day two, then Vathi and the north including Cherronisos on day three."
+          },
+          {
+            "q": "How do I visit Chrysopigi?",
+            "a": "Drive towards Faros and follow the monastery signs, about 15 minutes from Apollonia. Park above the chapel, walk down to the causeway, and swim from the rocks or the neighbouring Apokofto beach."
+          }
         ],
         "el": [
-          "Τι να κάνω στη Σίφνο",
-          "Παραλίες και χωριά Σίφνου",
-          "Πώς να πάω στη Χρυσοπηγή"
+          {
+            "q": "Τι αξίζει να δεις στη Σίφνο;",
+            "a": "Περπατήστε τα παλιά λιθόστρωτα μονοπάτια ανάμεσα στα χωριά, δοκιμάστε τη φημισμένη μαγειρική σε πήλινα σκεύη, κολυμπήστε στη Χρυσοπηγή και στο Βαθύ και ανεβείτε στο Κάστρο για το ηλιοβασίλεμα πάνω από το Αιγαίο."
+          },
+          {
+            "q": "Ποιο είναι ένα καλό δρομολόγιο για παραλίες και χωριά;",
+            "a": "Δώστε τρεις μέρες: Απολλωνία, Αρτεμώνας και Κάστρο την πρώτη, Πλατύς Γιαλός, Φάρος και Χρυσοπηγή τη δεύτερη, Βαθύ και ο βορράς με τη Χερρόνησο την τρίτη."
+          },
+          {
+            "q": "Πώς επισκέπτομαι τη Χρυσοπηγή;",
+            "a": "Οδηγήστε προς τον Φάρο και ακολουθήστε τις πινακίδες για το μοναστήρι, περίπου 15 λεπτά από την Απολλωνία. Παρκάρετε πάνω από το εκκλησάκι, κατεβείτε ως το πέρασμα και κολυμπήστε από τα βράχια ή στη διπλανή παραλία του Αποκοφτού."
+          }
         ],
         "it": [
-          "Cose da fare a Sifnos",
-          "Itinerario spiagge e villaggi di Sifnos",
-          "Come visitare Chrysopigi"
+          {
+            "q": "Cosa fare a Sifnos?",
+            "a": "Percorri gli antichi sentieri lastricati tra i villaggi, assaggia la celebre cucina cotta nelle terrecotte dell'isola, nuota a Chrysopigi e a Vathi e sali a Kastro per il tramonto sull'Egeo."
+          },
+          {
+            "q": "Qual è un buon itinerario tra spiagge e villaggi?",
+            "a": "Concediti tre giorni: Apollonia, Artemonas e Kastro il primo, Platys Gialos, Faros e Chrysopigi il secondo, poi Vathi e il nord con Cherronisos il terzo."
+          },
+          {
+            "q": "Come si visita Chrysopigi?",
+            "a": "Guida verso Faros seguendo le indicazioni per il monastero, circa 15 minuti da Apollonia. Parcheggia sopra la cappella, scendi fino all'istmo e fai il bagno dagli scogli o nella vicina spiaggia di Apokofto."
+          }
         ],
         "fr": [
-          "Que faire à Sifnos",
-          "Itinéraire plages et villages de Sifnos",
-          "Comment visiter Chrysopigi"
+          {
+            "q": "Que faire à Sifnos ?",
+            "a": "Empruntez les vieux sentiers pavés entre les villages, goûtez la fameuse cuisine cuite dans les poteries de l'île, baignez-vous à Chrysopigi et à Vathi, et montez à Kastro pour le coucher de soleil sur la mer Égée."
+          },
+          {
+            "q": "Quel itinéraire entre plages et villages ?",
+            "a": "Comptez trois jours : Apollonia, Artemonas et Kastro le premier, Platys Gialos, Faros et Chrysopigi le deuxième, puis Vathi et le nord avec Cherronisos le troisième."
+          },
+          {
+            "q": "Comment visiter Chrysopigi ?",
+            "a": "Roulez vers Faros en suivant les panneaux du monastère, environ 15 minutes depuis Apollonia. Garez-vous au-dessus de la chapelle, descendez jusqu'à l'isthme et baignez-vous depuis les rochers ou à la plage voisine d'Apokofto."
+          }
         ],
         "de": [
-          "Aktivitäten auf Sifnos",
-          "Sifnos Strände und Dörfer Reiseplan",
-          "Chrysopigi besuchen: so geht's"
+          {
+            "q": "Was kann man auf Sifnos unternehmen?",
+            "a": "Wandern Sie auf den alten Steinpfaden zwischen den Dörfern, probieren Sie die berühmte, in Tongefäßen gegarte Inselküche, schwimmen Sie in Chrysopigi und Vathi und steigen Sie für den Sonnenuntergang über der Ägäis nach Kastro hinauf."
+          },
+          {
+            "q": "Wie sieht eine gute Route zu Stränden und Dörfern aus?",
+            "a": "Nehmen Sie sich drei Tage: Apollonia, Artemonas und Kastro am ersten, Platys Gialos, Faros und Chrysopigi am zweiten, dann Vathi und der Norden mit Cherronisos am dritten."
+          },
+          {
+            "q": "Wie besuche ich Chrysopigi?",
+            "a": "Fahren Sie Richtung Faros und folgen Sie den Klosterschildern, etwa 15 Minuten ab Apollonia. Parken Sie oberhalb der Kapelle, gehen Sie hinunter zur Landbrücke und schwimmen Sie von den Felsen oder am benachbarten Strand Apokofto."
+          }
         ],
         "sv": [
-          "Saker att göra på Sifnos",
-          "Resplan för Sifnos stränder och byar",
-          "Hur man besöker Chrysopigi"
+          {
+            "q": "Vad kan man göra på Sifnos?",
+            "a": "Vandra de gamla stenlagda stigarna mellan byarna, ät dig igenom öns berömda lergodsbakade matlagning, bada vid Chrysopigi och Vathi och gå upp till Kastro för solnedgången över Egeiska havet."
+          },
+          {
+            "q": "Hur ser en bra rutt bland stränder och byar ut?",
+            "a": "Ge dig tre dagar: Apollonia, Artemonas och Kastro första dagen, Platys Gialos, Faros och Chrysopigi den andra, sedan Vathi och norra delen med Cherronisos den tredje."
+          },
+          {
+            "q": "Hur besöker jag Chrysopigi?",
+            "a": "Kör mot Faros och följ skyltarna mot klostret, ungefär 15 minuter från Apollonia. Parkera ovanför kapellet, gå ner till näset och bada från klipporna eller vid grannstranden Apokofto."
+          }
         ],
         "nl": [
-          "Dingen om te doen op Sifnos",
-          "Route langs stranden en dorpen van Sifnos",
-          "Hoe bezoek je Chrysopigi"
+          {
+            "q": "Wat is er te doen op Sifnos?",
+            "a": "Loop de oude geplaveide paden tussen de dorpen, proef de befaamde in aardewerk gegaarde keuken van het eiland, zwem bij Chrysopigi en Vathi en klim naar Kastro voor de zonsondergang boven de Egeïsche Zee."
+          },
+          {
+            "q": "Wat is een goede route langs stranden en dorpen?",
+            "a": "Neem er drie dagen voor: Apollonia, Artemonas en Kastro op dag één, Platys Gialos, Faros en Chrysopigi op dag twee, en Vathi met het noorden inclusief Cherronisos op dag drie."
+          },
+          {
+            "q": "Hoe bezoek ik Chrysopigi?",
+            "a": "Rijd richting Faros en volg de borden naar het klooster, ongeveer 15 minuten vanaf Apollonia. Parkeer boven de kapel, loop omlaag naar de landengte en zwem vanaf de rotsen of bij het naastgelegen strand Apokofto."
+          }
         ]
       }
     },
@@ -374,39 +941,102 @@
       "guideSlug": "scooter-rental-sifnos",
       "queries": {
         "en": [
-          "Can I rent a scooter in Sifnos right now?",
-          "Where do I collect a scooter in Sifnos?",
-          "Is a scooter or car better on Sifnos?"
+          {
+            "q": "Can I rent a scooter in Sifnos?",
+            "a": "Yes. We keep SYM Symphony 125, 150 and 200 machines plus Fiddle and JET4 125s, with helmets and third-party insurance included. Message us for current availability before you travel."
+          },
+          {
+            "q": "Where do I collect a scooter in Sifnos?",
+            "a": "Scooters are handed over at our Apollonia office only. Unlike our cars we cannot deliver them to Kamares port, so plan to reach Apollonia first by bus, taxi or on foot."
+          },
+          {
+            "q": "Is a scooter or a car better on Sifnos?",
+            "a": "A scooter is cheap, easy to park in the villages and fine for short hops in settled weather. A car wins for luggage, families, the meltemi wind and any beach with a rough or steep access road."
+          }
         ],
         "el": [
-          "Μπορώ να νοικιάσω scooter στη Σίφνο τώρα;",
-          "Πού παραλαμβάνω scooter στη Σίφνο;",
-          "Καλύτερα scooter ή αυτοκίνητο στη Σίφνο;"
+          {
+            "q": "Μπορώ να νοικιάσω μηχανάκι στη Σίφνο;",
+            "a": "Ναι. Διαθέτουμε SYM Symphony 125, 150 και 200, καθώς και Fiddle και JET4 125, με κράνη και ασφάλεια αστικής ευθύνης. Επικοινωνήστε μαζί μας για τη διαθεσιμότητα πριν το ταξίδι."
+          },
+          {
+            "q": "Από πού παραλαμβάνω μηχανάκι στη Σίφνο;",
+            "a": "Τα μηχανάκια παραδίδονται μόνο από το γραφείο μας στην Απολλωνία. Σε αντίθεση με τα αυτοκίνητα δεν μπορούμε να τα φέρουμε στο λιμάνι των Καμαρών, οπότε φτάστε πρώτα στην Απολλωνία."
+          },
+          {
+            "q": "Μηχανάκι ή αυτοκίνητο στη Σίφνο;",
+            "a": "Το μηχανάκι είναι οικονομικό, παρκάρει εύκολα στα χωριά και αρκεί για σύντομες διαδρομές με καλό καιρό. Το αυτοκίνητο υπερτερεί με αποσκευές, οικογένειες, μελτέμι και σε κάθε παραλία με δύσβατο ή απότομο δρόμο."
+          }
         ],
         "it": [
-          "Posso noleggiare uno scooter a Sifnos adesso?",
-          "Dove ritiro uno scooter a Sifnos?",
-          "Meglio scooter o auto a Sifnos?"
+          {
+            "q": "Posso noleggiare uno scooter a Sifnos?",
+            "a": "Sì. Abbiamo SYM Symphony 125, 150 e 200 oltre a Fiddle e JET4 125, con caschi e responsabilità civile inclusi. Scrivici per la disponibilità aggiornata prima di partire."
+          },
+          {
+            "q": "Dove si ritira uno scooter a Sifnos?",
+            "a": "Gli scooter si consegnano solo presso il nostro ufficio di Apollonia. A differenza delle auto non possiamo portarli al porto di Kamares, quindi raggiungi prima Apollonia."
+          },
+          {
+            "q": "Meglio scooter o auto a Sifnos?",
+            "a": "Lo scooter costa poco, si parcheggia facilmente nei villaggi e basta per brevi spostamenti con tempo stabile. L'auto vince con bagagli, famiglie, vento meltemi e per ogni spiaggia con accesso sconnesso o ripido."
+          }
         ],
         "fr": [
-          "Puis-je louer un scooter à Sifnos maintenant ?",
-          "Où récupérer un scooter à Sifnos ?",
-          "Mieux vaut scooter ou voiture à Sifnos ?"
+          {
+            "q": "Puis-je louer un scooter à Sifnos ?",
+            "a": "Oui. Nous proposons des SYM Symphony 125, 150 et 200 ainsi que des Fiddle et JET4 125, casques et responsabilité civile compris. Écrivez-nous pour connaître les disponibilités avant votre voyage."
+          },
+          {
+            "q": "Où récupérer un scooter à Sifnos ?",
+            "a": "Les scooters sont remis uniquement à notre bureau d'Apollonia. Contrairement aux voitures, nous ne pouvons pas les livrer au port de Kamares : rejoignez donc d'abord Apollonia."
+          },
+          {
+            "q": "Scooter ou voiture à Sifnos ?",
+            "a": "Le scooter est économique, facile à garer dans les villages et suffisant pour de courts trajets par temps stable. La voiture l'emporte avec des bagages, en famille, par vent meltem et pour toute plage à accès pentu ou dégradé."
+          }
         ],
         "de": [
-          "Kann ich jetzt einen Roller auf Sifnos mieten?",
-          "Wo hole ich einen Roller auf Sifnos ab?",
-          "Besser Roller oder Auto auf Sifnos?"
+          {
+            "q": "Kann ich auf Sifnos einen Roller mieten?",
+            "a": "Ja. Wir haben SYM Symphony 125, 150 und 200 sowie Fiddle und JET4 125, Helme und Haftpflicht inklusive. Schreiben Sie uns vor der Anreise wegen der aktuellen Verfügbarkeit."
+          },
+          {
+            "q": "Wo hole ich einen Roller auf Sifnos ab?",
+            "a": "Roller werden ausschließlich in unserem Büro in Apollonia übergeben. Anders als Autos können wir sie nicht zum Hafen Kamares bringen, kommen Sie also zuerst nach Apollonia."
+          },
+          {
+            "q": "Roller oder Auto auf Sifnos?",
+            "a": "Ein Roller ist günstig, in den Dörfern leicht zu parken und für kurze Strecken bei ruhigem Wetter völlig ausreichend. Das Auto gewinnt bei Gepäck, Familien, Meltemi-Wind und an jedem Strand mit rauer oder steiler Zufahrt."
+          }
         ],
         "sv": [
-          "Kan jag hyra scooter på Sifnos just nu?",
-          "Var hämtar jag en scooter på Sifnos?",
-          "Bättre scooter eller bil på Sifnos?"
+          {
+            "q": "Kan jag hyra scooter på Sifnos?",
+            "a": "Ja. Vi har SYM Symphony 125, 150 och 200 samt Fiddle och JET4 125, med hjälmar och trafikförsäkring inkluderat. Hör av dig om aktuell tillgänglighet innan du reser."
+          },
+          {
+            "q": "Var hämtar jag en scooter på Sifnos?",
+            "a": "Scootrar lämnas endast ut på vårt kontor i Apollonia. Till skillnad från bilarna kan vi inte köra ut dem till Kamares hamn, så ta dig först till Apollonia."
+          },
+          {
+            "q": "Scooter eller bil på Sifnos?",
+            "a": "En scooter är billig, lätt att parkera i byarna och räcker för korta turer i stabilt väder. Bilen vinner med bagage, familj, meltemivind och vid varje strand med gropig eller brant tillfartsväg."
+          }
         ],
         "nl": [
-          "Kan ik nu een scooter huren op Sifnos?",
-          "Waar haal ik een scooter op Sifnos op?",
-          "Beter scooter of auto op Sifnos?"
+          {
+            "q": "Kan ik een scooter huren op Sifnos?",
+            "a": "Ja. We hebben SYM Symphony 125, 150 en 200 plus Fiddle en JET4 125, inclusief helmen en WA-verzekering. Stuur ons een bericht voor de actuele beschikbaarheid voordat u reist."
+          },
+          {
+            "q": "Waar haal ik een scooter op op Sifnos?",
+            "a": "Scooters worden alleen bij ons kantoor in Apollonia overgedragen. Anders dan bij auto's kunnen we ze niet naar de haven van Kamares brengen, dus reis eerst naar Apollonia."
+          },
+          {
+            "q": "Scooter of auto op Sifnos?",
+            "a": "Een scooter is goedkoop, makkelijk te parkeren in de dorpen en prima voor korte ritjes bij rustig weer. De auto wint bij bagage, gezinnen, meltemi-wind en bij elk strand met een ruwe of steile toegangsweg."
+          }
         ]
       }
     }

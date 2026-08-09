@@ -14,6 +14,29 @@ export function absoluteUrl(locale: Locale, path = "") {
   return `${SITE_URL}${localePath(locale, path)}`;
 }
 
+/**
+ * Google truncates the title link by pixel width on mobile, and titles it leaves
+ * alone run noticeably shorter than the ones it rewrites. Since Google also shows
+ * the site name separately above the result, an unconditional " | Artemis Rental"
+ * spends ~17 of a ~60 character budget on something often already on screen.
+ *
+ * So the brand is appended only when it fits:
+ *   auto   - append when the total stays within TITLE_MAX (default)
+ *   always - commercial and home pages, where the brand earns its place
+ *   never  - the title already carries the brand
+ */
+export const BRAND_SUFFIX = " | Artemis Rental";
+const TITLE_MAX = 60;
+
+export function withBrand(title: string, mode: "auto" | "always" | "never" = "auto") {
+  if (mode === "never") return title;
+  if (title.includes("Artemis")) return title;
+  if (mode === "always") return `${title}${BRAND_SUFFIX}`;
+  return title.length + BRAND_SUFFIX.length <= TITLE_MAX
+    ? `${title}${BRAND_SUFFIX}`
+    : title;
+}
+
 export function buildMetadata({
   locale,
   title,
@@ -21,6 +44,7 @@ export function buildMetadata({
   path = "",
   image = "/images/brand/hero-sifnos.jpg",
   type = "website",
+  brand = "auto",
 }: {
   locale: Locale;
   title: string;
@@ -28,8 +52,10 @@ export function buildMetadata({
   path?: string;
   image?: string;
   type?: "website" | "article";
+  brand?: "auto" | "always" | "never";
 }): Metadata {
   const url = absoluteUrl(locale, path);
+  title = withBrand(title, brand);
   const ogImage = image.startsWith("http") ? image : `${SITE_URL}${image}`;
   const languages = hreflangLanguages(path, absoluteUrl);
 
@@ -67,7 +93,30 @@ export function jsonLdScript(data: Record<string, unknown> | Record<string, unkn
   };
 }
 
+/**
+ * Google Business Profile rating, emitted only when real values are present in
+ * content/data/business.json. Never populate this with estimated numbers:
+ * fabricated review data is a structured-data policy violation.
+ */
+function aggregateRatingJsonLd() {
+  const rating = (
+    business as { rating?: { value?: number | null; count?: number | null } }
+  ).rating;
+  if (!rating || typeof rating.value !== "number" || typeof rating.count !== "number") {
+    return undefined;
+  }
+  if (rating.count < 1) return undefined;
+  return {
+    "@type": "AggregateRating",
+    ratingValue: rating.value,
+    reviewCount: rating.count,
+    bestRating: 5,
+    worstRating: 1,
+  };
+}
+
 export function businessJsonLd(description?: string) {
+  const aggregateRating = aggregateRatingJsonLd();
   return {
     "@type": "AutoRental",
     "@id": `${SITE_URL}/#business`,
@@ -96,6 +145,7 @@ export function businessJsonLd(description?: string) {
     ],
     priceRange: business.priceRange,
     foundingDate: String(business.since),
+    ...(aggregateRating ? { aggregateRating } : {}),
   };
 }
 

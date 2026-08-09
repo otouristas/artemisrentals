@@ -9,6 +9,7 @@
     "cars": "Bilar",
     "scooters": "Scootrar",
     "rates": "Priser",
+    "reviews": "Omdömen",
     "guide": "Sifnos-guide",
     "guideHub": "Öguide-hubb",
     "guideHowToGet": "Hur du tar dig hit",
@@ -77,6 +78,10 @@
     "carsLead": "Kompakta och automatiska bilar för par och familjer på Sifnos. Gratis upphämtning i Kamares, helikopterplatta, Apollonia, Artemonas och Kastro. Ingen förskottsbetalning.",
     "scootersTitle": "Hyr scooter på Sifnos",
     "scootersLead": "SYM-scootrar från Apollonia-kontoret. Onlinebokning av scooter är tillfälligt otillgänglig.",
+    "vehicleTitle": "Hyr {name} på Sifnos | Artemis Rental",
+    "vehicleDescription": "Hyr en {name} på Sifnos hos Artemis Rental. Gratis upphämtning i Kamares hamn och i Apollonia, ingen förskottsbetalning.",
+    "scooterTitle": "Hyr {name} scooter på Sifnos | Artemis Rental",
+    "scooterDescription": "Hyr en {name} scooter på Sifnos hos Artemis Rental. Upphämtning på kontoret i Apollonia, hjälmar ingår, familjeföretag sedan 1988.",
     "fromDay": "Från €{price}/dag",
     "todayFrom": "€{price}/dag denna säsong",
     "contactForPrice": "Fråga om dagspris",
@@ -125,7 +130,7 @@
     "vehicle": "Fordon",
     "carsHeading": "Bilar",
     "scootersHeading": "Scootrar",
-    "scootersNote": "Scooterpriser gäller mid/peak (11 jun – 10 sep). Scooterbokning är tillfälligt otillgänglig.",
+    "scootersNote": "Scooterpriser gäller under mellan- och högsäsong (11 jun – 10 sep). Scooterbokning är tillfälligt otillgänglig.",
     "note": "Ingen förskottsbetalning krävs för att reservera. Vi bekräftar via telefon, WhatsApp eller e-post.",
     "cta": "Kontrollera tillgänglighet",
     "now": "Nu"
@@ -209,7 +214,7 @@
     "estimatedTotal": "Uppskattad total ~€{total}",
     "estimateLabel": "Uppskattad total",
     "estimateDisclaimer": "Endast indikativt pris. Vi bekräftar slutpris och tillgänglighet via telefon, WhatsApp eller e-post.",
-    "whatsappAckHint": "Om du har WhatsApp skickar Artemis även en kort bekräftelse till din telefon. Inget WhatsApp går bra — vi svarar via e-post eller telefon."
+    "whatsappAckHint": "Om du har WhatsApp skickar Artemis även en kort bekräftelse till din telefon. Inget WhatsApp går bra, vi svarar via e-post eller telefon."
   },
   "Guide": {
     "title": "Sifnos-guide",
@@ -443,5 +448,92 @@
     "scootersFaq2A": "När bokningen öppnar igen, endast vid Apollonia-kontoret.",
     "scootersFaq3Q": "Bättre bil eller scooter på Sifnos?",
     "scootersFaq3A": "Familjer och bagage behöver oftast bil. Scootrar hjälper för korta sträckor när de finns."
+  },
+  "Reviews": {
+    "title": "Vad våra kunder säger",
+    "lead": "Varje omdöme nedan är ett äkta Google-omdöme om Artemis Rental, återgivet exakt som det skrevs. Vi redigerar dem inte och vi skriver dem inte.",
+    "eyebrow": "Google-omdömen",
+    "homeTitle": "Betyget {rating} på Google",
+    "basedOn": "{count} Google-omdömen",
+    "starsLabel": "{rating} av 5 stjärnor",
+    "viewOnGoogle": "Läs dem på Google",
+    "writeReview": "Skriv ett omdöme",
+    "verified": "Verifierat Google-omdöme",
+    "localGuide": "Local Guide",
+    "ratingOnly": "Betyg utan skriven kommentar.",
+    "readMore": "Läs mer",
+    "readLess": "Läs mindre",
+    "translatedBy": "Översatt av Google från {lang}",
+    "sortLabel": "Sortera",
+    "sortNewest": "Nyaste",
+    "sortOldest": "Äldsta",
+    "filterLanguage": "Språk",
+    "allLanguages": "Alla",
+    "showingOf": "Visar {shown} av {total}",
+    "loadMore": "Visa fler omdömen",
+    "seeAll": "Se alla {count} omdömen",
+    "vehicleTitle": "Vad hyrgäster säger",
+    "lang": {
+      "el": "grekiska",
+      "en": "engelska"
+    }
+  },
+  "Seo": {
+    "home": {
+      "title": "Hyr bil på Sifnos",
+      "description": "Hyr bil på Sifnos av ett familjeföretag i Apollonia, verksamt sedan 1988. Kostnadsfri upphämtning i Kamares hamn och ingen förskottsbetalning vid bokning."
+    },
+    "cars": {
+      "title": "Biluthyrning på Sifnos",
+      "description": "Småbilar, automatlådor och familjebilar anpassade för Sifnos vägar, servade lokalt. Kostnadsfri utkörning till Kamares och Apollonia, utan deposition."
+    },
+    "scooters": {
+      "title": "Hyr scooter på Sifnos",
+      "description": "SYM-scootrar för korta turer på ön, hämtas på vårt kontor i Apollonia med hjälmar och trafikförsäkring inkluderat. Hör av dig om aktuell tillgänglighet."
+    },
+    "rates": {
+      "title": "Priser för biluthyrning Sifnos",
+      "description": "Publicerade dygnspriser per säsong för biluthyrning på Sifnos, med aktuell period markerad. Inga dolda avgifter och ingen förskottsbetalning vid bokning."
+    },
+    "book": {
+      "title": "Boka bil på Sifnos",
+      "description": "Skicka dina datum och önskat fordon så svarar vi med verklig tillgänglighet. Ingen förskottsbetalning, inga kortuppgifter och gratis upphämtning i Kamares."
+    },
+    "guide": {
+      "title": "Sifnos reseguide: stränder, färjor, byar",
+      "description": "Allt för att planera Sifnos: färjor från Pireus, de bästa stränderna, var du bor, vad du gör och hur du tar dig runt på ön. Tydliga svar från början."
+    },
+    "blog": {
+      "title": "Restips och hyrbilsråd för Sifnos",
+      "description": "Praktiska artiklar om att köra på Sifnos, säsongspriser, stränder som är värda resan, körkortsregler för scooter och ankomsten till Kamares hamn med bil."
+    },
+    "faq": {
+      "title": "Frågor om biluthyrning på Sifnos",
+      "description": "Raka svar om ålder, körkort, försäkring, deposition, upphämtningsplatser och vad som händer när färjan är försenad. Familjeföretag i Apollonia sedan 1988."
+    },
+    "about": {
+      "title": "Om Artemis Rental, Sifnos sedan 1988",
+      "description": "Ett familjeföretag för bil- och scooteruthyrning i Apollonia på Sifnos, i samma familj sedan 1988. Välskötta fordon, rimliga priser och lokal hjälp."
+    },
+    "reviews": {
+      "title": "Omdömen om Artemis Rental, Sifnos",
+      "description": "Äkta Google-omdömen om Artemis Rental på Sifnos, återgivna exakt som resenärerna skrev dem. Betyget 5,0 baserat på 11 publicerade omdömen från gäster."
+    },
+    "terms": {
+      "title": "Hyrvillkor, Artemis Rental Sifnos",
+      "description": "Åldersgräns, krav på körkort, trafikförsäkring, bränslepolicy, platser för upphämtning och återlämning samt avbokning för bil- och scooteruthyrning."
+    },
+    "privacy": {
+      "title": "Integritetspolicy, Artemis Sifnos",
+      "description": "Hur Artemis Rental samlar in, använder och lagrar personuppgifter när du besöker webbplatsen, skickar en förfrågan eller hyr bil eller scooter på Sifnos."
+    },
+    "cookies": {
+      "title": "Cookiepolicy, Artemis Rental Sifnos",
+      "description": "Vilka cookies den här webbplatsen använder, varför analysverktyg laddas först efter ditt samtycke och hur du när som helst ändrar eller återkallar ditt val."
+    },
+    "gdpr": {
+      "title": "GDPR och dina rättigheter, Sifnos",
+      "description": "Dina rättigheter enligt EU:s dataskyddsförordning gentemot Artemis Rental på Sifnos, och hur du begär tillgång, rättelse eller radering av dina uppgifter."
+    }
   }
 }

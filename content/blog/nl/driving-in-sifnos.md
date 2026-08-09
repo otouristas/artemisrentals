@@ -1,7 +1,7 @@
 ---
 slug: driving-in-sifnos
 title: "Rijden op Sifnos: wegen, parkeren en lokale tips"
-description: "Wat je kunt verwachten bij rijden op Sifnos: smalle lanen, hellingen, strandparkeren en hoe Artemis-ophalen in Apollonia helpt."
+description: "Wat je kunt verwachten bij rijden op Sifnos: smalle lanen, hellingen, strandparkeren en hoe Artemis-ophalen in Apollonia helpt. Van Artemis Rental."
 datePublished: "2026-07-03"
 dateModified: "2026-07-11"
 cover: "/images/blog/driving-in-sifnos-cover.jpg"
@@ -53,4 +53,4 @@ Neem rijbewijs en paspoort mee, stel spiegels af vóór je Apollonias eenrichtin
 
 Vragen over een specifieke route of voertuiggrootte? [Boek bij Artemis](/nl/book) en beschrijf je hotelbasis en veertijden. Een korte WhatsApp-wisseling wint van gissen of een Panda of Ignis beter bij je week past.
 
-Need a car for these roads? [Rent a car in Sifnos](/nl/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/nl/rates).
+Hebt u een auto nodig voor deze wegen? [Huur een auto op Sifnos](/nl/sifnos-guide/rent-a-car-sifnos) of [bekijk de seizoenstarieven](/nl/rates).

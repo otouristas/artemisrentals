@@ -9,6 +9,7 @@
     "cars": "Autos",
     "scooters": "Roller",
     "rates": "Preise",
+    "reviews": "Bewertungen",
     "guide": "Sifnos-Guide",
     "guideHub": "Inselguide-Übersicht",
     "guideHowToGet": "Anreise",
@@ -77,6 +78,10 @@
     "carsLead": "Kompakte und Automatik-Autos für Paare und Familien auf Sifnos. Kostenlose Abholung in Kamares, Heliport, Apollonia, Artemonas und Kastro. Keine Vorauszahlung.",
     "scootersTitle": "Roller mieten auf Sifnos",
     "scootersLead": "SYM-Roller vom Apollonia-Schalter. Online-Buchung für Roller ist vorübergehend nicht verfügbar.",
+    "vehicleTitle": "{name} mieten auf Sifnos | Artemis Rental",
+    "vehicleDescription": "{name} auf Sifnos mieten bei Artemis Rental. Kostenlose Abholung im Hafen Kamares und in Apollonia, keine Vorauszahlung.",
+    "scooterTitle": "{name} Roller mieten auf Sifnos | Artemis Rental",
+    "scooterDescription": "{name} Roller auf Sifnos mieten bei Artemis Rental. Abholung im Büro in Apollonia, Helme inklusive, Familienbetrieb seit 1988.",
     "fromDay": "Ab €{price}/Tag",
     "todayFrom": "€{price}/Tag in dieser Saison",
     "contactForPrice": "Tagespreis anfragen",
@@ -125,7 +130,7 @@
     "vehicle": "Fahrzeug",
     "carsHeading": "Autos",
     "scootersHeading": "Roller",
-    "scootersNote": "Rollerpreise gelten Mid/Peak (11. Jun – 10. Sep). Roller-Buchung ist vorübergehend nicht verfügbar.",
+    "scootersNote": "Rollerpreise gelten in der Mittel- und Hochsaison (11. Jun – 10. Sep). Die Roller-Buchung ist vorübergehend nicht verfügbar.",
     "note": "Zur Reservierung ist keine Vorauszahlung nötig. Wir bestätigen per Telefon, WhatsApp oder E-Mail.",
     "cta": "Verfügbarkeit prüfen",
     "now": "Jetzt"
@@ -209,7 +214,7 @@
     "estimatedTotal": "Geschätzter Gesamtpreis ~€{total}",
     "estimateLabel": "Geschätzter Gesamtpreis",
     "estimateDisclaimer": "Nur Richtpreis. Endgültigen Tarif und Verfügbarkeit bestätigen wir per Telefon, WhatsApp oder E-Mail.",
-    "whatsappAckHint": "Wenn Sie WhatsApp nutzen, senden wir auch eine kurze Bestätigung von Artemis. Ohne WhatsApp ist das in Ordnung — wir antworten per E-Mail oder Telefon."
+    "whatsappAckHint": "Wenn Sie WhatsApp nutzen, senden wir auch eine kurze Bestätigung von Artemis. Ohne WhatsApp ist das kein Problem, wir antworten per E-Mail oder Telefon."
   },
   "Guide": {
     "title": "Sifnos-Guide",
@@ -297,7 +302,7 @@
     "tipFerry": "Abholung in Kamares",
     "tipBeaches": "Strände mit dem Auto",
     "send": "Senden",
-    "greeting": "Hallo, ich bin Touristas für Artemis Rental in Apollonia. Fragen Sie nach Auto oder Scooter, Preisen oder Abholung, oder nach einem kurzen Sifnos-Tipp. Wenn Sie bereit sind, sende ich eine Anfrage an den Schalter.",
+    "greeting": "Hallo, ich bin Touristas für Artemis Rental in Apollonia. Fragen Sie nach Auto oder Roller, Preisen oder Abholung, oder nach einem schnellen Tipp für Sifnos. Wenn Sie so weit sind, sende ich Ihre Anfrage ans Büro.",
     "suggestFleet": "Welches Auto passt für eine vierköpfige Familie?",
     "suggestRates": "Was kostet ein Kompaktwagen im August?",
     "suggestPickup": "Kann ich am Hafen Kamares abholen?",
@@ -443,5 +448,92 @@
     "scootersFaq2A": "Wenn die Buchung wieder öffnet, nur am Apollonia-Schalter.",
     "scootersFaq3Q": "Besser Auto oder Roller auf Sifnos?",
     "scootersFaq3A": "Familien und Gepäck brauchen meist ein Auto. Roller eignen sich für kurze Strecken, wenn verfügbar."
+  },
+  "Reviews": {
+    "title": "Was unsere Gäste sagen",
+    "lead": "Jede Bewertung unten ist eine echte Google-Bewertung von Artemis Rental, genau so wiedergegeben, wie sie verfasst wurde. Wir bearbeiten sie nicht und wir schreiben sie nicht.",
+    "eyebrow": "Google-Bewertungen",
+    "homeTitle": "Mit {rating} bei Google bewertet",
+    "basedOn": "{count} Google-Bewertungen",
+    "starsLabel": "{rating} von 5 Sternen",
+    "viewOnGoogle": "Bei Google lesen",
+    "writeReview": "Bewertung schreiben",
+    "verified": "Bestätigte Google-Bewertung",
+    "localGuide": "Local Guide",
+    "ratingOnly": "Bewertet ohne schriftlichen Kommentar.",
+    "readMore": "Mehr lesen",
+    "readLess": "Weniger lesen",
+    "translatedBy": "Von Google aus dem {lang} übersetzt",
+    "sortLabel": "Sortieren",
+    "sortNewest": "Neueste",
+    "sortOldest": "Älteste",
+    "filterLanguage": "Sprache",
+    "allLanguages": "Alle",
+    "showingOf": "{shown} von {total} werden angezeigt",
+    "loadMore": "Weitere Bewertungen",
+    "seeAll": "Alle {count} Bewertungen ansehen",
+    "vehicleTitle": "Was Mieter sagen",
+    "lang": {
+      "el": "Griechischen",
+      "en": "Englischen"
+    }
+  },
+  "Seo": {
+    "home": {
+      "title": "Mietwagen auf Sifnos",
+      "description": "Mietwagen auf Sifnos von einem Familienbetrieb in Apollonia, seit 1988. Kostenlose Abholung im Hafen Kamares, faire Saisonpreise und keine Vorauszahlung."
+    },
+    "cars": {
+      "title": "Autovermietung auf Sifnos",
+      "description": "Kleinwagen, Automatik und Familienautos für die Straßen von Sifnos, vor Ort gewartet. Kostenlose Lieferung nach Kamares und Apollonia, ohne Anzahlung."
+    },
+    "scooters": {
+      "title": "Roller mieten auf Sifnos",
+      "description": "SYM Roller für kurze Fahrten über die Insel, Übergabe in unserem Büro in Apollonia, Helme und Haftpflicht inklusive. Verfügbarkeit vorab erfragen."
+    },
+    "rates": {
+      "title": "Mietwagenpreise auf Sifnos",
+      "description": "Veröffentlichte Tagespreise für Mietwagen auf Sifnos nach Saison, aktuelle Periode hervorgehoben. Keine versteckten Gebühren und keine Vorauszahlung."
+    },
+    "book": {
+      "title": "Mietwagen auf Sifnos buchen",
+      "description": "Senden Sie Daten und Wunschfahrzeug, wir antworten mit echter Verfügbarkeit. Keine Vorauszahlung, keine Kartendaten, kostenlose Abholung am Hafen Kamares."
+    },
+    "guide": {
+      "title": "Sifnos Reiseführer: Strände, Fähren, Dörfer",
+      "description": "Alles für die Planung: Fähren ab Piräus, die schönsten Strände, wo Sie übernachten, was Sie unternehmen und wie Sie auf Sifnos vorankommen. Klar beantwortet."
+    },
+    "blog": {
+      "title": "Sifnos Reisetipps und Mietwagen-Ratgeber",
+      "description": "Praktische Artikel zum Fahren auf Sifnos, Saisonpreisen, Stränden, die die Fahrt lohnen, Führerscheinregeln für Roller und der Ankunft im Hafen Kamares."
+    },
+    "faq": {
+      "title": "Fragen zur Autovermietung auf Sifnos",
+      "description": "Klare Antworten zu Mindestalter, Führerschein, Versicherung, Kaution, Abholorten und dazu, was bei verspäteter Fähre passiert. Familienbetrieb seit 1988."
+    },
+    "about": {
+      "title": "Über Artemis Rental, Sifnos seit 1988",
+      "description": "Ein Familienbetrieb für Auto- und Rollervermietung in Apollonia auf Sifnos, seit 1988 in derselben Familie. Gewartete Fahrzeuge und Hilfe vor Ort."
+    },
+    "reviews": {
+      "title": "Artemis Rental Bewertungen, Sifnos",
+      "description": "Echte Google-Bewertungen von Artemis Rental auf Sifnos, genau so wiedergegeben, wie Reisende sie verfasst haben. Bewertet mit 5,0 aus 11 Bewertungen."
+    },
+    "terms": {
+      "title": "Mietbedingungen, Artemis Rental Sifnos",
+      "description": "Mindestalter, Führerscheinanforderungen, Haftpflicht, Kraftstoffregelung, Abhol- und Rückgabeorte sowie Stornierung für Auto- und Rollermiete bei Artemis."
+    },
+    "privacy": {
+      "title": "Datenschutz, Artemis Rental Sifnos",
+      "description": "Wie Artemis Rental personenbezogene Daten erhebt, nutzt und speichert, wenn Sie diese Website besuchen, eine Anfrage senden oder auf Sifnos ein Auto mieten."
+    },
+    "cookies": {
+      "title": "Cookie-Richtlinie, Artemis Rental Sifnos",
+      "description": "Welche Cookies diese Website verwendet, warum Analysewerkzeuge erst nach Ihrer Zustimmung laden und wie Sie Ihre Auswahl jederzeit ändern oder widerrufen."
+    },
+    "gdpr": {
+      "title": "DSGVO und Ihre Rechte, Sifnos",
+      "description": "Ihre Rechte nach der EU-Datenschutz-Grundverordnung im Umgang mit Artemis Rental auf Sifnos und wie Sie Auskunft, Berichtigung oder Löschung verlangen."
+    }
   }
 }
