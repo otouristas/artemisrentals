@@ -4,127 +4,158 @@ import {
   getPexelsPhoto,
   hasPexelsKey,
   localResolvedImage,
-  searchPexelsPhoto,
+  searchPexelsPhotos,
   toResolvedImage,
   type PhotoUse,
+  type PexelsPhoto,
   type ResolvedImage,
 } from "@/lib/pexels";
 
+export type PhotoPool = "beach" | "village" | "harbour" | "chapel" | "cove";
+
 export type SifnosPhotoSlot = {
   id: string;
-  query: string;
-  fallbackQuery: string;
-  /** Stable Pexels photo id when we want a specific frame. Search is the fallback. */
-  photoId?: number;
+  pool: PhotoPool;
+  /** Stable index into the pooled Pexels search so slots do not share a frame. */
+  index: number;
   alt: string;
+  photoId?: number;
+};
+
+const POOLS: Record<PhotoPool, { query: string; fallbackQuery: string; perPage: number }> = {
+  beach: {
+    query: "greece cyclades sandy beach turquoise",
+    fallbackQuery: "greek island sandy beach",
+    perPage: 15,
+  },
+  village: {
+    query: "cyclades whitewashed village alley",
+    fallbackQuery: "white greek village street bougainvillea",
+    perPage: 15,
+  },
+  harbour: {
+    query: "greek island harbour fishing boats",
+    fallbackQuery: "greece fishing port boats",
+    perPage: 15,
+  },
+  chapel: {
+    query: "white chapel on rocks greece sea",
+    fallbackQuery: "greek orthodox church sea",
+    perPage: 8,
+  },
+  cove: {
+    query: "rocky cove pebble beach greece",
+    fallbackQuery: "wild beach greece cliffs",
+    perPage: 8,
+  },
 };
 
 /**
- * One Pexels search (or get-by-id) per island location. Queries describe the
- * place as a Cycladic scene so results stay on-theme even when Sifnos itself
- * is not in the Pexels index.
+ * One Pexels photo per island location, drawn from a small set of pooled
+ * searches (not one request per slot) so a 29-worker SSG stays inside the
+ * Pexels rate limit.
  */
 export const SIFNOS_PHOTO_SLOTS: Record<string, SifnosPhotoSlot> = {
   "plats-gialos": {
     id: "plats-gialos",
-    query: "long sandy beach turquoise greece cyclades",
-    fallbackQuery: "sandy beach greece island",
+    pool: "beach",
+    index: 0,
     alt: "Long sandy beach on a Greek island",
-  },
-  kamares: {
-    id: "kamares",
-    query: "greek island ferry port sandy bay",
-    fallbackQuery: "harbour bay greece island",
-    alt: "Ferry port bay on a Greek island",
   },
   vathi: {
     id: "vathi",
-    query: "sheltered sandy bay greece island",
-    fallbackQuery: "calm turquoise bay greece",
+    pool: "beach",
+    index: 1,
     alt: "Sheltered sandy bay in the Cyclades",
   },
-  chrysopigi: {
-    id: "chrysopigi",
-    query: "white chapel on rocks greece sea",
-    fallbackQuery: "greek church cliff sea",
-    alt: "White chapel on a rocky cape above the sea",
+  fykiada: {
+    id: "fykiada",
+    pool: "beach",
+    index: 2,
+    alt: "Remote wild beach reached on foot",
+  },
+  kamares: {
+    id: "kamares",
+    pool: "harbour",
+    index: 0,
+    alt: "Ferry port bay on a Greek island",
   },
   faros: {
     id: "faros",
-    query: "fishing village beach greece boats",
-    fallbackQuery: "small fishing harbour greece",
+    pool: "harbour",
+    index: 1,
     alt: "Fishing village beach in Greece",
   },
   heronissos: {
     id: "heronissos",
-    query: "tiny fishing harbour greece cyclades",
-    fallbackQuery: "quiet fishing cove greece",
+    pool: "harbour",
+    index: 2,
     alt: "Small fishing harbour on a Greek island",
+  },
+  chrysopigi: {
+    id: "chrysopigi",
+    pool: "chapel",
+    index: 0,
+    alt: "White chapel on a rocky cape above the sea",
+  },
+  "agios-loukas": {
+    id: "agios-loukas",
+    pool: "chapel",
+    index: 1,
+    alt: "Village church on a Greek island",
   },
   vroulidia: {
     id: "vroulidia",
-    query: "pebble beach rocky cove greece",
-    fallbackQuery: "rocky beach greece cliffs",
+    pool: "cove",
+    index: 0,
     alt: "Pebble beach in a rocky Greek cove",
-  },
-  fykiada: {
-    id: "fykiada",
-    query: "remote wild beach greece hiking",
-    fallbackQuery: "empty beach greece cliffs",
-    alt: "Remote wild beach reached on foot",
   },
   apollonia: {
     id: "apollonia",
-    query: "cyclades whitewashed village alley",
-    fallbackQuery: "white greek village street bougainvillea",
+    pool: "village",
+    index: 0,
     alt: "Whitewashed Cycladic village street",
   },
   artemonas: {
     id: "artemonas",
-    query: "neoclassical mansion greek island village",
-    fallbackQuery: "elegant white houses cyclades",
+    pool: "village",
+    index: 1,
     alt: "Neoclassical houses on a Greek island",
   },
   exampela: {
     id: "exampela",
-    query: "quiet white village greece hillside",
-    fallbackQuery: "small cycladic village houses",
+    pool: "village",
+    index: 2,
     alt: "Quiet hillside village in the Cyclades",
   },
   katavati: {
     id: "katavati",
-    query: "hilltop cycladic houses white",
-    fallbackQuery: "white houses greece hill",
+    pool: "village",
+    index: 3,
     alt: "Hilltop Cycladic houses",
   },
   panopetali: {
     id: "panopetali",
-    query: "white houses blue doors greece village",
-    fallbackQuery: "cycladic house bougainvillea",
+    pool: "village",
+    index: 4,
     alt: "White village houses with bright doors",
   },
   troullaki: {
     id: "troullaki",
-    query: "small white hamlet cyclades",
-    fallbackQuery: "tiny greek village white houses",
+    pool: "village",
+    index: 5,
     alt: "Small white hamlet in the Cyclades",
-  },
-  "agios-loukas": {
-    id: "agios-loukas",
-    query: "white greek orthodox church village",
-    fallbackQuery: "blue dome church greece village",
-    alt: "Village church on a Greek island",
   },
   "kato-petali": {
     id: "kato-petali",
-    query: "stone lane cycladic village",
-    fallbackQuery: "narrow alley white houses greece",
+    pool: "village",
+    index: 6,
     alt: "Stone lane in a Cycladic village",
   },
   kastro: {
     id: "kastro",
-    query: "medieval castle village greece sea cliff",
-    fallbackQuery: "kastro greece island fortress",
+    pool: "village",
+    index: 7,
     alt: "Medieval cliff village above the sea",
   },
 };
@@ -171,14 +202,27 @@ export function isSifnosPexelsSrc(src: string) {
   return sifnosSlotForSrc(src) != null;
 }
 
+const loadPoolPhotos = cache(async (pool: PhotoPool): Promise<PexelsPhoto[]> => {
+  const spec = POOLS[pool];
+  const primary = await searchPexelsPhotos(spec.query, {
+    orientation: "landscape",
+    perPage: spec.perPage,
+  });
+  if (primary.length) return primary;
+  return searchPexelsPhotos(spec.fallbackQuery, {
+    orientation: "landscape",
+    perPage: spec.perPage,
+  });
+});
+
 async function loadSlotPhoto(slot: SifnosPhotoSlot) {
   if (slot.photoId) {
     const pinned = await getPexelsPhoto(slot.photoId);
     if (pinned) return pinned;
   }
-  const hit = await searchPexelsPhoto(slot.query, { orientation: "landscape" });
-  if (hit) return hit;
-  return searchPexelsPhoto(slot.fallbackQuery, { orientation: "landscape" });
+  const photos = await loadPoolPhotos(slot.pool);
+  if (!photos.length) return null;
+  return photos[slot.index % photos.length] ?? photos[0] ?? null;
 }
 
 const loadSlotPhotoCached = cache(async (slotId: string) => {
@@ -187,10 +231,21 @@ const loadSlotPhotoCached = cache(async (slotId: string) => {
   return loadSlotPhoto(slot);
 });
 
+let missingKeyWarned = false;
+
 export const resolveContentImage = cache(
   async (src: string, use: PhotoUse = "cover"): Promise<ResolvedImage> => {
     const slot = sifnosSlotForSrc(src);
-    if (!slot || !hasPexelsKey()) return localResolvedImage(src, slot?.alt ?? "");
+    if (!slot) return localResolvedImage(src, "");
+    if (!hasPexelsKey()) {
+      if (!missingKeyWarned) {
+        missingKeyWarned = true;
+        console.warn(
+          "[pexels] PEXELS_API_KEY is unset. Sifnos location photos will use local fallbacks.",
+        );
+      }
+      return localResolvedImage(src, slot.alt);
+    }
     const photo = await loadSlotPhotoCached(slot.id);
     if (!photo) return localResolvedImage(src, slot.alt);
     return toResolvedImage(photo, use, slot.alt);

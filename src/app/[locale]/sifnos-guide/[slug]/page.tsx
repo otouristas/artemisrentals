@@ -20,6 +20,8 @@ import { routing, type Locale } from "@/i18n/routing";
 import { bcp47 } from "@/lib/i18n-locale";
 import { resolveContentImage, resolveCoverSrc } from "@/lib/sifnos-photos";
 
+export const revalidate = 3600;
+
 export function generateStaticParams() {
   return routing.locales.flatMap((locale) =>
     getGuideArticles(locale).map((a) => ({ locale, slug: a.slug })),

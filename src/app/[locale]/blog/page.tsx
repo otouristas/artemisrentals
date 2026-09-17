@@ -7,6 +7,8 @@ import { getBlogPosts } from "@/lib/content";
 import { blogIndexJsonLd, buildMetadata } from "@/lib/seo";
 import type { Locale } from "@/i18n/routing";
 
+export const revalidate = 3600;
+
 export async function generateMetadata({
   params,
 }: {

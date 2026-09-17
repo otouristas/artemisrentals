@@ -1,9 +1,9 @@
 import "server-only";
+import { unstable_cache } from "next/cache";
 import type { Locale } from "@/i18n/routing";
 
 const PEXELS_API = "https://api.pexels.com/v1";
 const REVALIDATE_SECONDS = 60 * 60 * 24 * 7;
-const MEMORY_TTL_MS = REVALIDATE_SECONDS * 1000;
 
 export type PexelsPhoto = {
   id: number;
@@ -56,17 +56,10 @@ export function hasPexelsKey() {
   return apiKey().length > 0;
 }
 
-async function pexelsFetch(path: string): Promise<Response | null> {
-  const key = apiKey();
-  if (!key) return null;
-  try {
-    return await fetch(`${PEXELS_API}${path}`, {
-      headers: { Authorization: key },
-      cache: "force-cache",
-      next: { revalidate: REVALIDATE_SECONDS },
-    });
-  } catch {
-    return null;
+class PexelsTransientError extends Error {
+  constructor(status: number) {
+    super(`Pexels request failed (${status})`);
+    this.name = "PexelsTransientError";
   }
 }
 
@@ -78,67 +71,102 @@ function asPhoto(data: unknown): PexelsPhoto | null {
   return photo as PexelsPhoto;
 }
 
-type MemoryEntry = { at: number; photo: PexelsPhoto | null };
-const memoryCache = new Map<string, MemoryEntry>();
-
-function recall(key: string): PexelsPhoto | null | undefined {
-  const hit = memoryCache.get(key);
-  if (!hit) return undefined;
-  if (Date.now() - hit.at > MEMORY_TTL_MS) {
-    memoryCache.delete(key);
-    return undefined;
+/**
+ * Network fetch is uncached so 429/5xx/auth failures are never stored in the
+ * Data Cache. Successful payloads are wrapped in unstable_cache by callers.
+ */
+async function pexelsFetch(path: string): Promise<Response> {
+  const key = apiKey();
+  if (!key) {
+    throw new PexelsTransientError(401);
   }
-  return hit.photo;
+  return fetch(`${PEXELS_API}${path}`, {
+    headers: { Authorization: key },
+    cache: "no-store",
+  });
 }
 
-function remember(key: string, photo: PexelsPhoto | null) {
-  memoryCache.set(key, { at: Date.now(), photo });
-}
-
-export async function getPexelsPhoto(id: number): Promise<PexelsPhoto | null> {
-  const cacheKey = `photo:${id}`;
-  const cached = recall(cacheKey);
-  if (cached !== undefined) return cached;
-  const res = await pexelsFetch(`/photos/${id}`);
-  if (!res || res.status === 429 || res.status >= 500) return null;
-  if (!res.ok) {
-    remember(cacheKey, null);
-    return null;
-  }
-  try {
-    const photo = asPhoto(await res.json());
-    remember(cacheKey, photo);
-    return photo;
-  } catch {
-    return null;
-  }
-}
-
-export async function searchPexelsPhoto(
+async function searchPexelsPhotosUncached(
   query: string,
-  options: { orientation?: "landscape" | "portrait" | "square" } = {},
-): Promise<PexelsPhoto | null> {
+  orientation: "landscape" | "portrait" | "square",
+  perPage: number,
+): Promise<PexelsPhoto[]> {
   const params = new URLSearchParams({
     query,
-    per_page: "1",
+    per_page: String(perPage),
     page: "1",
+    locale: "en-US",
   });
-  if (options.orientation) params.set("orientation", options.orientation);
-  const cacheKey = `search:${params.toString()}`;
-  const cached = recall(cacheKey);
-  if (cached !== undefined) return cached;
+  params.set("orientation", orientation);
   const res = await pexelsFetch(`/search?${params.toString()}`);
-  if (!res || res.status === 429 || res.status >= 500) return null;
-  if (!res.ok) {
-    remember(cacheKey, null);
-    return null;
+  if (res.status === 429 || res.status >= 500 || res.status === 401 || res.status === 403) {
+    throw new PexelsTransientError(res.status);
   }
+  if (!res.ok) {
+    console.warn(`[pexels] search HTTP ${res.status} for "${query}"`);
+    return [];
+  }
+  const data = (await res.json()) as PexelsSearchResponse;
+  const photos = (data.photos ?? [])
+    .map(asPhoto)
+    .filter((photo): photo is PexelsPhoto => photo != null);
+  console.info(`[pexels] search ok "${query}" (${photos.length})`);
+  return photos;
+}
+
+const searchPexelsPhotosCached = unstable_cache(
+  searchPexelsPhotosUncached,
+  ["pexels-search-v2"],
+  { revalidate: REVALIDATE_SECONDS, tags: ["pexels"] },
+);
+
+export async function searchPexelsPhotos(
+  query: string,
+  options: {
+    orientation?: "landscape" | "portrait" | "square";
+    perPage?: number;
+  } = {},
+): Promise<PexelsPhoto[]> {
+  if (!hasPexelsKey()) return [];
   try {
-    const data = (await res.json()) as PexelsSearchResponse;
-    const photo = data.photos?.[0] ? asPhoto(data.photos[0]) : null;
-    remember(cacheKey, photo);
-    return photo;
-  } catch {
+    return await searchPexelsPhotosCached(
+      query,
+      options.orientation ?? "landscape",
+      options.perPage ?? 15,
+    );
+  } catch (error) {
+    console.warn(
+      "[pexels] search skipped",
+      error instanceof Error ? error.message : "unknown error",
+    );
+    return [];
+  }
+}
+
+async function getPexelsPhotoUncached(id: number): Promise<PexelsPhoto | null> {
+  const res = await pexelsFetch(`/photos/${id}`);
+  if (res.status === 429 || res.status >= 500 || res.status === 401 || res.status === 403) {
+    throw new PexelsTransientError(res.status);
+  }
+  if (!res.ok) return null;
+  return asPhoto(await res.json());
+}
+
+const getPexelsPhotoCached = unstable_cache(
+  getPexelsPhotoUncached,
+  ["pexels-photo-v2"],
+  { revalidate: REVALIDATE_SECONDS, tags: ["pexels"] },
+);
+
+export async function getPexelsPhoto(id: number): Promise<PexelsPhoto | null> {
+  if (!hasPexelsKey()) return null;
+  try {
+    return await getPexelsPhotoCached(id);
+  } catch (error) {
+    console.warn(
+      "[pexels] photo skipped",
+      error instanceof Error ? error.message : "unknown error",
+    );
     return null;
   }
 }

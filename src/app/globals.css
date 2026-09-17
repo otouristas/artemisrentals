@@ -367,12 +367,12 @@
   }
 
   .pexels-credit-overlay {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
     line-height: 1.35;
     color: var(--foam);
-    background: color-mix(in oklab, var(--aegean-ink) 72%, transparent);
+    background: color-mix(in oklab, var(--aegean-ink) 78%, transparent);
     border-radius: 9999px;
-    padding: 0.22rem 0.65rem;
+    padding: 0.28rem 0.7rem;
     backdrop-filter: blur(6px);
   }
 

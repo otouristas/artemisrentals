@@ -169,7 +169,7 @@ export function Footer({ locale }: { locale: string }) {
               >
                 <Image
                   src="https://images.pexels.com/lib/api/pexels-white.png"
-                  alt=""
+                  alt="Pexels"
                   width={80}
                   height={20}
                   className="h-4 w-auto"
