@@ -112,7 +112,7 @@ export function Header() {
           : "bg-gradient-to-b from-aegean/80 via-aegean/35 to-transparent",
       )}
     >
-      <div className="container-site flex items-center justify-between gap-4 py-4 md:py-5">
+      <div className="site-header-bar container-site flex items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-3 text-foam">
           <Image
             src="/images/brand/artemis-auto-rental-white.svg"
@@ -297,7 +297,7 @@ export function Header() {
             aria-modal="true"
             aria-label={t("openMenu")}
           >
-            <div className="flex items-center justify-between gap-3 px-5 py-5">
+            <div className="flex items-center justify-between gap-3 px-5 py-5 pt-[max(1.25rem,env(safe-area-inset-top,0px))]">
               <Image
                 src="/images/brand/artemis-auto-rental-white.svg"
                 alt="Artemis Rental"

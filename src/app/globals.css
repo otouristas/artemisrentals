@@ -13,6 +13,17 @@
   --foreground: var(--aegean-ink);
   --section-y: clamp(3.5rem, 6vw, 6rem);
   --container: 72rem;
+  --header-pad-top: max(1rem, env(safe-area-inset-top, 0px));
+  --header-pad-bottom: 1rem;
+  --header-row: 2.75rem;
+  --header-height: calc(var(--header-pad-top) + var(--header-pad-bottom) + var(--header-row));
+}
+
+@media (min-width: 768px) {
+  :root {
+    --header-pad-top: max(1.25rem, env(safe-area-inset-top, 0px));
+    --header-pad-bottom: 1.25rem;
+  }
 }
 
 @theme inline {
@@ -32,6 +43,7 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--header-height) + 0.75rem);
   }
 
   body {
@@ -270,14 +282,19 @@
       linear-gradient(180deg, rgba(11, 42, 60, 0.15) 0%, rgba(11, 42, 60, 0.55) 100%);
   }
 
+  .site-header-bar {
+    padding-top: var(--header-pad-top);
+    padding-bottom: var(--header-pad-bottom);
+  }
+
   .page-hero {
-    padding-top: 7rem;
+    padding-top: calc(var(--header-height) + 2.5rem);
     padding-bottom: 2.5rem;
   }
 
   @media (min-width: 768px) {
     .page-hero {
-      padding-top: 8rem;
+      padding-top: calc(var(--header-height) + 2.75rem);
       padding-bottom: 3rem;
     }
   }

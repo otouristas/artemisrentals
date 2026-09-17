@@ -48,7 +48,7 @@ export default async function BookPage({
   const compact = Boolean(vehicle);
 
   return (
-    <div className={`container-site pb-28 md:pb-20 ${compact ? "pt-24 md:pt-28" : "page-hero"}`}>
+    <div className="container-site page-hero pb-28 md:pb-20">
       <Breadcrumbs locale={loc} items={[{ label: t("title") }]} />
       {compact ? (
         <h1 className="mt-3 font-display text-2xl text-aegean md:text-3xl">{t("title")}</h1>
