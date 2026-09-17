@@ -1,9 +1,10 @@
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
+import { PexelsCover } from "@/components/PexelsCover";
+import { PexelsPhotoCredit } from "@/components/PexelsPhotoCredit";
 import {
   extractToc,
   getBlogPost,
@@ -11,10 +12,12 @@ import {
   getRelatedArticles,
   markdownToHtml,
 } from "@/lib/content";
-import { buildMetadata, absoluteUrl } from "@/lib/seo";
-import { SITE_URL } from "@/lib/site";
+import { buildMetadata, absoluteUrl, absoluteImageUrl } from "@/lib/seo";
 import { routing, type Locale } from "@/i18n/routing";
 import { bcp47 } from "@/lib/i18n-locale";
+import { resolveContentImage, resolveCoverSrc } from "@/lib/sifnos-photos";
+
+export const revalidate = 60;
 
 export function generateStaticParams() {
   return routing.locales.flatMap((locale) =>
@@ -30,13 +33,14 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const post = getBlogPost(locale as Locale, slug);
   if (!post) return {};
+  const image = await resolveCoverSrc(post.cover);
   return buildMetadata({
     locale: locale as Locale,
     title: post.title,
     description: post.description,
     path: `/blog/${slug}`,
     type: "article",
-    image: post.cover,
+    image,
   });
 }
 
@@ -52,9 +56,10 @@ export default async function BlogPostPage({
   if (!post) notFound();
   const t = await getTranslations("Blog");
   const common = await getTranslations("Common");
-  const html = markdownToHtml(post.content);
+  const html = await markdownToHtml(post.content, loc);
   const toc = extractToc(post.content);
   const related = getRelatedArticles(loc, "blog", post);
+  const cover = post.cover ? await resolveContentImage(post.cover, "cover") : null;
 
   return (
     <article className="container-site page-hero pb-20">
@@ -66,7 +71,7 @@ export default async function BlogPostPage({
           description: post.description,
           datePublished: post.datePublished,
           dateModified: post.dateModified ?? post.datePublished,
-          image: post.cover ? `${SITE_URL}${post.cover}` : undefined,
+          image: cover ? absoluteImageUrl(cover.src) : undefined,
           author: { "@type": "Organization", name: post.author ?? "Artemis Rental" },
           mainEntityOfPage: absoluteUrl(loc, `/blog/${slug}`),
           inLanguage: bcp47(loc),
@@ -80,16 +85,23 @@ export default async function BlogPostPage({
         ]}
       />
       {post.cover ? (
-        <div className="relative mt-4 aspect-[21/9] overflow-hidden rounded-3xl">
-          <Image
-            src={post.cover}
-            alt=""
-            fill
-            className="object-cover"
-            sizes="100vw"
-            preload
-          />
-        </div>
+        <>
+          <div className="relative mt-4 aspect-[21/9] overflow-hidden rounded-3xl">
+            <PexelsCover
+              src={post.cover}
+              alt={post.title}
+              sizes="100vw"
+              locale={locale}
+              preload
+              credit="none"
+            />
+          </div>
+          {cover?.credit ? (
+            <div className="mt-2">
+              <PexelsPhotoCredit credit={cover.credit} locale={locale} />
+            </div>
+          ) : null}
+        </>
       ) : null}
       <h1 className="mt-8 text-display text-aegean">{post.title}</h1>
       <p className="mt-3 text-sm text-aegean/55">

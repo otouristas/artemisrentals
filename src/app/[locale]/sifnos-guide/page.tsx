@@ -1,13 +1,15 @@
-import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
+import { PexelsCover } from "@/components/PexelsCover";
 import { getGuideArticles } from "@/lib/content";
 import { buildMetadata, absoluteUrl, itemListJsonLd } from "@/lib/seo";
 import { getDiscoverHubLinks } from "@/lib/guide-discover";
 import { sifnosGuideDcUrl, tripPlannerUrl } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
+
+export const revalidate = 60;
 
 export async function generateMetadata({
   params,
@@ -96,27 +98,27 @@ export default async function GuideIndexPage({
       <div className="mt-12 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {articles.map((article) => (
           <article key={article.slug} className="overflow-hidden rounded-2xl outline outline-aegean/10">
-            <Link href={`/sifnos-guide/${article.slug}`} className="block">
-              <div className="relative aspect-[16/10] bg-limestone/50">
-                {article.cover ? (
-                  <Image
-                    src={article.cover}
-                    alt=""
-                    fill
-                    className="object-cover"
-                    sizes="(max-width:768px) 100vw, 33vw"
-                  />
-                ) : null}
-              </div>
-              <div className="p-5">
-                <h2 className="font-display text-xl text-aegean">{article.title}</h2>
-                <p className="mt-2 line-clamp-3 text-sm text-aegean/70">
-                  {article.answer ?? article.description}
-                </p>
-                <span className="mt-4 inline-block text-sm font-semibold text-olive">
-                  {t("read")} →
-                </span>
-              </div>
+            <div className="relative aspect-[16/10] bg-limestone/50">
+              {article.cover ? (
+                <PexelsCover
+                  src={article.cover}
+                  alt={article.title}
+                  href={`/sifnos-guide/${article.slug}`}
+                  sizes="(max-width:768px) 100vw, 33vw"
+                  locale={locale}
+                />
+              ) : (
+                <Link href={`/sifnos-guide/${article.slug}`} className="absolute inset-0" />
+              )}
+            </div>
+            <Link href={`/sifnos-guide/${article.slug}`} className="block p-5">
+              <h2 className="font-display text-xl text-aegean">{article.title}</h2>
+              <p className="mt-2 line-clamp-3 text-sm text-aegean/70">
+                {article.answer ?? article.description}
+              </p>
+              <span className="mt-4 inline-block text-sm font-semibold text-olive">
+                {t("read")} →
+              </span>
             </Link>
           </article>
         ))}

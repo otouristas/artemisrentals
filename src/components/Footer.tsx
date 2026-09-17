@@ -160,6 +160,22 @@ export function Footer({ locale }: { locale: string }) {
           </p>
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-3 text-xs text-foam/50 sm:justify-end">
             <a
+              href="https://www.pexels.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 hover:text-foam"
+            >
+              <Image
+                src="https://images.pexels.com/lib/api/pexels-white.png"
+                alt="Pexels"
+                width={80}
+                height={20}
+                className="h-4 w-auto"
+                sizes="80px"
+              />
+              <span>{t("photosProvided")}</span>
+            </a>
+            <a
               href="https://anotherseoguru.com"
               target="_blank"
               rel="noopener noreferrer"

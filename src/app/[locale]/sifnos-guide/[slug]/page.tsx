@@ -1,10 +1,11 @@
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { GuideDiscoverLinks } from "@/components/GuideDiscoverLinks";
 import { JsonLd } from "@/components/JsonLd";
+import { PexelsCover } from "@/components/PexelsCover";
+import { PexelsPhotoCredit } from "@/components/PexelsPhotoCredit";
 import {
   extractToc,
   getGuideArticle,
@@ -12,11 +13,14 @@ import {
   getRelatedArticles,
   markdownToHtml,
 } from "@/lib/content";
-import { buildMetadata, absoluteUrl } from "@/lib/seo";
-import { tripPlannerUrl, SITE_URL } from "@/lib/site";
+import { buildMetadata, absoluteUrl, absoluteImageUrl } from "@/lib/seo";
+import { tripPlannerUrl } from "@/lib/site";
 import fanout from "../../../../../content/seo/fanout.json";
 import { routing, type Locale } from "@/i18n/routing";
 import { bcp47 } from "@/lib/i18n-locale";
+import { resolveContentImage, resolveCoverSrc } from "@/lib/sifnos-photos";
+
+export const revalidate = 60;
 
 export function generateStaticParams() {
   return routing.locales.flatMap((locale) =>
@@ -32,13 +36,14 @@ export async function generateMetadata({
   const { locale, slug } = await params;
   const article = getGuideArticle(locale as Locale, slug);
   if (!article) return {};
+  const image = await resolveCoverSrc(article.cover);
   return buildMetadata({
     locale: locale as Locale,
     title: article.title,
     description: article.description,
     path: `/sifnos-guide/${slug}`,
     type: "article",
-    image: article.cover,
+    image,
   });
 }
 
@@ -54,11 +59,12 @@ export default async function GuideArticlePage({
   if (!article) notFound();
   const t = await getTranslations("Guide");
   const common = await getTranslations("Common");
-  const html = markdownToHtml(article.content);
+  const html = await markdownToHtml(article.content, loc);
   const toc = extractToc(article.content);
   const relatedContent = getRelatedArticles(loc, "guide", article);
   const cluster = fanout.clusters.find((c) => c.guideSlug === slug);
   const related = cluster?.queries[loc] ?? [];
+  const cover = article.cover ? await resolveContentImage(article.cover, "cover") : null;
 
   return (
     <article className="container-site page-hero pb-20">
@@ -73,7 +79,7 @@ export default async function GuideArticlePage({
           headline: article.title,
           description: article.description,
           dateModified: article.dateModified,
-          image: article.cover ? `${SITE_URL}${article.cover}` : undefined,
+          image: cover ? absoluteImageUrl(cover.src) : undefined,
           inLanguage: bcp47(loc),
           mainEntityOfPage: absoluteUrl(loc, `/sifnos-guide/${slug}`),
           author: { "@type": "Organization", name: article.author ?? "Artemis Rental" },
@@ -87,17 +93,23 @@ export default async function GuideArticlePage({
         ]}
       />
       {article.cover ? (
-        <div className="relative mt-4 aspect-[21/9] overflow-hidden rounded-3xl">
-          <Image
-            src={article.cover}
-            alt={article.title}
-            fill
-            className="object-cover"
-            sizes="100vw"
-            loading="eager"
-            fetchPriority="high"
-          />
-        </div>
+        <>
+          <div className="relative mt-4 aspect-[21/9] overflow-hidden rounded-3xl">
+            <PexelsCover
+              src={article.cover}
+              alt={article.title}
+              sizes="100vw"
+              locale={locale}
+              preload
+              credit="none"
+            />
+          </div>
+          {cover?.credit ? (
+            <div className="mt-2">
+              <PexelsPhotoCredit credit={cover.credit} locale={locale} />
+            </div>
+          ) : null}
+        </>
       ) : null}
       <h1 className="mt-8 text-display text-aegean">{article.title}</h1>
       {article.answer && (

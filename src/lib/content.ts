@@ -3,6 +3,8 @@ import path from "path";
 import matter from "gray-matter";
 import readingTime from "reading-time";
 import type { Locale } from "@/i18n/routing";
+import { pexelsCreditHtml } from "@/lib/pexels";
+import { resolveContentImage } from "@/lib/sifnos-photos";
 
 const root = process.cwd();
 
@@ -143,9 +145,20 @@ function isTableSeparator(line: string) {
   return /^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?$/.test(line.trim());
 }
 
+const FIGURE_RE = /^!\[([^\]]*)\]\(([^)\s]+)(?:\s+"([^"]*)")?\)$/;
+
 /** Minimal markdown to HTML for trusted local content */
-export function markdownToHtml(md: string): string {
+export async function markdownToHtml(md: string, locale: Locale = "en"): Promise<string> {
   const lines = md.split("\n");
+  const figureSrcs = lines
+    .map((line) => FIGURE_RE.exec(line.trim())?.[2])
+    .filter((src): src is string => Boolean(src));
+  const resolved = new Map(
+    await Promise.all(
+      [...new Set(figureSrcs)].map(async (src) => [src, await resolveContentImage(src, "inline")] as const),
+    ),
+  );
+
   const html: string[] = [];
   let inList: false | "ul" | "ol" = false;
   let firstImage = true;
@@ -160,7 +173,7 @@ export function markdownToHtml(md: string): string {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const next = lines[i + 1];
-    const figure = /^!\[([^\]]*)\]\(([^)\s]+)(?:\s+"([^"]*)")?\)$/.exec(line.trim());
+    const figure = FIGURE_RE.exec(line.trim());
     const h2 = /^##\s+(.+)/.exec(line);
     const h3 = /^###\s+(.+)/.exec(line);
     const li = /^-\s+(.+)/.exec(line);
@@ -188,15 +201,21 @@ export function markdownToHtml(md: string): string {
       html.push("</tbody></table></div>");
     } else if (figure) {
       flushList();
-      const alt = escapeAttr(figure[1]);
-      const src = escapeAttr(figure[2]);
+      const photo = resolved.get(figure[2]);
+      const alt = escapeAttr(figure[1] || photo?.alt || "");
+      const src = escapeAttr(photo?.src ?? figure[2]);
       const caption = figure[3] ? escapeHtml(figure[3]) : "";
+      const credit = photo?.credit ? pexelsCreditHtml(locale, photo.credit) : "";
+      const figcaption = [caption, credit].filter(Boolean).join(" ");
       // First image is often LCP on guide pages: load eagerly.
       const loading = firstImage ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"';
       firstImage = false;
+      const bg = photo?.avgColor
+        ? ` style="background-color:${escapeAttr(photo.avgColor)}"`
+        : "";
       html.push(
-        `<figure><img src="${src}" alt="${alt}" ${loading} />${
-          caption ? `<figcaption>${caption}</figcaption>` : ""
+        `<figure><img src="${src}" alt="${alt}" ${loading}${bg} />${
+          figcaption ? `<figcaption>${figcaption}</figcaption>` : ""
         }</figure>`,
       );
     } else if (h2) {

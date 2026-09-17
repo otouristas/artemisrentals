@@ -27,6 +27,16 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "discovercyclades.gr",
       },
+      {
+        protocol: "https",
+        hostname: "images.pexels.com",
+        pathname: "/photos/**",
+      },
+      {
+        protocol: "https",
+        hostname: "images.pexels.com",
+        pathname: "/lib/api/**",
+      },
     ],
   },
   async redirects() {
