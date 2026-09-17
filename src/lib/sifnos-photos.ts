@@ -202,6 +202,36 @@ export function isSifnosPexelsSrc(src: string) {
   return sifnosSlotForSrc(src) != null;
 }
 
+const VILLAGE_IDS = new Set([
+  "apollonia",
+  "artemonas",
+  "exampela",
+  "katavati",
+  "panopetali",
+  "troullaki",
+  "agios-loukas",
+  "kato-petali",
+  "kastro",
+]);
+
+/** Prefer a file that actually exists so markdown copies without a matching jpg do not 404. */
+function localSrcFor(src: string, slot: SifnosPhotoSlot | null) {
+  const path = normalizePath(src);
+  if (path.startsWith("/images/sifnos/")) return path;
+  if (slot) {
+    const folder = VILLAGE_IDS.has(slot.id) ? "villages" : "beaches";
+    return `/images/sifnos/${folder}/${slot.id}.webp`;
+  }
+  if (
+    path.startsWith("/images/blog/") &&
+    path.endsWith(".jpg") &&
+    !path.includes("-cover.")
+  ) {
+    return path.replace(/\.jpg$/, "-cover.jpg");
+  }
+  return path;
+}
+
 const loadPoolPhotos = cache(async (pool: PhotoPool): Promise<PexelsPhoto[]> => {
   const spec = POOLS[pool];
   const primary = await searchPexelsPhotos(spec.query, {
@@ -236,7 +266,7 @@ let missingKeyWarned = false;
 export const resolveContentImage = cache(
   async (src: string, use: PhotoUse = "cover"): Promise<ResolvedImage> => {
     const slot = sifnosSlotForSrc(src);
-    if (!slot) return localResolvedImage(src, "");
+    if (!slot) return localResolvedImage(localSrcFor(src, null), "");
     if (!hasPexelsKey()) {
       if (!missingKeyWarned) {
         missingKeyWarned = true;
@@ -244,10 +274,10 @@ export const resolveContentImage = cache(
           "[pexels] PEXELS_API_KEY is unset. Sifnos location photos will use local fallbacks.",
         );
       }
-      return localResolvedImage(src, slot.alt);
+      return localResolvedImage(localSrcFor(src, slot), slot.alt);
     }
     const photo = await loadSlotPhotoCached(slot.id);
-    if (!photo) return localResolvedImage(src, slot.alt);
+    if (!photo) return localResolvedImage(localSrcFor(src, slot), slot.alt);
     return toResolvedImage(photo, use, slot.alt);
   },
 );
