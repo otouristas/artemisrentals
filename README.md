@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) (redirects to `/en`).
 | `BOOKING_FROM_EMAIL` | Resend from address |
 | `PEXELS_API_KEY` | Sifnos Guide and blog location photos (server only, Build and Runtime) |
 
-Without AI keys, the chat API returns 503 with a phone/form fallback. Without Resend, enquiries are logged server-side. Without `PEXELS_API_KEY` at build time, Sifnos location photos stay on the local files under `public/images/sifnos/`.
+Without AI keys, the chat API returns 503 with a phone/form fallback. Without Resend, enquiries are logged server-side. Without `PEXELS_API_KEY` at build and runtime (Production and Preview), Sifnos location photos stay on the local files under `public/images/sifnos/`. Guide and blog pages revalidate every 60 seconds so photos appear once the key is available.
 
 ## Content
 

@@ -9,7 +9,7 @@ import { getDiscoverHubLinks } from "@/lib/guide-discover";
 import { sifnosGuideDcUrl, tripPlannerUrl } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
 
-export const revalidate = 3600;
+export const revalidate = 60;
 
 export async function generateMetadata({
   params,
