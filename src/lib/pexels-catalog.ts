@@ -1,138 +1,142 @@
 import type { PinnedPexelsPhoto } from "@/lib/pexels";
 
 /**
- * Curated Cyclades-style Pexels stills for Sifnos beaches and villages.
- * Each entry is a real Pexels photo with photographer + photo-page URLs so
- * credits work even when PEXELS_API_KEY is missing at build time.
+ * Photos from https://www.pexels.com/search/sifnos/ whose title, slug, or
+ * caption names Sifnos (or a Sifnos place). Do not pin lookalike Cyclades
+ * stills. Reuse these frames across slots when needed rather than substituting
+ * Mykonos, Paros, Crete, Paxos, Milos, Naxos, or Monemvasia.
  */
-export const PINNED_PEXELS: Record<string, PinnedPexelsPhoto> = {
-  "plats-gialos": {
-    id: 19894286,
-    photographer: "George Papantoniou",
-    photographerUrl: "https://www.pexels.com/@george-papantoniou-911292363/",
-    url: "https://www.pexels.com/photo/motor-yachts-on-sea-coast-in-summer-19894286/",
-    alt: "Sandy Greek island beach with turquoise water and boats",
-  },
-  vathi: {
-    id: 38014996,
-    photographer: "ShotsBy Csongii",
-    photographerUrl:
-      "https://www.pexels.com/photo/aerial-view-of-beautiful-beach-in-paxos-greece-38014996/",
-    url: "https://www.pexels.com/photo/aerial-view-of-beautiful-beach-in-paxos-greece-38014996/",
-    alt: "Aerial view of a sheltered sandy bay in Greece",
-  },
-  fykiada: {
-    id: 10610776,
-    photographer: "alleksana",
-    photographerUrl: "https://www.pexels.com/@alleksana/",
-    url: "https://www.pexels.com/photo/scenic-sandy-beach-with-turquoise-and-blue-water-10610776/",
-    alt: "Remote sandy beach with turquoise water",
-  },
-  kamares: {
-    id: 27203454,
-    photographer: "Milena Selimi",
-    photographerUrl:
-      "https://www.pexels.com/photo/a-boat-is-docked-at-a-pier-near-a-building-27203454/",
-    url: "https://www.pexels.com/photo/a-boat-is-docked-at-a-pier-near-a-building-27203454/",
-    alt: "Fishing boats docked at a Greek island harbour",
-  },
-  faros: {
-    id: 34997212,
-    photographer: "drB drB",
-    photographerUrl:
-      "https://www.pexels.com/photo/traditional-fishing-boats-in-serene-greek-harbor-34997212/",
-    url: "https://www.pexels.com/photo/traditional-fishing-boats-in-serene-greek-harbor-34997212/",
-    alt: "Traditional fishing boats in a Greek harbour",
-  },
-  heronissos: {
-    id: 18774927,
-    photographer: "AXP Photography",
-    photographerUrl: "https://www.pexels.com/photo/town-and-sea-18774927/",
-    url: "https://www.pexels.com/photo/town-and-sea-18774927/",
-    alt: "Whitewashed harbour town beside the Aegean",
-  },
-  chrysopigi: {
-    id: 12848016,
-    photographer: "Jo Kassis",
-    photographerUrl: "https://www.pexels.com/@jokassis/",
-    url: "https://www.pexels.com/photo/church-on-mykonos-12848016/",
-    alt: "White chapel on a rocky Greek coastline",
-  },
-  "agios-loukas": {
-    id: 37847600,
-    photographer: "Kayalis",
-    photographerUrl: "https://www.pexels.com/@kayalis/",
-    url: "https://www.pexels.com/photo/iconic-church-of-panagia-paraportiani-in-mykonos-37847600/",
-    alt: "Whitewashed Cycladic church at sunset",
+const BEN_PRATER = {
+  photographer: "Ben Prater",
+  photographerUrl: "https://www.pexels.com/@benprater/",
+} as const;
+
+const JAKUB_KLAWON = {
+  photographer: "Jakub Klawon",
+  photographerUrl: "https://www.pexels.com/@jakub-klawon-5766876/",
+} as const;
+
+export const SIFNOS_PEXELS_SEARCH_QUERY = "sifnos";
+
+export const CONFIRMED_SIFNOS_PHOTOS = {
+  cheronissos: {
+    id: 20857615,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/cheronissos-beach-and-village-in-greece-20857615/",
+    alt: "Cheronissos beach and village on Sifnos, Greece",
   },
   vroulidia: {
-    id: 10220699,
-    photographer: "Оксана Подмазко",
-    photographerUrl:
-      "https://www.pexels.com/photo/seitan-limania-beach-in-greece-10220699/",
-    url: "https://www.pexels.com/photo/seitan-limania-beach-in-greece-10220699/",
-    alt: "Rocky cove with turquoise water in Greece",
+    id: 20857704,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/view-of-the-vroulidia-beach-on-sifnos-island-in-greece-20857704/",
+    alt: "Vroulidia Beach on Sifnos Island, Greece",
   },
-  apollonia: {
-    id: 29870171,
-    photographer: "R Ewing",
-    photographerUrl:
-      "https://www.pexels.com/photo/charming-greek-alleyway-with-bougainvillea-29870171/",
-    url: "https://www.pexels.com/photo/charming-greek-alleyway-with-bougainvillea-29870171/",
-    alt: "Whitewashed Cycladic alley with bougainvillea",
+  harbour: {
+    id: 27490678,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/greek-islands-harbour-town-27490678/",
+    alt: "Harbour and bay on Sifnos Island, Greece",
   },
-  artemonas: {
-    id: 36597480,
-    photographer: "Laura Arnedo",
-    photographerUrl:
-      "https://www.pexels.com/photo/charming-cycladic-alley-with-bicycle-and-bougainvillea-36597480/",
-    url: "https://www.pexels.com/photo/charming-cycladic-alley-with-bicycle-and-bougainvillea-36597480/",
-    alt: "Cycladic village alley with a bicycle and bougainvillea",
+  villageHarbour: {
+    id: 31095031,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/idyllic-seaside-village-in-sifnos-greece-31095031/",
+    alt: "Fishing boats and white houses in a seaside village on Sifnos, Greece",
   },
-  exampela: {
-    id: 12477639,
-    photographer: "Jo Kassis",
-    photographerUrl: "https://www.pexels.com/@jokassis/",
-    url: "https://www.pexels.com/photo/plants-in-pots-in-a-narrow-alley-12477639/",
-    alt: "Quiet whitewashed alley with potted plants",
+  artemonasSign: {
+    id: 27550100,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/palm-tree-and-white-walls-27550100/",
+    alt: "Artemonas, Sifnos village sign on a white wall",
   },
-  katavati: {
-    id: 10069689,
-    photographer: "Elusien",
-    photographerUrl:
-      "https://www.pexels.com/photo/paved-stone-pavement-among-white-buildings-with-balconies-10069689/",
-    url: "https://www.pexels.com/photo/paved-stone-pavement-among-white-buildings-with-balconies-10069689/",
-    alt: "Stone lane between white Cycladic houses",
+  doorway: {
+    id: 27198710,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/greek-door-entrance-27198710/",
+    alt: "Stone doorway in a village on Sifnos, Greece",
   },
-  panopetali: {
-    id: 32982941,
-    photographer: "Mujer que Florece",
-    photographerUrl:
-      "https://www.pexels.com/photo/charming-narrow-alley-in-mykonos-town-greece-32982941/",
-    url: "https://www.pexels.com/photo/charming-narrow-alley-in-mykonos-town-greece-32982941/",
-    alt: "Narrow village alley with bright bougainvillea",
+  coast: {
+    id: 20159175,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/town-on-sea-coast-in-summer-20159175/",
+    alt: "Coastal village on Sifnos, Greece",
   },
-  troullaki: {
-    id: 16508431,
-    photographer: "Mike Kw",
-    photographerUrl:
-      "https://www.pexels.com/photo/white-houses-of-a-seaside-greek-village-16508431/",
-    url: "https://www.pexels.com/photo/white-houses-of-a-seaside-greek-village-16508431/",
-    alt: "White houses of a seaside Greek village",
+  steps: {
+    id: 27528446,
+    ...BEN_PRATER,
+    url: "https://www.pexels.com/photo/painted-steps-in-greek-island-27528446/",
+    alt: "Painted steps overlooking a bay on Sifnos, Greece",
   },
-  "kato-petali": {
-    id: 33902627,
-    photographer: "Kostas Dimopoulos",
-    photographerUrl:
-      "https://www.pexels.com/photo/charming-alleyway-in-monemvasia-greece-33902627/",
-    url: "https://www.pexels.com/photo/charming-alleyway-in-monemvasia-greece-33902627/",
-    alt: "Sunlit stone alley in a hillside Greek village",
+  lighthouse: {
+    id: 5939542,
+    ...JAKUB_KLAWON,
+    url: "https://www.pexels.com/photo/lighthouse-on-top-of-cliff-5939542/",
+    alt: "Lighthouse on the cliffs of Sifnos, Greece",
   },
-  kastro: {
-    id: 36140363,
-    photographer: "Gu Bra",
-    photographerUrl: "https://www.pexels.com/@gu-bra-11680150/",
-    url: "https://www.pexels.com/photo/historic-monemvasia-townscape-under-clear-blue-sky-36140363/",
-    alt: "Medieval cliff village above the sea",
-  },
+} satisfies Record<string, PinnedPexelsPhoto>;
+
+const SLOT_PHOTO: Record<string, keyof typeof CONFIRMED_SIFNOS_PHOTOS> = {
+  "plats-gialos": "harbour",
+  vathi: "harbour",
+  fykiada: "vroulidia",
+  kamares: "villageHarbour",
+  faros: "lighthouse",
+  heronissos: "cheronissos",
+  chrysopigi: "coast",
+  "agios-loukas": "doorway",
+  vroulidia: "vroulidia",
+  apollonia: "steps",
+  artemonas: "artemonasSign",
+  exampela: "doorway",
+  katavati: "steps",
+  panopetali: "doorway",
+  troullaki: "coast",
+  "kato-petali": "artemonasSign",
+  kastro: "lighthouse",
 };
+
+export const PINNED_PEXELS: Record<string, PinnedPexelsPhoto> = Object.fromEntries(
+  Object.entries(SLOT_PHOTO).map(([slot, key]) => [slot, CONFIRMED_SIFNOS_PHOTOS[key]]),
+);
+
+const CONFIRMED_IDS = new Set(
+  Object.values(CONFIRMED_SIFNOS_PHOTOS).map((photo) => photo.id),
+);
+
+/** Place names that belong on the Pexels Sifnos search, used to rank live hits. */
+export const SLOT_SEARCH_KEYWORDS: Record<string, string[]> = {
+  "plats-gialos": ["platis", "plats gialos", "plats-gialos"],
+  vathi: ["vathi", "vathy"],
+  fykiada: ["fykiada", "fikiada"],
+  kamares: ["kamares"],
+  faros: ["faros", "lighthouse"],
+  heronissos: ["cheronissos", "cherronisos", "heronissos", "herronisos"],
+  chrysopigi: ["chrysopigi"],
+  "agios-loukas": ["agios loukas", "agios-loukas"],
+  vroulidia: ["vroulidia"],
+  apollonia: ["apollonia"],
+  artemonas: ["artemonas", "artemon"],
+  exampela: ["exampela", "exambela"],
+  katavati: ["katavati"],
+  panopetali: ["pano petali", "panopetali"],
+  troullaki: ["troullaki"],
+  "kato-petali": ["kato petali", "kato-petali"],
+  kastro: ["kastro"],
+};
+
+const SIFNOS_HIT =
+  /\b(sifnos|cheronissos|cherronisos|vroulidia|heronissos|herronisos|artemonas|kamares)\b/;
+
+const OTHER_ISLAND =
+  /\b(mykonos|santorini|oia|paxos|paros|naxos|ios|crete|creta|heraklion|chania|seitan|monemvasia|zakynthos|corfu|rhodes|skiathos|skopelos|folegandros|serifos|kythnos|milos|kimolos|amorgos|antiparos)\b/;
+
+export function isSifnosSearchHit(alt: string, url: string, id?: number) {
+  if (id != null && CONFIRMED_IDS.has(id)) return true;
+  return SIFNOS_HIT.test(`${alt} ${url}`.toLowerCase());
+}
+
+export function isOtherIslandPexelsPhoto(alt: string, url: string) {
+  const text = `${alt} ${url}`.toLowerCase();
+  if (SIFNOS_HIT.test(text)) return false;
+  return OTHER_ISLAND.test(text);
+}

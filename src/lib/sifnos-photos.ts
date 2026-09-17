@@ -1,11 +1,19 @@
 import "server-only";
 import { cache } from "react";
-import { PINNED_PEXELS } from "@/lib/pexels-catalog";
+import {
+  CONFIRMED_SIFNOS_PHOTOS,
+  PINNED_PEXELS,
+  SIFNOS_PEXELS_SEARCH_QUERY,
+  SLOT_SEARCH_KEYWORDS,
+  isOtherIslandPexelsPhoto,
+  isSifnosSearchHit,
+} from "@/lib/pexels-catalog";
 import {
   getPexelsPhoto,
   hasPexelsKey,
   localResolvedImage,
   pinnedToPhoto,
+  searchPexelsPhotos,
   toResolvedImage,
   type PhotoUse,
   type PexelsPhoto,
@@ -24,9 +32,10 @@ function slotFromPin(id: string): SifnosPhotoSlot {
 }
 
 /**
- * One Pexels photo per island location. Images are pinned so they render
- * without an API key. When PEXELS_API_KEY is set, metadata is refreshed
- * from GET /v1/photos/:id (cached) so photographer URLs stay official.
+ * One photo per island location. Pins are confirmed Sifnos stills from
+ * https://www.pexels.com/search/sifnos/. When PEXELS_API_KEY is set,
+ * GET /v1/search?query=sifnos is the source of truth (cached) and slots
+ * are filled from that result set.
  */
 export const SIFNOS_PHOTO_SLOTS: Record<string, SifnosPhotoSlot> = Object.fromEntries(
   Object.keys(PINNED_PEXELS).map((id) => [id, slotFromPin(id)]),
@@ -104,19 +113,90 @@ function localSrcFor(src: string, slot: SifnosPhotoSlot | null) {
   return path;
 }
 
-async function loadSlotPhoto(slot: SifnosPhotoSlot): Promise<PexelsPhoto | null> {
-  const pin = PINNED_PEXELS[slot.id];
-  if (hasPexelsKey()) {
-    const live = await getPexelsPhoto(slot.photoId);
-    if (live) return live;
-  }
-  return pin ? pinnedToPhoto(pin) : null;
+function photoText(photo: PexelsPhoto) {
+  return `${photo.alt} ${photo.url}`.toLowerCase();
 }
 
+function scoreForSlot(photo: PexelsPhoto, slotId: string) {
+  const text = photoText(photo);
+  let score = 0;
+  if (text.includes("sifnos")) score += 2;
+  if (text.includes("cheronissos") || text.includes("cherronisos")) score += 2;
+  for (const keyword of SLOT_SEARCH_KEYWORDS[slotId] ?? []) {
+    if (text.includes(keyword)) score += 10;
+  }
+  return score;
+}
+
+async function pinnedPhoto(slotId: string): Promise<PexelsPhoto | null> {
+  const pin = PINNED_PEXELS[slotId];
+  if (!pin) return null;
+  if (hasPexelsKey()) {
+    const live = await getPexelsPhoto(pin.id);
+    if (live) return live;
+  }
+  return pinnedToPhoto(pin);
+}
+
+const loadSifnosSearchPool = cache(async (): Promise<PexelsPhoto[]> => {
+  if (!hasPexelsKey()) return [];
+  const pages = await Promise.all([
+    searchPexelsPhotos(SIFNOS_PEXELS_SEARCH_QUERY, { perPage: 80, page: 1 }),
+    searchPexelsPhotos(SIFNOS_PEXELS_SEARCH_QUERY, { perPage: 80, page: 2 }),
+  ]);
+  const byId = new Map<number, PexelsPhoto>();
+  for (const photo of pages.flat()) {
+    if (!isSifnosSearchHit(photo.alt, photo.url, photo.id)) continue;
+    if (isOtherIslandPexelsPhoto(photo.alt, photo.url)) continue;
+    if (!byId.has(photo.id)) byId.set(photo.id, photo);
+  }
+  return [...byId.values()];
+});
+
+const loadAssignedSifnosPhotos = cache(async (): Promise<Record<string, PexelsPhoto>> => {
+  const slotIds = Object.keys(SIFNOS_PHOTO_SLOTS);
+  const assigned: Record<string, PexelsPhoto> = {};
+  const used = new Set<number>();
+  const pool = await loadSifnosSearchPool();
+
+  for (const slotId of slotIds) {
+    const match = pool
+      .filter((photo) => !used.has(photo.id))
+      .sort((a, b) => scoreForSlot(b, slotId) - scoreForSlot(a, slotId))
+      .find((photo) => scoreForSlot(photo, slotId) >= 10);
+    if (match) {
+      assigned[slotId] = match;
+      used.add(match.id);
+    }
+  }
+
+  const leftovers = pool.filter((photo) => !used.has(photo.id));
+  let next = 0;
+  for (const slotId of slotIds) {
+    if (assigned[slotId]) continue;
+    const photo = leftovers[next];
+    if (photo) {
+      assigned[slotId] = photo;
+      used.add(photo.id);
+      next += 1;
+    }
+  }
+
+  const pinFrames = Object.values(CONFIRMED_SIFNOS_PHOTOS).map(pinnedToPhoto);
+  let cycle = 0;
+  for (const slotId of slotIds) {
+    if (assigned[slotId]) continue;
+    const pin = await pinnedPhoto(slotId);
+    assigned[slotId] = pin ?? pinFrames[cycle % pinFrames.length];
+    cycle += 1;
+  }
+
+  return assigned;
+});
+
 const loadSlotPhotoCached = cache(async (slotId: string) => {
-  const slot = SIFNOS_PHOTO_SLOTS[slotId];
-  if (!slot) return null;
-  return loadSlotPhoto(slot);
+  const assigned = await loadAssignedSifnosPhotos();
+  return assigned[slotId] ?? null;
 });
 
 export const resolveContentImage = cache(
