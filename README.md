@@ -29,9 +29,9 @@ Open [http://localhost:3000](http://localhost:3000) (redirects to `/en`).
 | `AI_MODEL` | Model id (default `gpt-4o-mini`) |
 | `RESEND_API_KEY` | Send booking enquiries by email |
 | `BOOKING_FROM_EMAIL` | Resend from address |
-| `PEXELS_API_KEY` | Sifnos Guide and blog location photos (server only, Build and Runtime) |
+| `PEXELS_API_KEY` | Optional. Refreshes pinned Sifnos location photos from the Pexels API (server only) |
 
-Without AI keys, the chat API returns 503 with a phone/form fallback. Without Resend, enquiries are logged server-side. Without `PEXELS_API_KEY` at build and runtime (Production and Preview), Sifnos location photos stay on the local files under `public/images/sifnos/`. Guide and blog pages revalidate every 60 seconds so photos appear once the key is available.
+Without AI keys, the chat API returns 503 with a phone/form fallback. Without Resend, enquiries are logged server-side. Sifnos Guide and blog location photos are Pexels stills with photographer credits. `PEXELS_API_KEY` (Build and Runtime, Production and Preview) refreshes those photos from `GET /v1/photos/:id`. If the key is missing, the same pinned Pexels images still render. Artemis brand and fleet photos stay local.
 
 ## Content
 

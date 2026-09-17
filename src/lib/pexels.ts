@@ -171,6 +171,46 @@ export async function getPexelsPhoto(id: number): Promise<PexelsPhoto | null> {
   }
 }
 
+/** CDN variants for a known Pexels photo id (no API call). */
+export function pexelsSrcSet(id: number): PexelsPhoto["src"] {
+  const original = `https://images.pexels.com/photos/${id}/pexels-photo-${id}.jpeg`;
+  return {
+    original,
+    large2x: `${original}?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940`,
+    large: `${original}?auto=compress&cs=tinysrgb&h=650&w=940`,
+    medium: `${original}?auto=compress&cs=tinysrgb&h=350`,
+    small: `${original}?auto=compress&cs=tinysrgb&h=130`,
+    portrait: `${original}?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800`,
+    landscape: `${original}?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200`,
+    tiny: `${original}?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=200&w=280`,
+  };
+}
+
+export type PinnedPexelsPhoto = {
+  id: number;
+  photographer: string;
+  photographerUrl: string;
+  url: string;
+  alt: string;
+  width?: number;
+  height?: number;
+  avgColor?: string;
+};
+
+export function pinnedToPhoto(pin: PinnedPexelsPhoto): PexelsPhoto {
+  return {
+    id: pin.id,
+    width: pin.width ?? 1600,
+    height: pin.height ?? 1000,
+    url: pin.url,
+    photographer: pin.photographer,
+    photographer_url: pin.photographerUrl,
+    avg_color: pin.avgColor ?? null,
+    alt: pin.alt,
+    src: pexelsSrcSet(pin.id),
+  };
+}
+
 export function pexelsSrc(photo: PexelsPhoto, use: PhotoUse) {
   if (use === "og") return photo.src.landscape || photo.src.large;
   if (use === "cover") return photo.src.large2x || photo.src.landscape || photo.src.large;

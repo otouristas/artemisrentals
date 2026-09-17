@@ -1,13 +1,15 @@
 Image credits for Artemis Rental (artemisrental.gr)
 
 Sifnos location photos (beaches, villages, and the blog/guide covers derived
-from them) are loaded from the Pexels API when PEXELS_API_KEY is set. Each
-photo credits the photographer with a link to the Pexels photo page, and the
-footer includes a prominent "Photos provided by Pexels" link, per Pexels API
-guidelines: https://www.pexels.com/api/documentation/
+from them) are Pexels stills. Each photo credits the photographer with a
+link to their Pexels profile when known, plus a link to the photo page.
+The footer includes a prominent "Photos provided by Pexels" link and logo,
+per Pexels API guidelines: https://www.pexels.com/api/documentation/
 
-Local files under public/images/sifnos/, plus the matching blog/guide covers
-below, remain as fallbacks if the API key is missing or a request fails.
+When PEXELS_API_KEY is set, GET /v1/photos/:id refreshes the pinned ids.
+Without the key, the same Pexels CDN URLs and credits still render.
+
+Pinned Pexels photo ids live in src/lib/pexels-catalog.ts.
 
 Blog covers still served from local files (Artemis brand or fleet, not Pexels):
 
@@ -21,7 +23,7 @@ Guide covers still served from local files (Artemis brand):
 - getting-around.jpg ← brand/artemis-cars
 - how-to-get-there.jpg ← brand/hero-sifnos
 
-Blog/guide covers that follow the Pexels Sifnos slots when the API is available:
+Blog/guide covers that use the Pexels Sifnos slots:
 
 - 3-day-sifnos-itinerary-cover.jpg ← villages/apollonia
 - apollonia-vs-kamares-stay-cover.jpg ← villages/artemonas
