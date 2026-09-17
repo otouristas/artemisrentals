@@ -88,16 +88,17 @@ async function pexelsFetch(path: string): Promise<Response> {
 
 async function searchPexelsPhotosUncached(
   query: string,
-  orientation: "landscape" | "portrait" | "square",
+  orientation: "landscape" | "portrait" | "square" | "any",
   perPage: number,
+  page: number,
 ): Promise<PexelsPhoto[]> {
   const params = new URLSearchParams({
     query,
     per_page: String(perPage),
-    page: "1",
+    page: String(page),
     locale: "en-US",
   });
-  params.set("orientation", orientation);
+  if (orientation !== "any") params.set("orientation", orientation);
   const res = await pexelsFetch(`/search?${params.toString()}`);
   if (res.status === 429 || res.status >= 500 || res.status === 401 || res.status === 403) {
     throw new PexelsTransientError(res.status);
@@ -110,29 +111,31 @@ async function searchPexelsPhotosUncached(
   const photos = (data.photos ?? [])
     .map(asPhoto)
     .filter((photo): photo is PexelsPhoto => photo != null);
-  console.info(`[pexels] search ok "${query}" (${photos.length})`);
+  console.info(`[pexels] search ok "${query}" page ${page} (${photos.length})`);
   return photos;
 }
 
 const searchPexelsPhotosCached = unstable_cache(
   searchPexelsPhotosUncached,
-  ["pexels-search-v2"],
+  ["pexels-search-v3"],
   { revalidate: REVALIDATE_SECONDS, tags: ["pexels"] },
 );
 
 export async function searchPexelsPhotos(
   query: string,
   options: {
-    orientation?: "landscape" | "portrait" | "square";
+    orientation?: "landscape" | "portrait" | "square" | "any";
     perPage?: number;
+    page?: number;
   } = {},
 ): Promise<PexelsPhoto[]> {
   if (!hasPexelsKey()) return [];
   try {
     return await searchPexelsPhotosCached(
       query,
-      options.orientation ?? "landscape",
+      options.orientation ?? "any",
       options.perPage ?? 15,
+      options.page ?? 1,
     );
   } catch (error) {
     console.warn(

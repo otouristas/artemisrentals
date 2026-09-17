@@ -6,8 +6,10 @@ link to their Pexels profile when known, plus a link to the photo page.
 The footer includes a prominent "Photos provided by Pexels" link and logo,
 per Pexels API guidelines: https://www.pexels.com/api/documentation/
 
-When PEXELS_API_KEY is set, GET /v1/photos/:id refreshes the pinned ids.
-Without the key, the same Pexels CDN URLs and credits still render.
+Location photos are taken from https://www.pexels.com/search/sifnos/.
+When PEXELS_API_KEY is set, GET /v1/search?query=sifnos fills the slots
+(cached). Without the key, the same confirmed Sifnos Pexels stills render
+from pinned CDN URLs. Other islands are never used as stand-ins.
 
 Pinned Pexels photo ids live in src/lib/pexels-catalog.ts.
 
