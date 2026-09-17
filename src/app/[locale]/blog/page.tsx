@@ -1,8 +1,8 @@
-import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
+import { PexelsCover } from "@/components/PexelsCover";
 import { getBlogPosts } from "@/lib/content";
 import { blogIndexJsonLd, buildMetadata } from "@/lib/seo";
 import type { Locale } from "@/i18n/routing";
@@ -43,29 +43,30 @@ export default async function BlogIndexPage({
       <div className="mt-12 grid gap-8 md:grid-cols-2">
         {posts.map((post) => (
           <article key={post.slug} className="group overflow-hidden rounded-2xl outline outline-aegean/10">
-            <Link href={`/blog/${post.slug}`} className="block">
-              <div className="relative aspect-[16/9] overflow-hidden bg-limestone/60">
-                {post.cover ? (
-                  <Image
-                    src={post.cover}
-                    alt=""
-                    fill
-                    className="object-cover transition duration-500 group-hover:scale-[1.03]"
-                    sizes="(max-width:768px) 100vw, 50vw"
-                  />
-                ) : null}
-              </div>
-              <div className="bg-foam/70 p-6">
-                <p className="text-xs uppercase tracking-wide text-aegean/50">
-                  {common("minRead", { minutes: post.readingMinutes })}
-                  {post.datePublished ? ` · ${post.datePublished}` : ""}
-                </p>
-                <h2 className="mt-2 font-display text-2xl text-aegean">{post.title}</h2>
-                <p className="mt-3 text-aegean/70">{post.description}</p>
-                <span className="mt-4 inline-block text-sm font-semibold text-olive">
-                  {t("read")} →
-                </span>
-              </div>
+            <div className="relative aspect-[16/9] overflow-hidden bg-limestone/60">
+              {post.cover ? (
+                <PexelsCover
+                  src={post.cover}
+                  alt={post.title}
+                  href={`/blog/${post.slug}`}
+                  sizes="(max-width:768px) 100vw, 50vw"
+                  locale={locale}
+                  className="transition duration-500 group-hover:scale-[1.03]"
+                />
+              ) : (
+                <Link href={`/blog/${post.slug}`} className="absolute inset-0" />
+              )}
+            </div>
+            <Link href={`/blog/${post.slug}`} className="block bg-foam/70 p-6">
+              <p className="text-xs uppercase tracking-wide text-aegean/50">
+                {common("minRead", { minutes: post.readingMinutes })}
+                {post.datePublished ? ` · ${post.datePublished}` : ""}
+              </p>
+              <h2 className="mt-2 font-display text-2xl text-aegean">{post.title}</h2>
+              <p className="mt-3 text-aegean/70">{post.description}</p>
+              <span className="mt-4 inline-block text-sm font-semibold text-olive">
+                {t("read")} →
+              </span>
             </Link>
           </article>
         ))}

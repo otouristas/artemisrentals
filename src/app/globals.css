@@ -362,6 +362,26 @@
     color: color-mix(in oklab, var(--aegean-ink) 60%, transparent);
   }
 
+  .prose-artemis figcaption a {
+    color: var(--aegean-deep);
+  }
+
+  .pexels-credit-overlay {
+    font-size: 0.65rem;
+    line-height: 1.35;
+    color: var(--foam);
+    background: color-mix(in oklab, var(--aegean-ink) 72%, transparent);
+    border-radius: 9999px;
+    padding: 0.22rem 0.65rem;
+    backdrop-filter: blur(6px);
+  }
+
+  .pexels-credit-overlay a {
+    color: var(--foam);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
   .prose-artemis img {
     border-radius: 1rem;
     width: 100%;

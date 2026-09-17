@@ -9,6 +9,7 @@ import {
 } from "@/lib/site";
 import { getDiscoverHubLinks } from "@/lib/guide-discover";
 import { WhatsAppIcon } from "@/components/WhatsAppIcon";
+import { hasPexelsKey } from "@/lib/pexels";
 
 const linkClass =
   "text-sm text-foam/80 transition hover:text-foam";
@@ -159,6 +160,24 @@ export function Footer({ locale }: { locale: string }) {
             {t("rights", { year })}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-x-5 gap-y-3 text-xs text-foam/50 sm:justify-end">
+            {hasPexelsKey() ? (
+              <a
+                href="https://www.pexels.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 hover:text-foam"
+              >
+                <Image
+                  src="https://images.pexels.com/lib/api/pexels-white.png"
+                  alt=""
+                  width={80}
+                  height={20}
+                  className="h-4 w-auto"
+                  sizes="80px"
+                />
+                <span>{t("photosProvided")}</span>
+              </a>
+            ) : null}
             <a
               href="https://anotherseoguru.com"
               target="_blank"

@@ -14,6 +14,11 @@ export function absoluteUrl(locale: Locale, path = "") {
   return `${SITE_URL}${localePath(locale, path)}`;
 }
 
+export function absoluteImageUrl(src: string) {
+  if (src.startsWith("http://") || src.startsWith("https://")) return src;
+  return `${SITE_URL}${src.startsWith("/") ? src : `/${src}`}`;
+}
+
 /**
  * Google truncates the title link by pixel width on mobile, and titles it leaves
  * alone run noticeably shorter than the ones it rewrites. Since Google also shows
@@ -56,7 +61,7 @@ export function buildMetadata({
 }): Metadata {
   const url = absoluteUrl(locale, path);
   title = withBrand(title, brand);
-  const ogImage = image.startsWith("http") ? image : `${SITE_URL}${image}`;
+  const ogImage = absoluteImageUrl(image);
   const languages = hreflangLanguages(path, absoluteUrl);
 
   return {

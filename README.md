@@ -29,6 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) (redirects to `/en`).
 | `AI_MODEL` | Model id (default `gpt-4o-mini`) |
 | `RESEND_API_KEY` | Send booking enquiries by email |
 | `BOOKING_FROM_EMAIL` | Resend from address |
+| `PEXELS_API_KEY` | Sifnos Guide and blog location photos (server only) |
 
 Without AI keys, the chat API returns 503 with a phone/form fallback. Without Resend, enquiries are logged server-side.
 

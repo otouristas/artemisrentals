@@ -1,35 +1,45 @@
 Image credits for Artemis Rental (artemisrental.gr)
 
-Blog covers (public/images/blog/): regenerated from on-site Sifnos photography
-and Artemis brand/fleet assets (not generic Unsplash travel stock):
+Sifnos location photos (beaches, villages, and the blog/guide covers derived
+from them) are loaded from the Pexels API when PEXELS_API_KEY is set. Each
+photo credits the photographer with a link to the Pexels photo page, and the
+footer includes a prominent "Photos provided by Pexels" link, per Pexels API
+guidelines: https://www.pexels.com/api/documentation/
 
-- 3-day-sifnos-itinerary.jpg ← sifnos/villages/apollonia
-- apollonia-vs-kamares-stay.jpg ← sifnos/villages/artemonas
-- best-time-visit-sifnos.jpg ← sifnos/beaches/faros
-- driving-in-sifnos.jpg ← brand/artemis-cars
-- family-travel-sifnos.jpg ← sifnos/beaches/plats-gialos
-- kamares-port-arrival-guide.jpg ← sifnos/beaches/kamares
-- rent-a-car-sifnos-2026.jpg ← brand/hero-sifnos
-- scooter-licence-rules-sifnos.jpg ← brand/artemis-motos
-- sifnos-beaches-by-car.jpg ← sifnos/beaches/vathi
-- sifnos-car-rental-prices.jpg ← fleet/suzuki-ignis
-- sifnos-hiking-trails-by-car-cover.jpg ← sifnos/beaches/fykiada
-- sifnos-vs-milos.jpg ← sifnos/beaches/chrysopigi
+Local files under public/images/sifnos/, plus the matching blog/guide covers
+below, remain as fallbacks if the API key is missing or a request fails.
 
-Guide covers (public/images/guide/): same Sifnos / brand sources:
+Blog covers still served from local files (Artemis brand or fleet, not Pexels):
 
-- apollonia-artemonas.jpg ← sifnos/villages/apollonia
-- beaches.jpg ← sifnos/beaches/plats-gialos
-- ferries.jpg ← sifnos/beaches/kamares
-- food-pottery.jpg ← sifnos/beaches/heronissos
+- driving-in-sifnos-cover.jpg ← brand/artemis-cars
+- rent-a-car-sifnos-2026-cover.jpg ← brand/hero-sifnos
+- scooter-licence-rules-sifnos-cover.jpg ← brand/artemis-motos
+- sifnos-car-rental-prices-cover.jpg ← fleet/suzuki-ignis
+
+Guide covers still served from local files (Artemis brand):
+
 - getting-around.jpg ← brand/artemis-cars
 - how-to-get-there.jpg ← brand/hero-sifnos
-- kamares-port.jpg ← sifnos/beaches/kamares
-- overview.jpg ← sifnos/beaches/vathi
-- practical-tips.jpg ← sifnos/beaches/vroulidia
-- things-to-do.jpg ← sifnos/beaches/chrysopigi
-- where-to-stay.jpg ← sifnos/villages/artemonas
+
+Blog/guide covers that follow the Pexels Sifnos slots when the API is available:
+
+- 3-day-sifnos-itinerary-cover.jpg ← villages/apollonia
+- apollonia-vs-kamares-stay-cover.jpg ← villages/artemonas
+- best-time-visit-sifnos-cover.jpg ← beaches/faros
+- family-travel-sifnos-cover.jpg ← beaches/plats-gialos
+- kamares-port-arrival-guide-cover.jpg ← beaches/kamares
+- sifnos-beaches-by-car-cover.jpg ← beaches/vathi
+- sifnos-hiking-trails-by-car-cover.jpg ← beaches/fykiada
+- sifnos-vs-milos-cover.jpg ← beaches/chrysopigi
+- apollonia-artemonas.jpg ← villages/apollonia
+- beaches.jpg ← beaches/plats-gialos
+- ferries.jpg ← beaches/kamares
+- food-pottery.jpg ← beaches/heronissos
+- kamares-port.jpg ← beaches/kamares
+- overview.jpg ← beaches/vathi
+- practical-tips.jpg ← beaches/vroulidia
+- things-to-do.jpg ← beaches/chrysopigi
+- where-to-stay.jpg ← villages/artemonas
 
 Brand photography in public/images/brand/ remains Artemis Rental property.
 Fleet vehicle images in public/images/fleet/ remain Artemis Rental property.
-Sifnos beach/village photography in public/images/sifnos/ is site content.
