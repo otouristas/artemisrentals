@@ -75,10 +75,6 @@ export const PINNED_PEXELS: Record<string, PinnedPexelsPhoto> = Object.fromEntri
   Object.entries(SLOT_PHOTO).map(([slot, key]) => [slot, CONFIRMED_SIFNOS_PHOTOS[key]]),
 );
 
-export const CONFIRMED_SIFNOS_PHOTO_IDS = new Set(
-  Object.values(CONFIRMED_SIFNOS_PHOTOS).map((photo) => photo.id),
-);
-
 /** Place names that belong on the Pexels Sifnos search, used to rank live hits. */
 export const SLOT_SEARCH_KEYWORDS: Record<string, string[]> = {
   "plats-gialos": ["platis", "plats gialos", "plats-gialos"],
