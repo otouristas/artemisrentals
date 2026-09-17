@@ -6,6 +6,7 @@ import {
   SIFNOS_PEXELS_SEARCH_QUERY,
   SLOT_SEARCH_KEYWORDS,
   isOtherIslandPexelsPhoto,
+  isSifnosSearchHit,
 } from "@/lib/pexels-catalog";
 import {
   getPexelsPhoto,
@@ -145,6 +146,7 @@ const loadSifnosSearchPool = cache(async (): Promise<PexelsPhoto[]> => {
   ]);
   const byId = new Map<number, PexelsPhoto>();
   for (const photo of pages.flat()) {
+    if (!isSifnosSearchHit(photo.alt, photo.url, photo.id)) continue;
     if (isOtherIslandPexelsPhoto(photo.alt, photo.url)) continue;
     if (!byId.has(photo.id)) byId.set(photo.id, photo);
   }
