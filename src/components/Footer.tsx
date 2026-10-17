@@ -181,8 +181,18 @@ export function Footer({ locale }: { locale: string }) {
               rel="noopener noreferrer"
               className="hover:text-foam"
             >
-              {t("designedBy")}{" "}
-              <span className="font-semibold text-foam/75">AnotherSEOGuru</span>
+              <span className="inline-flex items-center gap-2">
+                {t("designedBy")}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/images/brand/credits/anotherseoguru.svg"
+                  alt="AnotherSEOGuru"
+                  width={106}
+                  height={24}
+                  className="h-6 w-auto"
+                  loading="lazy"
+                />
+              </span>
             </a>
             <a
               href="https://touristas.ai"
@@ -190,8 +200,18 @@ export function Footer({ locale }: { locale: string }) {
               rel="noopener noreferrer"
               className="hover:text-foam"
             >
-              {t("poweredBy")}{" "}
-              <span className="font-semibold text-foam/75">Touristas AI</span>
+              <span className="inline-flex items-center gap-2">
+                {t("poweredBy")}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/images/brand/credits/touristas-ai-white.png"
+                  alt="Touristas AI"
+                  width={92}
+                  height={19}
+                  className="h-[19px] w-auto"
+                  loading="lazy"
+                />
+              </span>
             </a>
             <a
               href={discoverCycladesUrl(locale, "")}
@@ -200,11 +220,11 @@ export function Footer({ locale }: { locale: string }) {
               className="inline-flex items-center gap-2 transition hover:opacity-90"
             >
               <Image
-                src="https://discovercyclades.gr/favicon.svg"
+                src="/images/brand/credits/discover-cyclades.png"
                 alt=""
-                width={20}
-                height={20}
-                className="h-5 w-5"
+                width={24}
+                height={24}
+                className="h-6 w-6 rounded-full"
               />
               <span className="leading-tight">
                 <span className="block text-xs font-bold text-foam">Discover Cyclades</span>
