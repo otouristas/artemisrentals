@@ -206,7 +206,7 @@ export function Footer({ locale }: { locale: string }) {
                 <img
                   src="/images/brand/credits/touristas-ai-white.png"
                   alt="Touristas AI"
-                  width={92}
+                  width={123}
                   height={19}
                   className="h-[19px] w-auto"
                   loading="lazy"
