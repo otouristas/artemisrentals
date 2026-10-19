@@ -31,7 +31,7 @@ related:
 
 Compact cars fit village lanes and tight parking best. Artemis maintains cars for island roads; request dates early for July–August automatics. **Car pickup** is complimentary at Kamares port, heliport, Apollonia, Artemonas, and Kastro. Scooters are Apollonia-based; online scooter booking is temporarily unavailable.
 
-See [rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) and [practical driving tips](/en/sifnos-guide/practical-tips).
+See [rent a car in Sifnos](/en) and [practical driving tips](/en/sifnos-guide/practical-tips).
 
 ## Scooter rental
 

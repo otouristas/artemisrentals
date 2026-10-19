@@ -53,4 +53,4 @@ Carry your licence and passport, adjust mirrors before leaving Apollonia's one-w
 
 Questions about a specific route or vehicle size? [Book with Artemis](/en/book) and describe your hotel base and ferry times. A quick WhatsApp exchange beats guessing whether a Panda or an Ignis fits your week better.
 
-Need a car for these roads? [Rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) or [check seasonal rates](/en/rates).
+Need a car for these roads? [Rent a car in Sifnos](/en) or [check seasonal rates](/en/rates).
