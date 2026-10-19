@@ -48,4 +48,4 @@ Ask about child seats when you enquire if travelling with toddlers. Mention auto
 
 For deeper price context see [Sifnos car rental prices](/en/blog/sifnos-car-rental-prices). Ready to confirm? [Book with Artemis](/en/book), no prepayment, personal reply on WhatsApp or email.
 
-Full evergreen guide: [Rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos). See live [fleet](/en/cars) and [rates](/en/rates).
+Full evergreen guide: [Sifnos car rental guide](/en/sifnos-guide/rent-a-car-sifnos). Ready to [rent a car in Sifnos](/en)? See the live [fleet](/en/cars) and [rates](/en/rates).

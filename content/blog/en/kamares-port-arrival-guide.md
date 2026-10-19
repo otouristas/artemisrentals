@@ -58,4 +58,4 @@ Once settled, Kamares becomes a launch point for the north coast or a quick port
 
 Landing soon? [Book with Artemis](/en/book) with ferry date, approximate arrival time, and preferred pickup location. Artemis has met boats at this port since **1988**, a short message beats standing at the pier guessing whether your Panda is waiting.
 
-Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/en/sifnos-guide/rent-a-car-sifnos) or [book dates](/en/book).
+Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/en) or [book dates](/en/book).

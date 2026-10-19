@@ -60,4 +60,4 @@ Pick **Sifnos** if you want manageable driving, central Apollonia base, family-f
 
 Visiting Sifnos first? [Book with Artemis](/en/book) with ferry dates and whether you need Kamares or Apollonia pickup. Even if Milos follows, starting calm sets up the louder island nicely.
 
-Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/en/sifnos-guide/rent-a-car-sifnos).
+Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/en).

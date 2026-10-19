@@ -16,7 +16,7 @@ const OG_SUBTITLE: Record<string, string> = {
 };
 
 const OG_HOME_TITLE: Record<string, string> = {
-  en: "Car & scooter rental in Sifnos",
+  en: "Rent a car in Sifnos",
   el: "Ενοικιάσεις αυτοκινήτων & scooter στη Σίφνο",
   it: "Noleggio auto e scooter a Sifnos",
   fr: "Location de voitures et scooters à Sifnos",
