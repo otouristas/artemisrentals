@@ -1,4 +1,10 @@
+Last-Updated: 2026-10-21
+Canonical: https://rentacarsifnos.com/llms.txt
+Long-form: https://rentacarsifnos.com/llms-full.txt
+Sitemap: https://rentacarsifnos.com/sitemap.xml
+
 # Artemis Rental
+Source: https://rentacarsifnos.com
 
 > Family car and scooter rentals in Apollonia, Sifnos (Cyclades, Greece) since 1988.
 
@@ -295,4 +301,4 @@
 - Full Cyclades trip planner: https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner
 
 ## Full facts
-- https://rentacarsifnos.com/.well-known/llms-full.txt
+- https://rentacarsifnos.com/llms-full.txt (also at /.well-known/llms-full.txt)
