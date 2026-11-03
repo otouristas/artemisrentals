@@ -4,7 +4,7 @@ title: "Fähre nach Sifnos 2026: Piräus, Fahrzeiten und Tipps"
 description: "Der komplette Guide zu den Fähren nach Sifnos: von Piräus nach Kamares, Schnellfähre oder konventionelle Fähre, Verbindungen nach Milos und Serifos."
 answer: "Jede Fähre nach Sifnos legt in Kamares an der Westküste an. Die Überfahrt startet in Piräus und dauert je nach Schiff etwa 2,5 bis 3 Stunden mit dem Schnellkatamaran oder rund 5 Stunden mit der konventionellen Fähre, im Sommer täglich, im Winter drei bis vier Mal pro Woche."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 3
@@ -97,7 +97,7 @@ Was Besucher immer wieder unterschätzen, ist die Lücke zwischen dem Verlassen 
 
 Wir lösen das, indem wir Sie am Schiff erwarten. Senden Sie uns **Ankunftsdatum und ungefähre Anlegezeit**, dann steht das Auto ohne Aufpreis im Hafen Kamares bereit. Auch am Heliport, in Apollonia, Artemonas und Kastro ist die Abholung kostenlos. Für die Reservierung sind weder Vorauszahlung noch Kartendaten nötig, und Haftpflichtversicherung, Wartung sowie Hilfe vor Ort sind im Tagespreis enthalten.
 
-Nennen Sie uns Ihre Fährzeit und ob Sie ein Auto oder einen Roller möchten, um alles Weitere kümmern wir uns.
+Nennen Sie uns Ihre Fährzeit und mit wie vielen Personen Sie reisen, um alles Weitere kümmern wir uns. (Roller holen Sie in unserem Büro in Apollonia ab, nicht am Hafen.)
 
 [Mietwagen zur Fährankunft reservieren](/de/book) oder im [Guide zur Ankunft im Hafen Kamares](/de/sifnos-guide/kamares-port) nachlesen, was Sie am Kai erwartet.
 

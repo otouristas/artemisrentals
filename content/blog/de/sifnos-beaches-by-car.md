@@ -3,7 +3,7 @@ slug: sifnos-beaches-by-car
 title: "Die schönsten Strände auf Sifnos mit dem Auto"
 description: "Strandguide für Autofahrer auf Sifnos: Platys Gialos, Vathi, Chrysopigi und ruhigere Buchten, mit Parktipps von Artemis. Familienbetrieb in Apollonia seit 1988."
 datePublished: "2026-07-05"
-dateModified: "2026-07-15"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [Strände, Autofahren, Reiseplan]
@@ -26,7 +26,7 @@ In diesen Buchten im Osten sitzen Sie statt im Trubel von Platys Gialos an Taver
 
 ## Westen und Norden: ruhigere Strände
 
-**Apokofto** und **Fykiada** lohnen sich für alle, die bereit sind, die letzten Minuten von einer Haltebucht an der Straße zu Fuß zu gehen. **Kamares** selbst ist der Strand am Hafen, praktisch am Ankunftstag, bevor Sie die Schlüssel in Apollonia abholen, oder wenn Sie die **Abholung in Kamares auf Anfrage** vereinbart haben.
+**Apokofto** und **Fykiada** lohnen sich für alle, die bereit sind, die letzten Minuten von einer Haltebucht an der Straße zu Fuß zu gehen. **Kamares** selbst ist der Strand am Hafen, praktisch am Ankunftstag, vor allem wenn Ihr Auto von Artemis schon am Kai auf Sie gewartet hat (kostenlose **Abholung in Kamares** für Autos).
 
 Nach **Vroulidia** im Norden fahren Sie länger und gehen ein kurzes Stück zu Fuß: weniger Infrastruktur, mehr Ruhe. Achten Sie auf die Windrichtung, denn an den Stränden im Norden wird das Meer bei Meltemi unruhig.
 
@@ -36,7 +36,7 @@ Nach **Vroulidia** im Norden fahren Sie länger und gehen ein kurzes Stück zu F
 
 Eine bewährte Variante: Kaffee im Norden in Kastro oder Artemonas, vor Mittag baden an der Südküste, Siesta, dann Abendessen in Apollonia, ohne im Hotel umpacken zu müssen. Eine andere: Unterkunft in der Nähe von Kamares mit Bädern am Hafen, und nur für den Sonnenuntergang in Chrysopigi ins Inselinnere fahren.
 
-Roller eignen sich im Mai und September für Paare, Familien mit Kühlbox und Kindersitzen nehmen meist lieber einen Kleinwagen. Artemis bietet beides aus demselben Büro in Apollonia an, Anfrage **ohne Vorauszahlung**, die Saisonpreise finden Sie auf der [Preisseite](/de/rates).
+Roller eignen sich im Hochsommer für Paare mit Motorradführerschein, abgeholt in unserem Büro in Apollonia; Familien mit Kühlbox und Kindersitzen nehmen meist lieber einen Kleinwagen. Autos bringen wir kostenlos zum Hafen Kamares und nach Apollonia, Anfrage **ohne Vorauszahlung**, die Saisonpreise finden Sie auf der [Preisseite](/de/rates).
 
 ## Parken in der Hochsaison
 
@@ -48,7 +48,7 @@ Wenn alle Parkplätze an der Südküste voll aussehen, versuchen Sie es in Faros
 
 Morgens: von Apollonia nach Vathi (45 Minuten mit Fotostopps), baden und Kaffee. Mittags: Mittagessen in Platys Gialos und Siesta unter dem Sonnenschirm. Am späten Nachmittag: Chrysopigi im schönsten Licht, dann Abendessen in Faros. Nach Einbruch der Dunkelheit auf einer Strecke zurück nach Apollonia, die Sie schon kennen. Das ist nicht der Tag für Abkürzungen über Schotter.
 
-Diese Runde geht von einem Kleinwagen von Artemis aus, angefragt **ohne Vorauszahlung**, und mindestens einem Tankstopp bei Kamares oder Apollonia. Paare auf dem Roller können eine kürzere Variante fahren und sich die Parkplatzsuche in Platys Gialos sparen, indem sie in Faros essen.
+Diese Runde geht von einem Kleinwagen von Artemis aus, angefragt **ohne Vorauszahlung**, und mindestens einem Tankstopp; fragen Sie uns, wo die nächste Tankstelle ist. Paare auf dem Roller können eine kürzere Variante fahren und sich die Parkplatzsuche in Platys Gialos sparen, indem sie in Faros essen.
 
 ## Strände und Unterkunft aufeinander abstimmen
 

@@ -3,7 +3,7 @@ slug: sifnos-hiking-trails-by-car
 title: "Wanderwege auf Sifnos, die Sie mit dem Auto erreichen"
 description: "Ausgangspunkte und Tageswanderungen auf Sifnos: mit dem Mietwagen von Artemis parken, auf alten Pfaden wandern, abends zurück nach Apollonia. Familienbetrieb."
 datePublished: "2026-07-10"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [Wandern, Wanderwege, Autofahren]
@@ -16,7 +16,7 @@ Sifnos gehört zu den am besten markierten Wanderinseln der Kykladen. Steinpfade
 
 Die Wanderwege führen von Apollonia, Artemonas, Kastro und der Südküste aus in alle Richtungen. Busse fahren die größeren Dörfer an, passen aber selten zu einem Start am frühen Morgen oder einer Rückkehr nach Sonnenuntergang. Wenn Sie in der Nähe des Einstiegs parken, können Sie im Morgengrauen loswandern, mittags in Vathi baden und trotzdem zum Abendessen in Apollonia sein.
 
-Mit der Abholung bei Artemis in **Apollonia** sind Sie mehreren klassischen Routen am nächsten. Die **Abholung in Kamares auf Anfrage** passt, wenn Ihr Hotel am Hafen liegt, Sie aber jeden Tag zu Ausgangspunkten in den Bergen fahren möchten. Für die Anfrage ist **keine Vorauszahlung** nötig. Nennen Sie uns Ihre Reisedaten und ob Sie für kurze Strecken lieber Auto oder Roller möchten.
+Mit der Abholung bei Artemis in **Apollonia** sind Sie mehreren klassischen Routen am nächsten. Die kostenlose Abholung am **Hafen Kamares** passt, wenn Ihr Hotel am Hafen liegt, Sie aber jeden Tag zu Ausgangspunkten in den Bergen fahren möchten. Für die Anfrage ist **keine Vorauszahlung** nötig. Nennen Sie uns Ihre Reisedaten und die Wanderungen, die Sie vorhaben.
 
 ## Klassische Routen, für die sich die Anfahrt lohnt
 
