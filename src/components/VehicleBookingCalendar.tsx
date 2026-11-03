@@ -5,16 +5,13 @@ import { DayPicker, type DateRange } from "react-day-picker";
 import { useTranslations } from "next-intl";
 import { useRouter } from "@/i18n/navigation";
 import { estimateRateForDate } from "@/lib/fleet";
+import { toISODate } from "@/lib/dates";
 import "react-day-picker/style.css";
 
 function daysBetween(from: Date, to: Date) {
   const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
   const b = Date.UTC(to.getFullYear(), to.getMonth(), to.getDate());
   return Math.max(1, Math.round((b - a) / 86400000) + 1);
-}
-
-function toISODate(d: Date) {
-  return d.toISOString().slice(0, 10);
 }
 
 export function VehicleBookingCalendar({
@@ -60,16 +57,22 @@ export function VehicleBookingCalendar({
       : `/book?vehicle=${encodeURIComponent(vehicleSlug)}`;
 
   return (
-    <div className="bg-foam">
-      {fromPrice != null ? (
-        <p className="font-display text-3xl tracking-tight text-aegean">
-          {t("fromDay", { price: fromPrice })}
+    <div>
+      {indicativeTotal != null ? (
+        <p className="text-aegean">
+          <span className="price-total text-3xl">~€{indicativeTotal}</span>
+          <span className="ml-2 text-sm text-aegean/60">{t("nights", { count: dayCount })}</span>
+        </p>
+      ) : fromPrice != null ? (
+        <p className="text-3xl font-bold tracking-tight text-aegean">
+          €{fromPrice}
+          <span className="ml-1 text-base font-medium text-aegean/55">{t("perDay")}</span>
         </p>
       ) : (
-        <p className="font-display text-2xl text-aegean">{t("contactForPrice")}</p>
+        <p className="text-2xl font-semibold text-aegean">{t("contactForPrice")}</p>
       )}
 
-      <h2 className="mt-6 font-display text-xl text-aegean">{t("selectDates")}</h2>
+      <h2 className="mt-6 border-t border-line pt-5 text-lg font-semibold text-aegean">{t("selectDates")}</h2>
       <p className="mt-1 text-sm leading-relaxed text-aegean/60">{t("calendarHint")}</p>
 
       <div className="fleet-daypicker mt-5">
@@ -83,21 +86,13 @@ export function VehicleBookingCalendar({
         />
       </div>
 
-      {dayCount > 0 && (
-        <div className="mt-5 border-t border-aegean/10 pt-4">
-          <p className="text-sm text-aegean/60">{t("nights", { count: dayCount })}</p>
-          {indicativeTotal != null && (
-            <p className="mt-1 font-display text-2xl text-aegean">~€{indicativeTotal}</p>
-          )}
-        </div>
-      )}
 
       {/* Button, not <Link>: a crawlable href would let Google discover
           /book?vehicle=… as duplicate URLs of /book. Same UX, no crawl waste. */}
       <button
         type="button"
         onClick={() => router.push(href)}
-        className="btn-primary mt-5 w-full justify-center"
+        className="btn-accent mt-5 min-h-12 w-full justify-center text-[15px]"
       >
         {range?.from && range?.to ? t("requestDates") : t("bookThis")}
       </button>

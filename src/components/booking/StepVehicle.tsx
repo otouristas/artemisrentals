@@ -2,23 +2,46 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { getCurrentSeasonRate, getLowestRate, isScooterBookingEnabled } from "@/lib/fleet";
+import { parseISODate } from "@/lib/dates";
+import { intlLocale } from "@/lib/i18n-locale";
 import type { Vehicle } from "./types";
+
+function dayCount(from?: Date, to?: Date) {
+  if (!from || !to) return 0;
+  const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
+  const b = Date.UTC(to.getFullYear(), to.getMonth(), to.getDate());
+  return Math.max(1, Math.round((b - a) / 86400000) + 1);
+}
 
 export function StepVehicle({
   vehicles,
   value,
+  from,
+  to,
+  totalFor,
   onChange,
+  onEditDates,
   onNext,
 }: {
   vehicles: Vehicle[];
   value: string;
+  from: string;
+  to: string;
+  totalFor: (rateKey: string | null) => number | null;
   onChange: (slug: string) => void;
+  onEditDates: () => void;
   onNext: () => void;
 }) {
   const t = useTranslations("Book");
   const tFleet = useTranslations("Fleet");
+  const locale = useLocale();
+  const fromDate = parseISODate(from);
+  const toDate = parseISODate(to);
+  const days = dayCount(fromDate, toDate);
+  const dateFmt = new Intl.DateTimeFormat(intlLocale(locale), { day: "numeric", month: "short" });
+  const dateRange = fromDate && toDate ? `${dateFmt.format(fromDate)} – ${dateFmt.format(toDate)}` : "";
   const scootersOpen = isScooterBookingEnabled();
   const selectedVehicle = vehicles.find((v) => v.slug === value);
   const [category, setCategory] = useState<"car" | "scooter">(() =>
@@ -66,8 +89,22 @@ export function StepVehicle({
         <h2 className="font-display text-xl text-aegean">{t("stepVehicleReady")}</h2>
       )}
 
+      {dateRange ? (
+        <div className="mt-4 flex w-fit flex-wrap items-center gap-x-3 gap-y-1 rounded-lg border border-line bg-surface py-2 pl-4 pr-2 text-sm">
+          <span className="font-semibold text-aegean">{dateRange}</span>
+          <span className="text-aegean/60">{t("nights", { count: days })}</span>
+          <button
+            type="button"
+            onClick={onEditDates}
+            className="rounded-full px-2 py-0.5 font-semibold text-aegean/70 underline-offset-2 hover:text-aegean hover:underline"
+          >
+            {t("changeDates")}
+          </button>
+        </div>
+      ) : null}
+
       {selectedVehicle ? (
-        <div className="mt-4 rounded-2xl bg-sun/10 p-3 ring-2 ring-sun sm:p-4">
+        <div className="mt-4 rounded-2xl border-2 border-aegean bg-foam p-3 sm:p-4">
           <div className="flex items-center gap-3">
             <div className="relative h-16 w-20 shrink-0 overflow-hidden rounded-xl bg-foam sm:h-[4.5rem] sm:w-28">
               <Image
@@ -153,6 +190,7 @@ export function StepVehicle({
               : filtered.map((v) => {
               const selected = value === v.slug;
               const lowest = getLowestRate(v.rateKey);
+              const total = days ? totalFor(v.rateKey) : null;
               return (
                 <button
                   key={v.slug}
@@ -164,7 +202,7 @@ export function StepVehicle({
                     setBrowsing(false);
                   }}
                   className={`card-premium relative flex flex-col overflow-hidden text-left transition ${
-                    selected ? "ring-2 ring-sun" : "hover:ring-1 hover:ring-aegean/20"
+                    selected ? "border-aegean ring-1 ring-aegean" : ""
                   }`}
                 >
                   <div className="relative aspect-[4/3] overflow-hidden bg-aegean/[0.04]">
@@ -176,7 +214,7 @@ export function StepVehicle({
                       sizes="(max-width:768px) 50vw, 30vw"
                     />
                     {selected ? (
-                      <span className="absolute right-3 top-3 rounded-full bg-sun px-2.5 py-1 text-[11px] font-semibold text-aegean">
+                      <span className="absolute right-3 top-3 rounded-full bg-aegean px-2.5 py-1 text-[11px] font-semibold text-foam">
                         ✓
                       </span>
                     ) : null}
@@ -187,9 +225,16 @@ export function StepVehicle({
                       {tFleet("seats", { count: v.seats })} ·{" "}
                       {v.transmission === "automatic" ? tFleet("automatic") : tFleet("manual")}
                     </p>
-                    <p className="mt-2 text-sm font-semibold text-olive">
-                      {lowest ? tFleet("fromDay", { price: lowest }) : tFleet("contactForPrice")}
-                    </p>
+                    {total != null ? (
+                      <p className="mt-2 text-sm text-aegean/60">
+                        <span className="font-display text-xl font-semibold text-olive">~€{total}</span>{" "}
+                        {t("totalForDays", { count: days })}
+                      </p>
+                    ) : (
+                      <p className="mt-2 text-sm font-semibold text-olive">
+                        {lowest ? tFleet("fromDay", { price: lowest }) : tFleet("contactForPrice")}
+                      </p>
+                    )}
                   </div>
                 </button>
               );
@@ -202,7 +247,7 @@ export function StepVehicle({
             aria-checked={value === ""}
             onClick={() => onChange("")}
             className={`card-premium mt-4 flex w-full items-center gap-3 p-4 text-left ${
-              value === "" ? "ring-2 ring-sun" : ""
+              value === "" ? "border-aegean ring-1 ring-aegean" : ""
             }`}
           >
             <span

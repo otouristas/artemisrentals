@@ -103,19 +103,24 @@ export function Header() {
     };
   }, [langOpen]);
 
+  // Solid white bar everywhere except over the homepage hero.
+  const solid = scrolled || !isHome || open;
+  const navTone = solid ? "text-aegean/70 hover:text-aegean" : "text-foam/85 hover:text-foam";
+  const navActive = solid ? "text-aegean" : "text-foam";
+
   return (
     <header
       className={cn(
         "fixed inset-x-0 top-0 z-40 transition-all duration-300",
-        scrolled || !isHome || open
-          ? "glass-nav shadow-[0_8px_30px_rgba(11,42,60,0.18)]"
+        solid
+          ? "border-b border-line bg-foam/95 backdrop-blur-md"
           : "bg-gradient-to-b from-aegean/80 via-aegean/35 to-transparent",
       )}
     >
       <div className="site-header-bar container-site flex items-center justify-between gap-4">
-        <Link href="/" className="flex items-center gap-3 text-foam">
+        <Link href="/" className="flex items-center gap-3">
           <Image
-            src="/images/brand/artemis-auto-rental-white.svg"
+            src={solid ? "/images/brand/artemis-auto-rental.svg" : "/images/brand/artemis-auto-rental-white.svg"}
             alt="Artemis Rental"
             width={140}
             height={40}
@@ -130,8 +135,9 @@ export function Header() {
               key={l.href}
               href={l.href}
               className={cn(
-                "text-sm font-medium text-foam/85 transition hover:text-foam",
-                pathname.startsWith(l.href) && "text-foam",
+                "text-sm font-medium transition",
+                navTone,
+                pathname.startsWith(l.href) && navActive,
               )}
             >
               {t(l.key)}
@@ -142,8 +148,9 @@ export function Header() {
             <button
               type="button"
               className={cn(
-                "inline-flex items-center gap-1 text-sm font-medium text-foam/85 transition hover:text-foam",
-                guideActive && "text-foam",
+                "inline-flex items-center gap-1 text-sm font-medium transition",
+                navTone,
+                guideActive && navActive,
               )}
               aria-expanded={guideOpen}
               aria-haspopup="menu"
@@ -168,7 +175,7 @@ export function Header() {
             {guideOpen && (
               <div
                 role="menu"
-                className="absolute left-0 top-full z-50 mt-3 w-64 overflow-hidden rounded-2xl border border-foam/15 bg-aegean/95 py-2 shadow-2xl backdrop-blur-xl"
+                className="absolute left-0 top-full z-50 mt-3 w-64 overflow-hidden rounded-xl border border-line bg-foam py-2 shadow-[0_16px_40px_rgba(11,42,60,0.14)]"
               >
                 {GUIDE_NAV.map((item) => (
                   <Link
@@ -176,10 +183,10 @@ export function Header() {
                     href={item.href}
                     role="menuitem"
                     className={cn(
-                      "block px-4 py-2.5 text-sm text-foam/85 transition hover:bg-foam/10 hover:text-foam",
+                      "block px-4 py-2.5 text-sm text-aegean/80 transition hover:bg-surface hover:text-aegean",
                       (pathname === item.href ||
                         (item.href !== "/sifnos-guide" && pathname.startsWith(item.href))) &&
-                        "bg-foam/10 font-semibold text-sun",
+                        "bg-surface font-semibold text-aegean",
                     )}
                     onClick={() => setGuideOpen(false)}
                   >
@@ -195,8 +202,9 @@ export function Header() {
               key={l.href}
               href={l.href}
               className={cn(
-                "text-sm font-medium text-foam/85 transition hover:text-foam",
-                pathname.startsWith(l.href) && "text-foam",
+                "text-sm font-medium transition",
+                navTone,
+                pathname.startsWith(l.href) && navActive,
               )}
             >
               {t(l.key)}
@@ -218,7 +226,7 @@ export function Header() {
           <div className="relative" ref={langRef}>
             <button
               type="button"
-              className="text-sm font-semibold uppercase tracking-wide text-foam/80 transition hover:text-foam"
+              className={cn("text-sm font-semibold uppercase tracking-wide transition", navTone)}
               aria-expanded={langOpen}
               aria-haspopup="menu"
               aria-label={t("switchLang", { lang: LOCALE_NATIVE_NAMES[currentLocale] })}
@@ -229,7 +237,7 @@ export function Header() {
             {langOpen && (
               <div
                 role="menu"
-                className="absolute right-0 top-full z-50 mt-3 w-44 overflow-hidden rounded-2xl border border-foam/15 bg-aegean/95 py-2 shadow-2xl backdrop-blur-xl"
+                className="absolute right-0 top-full z-50 mt-3 w-44 overflow-hidden rounded-xl border border-line bg-foam py-2 shadow-[0_16px_40px_rgba(11,42,60,0.14)]"
               >
                 {routing.locales.map((loc) => (
                   <Link
@@ -238,8 +246,8 @@ export function Header() {
                     locale={loc}
                     role="menuitem"
                     className={cn(
-                      "block px-4 py-2.5 text-sm text-foam/85 transition hover:bg-foam/10 hover:text-foam",
-                      loc === currentLocale && "bg-foam/10 font-semibold text-sun",
+                      "block px-4 py-2.5 text-sm text-aegean/80 transition hover:bg-surface hover:text-aegean",
+                      loc === currentLocale && "bg-surface font-semibold text-aegean",
                     )}
                     onClick={() => setLangOpen(false)}
                   >
@@ -260,7 +268,10 @@ export function Header() {
           </Link>
           <button
             type="button"
-            className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-foam/30 text-foam"
+            className={cn(
+              "inline-flex h-10 w-10 items-center justify-center rounded-lg border",
+              solid ? "border-line text-aegean" : "border-foam/30 text-foam",
+            )}
             aria-label={open ? t("closeMenu") : t("openMenu")}
             aria-expanded={open}
             onClick={() => setOpen((v) => !v)}

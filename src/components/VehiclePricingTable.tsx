@@ -30,20 +30,18 @@ export async function VehiclePricingTable({
   const currentPrice = row[current];
 
   return (
-    <section className="border-t border-aegean/10 pt-8">
+    <section className="border-t border-line pt-8">
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
-          <h2 className="text-xs font-semibold uppercase tracking-[0.16em] text-aegean/45">
-            {t("pricingTitle")}
-          </h2>
+          <h2 className="text-xl font-semibold text-aegean">{t("pricingTitle")}</h2>
           <p className="mt-2 text-sm text-aegean/65">{t("pricingLead")}</p>
         </div>
-        <div className="rounded-2xl bg-sun/20 px-4 py-3 text-right ring-1 ring-sun/30">
+        <div className="rounded-xl border border-line bg-surface px-4 py-3 text-right">
           <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-aegean/55">
             {t("currentSeason")}
           </p>
           <p className="mt-0.5 text-xs text-aegean/60">{getPeriodLabel(current, locale)}</p>
-          <p className="mt-1 font-display text-2xl text-aegean">
+          <p className="mt-1 text-2xl font-bold text-aegean">
             {typeof currentPrice === "number" ? (
               <>
                 €{currentPrice}
@@ -58,9 +56,9 @@ export async function VehiclePricingTable({
         </div>
       </div>
 
-      <div className="mt-5 overflow-x-auto rounded-2xl ring-1 ring-aegean/10">
+      <div className="mt-5 overflow-x-auto rounded-xl border border-line">
         <table className="min-w-full text-left text-sm">
-          <thead className="bg-aegean text-foam">
+          <thead className="bg-surface text-aegean">
             <tr>
               <th className="px-4 py-3 font-semibold">{t("season")}</th>
               <th className="px-4 py-3 font-semibold">{t("dailyRate")}</th>
@@ -73,8 +71,8 @@ export async function VehiclePricingTable({
               return (
                 <tr
                   key={period}
-                  className={`border-t border-aegean/8 ${
-                    active ? "bg-sun/15 font-semibold text-aegean" : "odd:bg-salt/40 text-aegean/85"
+                  className={`border-t border-line ${
+                    active ? "bg-sun/10 font-semibold text-aegean" : "text-aegean/85"
                   }`}
                 >
                   <td className="px-4 py-3">

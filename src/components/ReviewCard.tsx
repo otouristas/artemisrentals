@@ -62,7 +62,7 @@ export function ReviewCard({
   return (
     <article
       className={cn(
-        "flex h-full flex-col border border-aegean/12 bg-foam p-5",
+        "flex h-full flex-col rounded-2xl border border-line bg-foam p-5",
         className,
       )}
     >

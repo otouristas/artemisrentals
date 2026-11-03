@@ -9,6 +9,7 @@ import {
   isScooterBookingEnabled,
 } from "@/lib/fleet";
 import { trackEvent } from "@/lib/analytics";
+import { parseISODate } from "@/lib/dates";
 import { buildFormspreeEnquiryPayload, FORMSPREE_FORM_ID } from "@/lib/formspree";
 import { whatsappUrl } from "@/lib/site";
 import { asLocale } from "@/lib/i18n-locale";
@@ -17,6 +18,7 @@ import { WizardProgress } from "./WizardProgress";
 import { StepVehicle } from "./StepVehicle";
 import { StepDates } from "./StepDates";
 import { StepDetails } from "./StepDetails";
+import { BookingSent } from "./BookingSent";
 import {
   normalizeBookingStep,
   type BookingState,
@@ -25,12 +27,6 @@ import {
 } from "./types";
 
 const LAST_STEP: BookingStep = 3;
-
-function parseISODate(value?: string) {
-  if (!value) return undefined;
-  const d = new Date(`${value}T00:00:00`);
-  return Number.isNaN(d.getTime()) ? undefined : d;
-}
 
 function computeEstimatedTotal(rateKey: string | null, from: string, to: string) {
   if (!rateKey) return null;
@@ -150,6 +146,11 @@ export function BookingWizard({
   }
 
   function goNext() {
+    // Dates chosen up front (hero search): skip straight past the calendar.
+    if (step === 1 && state.from && state.to) {
+      goToStep(LAST_STEP);
+      return;
+    }
     goToStep(Math.min(LAST_STEP, step + 1) as BookingStep);
   }
 
@@ -288,6 +289,26 @@ export function BookingWizard({
     locale,
   ]);
 
+  function startOver() {
+    resetFormspree();
+    setStatus("idle");
+    setState((prev) => ({ ...prev, vehicle: "", from: "", to: "", message: "", arrivalInfo: "" }));
+    setFurthestStep(1);
+    setStep(1);
+  }
+
+  if (status === "success") {
+    return (
+      <BookingSent
+        state={state}
+        vehicle={selectedVehicle}
+        estimatedTotal={estimatedTotal}
+        whatsappHref={enquiryWhatsAppUrl()}
+        onReset={startOver}
+      />
+    );
+  }
+
   return (
     <div>
       <WizardProgress step={step} furthestStep={furthestStep} onStepClick={goToStep} />
@@ -297,7 +318,11 @@ export function BookingWizard({
           <StepVehicle
             vehicles={vehicles}
             value={state.vehicle}
+            from={state.from}
+            to={state.to}
+            totalFor={(key) => computeEstimatedTotal(key, state.from, state.to)}
             onChange={(vehicle) => updateState({ vehicle })}
+            onEditDates={() => goToStep(2)}
             onNext={goNext}
           />
         )}

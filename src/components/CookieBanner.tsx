@@ -35,18 +35,19 @@ export function CookieBanner() {
 
   return (
     <div
-      className="pointer-events-none fixed bottom-[5.5rem] left-3 z-50 w-[min(22rem,calc(100vw-1.5rem))] md:bottom-6 md:left-6"
+      className="pointer-events-none fixed inset-x-3 bottom-[5.5rem] z-50 md:inset-x-auto md:bottom-6 md:left-6 md:w-[22rem]"
       role="dialog"
       aria-label={t("title")}
       aria-live="polite"
     >
-      <div className="cookie-glass pointer-events-auto overflow-hidden rounded-3xl p-4 shadow-[0_16px_48px_rgba(11,42,60,0.22)]">
-        <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-aegean/50">
+      {/* Compact on phones so it never hides the booking form behind it. */}
+      <div className="cookie-glass pointer-events-auto overflow-hidden rounded-2xl p-3 shadow-[0_16px_48px_rgba(11,42,60,0.22)] md:rounded-3xl md:p-4">
+        <p className="hidden text-[11px] font-semibold uppercase tracking-[0.16em] text-aegean/50 md:block">
           {t("eyebrow")}
         </p>
-        <p className="mt-1.5 font-display text-lg leading-snug text-aegean">{t("title")}</p>
-        <p className="mt-2 text-sm leading-relaxed text-aegean/70">{t("body")}</p>
-        <p className="mt-2 text-xs text-aegean/55">
+        <p className="font-display text-base leading-snug text-aegean md:mt-1.5 md:text-lg">{t("title")}</p>
+        <p className="mt-1 text-xs leading-relaxed text-aegean/70 md:mt-2 md:text-sm">
+          {t("body")}{" "}
           <Link href="/cookies" className="font-semibold text-aegean underline-offset-2 hover:underline">
             {t("cookiesLink")}
           </Link>
@@ -55,7 +56,7 @@ export function CookieBanner() {
             {t("privacyLink")}
           </Link>
         </p>
-        <div className="mt-4 flex flex-col gap-2">
+        <div className="mt-3 grid grid-cols-2 gap-2 md:mt-4 md:grid-cols-1">
           <button
             type="button"
             onClick={() => choose("all")}
