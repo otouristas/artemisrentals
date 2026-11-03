@@ -4,7 +4,7 @@ title: "Sifnos, Griechenland: der komplette Inselführer"
 description: "Sifnos, Griechenland: der komplette Guide zur Kykladeninsel, berühmt für Küche, Töpferei und Wanderwege. Dörfer, Strände, Reisedauer und beste Reisezeit."
 answer: "Sifnos ist eine griechische Kykladeninsel von etwa 14 km Länge, vor allem bekannt für ihre Küche, ihre Töpfertradition und ein Netz markierter Steinpfade. Apollonia ist die lebhafte Hauptstadt auf dem Bergrücken, Kamares der Fährhafen, und Strände wie Dörfer liegen weit genug auseinander, dass ein Auto oder Roller den Aufenthalt grundlegend verändert."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/apollonia.webp"
 author: "Artemis Rental"
 order: 1
@@ -38,13 +38,13 @@ Der **zentrale Bergrücken** trägt die miteinander verbundenen Binnendörfer: A
 
 Die **Küste** darunter beherbergt die verstreuten Siedlungen: Kamares im Westen, wo die Fähren anlegen, Platys Gialos, Faros und Chrysopigi im Süden, Vathi im Südwesten und Cherronisos ganz im Norden. Kastro, die mittelalterliche Hauptstadt, klammert sich an eine Klippe an der Ostküste.
 
-Nichts ist weiter als etwa 25 Minuten von Apollonia entfernt, doch die Straßen sind schmal und kurvig, weshalb die Kartenentfernung ein schlechter Maßstab für die Fahrzeit ist.
+Die meisten Orte liegen etwa 25 Fahrminuten von Apollonia entfernt, Cherronisos ganz im Norden eher 35, doch die Straßen sind schmal und kurvig, weshalb die Kartenentfernung ein schlechter Maßstab für die Fahrzeit ist.
 
 ## Wie viele Tage brauchen Sie?
 
 **Drei Tage** decken das Wesentliche ab: die Binnendörfer, Kastro und zwei bis drei Strände.
 
-**Fünf bis sieben Tage** sind das Optimum. Genug für den Norden, ein paar Wanderwege, gutes Essen und einen langsamen Tag.
+**Fünf bis sieben Tage** sind das Optimum. Genug für den Norden, ein paar Wanderwege, gutes Essen und einen langsamen Tag. Pläne Tag für Tag finden Sie in unseren [Reiseplänen für 5 und 7 Tage](/de/blog/sifnos-itinerary-5-7-days) und im [3-Tage-Reiseplan](/de/blog/3-day-sifnos-itinerary).
 
 **Zehn Tage oder mehr** und Sie hören auf, Besucher zu sein. Viele machen genau das und halten zwei Wochen für das Minimum.
 
@@ -93,7 +93,7 @@ Hier liegt der praktische Kern einer Sifnos-Reise. Die Insel ist klein, doch das
 
 Die Wege sind kurz: von Apollonia nach Platys Gialos etwa 20 Minuten, nach Kastro etwa 10, nach Vathi etwa 20, nach Cherronisos etwa 35. Mit eigenem Fahrzeug baden Sie an zwei Stränden und sind trotzdem zum Abendessen zurück in Apollonia. Ohne verbringen Sie denselben Tag wartend an Bushaltestellen.
 
-Ein **Auto** eignet sich für Familien, für alle mit Gepäck und für windiges Wetter. Ein **Roller** eignet sich für Alleinreisende und Paare auf kurzen Strecken bei ruhigem Wetter. Die Straßen sind asphaltiert und gut in Schuss, aber schmal und kurvig und haben kaum Leitplanken. Fahren Sie also langsam und lassen Sie bergauf fahrende Fahrzeuge vor, wo es eng wird.
+Ein **Auto** eignet sich für Familien, für alle mit Gepäck und für windiges Wetter. Ein **Roller** eignet sich für Alleinreisende und Paare mit Motorradführerschein auf kurzen Strecken bei ruhigem Wetter. Unser [Vergleich Auto oder Roller](/de/blog/car-or-scooter-sifnos) hilft bei der Entscheidung. Die Straßen sind asphaltiert und gut in Schuss, aber schmal und kurvig und haben kaum Leitplanken. Fahren Sie also langsam und lassen Sie bergauf fahrende Fahrzeuge vor, wo es eng wird.
 
 ## Wo Artemis ins Spiel kommt
 

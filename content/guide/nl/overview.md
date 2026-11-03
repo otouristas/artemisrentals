@@ -4,7 +4,7 @@ title: "Sifnos, Griekenland: de complete eilandgids"
 description: "Sifnos, Griekenland: de complete gids voor het Cycladische eiland van de keuken, het aardewerk en de wandelpaden. Dorpen, stranden, hoe lang en wanneer."
 answer: "Sifnos is een Grieks eiland in de Cycladen van ongeveer 14 km lang, vooral bekend om zijn keuken, zijn aardewerk en een netwerk van bewegwijzerde stenen wandelpaden. Apollonia is de levendige hoofdplaats op de bergrug, Kamares de veerhaven, en de stranden en dorpen liggen zo verspreid dat een auto of scooter je bezoek compleet verandert."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/apollonia.webp"
 author: "Artemis Rental"
 order: 1
@@ -38,13 +38,13 @@ Op de **centrale bergrug** liggen de aaneengesloten dorpen van het binnenland: A
 
 Aan de **kust** daaronder liggen de verspreide kustplaatsen: Kamares in het westen, waar de veerboten aanmeren, Platys Gialos, Faros en Chrysopigi in het zuiden, Vathi in het zuidwesten en Cherronisos helemaal in het noorden. Kastro, de middeleeuwse hoofdplaats, ligt hoog op een klif aan de oostkust.
 
-Nergens ben je verder dan ongeveer 25 minuten rijden van Apollonia, maar de wegen zijn smal en bochtig, dus de afstand op de kaart zegt weinig over de reistijd.
+De meeste plekken liggen binnen zo'n 25 minuten rijden van Apollonia, en Cherronisos in het uiterste noorden eerder op 35 minuten, maar de wegen zijn smal en bochtig, dus de afstand op de kaart zegt weinig over de reistijd.
 
 ## Hoeveel dagen heb je nodig?
 
 Met **drie dagen** zie je de hoogtepunten: de dorpen in het binnenland, Kastro en twee of drie stranden.
 
-**Vijf tot zeven dagen** is ideaal. Genoeg om naar de noordkust te gaan, een paar wandelpaden te lopen, goed te eten en ook eens een luie dag te nemen.
+**Vijf tot zeven dagen** is ideaal. Genoeg om naar de noordkust te gaan, een paar wandelpaden te lopen, goed te eten en ook eens een luie dag te nemen. Plannen per dag vind je in onze [reisroutes voor 5 en 7 dagen](/nl/blog/sifnos-itinerary-5-7-days) en de [reisroute voor 3 dagen](/nl/blog/3-day-sifnos-itinerary).
 
 Blijf je **tien dagen of langer**, dan ben je geen bezoeker meer. Veel mensen doen precies dat en vinden twee weken het minimum.
 
@@ -93,7 +93,7 @@ Dit is de praktische kern van een reis naar Sifnos. Het eiland is klein, maar de
 
 De afstanden zijn kort: van Apollonia naar Platys Gialos is ongeveer 20 minuten, naar Kastro zo'n 10, naar Vathi ongeveer 20 en naar Cherronisos zo'n 35. Met eigen vervoer zwem je bij twee stranden en ben je toch op tijd terug voor het eten in Apollonia. Zonder eigen vervoer ben je een dag aan het wachten bij bushaltes.
 
-Een **auto** is ideaal voor gezinnen, voor iedereen met bagage en bij harde wind. Een **scooter** past bij solo-reizigers en stellen die korte ritjes maken bij rustig weer. De wegen zijn geasfalteerd en goed onderhouden, maar smal en bochtig en hebben weinig vangrails: rijd rustig en laat waar de weg smal wordt het verkeer dat omhoog rijdt voorgaan.
+Een **auto** is ideaal voor gezinnen, voor iedereen met bagage en bij harde wind. Een **scooter** past bij solo-reizigers en stellen met een motorrijbewijs die korte ritjes maken bij rustig weer. Onze [vergelijking tussen auto en scooter](/nl/blog/car-or-scooter-sifnos) helpt je kiezen. De wegen zijn geasfalteerd en goed onderhouden, maar smal en bochtig en hebben weinig vangrails: rijd rustig en laat waar de weg smal wordt het verkeer dat omhoog rijdt voorgaan.
 
 ## Waar Artemis in beeld komt
 

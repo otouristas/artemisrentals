@@ -2,9 +2,9 @@
 slug: kamares-port
 title: "Kamares, Sifnos : le port, la plage et l'arrivée"
 description: "Kamares à Sifnos : l'unique port de l'île et une vraie station balnéaire. Ce qu'on trouve au port, la plage, où manger et dormir, comment monter à Apollonia."
-answer: "Kamares est l'unique port de ferry de Sifnos, sur la côte ouest, et aussi l'une des meilleures plages familiales de l'île. Apollonia, la capitale, se trouve à environ 5,5 km en montée, soit une dizaine de minutes en voiture. Tout ce qui arrive sur l'île passe par ici."
+answer: "Kamares est l'unique port de ferry de Sifnos, sur la côte ouest, et aussi l'une des meilleures plages familiales de l'île. Apollonia, la capitale, se trouve à environ 5,5 km en montée, soit une dizaine de minutes en voiture. Tout ce qui arrive sur l'île passe par ici."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -25,7 +25,7 @@ Le village occupe une baie profonde et abritée sur la **côte ouest** de Sifnos
 
 Le plan est simple. Le quai des ferries est à une extrémité, la plage s'étire le long de la baie, et une seule route de front de mer relie les deux, bordée de presque tout ce dont vous aurez besoin. Impossible de s'y perdre.
 
-**Apollonia**, la capitale de l'île, se trouve à environ 5,5 km à l'intérieur des terres, en montée, soit une dizaine de minutes en voiture par une route bien revêtue mais sinueuse.
+**Apollonia**, la capitale de l'île, se trouve à environ 5,5 km à l'intérieur des terres, en montée, soit une dizaine de minutes en voiture par une route bien revêtue mais sinueuse.
 
 ## Vos premiers pas en descendant du ferry
 
@@ -59,7 +59,7 @@ Il n'y a pas d'agence bancaire, mais vous trouverez des distributeurs. Pour un p
 
 C'est un très bon choix dans trois cas : votre ferry arrive tard le soir, il repart tôt le matin, ou vous voyagez avec de jeunes enfants qui veulent du sable sans prendre la voiture.
 
-La contrepartie : les meilleures tables de l'île et sa seule vraie vie nocturne se trouvent en haut, à Apollonia et Artemonas, à quinze minutes de route. Le soir, Kamares est paisible plutôt qu'animé.
+La contrepartie : les meilleures tables de l'île et sa seule vraie vie nocturne se trouvent en haut, à Apollonia et Artemonas, à dix ou quinze minutes de route. Le soir, Kamares est paisible plutôt qu'animé.
 
 Consultez la [comparaison complète des hébergements](/fr/sifnos-guide/where-to-stay) pour voir comment Kamares se situe par rapport aux autres bases.
 

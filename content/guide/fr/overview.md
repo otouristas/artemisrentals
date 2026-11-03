@@ -2,9 +2,9 @@
 slug: overview
 title: "Sifnos, Grèce : le guide complet de l'île"
 description: "Sifnos, Grèce : le guide complet de cette île des Cyclades réputée pour sa cuisine, sa poterie et ses sentiers. Villages, plages, durée du séjour, quand partir."
-answer: "Sifnos est une île grecque des Cyclades, longue d'environ 14 km, réputée avant tout pour sa cuisine, sa poterie et son réseau de sentiers pavés balisés. Apollonia est la capitale animée perchée sur sa colline, Kamares le port des ferries, et les plages et villages sont assez dispersés pour qu'une voiture ou un scooter change tout."
+answer: "Sifnos est une île grecque des Cyclades, longue d'environ 14 km, réputée avant tout pour sa cuisine, sa poterie et son réseau de sentiers pavés balisés. Apollonia est la capitale animée perchée sur sa colline, Kamares le port des ferries, et les plages et villages sont assez dispersés pour qu'une voiture ou un scooter change tout."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/apollonia.webp"
 author: "Artemis Rental"
 order: 1
@@ -14,7 +14,7 @@ related:
   - beaches
 ---
 
-Sifnos se trouve dans les Cyclades occidentales, à peu près à mi-chemin entre Athènes et Santorin, mais à des années-lumière de l'une comme de l'autre par son caractère. Longue d'environ 14 km et large de 7, elle compte quelque 2 600 habitants à l'année et doit sa réputation, dans toute la Grèce, à trois choses : une cuisine exceptionnelle, une tradition potière plusieurs fois centenaire et l'un des meilleurs réseaux de sentiers balisés des îles.
+Sifnos se trouve dans les Cyclades occidentales, à peu près à mi-chemin entre Athènes et Santorin, mais à des années-lumière de l'une comme de l'autre par son caractère. Longue d'environ 14 km et large de 7, elle compte quelque 2 600 habitants à l'année et doit sa réputation, dans toute la Grèce, à trois choses : une cuisine exceptionnelle, une tradition potière plusieurs fois centenaire et l'un des meilleurs réseaux de sentiers balisés des îles.
 
 En revanche, pas d'aéroport, pas de terminal de croisière, pas de vie nocturne endiablée. C'est justement tout l'intérêt, et c'est pourquoi Sifnos attire des voyageurs qui reviennent année après année plutôt que de la cocher sur une liste.
 
@@ -38,13 +38,13 @@ La **crête centrale** regroupe les villages de l'intérieur, qui se touchent pr
 
 En contrebas, la **côte** abrite des hameaux dispersés : Kamares à l'ouest, où accostent les ferries ; Platys Gialos, Faros et Chrysopigi au sud ; Vathi au sud-ouest ; et Cherronisos tout au nord. Kastro, la capitale médiévale, s'accroche à une falaise sur la côte est.
 
-Aucun endroit n'est à plus de 25 minutes environ d'Apollonia par la route, mais les routes sont étroites et sinueuses : la distance sur la carte ne dit pas grand-chose du temps de trajet.
+La plupart des lieux sont à environ 25 minutes d'Apollonia par la route, Cherronisos, tout au nord, plutôt à 35, mais les routes sont étroites et sinueuses : la distance sur la carte ne dit pas grand-chose du temps de trajet.
 
 ## Combien de jours prévoir ?
 
 **Trois jours** suffisent pour l'essentiel : les villages de l'intérieur, Kastro et deux ou trois plages.
 
-**Cinq à sept jours**, c'est l'idéal. De quoi rejoindre la côte nord, parcourir deux ou trois sentiers, prendre le temps de bien manger et s'accorder une journée sans rien faire.
+**Cinq à sept jours**, c'est l'idéal. De quoi rejoindre la côte nord, parcourir deux ou trois sentiers, prendre le temps de bien manger et s'accorder une journée sans rien faire. Le programme jour par jour se trouve dans nos [itinéraires de 5 et 7 jours](/fr/blog/sifnos-itinerary-5-7-days) et dans l'[itinéraire de 3 jours](/fr/blog/3-day-sifnos-itinerary).
 
 **Avec dix jours ou plus**, vous n'êtes plus vraiment un visiteur. Beaucoup font exactement ce choix et considèrent quinze jours comme un minimum.
 
@@ -93,7 +93,7 @@ C'est le cœur pratique d'un séjour à Sifnos. L'île est petite, mais ce qui v
 
 Les distances sont courtes : d'Apollonia, comptez environ 20 minutes jusqu'à Platys Gialos, 10 jusqu'à Kastro, 20 jusqu'à Vathi et 35 jusqu'à Cherronisos. Avec votre propre véhicule, vous pouvez vous baigner sur deux plages et rentrer dîner à Apollonia. Sans, vous passerez la journée à attendre aux arrêts de bus.
 
-La **voiture** convient aux familles, à ceux qui ont des bagages et aux jours de vent. Le **scooter** convient aux voyageurs seuls et aux couples, pour de petits trajets par temps calme. Les routes sont goudronnées et bien entretenues, mais étroites, sinueuses et rarement équipées de glissières : roulez doucement et laissez passer les véhicules qui montent là où la chaussée se rétrécit.
+La **voiture** convient aux familles, à ceux qui ont des bagages et aux jours de vent. Le **scooter** convient aux voyageurs seuls et aux couples titulaires d'un permis moto, pour de petits trajets par temps calme. Notre [comparatif voiture ou scooter](/fr/blog/car-or-scooter-sifnos) vous aide à choisir. Les routes sont goudronnées et bien entretenues, mais étroites, sinueuses et rarement équipées de glissières : roulez doucement et laissez passer les véhicules qui montent là où la chaussée se rétrécit.
 
 ## Ce que propose Artemis
 

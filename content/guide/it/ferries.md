@@ -4,7 +4,7 @@ title: "Traghetti per Sifnos 2026: Pireo, durate e consigli"
 description: "Guida completa ai traghetti per Sifnos. Collegamenti Pireo Kamares, catamarano veloce o nave convenzionale, coincidenze per Milos e Serifos."
 answer: "Tutti i traghetti per Sifnos attraccano a Kamares, sulla costa occidentale. Le partenze sono dal Pireo e la traversata dura circa 2 ore e mezza o 3 ore in catamarano veloce, oppure circa 5 ore con la nave convenzionale, con corse quotidiane d'estate e tre o quattro a settimana d'inverno."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 3
@@ -97,7 +97,7 @@ Ciò che coglie impreparati quasi tutti i visitatori è l'intervallo fra lo sbar
 
 Noi ti aspettiamo alla nave. Inviaci **data di arrivo e orario approssimativo di attracco** e l'auto sarà pronta al porto di Kamares senza costi aggiuntivi, e il ritiro è gratuito anche all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Per prenotare non servono anticipi né dati della carta, e assicurazione RCA, manutenzione e assistenza sul posto sono già incluse nella tariffa giornaliera.
 
-Dicci l'orario del traghetto e se preferisci un'auto o uno scooter, al resto pensiamo noi.
+Dicci l'orario del traghetto e quanti siete, al resto pensiamo noi. (Gli scooter si ritirano al nostro ufficio di Apollonia, non al porto.)
 
 [Prenota l'auto per il tuo arrivo in traghetto](/it/book) oppure leggi la [guida all'arrivo al porto di Kamares](/it/sifnos-guide/kamares-port).
 

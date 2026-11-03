@@ -1,10 +1,10 @@
 ---
 slug: beaches
 title: "Stränderna på Sifnos som är värda bilturen"
-description: "Strandguide till Sifnos för dig med bil eller scooter: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia och Fykiada, och hur du når dem."
-answer: "Med bil eller scooter från Artemis: välj Platis Gialos för service, Vathi för en skyddad vik, Chrysopigi för vykortsvyn med klostret och Herronisos eller Vroulidia för lugnare bad på nordkusten. Kom tidigt i juli–augusti för att få parkering."
+description: "Strandguide till Sifnos för dig med bil eller scooter: Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia och Fykiada, och hur du når dem."
+answer: "Med bil eller scooter från Artemis: välj Platys Gialos för service, Vathi för en skyddad vik, Chrysopigi för vykortsvyn med klostret och Cherronisos eller Vroulidia för lugnare bad på nordkusten. Kom tidigt i juli–augusti för att få parkering."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
 author: "Artemis Rental"
 order: 6
@@ -14,21 +14,21 @@ related:
   - kamares-port
 ---
 
-Stränderna på Sifnos ligger utspridda runt en liten ö. Avstånden på kartan är korta, men det är mycket enklare att ta sig runt med egna hjul än med de glesa sommarbussarna. Den här guiden är skriven för dig som hämtar nycklarna i Apollonia (eller i Kamares på begäran) och vill ha raka svar: vilken strand, hur du tar dig dit, var du parkerar och hur vinden brukar bete sig.
+Stränderna på Sifnos ligger utspridda runt en liten ö. Avstånden på kartan är korta, men det är mycket enklare att ta sig runt med egna hjul än med de glesa sommarbussarna. Den här guiden är skriven för dig som hämtar bilen i Kamares hamn eller i Apollonia och vill ha raka svar: vilken strand, hur du tar dig dit, var du parkerar och hur vinden brukar bete sig.
 
-![Stranden Platis Gialos på Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos, lång sandstrand på södra Sifnos")
+![Stranden Platys Gialos på Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, lång sandstrand på södra Sifnos")
 
 ## Så väljer du strand för dagen
 
-- **Familjer och service:** Platis Gialos eller Kamares
+- **Familjer och service:** Platys Gialos eller Kamares
 - **Skyddat bad:** Vathi (utmärkt lä)
 - **Bilder och kloster:** Chrysopigi (kombinera med Faros)
-- **Lugn nordkust:** Herronisos och Vroulidia (bil att föredra)
+- **Lugn nordkust:** Cherronisos och Vroulidia (bil att föredra)
 - **Bara till fots eller med båt:** Fykiada (ingen väg)
 
 Sommartips: åk från Apollonia senast **09:30**, eller ta en andra strand efter **16:00** när dagsbesökarna åker hem.
 
-## Platis Gialos
+## Platys Gialos
 
 **Södra Sifnos · cirka 15–20 minuter från Apollonia med bil**
 
@@ -52,7 +52,7 @@ En av de största och mest populära sandstränderna på Sifnos, särskilt omtyc
 
 **Västra Sifnos (huvudhamnen) · cirka 10–15 minuter från Apollonia**
 
-Färjehamnen och den största kustbyn. En bred sandvik, mycket service och ett praktiskt första eller sista dopp på resan. Artemis kan ordna **upphämtning i Kamares** av bilen när båten lägger till, fråga när du skickar din förfrågan.
+Färjehamnen och den största kustbyn. En bred sandvik, mycket service och ett praktiskt första eller sista dopp på resan. Artemis bilar kan stå och vänta på kajen när båten lägger till, utan extra kostnad: skicka din färjetid när du skickar din förfrågan.
 
 **Höjdpunkter**
 - Här kommer och går färjorna
@@ -77,7 +77,7 @@ En fotogenisk, bred sandvik med en lugnare bykänsla. Vathi var en gång ett vik
 **Höjdpunkter**
 - Skyddat bad
 - Keramiktradition och verkstäder
-- Leder mot Platis Gialos och Fykiada
+- Leder mot Platys Gialos och Fykiada
 - Mjuk sand och den klassiska amfiteaterformen som är typisk för Kykladerna
 
 **Väg och parkering:** bilväg hela vägen och parkering i byn, kom före lunch i augusti.
@@ -92,12 +92,12 @@ En fotogenisk, bred sandvik med en lugnare bykänsla. Vathi var en gång ett vik
 
 **Sydöstra Sifnos · cirka 20 minuter från Apollonia**
 
-Öns mest fotograferade udde: klostret Panagia Chrysopigi från 1500-talet, tillägnat Sifnos skyddshelgon, ovanför klippiga badplatser och klart vatten. Hit kommer du för miljön, inte för att ligga på en lång sandstrand.
+Öns mest fotograferade udde: klostret Panagia Chrysopigi, byggt 1650 och hem för ikonen av öns skyddshelgon, ovanför klippiga badplatser och klart vatten. Hit kommer du för miljön, inte för att ligga på en lång sandstrand.
 
 **Höjdpunkter**
 - Det berömda klostret och dess festdagar
 - Snorkling runt klipporna
-- Kombinera med Faros eller Platis Gialos i samma runda
+- Kombinera med Faros eller Platys Gialos i samma runda
 - Solnedgångsljuset över halvön
 
 **Väg och parkering:** kör via Faros eller vägarna i söder. Det finns få parkeringsplatser nära klostret, blockera inte vägen till kapellet. Det går att ta bussen till Faros och gå sista biten, men det tar längre tid med strandväskor.
@@ -126,9 +126,9 @@ En traditionell fiskeby som en gång var öns viktigaste hamn. Små stränder, t
 
 **Passar för:** avkopplande bad, lunchstopp och dig som inte gillar stora badorter.
 
-![Herronisos på norra Sifnos](/images/sifnos/beaches/heronissos.webp "Herronisos, fiskevik i norr")
+![Cherronisos på norra Sifnos](/images/sifnos/beaches/heronissos.webp "Cherronisos, fiskevik i norr")
 
-## Herronisos (Heronissos)
+## Cherronisos (Heronissos)
 
 **Norra Sifnos · cirka 30–35 minuter från Apollonia**
 
@@ -146,11 +146,11 @@ Den nordligaste strandbyn, liten och traditionell, med keramik och en lugn vik. 
 
 **Passar för:** dig som söker avskildhet, hantverksstopp och en hel dag med full tank.
 
-![Klapperstensstranden Vroulidia](/images/sifnos/beaches/vroulidia.webp "Vroulidia, klapperstensstrand nära Herronisos")
+![Klapperstensstranden Vroulidia](/images/sifnos/beaches/vroulidia.webp "Vroulidia, klapperstensstrand nära Cherronisos")
 
 ## Vroulidia
 
-**Norra Sifnos · nära Herronisos**
+**Norra Sifnos · nära Cherronisos**
 
 En lugn strand med småsten, klart vatten och en mer vildvuxen känsla. Små caféer vid vattnet kan ha parasoller under säsongen. Sista biten kan innebära en kort promenad nedför från de få parkeringsplatserna längs vägen.
 
@@ -164,33 +164,33 @@ En lugn strand med småsten, klart vatten och en mer vildvuxen känsla. Små caf
 
 ## Fykiada
 
-**Mellan Platis Gialos och Vathi · ingen väg**
+**Mellan Platys Gialos och Vathi · ingen väg**
 
-En helt orörd sandstrand som du **bara når till fots eller med båt**. Nära kapellet Agios Georgios och ett uråldrigt olivträd. Lämna bilen i Platis Gialos eller Vathi och vandra dit. Ta med vatten och lämna inget skräp efter dig.
+En helt orörd sandstrand som du **bara når till fots eller med båt**. Nära kapellet Agios Georgios och ett uråldrigt olivträd. Lämna bilen i Platys Gialos eller Vathi och vandra dit. Ta med vatten och lämna inget skräp efter dig.
 
 **Passar för:** vandrare, äventyrliga bad och morgnar utan folk.
 
 ## Förslag på bilrundor
 
-1. **Sydrundan (halvdag):** Apollonia → Faros → Chrysopigi → Platis Gialos → tillbaka
+1. **Sydrundan (halvdag):** Apollonia → Faros → Chrysopigi → Platys Gialos → tillbaka
 2. **En lugn dag i väst:** Apollonia → Vathi (långt bad) → solnedgång i Apollonia om du vill
-3. **Upptäcktsfärd i norr (heldag):** Apollonia → Herronisos → Vroulidia → tillbaka via Artemonas till middagen
+3. **Upptäcktsfärd i norr (heldag):** Apollonia → Cherronisos → Vroulidia → tillbaka via Artemonas till middagen
 4. **Hamndag:** förmiddagskaffe i Kamares när färjan kommer in och ett bad, sedan in mot inlandet
 
 ## Vanliga frågor om stränderna
 
-**Bästa stränderna för familjer?** Platis Gialos och Kamares: sand, långgrunt och service.
+**Bästa stränderna för familjer?** Platys Gialos och Kamares: sand, långgrunt och service.
 
 **Bäst när meltemin blåser?** Vathi i första hand, sedan de skyddade hörnen i Faros och Kamares.
 
 **Kan jag köra till Fykiada?** Nej, dit kommer du bara till fots eller med båt.
 
-**Keramik nära stränderna?** Titta i Kamares, Vathi, Herronisos och runt Faros.
+**Keramik nära stränderna?** Titta i Kamares, Vathi, Cherronisos och runt Faros.
 
-**Blå flagg?** Platis Gialos är den sandstrand med Blå flagg som de flesta besökare syftar på.
+**Blå flagg?** Platys Gialos är den sandstrand med Blå flagg som de flesta besökare syftar på.
 
 ## Tips från Artemis
 
-Lämna inga värdesaker synliga i bilen, tanka innan du ger dig ut på långa turer norrut under högsäsong och skriv till oss om du vill ha **upphämtning i Kamares** samma morgon som din färja lägger till. Se våra [bilar](/sv/cars) och [scootrar](/sv/scooters), eller [fråga om datum](/sv/book).
+Lämna inga värdesaker synliga i bilen, tanka innan du ger dig ut på långa turer norrut under högsäsong och skicka din färjetid om du vill att bilen ska vänta i **Kamares hamn** (kostnadsfritt för bilar). Se våra [bilar](/sv/cars) och [scootrar](/sv/scooters), eller [fråga om datum](/sv/book).
 
 Aktuella sidor om ön och tidtabeller hittar du också på [Sifnos på Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) och [saker att göra](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

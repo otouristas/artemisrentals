@@ -3,7 +3,7 @@ slug: sifnos-hiking-trails-by-car
 title: "Randonnées à Sifnos : les sentiers accessibles en voiture"
 description: "Départs de sentiers et randonnées à Sifnos : garez votre voiture Artemis, suivez les anciens chemins, rentrez dîner à Apollonia. Agence familiale depuis 1988."
 datePublished: "2026-07-10"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [randonnée, sentiers, conduite]
@@ -16,7 +16,7 @@ Sifnos est l'une des îles des Cyclades les mieux balisées pour la randonnée 
 
 Les sentiers partent d'Apollonia, d'Artemonas, de Kastro et de la côte sud. Les bus desservent les principaux villages, mais leurs horaires collent rarement avec un départ au petit matin ou un retour après le coucher du soleil. En vous garant près du début d'un sentier, vous pouvez marcher à l'aube, vous baigner à Vathi à midi et être quand même à Apollonia pour le dîner.
 
-Le retrait Artemis à **Apollonia** vous place au plus près de plusieurs itinéraires classiques. **Kamares sur demande** convient si votre hôtel est près du port mais que vous comptez monter chaque jour vers les départs de sentiers. **Aucun acompte** pour la demande : indiquez vos dates et si vous préférez une voiture ou un scooter pour les petits trajets.
+Le retrait Artemis à **Apollonia** vous place au plus près de plusieurs itinéraires classiques. Le retrait gratuit au **port de Kamares** convient si votre hôtel est près du port mais que vous comptez monter chaque jour vers les départs de sentiers. **Aucun acompte** pour la demande : indiquez vos dates et les randonnées qui vous tentent.
 
 ## Les grands itinéraires qui valent le trajet
 

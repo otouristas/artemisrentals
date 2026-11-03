@@ -4,7 +4,7 @@ title: "Veerboot naar Sifnos 2026: routes, vaartijden en tips"
 description: "Complete gids voor de veerboot naar Sifnos. Van Piraeus naar Kamares, snelle catamaran of gewone veerboot, en verbindingen met Milos en Serifos."
 answer: "Elke veerboot naar Sifnos meert aan in Kamares aan de westkust. De afvaarten vertrekken vanuit Piraeus en duren ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot. In de zomer vaart er elke dag een boot, in de winter drie of vier keer per week."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 3
@@ -97,7 +97,7 @@ Waar bezoekers steeds weer tegenaan lopen, is de tijd tussen van boord stappen e
 
 Wij lossen dat op door bij de boot te staan. Stuur ons je **aankomstdatum en de verwachte aankomsttijd van de veerboot**, dan staat de auto zonder extra kosten klaar in de haven van Kamares. Gratis ophalen kan ook op de heliport, in Apollonia, Artemonas en Kastro. Je reserveert zonder vooruitbetaling en zonder kaartgegevens, en WA-verzekering, onderhoud en hulp ter plaatse zitten al in de dagprijs.
 
-Laat ons weten hoe laat je veerboot aankomt en of je een auto of een scooter wilt, dan regelen wij de rest.
+Laat ons weten hoe laat je veerboot aankomt en met hoeveel personen je reist, dan regelen wij de rest. (Scooters haal je op bij ons kantoor in Apollonia, niet in de haven.)
 
 [Reserveer je auto voor je aankomst met de veerboot](/nl/book) of lees in de [aankomstgids voor de haven van Kamares](/nl/sifnos-guide/kamares-port) wat je op de kade kunt verwachten.
 

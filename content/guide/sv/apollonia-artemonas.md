@@ -4,7 +4,7 @@ title: "Apollonia och Artemonas: öns centrum"
 description: "Guide till Apollonia och Artemonas på Sifnos: var du promenerar, parkerar och äter, och varför Artemis kontor i Apollonia gör stranddagarna enklare."
 answer: "Apollonia är Sifnos livliga huvudort, med kvällsliv och service. Artemonas är den eleganta grannbyn med nyklassiska herrgårdar. Artemis Rental har sitt kontor i Apollonia, så du börjar och avslutar dina strandturer mitt på ön."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/artemonas.webp"
 author: "Artemis Rental"
 order: 7
@@ -59,8 +59,8 @@ Från Apollonia är det en kort biltur till Kastro, med murar i solnedgången oc
 
 ## Därför underlättar ett uthyrningskontor i Apollonia
 
-När du utgår från mitten av ön blir varje klassisk tur en tur ut och tillbaka: söderut till Platis Gialos, västerut till Vathi, österut till Kastro och norrut mot Herronisos. Du sitter inte fast i hamnen, om du inte själv väljer en stranddag i Kamares.
+När du utgår från mitten av ön blir varje klassisk tur en tur ut och tillbaka: söderut till Platys Gialos, västerut till Vathi, österut till Kastro och norrut mot Cherronisos. Du sitter inte fast i hamnen, om du inte själv väljer en stranddag i Kamares.
 
-Tips från Artemis: berätta i vilket område du bor när du skickar din förfrågan. Vi hjälper till med mötesplats och, för bilar, **upphämtning vid färjan i Kamares** på begäran.
+Tips från Artemis: berätta i vilket område du bor när du skickar din förfrågan. Vi hjälper till med mötesplats och, för bilar, kostnadsfri **upphämtning vid färjan i Kamares**: skicka din ankomsttid så står bilen och väntar.
 
 [Se bilarna](/sv/cars) · [Scootrar](/sv/scooters) · [Boka](/sv/book)

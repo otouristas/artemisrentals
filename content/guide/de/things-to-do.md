@@ -4,7 +4,7 @@ title: "Aktivitäten auf Sifnos"
 description: "Was Sie auf Sifnos unternehmen können: Strände, Dörfer, Wanderwege, Essen, Töpferei, Klöster und Bootsausflüge, geplant mit einem Auto oder Roller von Artemis."
 answer: "Baden Sie in Platys Gialos und Vathi, besuchen Sie Chrysopigi und das mittelalterliche Kastro, wandern Sie von den Dörfern zur Küste, probieren Sie Mastelo und Revithada, stöbern Sie in Töpferwerkstätten, und verbinden Sie alles mit einem Mietfahrzeug von Artemis, ganz ohne Busfahrplan."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
 author: "Artemis Rental"
 order: 9
@@ -100,6 +100,8 @@ Aktuelle Fährverbindungen: [Routen Athen–Sifnos auf Discover Cyclades](https:
 | 2 | Südrunde: Faros → Chrysopigi → Platys Gialos |
 | 3 | Vormittag am Strand von Vathi → Töpferei → Kastro zur goldenen Stunde |
 | 4 | In den Norden nach Cherronisos und Vroulidia oder eine Wanderung, dazu ein frühes Abendessen in Apollonia |
+
+Sie bleiben länger? Sehen Sie sich unsere [Reisepläne für 5 und 7 Tage](/de/blog/sifnos-itinerary-5-7-days) an.
 
 ## Häufige Fragen
 

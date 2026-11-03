@@ -4,7 +4,7 @@ title: "Cosa fare a Sifnos"
 description: "Cosa fare a Sifnos: spiagge, villaggi, sentieri, cucina, ceramica, monasteri e gite in barca, organizzati intorno a un'auto o uno scooter a noleggio Artemis."
 answer: "Fai il bagno a Platys Gialos e a Vathi, visita Chrysopigi e il borgo medievale di Kastro, percorri i sentieri dai villaggi alla costa, assaggia mastelo e revithada, curiosa nei laboratori di ceramica e usa un noleggio Artemis per collegare tutto senza dipendere dagli orari dell'autobus."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
 author: "Artemis Rental"
 order: 9
@@ -100,6 +100,8 @@ Idee per i traghetti, con orari aggiornati: [le rotte Atene–Sifnos su Discover
 | 2 | Giro del sud: Faros → Chrysopigi → Platys Gialos |
 | 3 | Mattina in spiaggia a Vathi → sosta in un laboratorio di ceramica → Kastro nell'ora d'oro |
 | 4 | A nord verso Cherronisos / Vroulidia oppure un'escursione + cena presto ad Apollonia |
+
+Ti fermi di più? Guarda i nostri [itinerari di 5 e 7 giorni](/it/blog/sifnos-itinerary-5-7-days).
 
 ## Domande frequenti
 

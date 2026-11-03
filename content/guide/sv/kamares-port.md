@@ -4,7 +4,7 @@ title: "Kamares, Sifnos: hamnguide, strand och ankomst"
 description: "Kamares på Sifnos: öns enda färjehamn och en riktig badort med sandstrand. Vad som finns i hamnen, stranden, var du äter och bor och hur du tar dig till Apollonia."
 answer: "Kamares är Sifnos enda färjehamn, på västkusten, och dessutom en av öns bästa familjestränder. Apollonia, huvudorten, ligger cirka 5,5 km uppför, ungefär tio minuter med bil. Allt som kommer till ön passerar här."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -59,7 +59,7 @@ Det finns inget bankkontor, men uttagsautomater finns. Vill du ha fler butiker o
 
 Det är ett riktigt bra val i tre situationer: din färja kommer sent på kvällen, den avgår tidigt på morgonen, eller du reser med små barn som vill ha sandstrand utan att behöva åka bil.
 
-Nackdelen är att öns bästa restauranger och det enda riktiga kvällslivet finns uppe i Apollonia och Artemonas, femton minuters bilfärd bort. Efter mörkrets inbrott är Kamares avspänt snarare än livligt.
+Nackdelen är att öns bästa restauranger och det enda riktiga kvällslivet finns uppe i Apollonia och Artemonas, tio till femton minuters bilfärd bort. Efter mörkrets inbrott är Kamares avspänt snarare än livligt.
 
 I [den fullständiga jämförelsen av boendeorter](/sv/sifnos-guide/where-to-stay) ser du hur Kamares står sig mot de andra alternativen.
 

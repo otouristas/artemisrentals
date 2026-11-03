@@ -4,7 +4,7 @@ title: "Kamares, Sifnos: guida al porto, spiaggia e arrivo"
 description: "Kamares a Sifnos: l'unico porto dell'isola e una vera località balneare. Cosa c'è al porto, la spiaggia, dove mangiare e dormire, salire ad Apollonia."
 answer: "Kamares è l'unico porto dei traghetti di Sifnos, sulla costa occidentale, ed è anche una delle migliori spiagge per famiglie dell'isola. Apollonia, il capoluogo, dista circa 5,5 km in salita, una decina di minuti in auto. Tutto ciò che arriva sull'isola passa da qui."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -59,7 +59,7 @@ Non c'è una filiale bancaria, ma i bancomat ci sono. Per una scelta più ampia 
 
 È una scelta davvero azzeccata in tre casi: il traghetto arriva a tarda sera, riparte di mattina presto, oppure viaggi con bambini piccoli che vogliono la sabbia senza spostamenti in auto.
 
-Il rovescio della medaglia è che i ristoranti migliori e l'unica vera vita serale dell'isola stanno su, ad Apollonia e Artemonas, a quindici minuti d'auto. Dopo il tramonto Kamares è rilassata più che vivace.
+Il rovescio della medaglia è che i ristoranti migliori e l'unica vera vita serale dell'isola stanno su, ad Apollonia e Artemonas, a dieci-quindici minuti d'auto. Dopo il tramonto Kamares è rilassata più che vivace.
 
 Leggi il [confronto completo delle zone dove alloggiare](/it/sifnos-guide/where-to-stay) per capire come se la cava rispetto alle altre basi.
 

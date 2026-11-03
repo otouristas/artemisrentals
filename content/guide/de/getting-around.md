@@ -4,7 +4,7 @@ title: "Unterwegs auf Sifnos: Auto oder Roller?"
 description: "Unterwegs auf Sifnos: Auto, Roller, Bus oder Taxi im Vergleich, Tipps zu Straßen, Parken und Tanken und wann sich ein Mietfahrzeug von Artemis am meisten lohnt."
 answer: "Für die meisten Gäste ab drei Nächten ist ein Auto die bequemste Art, Strände und Dörfer zu erreichen. Roller eignen sich für sichere Fahrer mit wenig Gepäck. Im Sommer fahren Busse, aber zu selten, um mehrere Strände abzuklappern, und Taxis sind in der Hochsaison knapp."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
@@ -29,13 +29,13 @@ related:
 
 ## Mietwagen auf Sifnos
 
-Kleinwagen passen am besten in die Dorfgassen und auf enge Parkplätze. Artemis wartet seine Autos für die Inselstraßen. Wenn Sie im Juli oder August ein Auto mit Automatik möchten, fragen Sie früh an. Die **Abholung des Autos** ist am Hafen Kamares, am Heliport, in Apollonia, Artemonas und Kastro kostenlos. Roller können Sie online ohne Vorauszahlung buchen, Abholung und Rückgabe nur im Büro in Apollonia.
+Kleinwagen passen am besten in die Dorfgassen und auf enge Parkplätze. Artemis wartet seine Autos für die Inselstraßen. Wenn Sie im Juli oder August ein Auto mit Automatik möchten, fragen Sie früh an. Die **Abholung des Autos** ist am Hafen Kamares, am Heliport, in Apollonia, Artemonas und Kastro kostenlos. Roller werden im Büro in Apollonia abgeholt und zurückgegeben.
 
-Mehr dazu unter [Mietwagen auf Sifnos](/de) und in den [praktischen Tipps zum Autofahren](/de/sifnos-guide/practical-tips).
+Mehr dazu unter [Mietwagen auf Sifnos](/de), [Welcher Mietwagen passt zu Sifnos](/de/blog/best-rental-car-sifnos) und in den [praktischen Tipps zum Autofahren](/de/sifnos-guide/practical-tips).
 
 ## Roller mieten
 
-Ideal für erfahrene Fahrer, die zwischen Apollonia, Faros, Chrysopigi und Vathi den Wind im Gesicht spüren möchten. Tragen Sie den Helm, achten Sie auf Schotter und überladen Sie den Roller nicht. Wenn Sie keine Erfahrung mit steilen Inselstraßen haben oder mit Kindern und viel Gepäck reisen, nehmen Sie lieber ein Auto.
+Ideal für erfahrene Fahrer, die zwischen Apollonia, Faros, Chrysopigi und Vathi den Wind im Gesicht spüren möchten. Tragen Sie den Helm, achten Sie auf Schotter und überladen Sie den Roller nicht. Wenn Sie keine Erfahrung mit steilen Inselstraßen haben oder mit Kindern und viel Gepäck reisen, nehmen Sie lieber ein Auto. Beachten Sie, dass ein Autoführerschein in Griechenland nicht für einen Roller mit 125 cm³ gilt: Sie brauchen eine Motorradklasse (A1 oder höher), siehe [Führerscheinregeln für Roller](/de/blog/scooter-licence-rules-sifnos) und den vollständigen [Vergleich Auto oder Roller](/de/blog/car-or-scooter-sifnos).
 
 ## Busse und Taxis
 
@@ -53,8 +53,10 @@ Im Sommer verbinden Busse Apollonia mit Kamares, Platys Gialos, Vathi, Faros und
 - **Apollonia am Abend:** einmal parken, dann zu Fuß gehen.
 - **Platys Gialos:** je früher, desto näher.
 - **Chrysopigi:** wenige Plätze, die Zufahrt zum Kloster nie blockieren.
-- **Kastro:** unterhalb oder außerhalb parken und die mittelalterlichen Gassen zu Fuß erkunden.
+- **Kastro:** außerhalb des Dorfs parken und die mittelalterlichen Gassen zu Fuß erkunden; im Dorf selbst wird nicht gefahren.
 - **Cherronisos:** enge Dorfgassen, Geduld mitbringen.
+
+Mehr Details, Dorf für Dorf, unter [Autofahren auf Sifnos](/de/blog/driving-in-sifnos).
 
 ## Tanken und Entfernungen
 

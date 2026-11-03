@@ -4,7 +4,7 @@ title: "Vervoer op Sifnos: auto of scooter?"
 description: "Zo verplaats je je op Sifnos: auto, scooter, bus of taxi, tips voor de weg, parkeren, tanken en wanneer huren bij Artemis het meest oplevert. Van Artemis Rental."
 answer: "Voor de meeste bezoekers die drie nachten of langer blijven, is een auto de comfortabelste manier om stranden en dorpen te bereiken. Een scooter past bij ervaren rijders met weinig bagage. In de zomer rijden er bussen, maar niet vaak genoeg om stranden af te gaan, en in het hoogseizoen zijn er weinig taxi's."
 datePublished: "2026-07-01"
-dateModified: "2026-08-04"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
@@ -29,13 +29,13 @@ related:
 
 ## Een auto huren op Sifnos
 
-Compacte auto's passen het best in de dorpsstraatjes en op krappe parkeerplekken. Artemis onderhoudt zijn auto's speciaal voor de wegen op het eiland; vraag voor een automaat in juli en augustus vroeg je data aan. **Ophalen van de auto** is gratis in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro. Scooters haal je op in Apollonia en reserveer je online zonder vooruitbetaling.
+Compacte auto's passen het best in de dorpsstraatjes en op krappe parkeerplekken. Artemis onderhoudt zijn auto's speciaal voor de wegen op het eiland; vraag voor een automaat in juli en augustus vroeg je data aan. **Ophalen van de auto** is gratis in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro. Scooters haal je op en lever je in bij het kantoor in Apollonia.
 
-Lees ook [auto huren op Sifnos](/nl) en de [praktische tips voor autorijden](/nl/sifnos-guide/practical-tips).
+Lees ook [auto huren op Sifnos](/nl), [welke huurauto bij Sifnos past](/nl/blog/best-rental-car-sifnos) en de [praktische tips voor autorijden](/nl/sifnos-guide/practical-tips).
 
 ## Een scooter huren
 
-Heerlijk voor ervaren rijders die met de wind in hun gezicht tussen Apollonia, Faros, Chrysopigi en Vathi willen rijden. Draag je helm, let op grind en neem niet te veel mee. Ben je niet gewend aan de heuvels op een eiland, of reis je met kinderen of veel bagage, kies dan een auto.
+Heerlijk voor ervaren rijders die met de wind in hun gezicht tussen Apollonia, Faros, Chrysopigi en Vathi willen rijden. Draag je helm, let op grind en neem niet te veel mee. Ben je niet gewend aan de heuvels op een eiland, of reis je met kinderen of veel bagage, kies dan een auto. Let op: met een autorijbewijs mag je in Griekenland geen scooter van 125cc rijden. Je hebt een motorcategorie nodig (A1 of hoger); zie de [regels voor het scooterrijbewijs](/nl/blog/scooter-licence-rules-sifnos) en de volledige [vergelijking tussen auto en scooter](/nl/blog/car-or-scooter-sifnos).
 
 ## Bussen en taxi's
 
@@ -53,8 +53,10 @@ In de zomer rijden er bussen van Apollonia naar Kamares, Platys Gialos, Vathi, F
 - **Apollonia, 's avonds:** parkeer één keer en ga lopen.
 - **Platys Gialos:** hoe vroeger, hoe dichterbij.
 - **Chrysopigi:** weinig plek; blokkeer nooit de toegang tot het klooster.
-- **Kastro:** parkeer onderaan of buiten het dorp en loop de middeleeuwse straatjes in.
+- **Kastro:** parkeer buiten het dorp en loop de middeleeuwse straatjes in; binnen het dorp kun je niet rijden.
 - **Cherronisos:** smalle dorpsstraatjes, geduld is een schone zaak.
+
+Meer details per dorp lees je in [autorijden op Sifnos](/nl/blog/driving-in-sifnos).
 
 ## Tanken en afstanden
 

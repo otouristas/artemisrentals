@@ -3,7 +3,7 @@ slug: sifnos-vs-milos
 title: "Sifnos eller Milos: vilken ö passar din resa?"
 description: "Jämför Sifnos och Milos inför en semester i Kykladerna: tempo, stränder, bilkörning och när en hyrbil från Artemis på Sifnos ger den bästa basen. Sedan 1988."
 datePublished: "2026-07-08"
-dateModified: "2026-07-16"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [planering, kykladerna, jämförelse]
@@ -16,7 +16,7 @@ Många resenärer kombinerar Sifnos och Milos på samma tur i Kykladerna. Öarna
 
 På Milos är det värt att ägna en vecka åt att köra längs kusten: Sarakiniko, båtturer till Kleftiko och gömda vikar med långa grusvägar dit. Du kör fler kilometer och planerar dagarna efter solnedgångens färger på de vita klipporna.
 
-På Sifnos räcker tre till fem dagar gott. Vår [resplan för tre dagar](/sv/blog/3-day-sifnos-itinerary) tar med höjdpunkterna utan stress. Byar som Apollonia, Artemonas och Kastro är lika mycket kvällsmål som stränderna är dagsmål. Hyr du bil hos Artemis i **Apollonia** bor du centralt, och **upphämtning i Kamares på begäran** passar dig som kommer med färjan och vill ha bilen direkt.
+På Sifnos räcker tre till fem dagar gott. Vår [resplan för tre dagar](/sv/blog/3-day-sifnos-itinerary) tar med höjdpunkterna utan stress. Byar som Apollonia, Artemonas och Kastro är lika mycket kvällsmål som stränderna är dagsmål. Hyr du bil hos Artemis i **Apollonia** bor du centralt, och gratis **upphämtning i Kamares hamn** passar dig som kommer med färjan och vill ha bilen direkt.
 
 Ingen av öarna är en storstadsresa. Båda får dig att sakta ner. Skillnaden är om du vill ha geologiskt skådespel (Milos) eller byar och matlagning i lugnt tempo (Sifnos).
 
@@ -24,7 +24,7 @@ Ingen av öarna är en storstadsresa. Båda får dig att sakta ner. Skillnaden �
 
 De kända stränderna på Milos, som Sarakiniko, Firopotamos och Tsigrado, är slående vackra och ligger utspridda längs en längre kust. Vägen dit går ibland på grus, och parkeringarna är fulla i augusti.
 
-Stränderna på Sifnos, som Platis Gialos, Vathi och Chrissopigi, är mjukare, har tavernor intill och är lättare att kombinera med en förmiddag i Kastro. Läs vår guide [stränder med bil](/sv/blog/sifnos-beaches-by-car) för en bilists perspektiv.
+Stränderna på Sifnos, som Platys Gialos, Vathi och Chrysopigi, är mjukare, har tavernor intill och är lättare att kombinera med en förmiddag i Kastro. Läs vår guide [stränder med bil](/sv/blog/sifnos-beaches-by-car) för en bilists perspektiv.
 
 ![Bygränder och keramikbutiker på Sifnos jämfört med Milos vulkaniska kust](/images/blog/sifnos-vs-milos.jpg "Sifnos byter Milos dramatik mot byar att promenera i och kortare bilresor")
 
@@ -50,7 +50,7 @@ Tidpunkten spelar roll: läs [bästa tiden att besöka Sifnos](/sv/blog/best-tim
 
 ## Färjor mellan öarna
 
-Kolla Ferryhopper eller rederiernas webbplatser för direkta avgångar mellan Milos och Sifnos. De går oftare på sommaren, men inte varje timme. En hyrbil på Sifnos ska lämnas tillbaka innan du går ombord, om du inte har ordnat en enkelresa mellan öarna (ovanligt). Planera återlämningen hos Artemis i Apollonia så att du hinner ta taxi eller gå till Kamares om du åker från en annan hamn.
+Kolla Ferryhopper eller rederiernas webbplatser för direkta avgångar mellan Milos och Sifnos. De går oftare på sommaren, men inte varje timme. Lämna tillbaka din hyrbil på Sifnos innan du går ombord: återlämning i Kamares hamn är kostnadsfri, så du kan lämna nycklarna på kajen och gå direkt ombord på färjan till Milos.
 
 Samma regel gäller för scootrar: lämna tillbaka dem före färjan, om inte personalen har sagt något annat. Möjligheten att förvara bagage på caféer i hamnen bygger på goodwill, så res lätt mellan öarna.
 
@@ -58,6 +58,6 @@ Samma regel gäller för scootrar: lämna tillbaka dem före färjan, om inte pe
 
 Välj **Sifnos** om du vill ha korta och enkla bilresor, en central bas i Apollonia, barnvänliga vikar och en långhelg som hänger ihop. Välj **Milos** om vulkaniska stränder och längre sträckor längs kusten är drömmen, och du är beredd på mer planering.
 
-Börjar du med Sifnos? [Boka hos Artemis](/sv/book) och ange dina färjedatum och om du vill hämta bilen i Kamares eller i Apollonia. Även om Milos står på tur efteråt är en lugn start ett bra sätt att förbereda sig för den livligare ön.
+Börjar du med Sifnos? [Boka hos Artemis](/sv/book) och ange dina färjedatum och ungefärlig ankomsttid, så står bilen och väntar i Kamares hamn. Även om Milos står på tur efteråt är en lugn start ett bra sätt att förbereda sig för den livligare ön.
 
 Vill du upptäcka Sifnos med egna hjul? [Hyr bil på Sifnos hos Artemis](/sv).

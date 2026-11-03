@@ -4,7 +4,7 @@ title: "Les plages de Sifnos qui valent le détour"
 description: "Les plages de Sifnos en voiture ou en scooter : Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia et Fykiada, avec accès et stationnement."
 answer: "Avec une voiture ou un scooter Artemis, commencez par Platys Gialos pour les services, Vathi pour sa baie abritée, Chrysopigi pour la carte postale du monastère, puis Cherronisos ou Vroulidia pour une baignade plus tranquille sur la côte nord. En juillet–août, arrivez tôt pour trouver où vous garer."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
 author: "Artemis Rental"
 order: 6
@@ -14,7 +14,7 @@ related:
   - kamares-port
 ---
 
-Les plages de Sifnos se répartissent tout autour d’une petite île : sur la carte, les distances sont courtes, mais on s’y rend bien plus facilement avec son propre véhicule qu’avec les rares bus d’été. Ce guide s’adresse à ceux qui récupèrent leurs clés à Apollonia (ou à Kamares sur demande) et veulent des réponses claires : quelle plage, comment y aller, où se garer et à quel vent s’attendre.
+Les plages de Sifnos se répartissent tout autour d’une petite île : sur la carte, les distances sont courtes, mais on s’y rend bien plus facilement avec son propre véhicule qu’avec les rares bus d’été. Ce guide s’adresse à ceux qui récupèrent leur voiture au port de Kamares ou à Apollonia et veulent des réponses claires : quelle plage, comment y aller, où se garer et à quel vent s’attendre.
 
 ![Plage de Platys Gialos à Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, longue plage de sable au sud de Sifnos")
 
@@ -52,7 +52,7 @@ L’une des plus grandes et des plus fréquentées des plages de sable de Sifnos
 
 **Ouest de Sifnos (port principal) · environ 10–15 minutes d’Apollonia**
 
-Le port des ferries et le plus grand village côtier. Une large baie de sable, de nombreux services, et la baignade la plus pratique pour le premier ou le dernier jour. Artemis peut organiser le **retrait de votre voiture à Kamares** à l’arrivée du bateau : précisez-le dans votre demande.
+Le port des ferries et le plus grand village côtier. Une large baie de sable, de nombreux services, et la baignade la plus pratique pour le premier ou le dernier jour. Les voitures Artemis peuvent vous attendre au quai à l’arrivée du bateau, gratuitement : indiquez l’heure de votre ferry dans votre demande.
 
 **Points forts**
 - Arrivée et départ des principaux ferries
@@ -92,7 +92,7 @@ Une large baie de sable très photogénique, avec une ambiance de village plus p
 
 **Sud-est de Sifnos · environ 20 minutes d’Apollonia**
 
-Le promontoire le plus photographié de l’île : le monastère de la Panagia Chrysopigi (XVIe siècle), dédié à la sainte patronne de Sifnos, domine des rochers d’où l’on se baigne dans une eau limpide. On y vient pour le cadre plutôt que pour lézarder sur une grande plage de sable.
+Le promontoire le plus photographié de l’île : le monastère de la Panagia Chrysopigi, construit en 1650, qui abrite l’icône de la patronne de l’île, domine des rochers d’où l’on se baigne dans une eau limpide. On y vient pour le cadre plutôt que pour lézarder sur une grande plage de sable.
 
 **Points forts**
 - Monastère emblématique et jours de fête
@@ -128,7 +128,7 @@ Un village de pêcheurs traditionnel, autrefois principal port de l’île. Peti
 
 ![Cherronisos, au nord de Sifnos](/images/sifnos/beaches/heronissos.webp "Cherronisos, crique de pêcheurs du nord")
 
-## Cherronisos (Heronissos)
+## Cherronisos (Herronisos)
 
 **Nord de Sifnos · environ 30–35 minutes d’Apollonia**
 
@@ -191,6 +191,6 @@ Une plage de sable entièrement sauvage, accessible **uniquement à pied ou en b
 
 ## Le conseil d’Artemis
 
-Ne laissez pas d’objets de valeur en vue, faites le plein avant les longs trajets vers le nord en haute saison, et écrivez-nous si vous souhaitez un **retrait à Kamares** le matin de l’arrivée de votre ferry. Découvrez nos [voitures](/fr/cars) et nos [scooters](/fr/scooters), ou [demandez vos dates](/fr/book).
+Ne laissez pas d’objets de valeur en vue, faites le plein avant les longs trajets vers le nord en haute saison, et envoyez-nous l’heure de votre ferry si vous voulez que la voiture vous attende au **port de Kamares** (gratuit pour les voitures). Découvrez nos [voitures](/fr/cars) et nos [scooters](/fr/scooters), ou [demandez vos dates](/fr/book).
 
 Pour des pages sur l’île et des horaires à jour, voir aussi [Sifnos sur Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) et [que faire à Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
