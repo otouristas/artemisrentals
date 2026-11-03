@@ -2,7 +2,7 @@
 slug: kamares-port
 title: "Kamares, Sifnos: guida al porto, spiaggia e arrivo"
 description: "Kamares a Sifnos: l'unico porto dell'isola e una vera località balneare. Cosa c'è al porto, la spiaggia, dove mangiare e dormire, salire ad Apollonia."
-answer: "Kamares è l'unico porto dei traghetti di Sifnos, sulla costa occidentale, ed è anche una delle migliori spiagge per famiglie dell'isola. Apollonia, il capoluogo, dista circa 5,5 km in salita, una decina di minuti in auto."
+answer: "Kamares è l'unico porto dei traghetti di Sifnos, sulla costa occidentale, ed è anche una delle migliori spiagge per famiglie dell'isola. Apollonia, il capoluogo, dista circa 5,5 km in salita, una decina di minuti in auto. Tutto ciò che arriva sull'isola passa da qui."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/beaches/kamares.webp"
@@ -29,9 +29,9 @@ La disposizione è semplice. La banchina dei traghetti sta a un'estremità, la s
 
 ## I primi passi dopo il traghetto
 
-1. Libera la rampa e il ponte veicoli, che si svuota in fretta e senza troppe cerimonie.
+1. Scendi dalla rampa e allontanati dal ponte garage, che si svuota in fretta e senza troppe cerimonie.
 2. Ritira l'auto se hai concordato il **ritiro a Kamares**, oppure dirigiti verso l'area di autobus e taxi appena oltre la banchina.
-3. Se la sistemazione è disponibile più tardi, lascia i bagagli e vai a nuotare. La spiaggia è a due minuti a piedi.
+3. Se nel tuo alloggio puoi entrare solo più tardi, lascia i bagagli e vai a fare il bagno. La spiaggia è a due minuti a piedi.
 4. Individua le biglietterie sul lungomare per la traversata di ritorno.
 
 L'arrivo può sembrare caotico per qualche minuto quando ad agosto sbarca un traghetto grande, con auto, scooter, valigie e cartelli degli alberghi nello stesso spazio ristretto. Si sistema tutto entro un quarto d'ora.
@@ -61,35 +61,35 @@ Non c'è una filiale bancaria, ma i bancomat ci sono. Per una scelta più ampia 
 
 Il rovescio della medaglia è che i ristoranti migliori e l'unica vera vita serale dell'isola stanno su, ad Apollonia e Artemonas, a quindici minuti d'auto. Dopo il tramonto Kamares è rilassata più che vivace.
 
-Vedi il [confronto completo delle zone dove alloggiare](/it/sifnos-guide/where-to-stay).
+Leggi il [confronto completo delle zone dove alloggiare](/it/sifnos-guide/where-to-stay) per capire come se la cava rispetto alle altre basi.
 
-## Salire ad Apollonia
+## Salire ad Apollonia e oltre
 
 È il problema pratico che incontra ogni nuovo arrivato, e conviene conoscerlo prima di sbarcare.
 
-**L'autobus** coincide con la maggior parte dei traghetti e sale ad Apollonia, dove convergono le linee dell'isola. Funziona, ma segue un orario proprio anziché quello della nave, e si riempie in fretta.
+**L'autobus** coincide con la maggior parte dei traghetti e sale ad Apollonia, dove convergono le linee dell'isola. Funziona, ma segue un orario proprio anziché quello della nave, e si riempie in fretta quando arriva un traghetto pieno.
 
 **I taxi** esistono, ma Sifnos ne conta pochissimi per tutta l'isola. Quando ad agosto sbarca un traghetto pieno spariscono in pochi minuti e non c'è un sistema di fila degno di questo nome.
 
 **Un mezzo tuo** elimina del tutto il problema.
 
-## Consegna dell'auto in banchina
+## Ritiro dell'auto in banchina
 
 Ti aspettiamo alla nave. Inviaci **data di arrivo e orario approssimativo di attracco** e l'auto sarà pronta al porto di Kamares appena scendi, **senza costi aggiuntivi**.
 
-La stessa consegna gratuita copre eliporto, Apollonia, Artemonas e Kastro. Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos sono possibili su richiesta, con il costo confermato in fase di prenotazione.
+La stessa consegna gratuita vale per l'eliporto, Apollonia, Artemonas e Kastro. Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos sono possibili su richiesta, con il supplemento confermato alla prenotazione.
 
 Qualche nota pratica:
 
 - Gli **scooter** si ritirano solo presso il nostro ufficio di Apollonia, non al porto.
 - Se il traghetto è in ritardo, scrivici su WhatsApp. I ritardi sono normali e li mettiamo in conto.
 - Per prenotare non servono anticipi né dati della carta.
-- Responsabilità civile, manutenzione, caschi e assistenza locale sono già inclusi nella tariffa giornaliera.
+- Assicurazione RCA, manutenzione, caschi e assistenza sul posto sono già inclusi nella tariffa giornaliera.
 
 Lo facciamo dallo stesso ufficio di Apollonia dal 1988, come attività familiare, ed è il motivo per cui sappiamo più o meno quando la tua nave attraccherà davvero, non solo quando lo dichiara l'orario.
 
 ## Parcheggiare a Kamares
 
-Ci sono parcheggi lungo il lungomare e in aree informali dietro la spiaggia. A metà giornata ad agosto è stretta, e ancora di più nella mezz'ora prima e dopo l'arrivo o la partenza di un traghetto. Non ostruire mai la strada di accesso alla banchina, il traffico merci è continuo.
+Ci sono parcheggi lungo il lungomare e in aree informali dietro la spiaggia. Ad agosto, a metà giornata, i posti scarseggiano, e ancora di più nella mezz'ora prima e dopo l'arrivo o la partenza di un traghetto. Non bloccare la strada di accesso alla banchina: il traffico merci è continuo.
 
 [Prenota l'auto per il tuo arrivo in traghetto](/it/book) · [Guarda la flotta](/it/cars) · [Guida ai traghetti](/it/sifnos-guide/ferries) · [Come arrivare a Sifnos](/it/sifnos-guide/how-to-get-there)

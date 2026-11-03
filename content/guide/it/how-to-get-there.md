@@ -1,8 +1,8 @@
 ---
 slug: how-to-get-there
 title: "Come arrivare a Sifnos da Atene, passo per passo"
-description: "Come arrivare a Sifnos: voli per Atene, trasferimento dall'aeroporto al Pireo, durate dei traghetti per Kamares e quanto dura davvero il viaggio."
-answer: "Vola ad Atene, raggiungi il porto del Pireo in 45 o 60 minuti, poi prendi un traghetto per Kamares a Sifnos, circa 2 ore e mezza o 3 ore in catamarano veloce oppure circa 5 ore con la nave convenzionale. Sifnos non ha aeroporto, quindi non esiste un volo diretto."
+description: "Come arrivare a Sifnos: voli per Atene, trasferimento dall'aeroporto al Pireo, durate dei traghetti per Kamares e l'alternativa dell'aeroporto di Milos."
+answer: "Vola ad Atene, raggiungi il porto del Pireo in 45–60 minuti, poi prendi un traghetto per Kamares a Sifnos, circa 2 ore e mezza o 3 ore in catamarano veloce oppure circa 5 ore con la nave convenzionale. Sifnos non ha aeroporto, quindi non esiste un volo diretto."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/beaches/kamares.webp"
@@ -23,11 +23,11 @@ A Sifnos non c'è aeroporto. Ogni visitatore arriva via mare, il che rende il vi
 | Tappa | Durata tipica |
 | --- | --- |
 | Volo per Atene (ATH) | Variabile |
-| Aeroporto di Atene fino al Pireo | 45 o 60 minuti |
-| Margine al Pireo prima dell'imbarco | 30 o 45 minuti |
-| Pireo verso Sifnos, catamarano veloce | Circa 2 ore e mezza o 3 ore |
-| Pireo verso Sifnos, nave convenzionale | Circa 5 ore |
-| Kamares verso Apollonia | Circa 10 minuti |
+| Dall'aeroporto di Atene al porto del Pireo | 45–60 minuti |
+| Margine al Pireo prima dell'imbarco | 30–45 minuti |
+| Dal Pireo a Sifnos, catamarano veloce | Circa 2 ore e mezza o 3 ore |
+| Dal Pireo a Sifnos, nave convenzionale | Circa 5 ore |
+| Da Kamares ad Apollonia | Circa 10 minuti |
 
 Realisticamente calcola **mezza giornata** dall'atterraggio ad Atene al momento in cui posi la valigia a Sifnos, e una giornata intera se arrivi da fuori Europa.
 
@@ -43,15 +43,15 @@ Il Pireo è il porto che serve Atene, a sud-ovest della città. Hai quattro poss
 
 **Metropolitana (linea 3, blu).** Diretta dall'aeroporto alla stazione del Pireo senza cambi, circa un'ora. È l'opzione più economica e affidabile, anche se scomoda con bagagli voluminosi sotto il caldo estivo. La stazione è ai margini del porto, ma il Pireo è enorme e potrebbe restarti una lunga camminata fino al tuo cancello.
 
-**Autobus express X96.** Circola 24 ore su 24 fra aeroporto e Pireo, con 60 o 90 minuti a seconda del traffico. Ferma in diversi punti lungo il porto e può lasciarti più vicino al cancello rispetto alla metropolitana. Utile per partenze molto presto o molto tardi.
+**Autobus express X96.** Circola 24 ore su 24 fra aeroporto e Pireo, e impiega 60–90 minuti a seconda del traffico. Ferma in diversi punti lungo il porto e può lasciarti più vicino al cancello rispetto alla metropolitana. Utile per partenze molto presto o molto tardi.
 
-**Taxi.** Fra aeroporto e centro di Atene vige una tariffa fissa, con un importo distinto per il Pireo. Circa 45 o 60 minuti fuori dalle ore di punta, di più durante. Conviene con bagagli pesanti o una coincidenza stretta, e l'autista può lasciarti al cancello giusto.
+**Taxi.** Fra aeroporto e centro di Atene vige una tariffa fissa, con un importo distinto per il Pireo. Circa 45–60 minuti fuori dall'ora di punta, di più nell'ora di punta. Conviene con bagagli pesanti o una coincidenza stretta, e l'autista può lasciarti al cancello giusto.
 
-**Transfer privato.** Prenotato in anticipo, il più costoso, senza code, e l'unico che garantisce la consegna a un cancello preciso. Sensato per famiglie con molti bagagli.
+**Transfer privato.** Prenotato in anticipo, il più costoso, senza code, e l'unico che ti garantisce di scendere esattamente al tuo cancello. Sensato per famiglie con molti bagagli.
 
 ### Un avvertimento sul Pireo
 
-Il Pireo non è una singola banchina, è un porto operativo che si estende per diversi chilometri con cancelli numerati (da E1 a E12 e oltre). Compagnie e destinazioni diverse partono da punti molto distanti, e il tragitto a piedi fra due cancelli può richiedere venti minuti. **Controlla il numero del cancello sul biglietto prima di arrivare** e lascia margine. È ciò che manda più in confusione chi viaggia per la prima volta.
+Il Pireo non è una singola banchina, è un porto operativo che si estende per diversi chilometri con cancelli numerati (da E1 a E12 e oltre). Compagnie e destinazioni diverse partono da punti molto distanti, e il tragitto a piedi fra due cancelli può richiedere venti minuti. **Controlla il numero del cancello sul biglietto prima di arrivare** e lascia margine. Nessun'altra parte del viaggio coglie impreparato chi arriva per la prima volta quanto questa.
 
 ## Passo 3: Il traghetto per Kamares
 
@@ -73,13 +73,13 @@ Sifnos dispone di un **eliporto**, e i trasferimenti in elicottero charter da At
 
 ## Da Kamares al tuo alloggio
 
-Sei atterrato, hai navigato e ora sei sulla banchina di Kamares. Apollonia dista circa 5,5 km nell'entroterra e in salita, una decina di minuti in auto. I villaggi costieri sono a 15 o 25 minuti.
+Sei atterrato, hai fatto la traversata e ora sei sulla banchina di Kamares. Apollonia dista circa 5,5 km nell'entroterra e in salita, una decina di minuti in auto. I villaggi sul mare sono a 15–25 minuti.
 
 Le opzioni sono l'autobus, che coincide con la maggior parte dei traghetti ma segue un orario proprio e si riempie in fretta, il taxi, di cui l'isola conta pochissime unità e che spariscono entro pochi minuti quando ad agosto attracca un traghetto pieno, oppure un mezzo tuo.
 
-È proprio questo vuoto a cogliere impreparati. **Lo colmiamo aspettandoti alla nave.** Inviaci data di arrivo e orario approssimativo di attracco e la tua auto sarà pronta al porto di Kamares senza costi aggiuntivi. La stessa consegna gratuita vale all'eliporto, ad Apollonia, Artemonas e Kastro, mentre Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos sono disponibili su richiesta.
+È proprio questo vuoto a cogliere impreparati. **Lo colmiamo aspettandoti alla nave.** Inviaci data di arrivo e orario approssimativo di attracco e la tua auto sarà pronta al porto di Kamares senza costi aggiuntivi. La stessa consegna gratuita vale all'eliporto, ad Apollonia, ad Artemonas e a Kastro, mentre Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos sono disponibili su richiesta.
 
-Per prenotare non servono anticipi né dati della carta. Responsabilità civile, manutenzione e assistenza locale sono incluse nella tariffa giornaliera, e lo facciamo dallo stesso ufficio di Apollonia dal 1988.
+Per prenotare non servono anticipi né dati della carta. Assicurazione RCA, manutenzione e assistenza sul posto sono già incluse nella tariffa giornaliera, e lo facciamo dallo stesso ufficio di Apollonia dal 1988.
 
 ## Pianificare il ritorno
 

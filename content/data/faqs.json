@@ -110,7 +110,7 @@
   "it": [
     {
       "q": "Devo pagare un anticipo per prenotare?",
-      "a": "Non è richiesto alcun anticipo per la prenotazione. Contatta Artemis con le date e il veicolo preferito e confermiamo la disponibilità."
+      "a": "Per prenotare non serve alcun anticipo. Scrivi ad Artemis indicando le date e il veicolo che preferisci: ti confermiamo noi la disponibilità."
     },
     {
       "q": "Qual è l'età minima per noleggiare?",
@@ -122,27 +122,27 @@
     },
     {
       "q": "Meglio noleggiare un'auto o uno scooter a Sifnos?",
-      "a": "Scegli un'auto per famiglie, bagagli o comfort su percorsi più lunghi. Scegli uno scooter se vuoi spostarti agilmente tra le spiagge in uno o due e ti senti già a tuo agio sulle strade delle isole greche."
+      "a": "Scegli l'auto se viaggi in famiglia, hai bagagli o vuoi stare comodo sui tragitti più lunghi. Scegli lo scooter se vuoi spostarti agilmente tra le spiagge, in una o due persone, e ti senti già sicuro sulle strade delle isole greche."
     },
     {
-      "q": "Ci sono auto automatiche?",
-      "a": "Sì. Artemis offre opzioni automatiche come Peugeot 208 Automatic e Nissan Micra Automatic. La disponibilità varia per stagione: chiedi in anticipo per luglio e agosto."
+      "q": "Ci sono auto con cambio automatico?",
+      "a": "Sì. Artemis propone auto con cambio automatico come la Peugeot 208 Automatic e la Nissan Micra Automatic. La disponibilità cambia secondo la stagione: per luglio e agosto chiedi per tempo."
     },
     {
       "q": "Con quanto anticipo dovrei prenotare in estate?",
-      "a": "Per luglio e agosto, chiedi il prima possibile. I mesi di mezza stagione sono più flessibili, ma i modelli più richiesti vanno via in fretta nei weekend e nei picchi dei traghetti."
+      "a": "Per luglio e agosto, chiedi il prima possibile. Nei mesi di bassa e media stagione c'è più flessibilità, ma i modelli più richiesti vanno via in fretta nei fine settimana e nei giorni con più arrivi di traghetti."
     },
     {
       "q": "Quali documenti mi servono?",
-      "a": "Porta una patente valida (e il Permesso internazionale di guida se richiesto per la tua nazionalità), passaporto o documento d'identità, e un metodo di pagamento per il noleggio una volta confermate le date."
+      "a": "Porta una patente valida (e il permesso internazionale di guida, se la tua nazionalità lo richiede), passaporto o carta d'identità e un metodo di pagamento per il noleggio, una volta confermate le date."
     },
     {
       "q": "L'assicurazione è inclusa?",
       "a": "È inclusa la copertura di base richiesta dalla legge greca. Franchigia, coperture opzionali e procedure in caso di danno vengono spiegate al ritiro: chiedici prima del viaggio se ti servono dettagli."
     },
     {
-      "q": "Qual è la politica sul carburante?",
-      "a": "I veicoli vengono consegnati con un livello di carburante registrato e vanno riconsegnati a un livello comparabile, salvo diverso accordo al ritiro."
+      "q": "Come funziona con il carburante?",
+      "a": "I veicoli vengono consegnati con un livello di carburante annotato e vanno riconsegnati con un livello simile, salvo accordi diversi al ritiro."
     },
     {
       "q": "Offrite seggiolini per bambini?",
@@ -150,15 +150,15 @@
     },
     {
       "q": "Quanto costano gli scooter?",
-      "a": "Le tariffe scooter variano per cilindrata e stagione. Invia le date tramite il calendario della pagina scooter o WhatsApp e ti indicheremo la tariffa giornaliera."
+      "a": "Le tariffe degli scooter variano in base alla cilindrata e alla stagione. Inviaci le date dal calendario della pagina scooter o su WhatsApp e ti indicheremo la tariffa giornaliera."
     },
     {
       "q": "E se il traghetto è in ritardo?",
-      "a": "Scrivici o chiamaci con il nuovo orario di arrivo. Adeguiamo spesso i ritiri a Kamares quando le navi ritardano: tienici solo informati."
+      "a": "Scrivici o chiamaci con il nuovo orario di arrivo. Spostiamo spesso il ritiro a Kamares quando i traghetti sono in ritardo: basta che ci tieni informati."
     },
     {
       "q": "Posso cambiare o annullare le date?",
-      "a": "Avvisaci il prima possibile. Faremo del nostro meglio per gestire cambiamenti, disagi dei traghetti e ritardi legati al meteo."
+      "a": "Avvisaci il prima possibile. Faremo il possibile per venirti incontro in caso di modifiche, disagi dei traghetti e ritardi dovuti al meteo."
     }
   ],
   "fr": [

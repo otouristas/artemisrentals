@@ -26,9 +26,9 @@ Kamares è insieme porto operativo e località balneare a sé, con una lunga spi
 
 Apollonia, il capoluogo, si trova a circa 5,5 km nell'entroterra e in salita, una decina di minuti in auto.
 
-## Pireo verso Sifnos: il collegamento principale
+## Dal Pireo a Sifnos: il collegamento principale
 
-Il Pireo è il porto che serve Atene, a 45 o 60 minuti dall'aeroporto con metropolitana, autobus o taxi. Quasi tutto il traffico per Sifnos passa da lì.
+Il Pireo è il porto che serve Atene, a 45–60 minuti dall'aeroporto internazionale di Atene con metropolitana, autobus o taxi. Quasi tutto il traffico per Sifnos passa da lì.
 
 Sulla rotta operano due tipi di nave molto diversi:
 
@@ -36,7 +36,7 @@ Sulla rotta operano due tipi di nave molto diversi:
 | --- | --- | --- |
 | Durata tipica | Circa 5 ore | Circa 2 ore e mezza o 3 ore |
 | Con mare mosso | Più stabile, scafo pesante | Decisamente più ballerino |
-| Ponti | Ponti aperti, si circola liberamente | Cabina chiusa, posto a sedere |
+| Accesso ai ponti | Ponti aperti, si circola liberamente | Cabina chiusa, posto a sedere |
 | Trasporto veicoli | Sì | Di norma sì, spazio limitato |
 | Cancellazioni per vento | Rare | Più frequenti |
 | Costo | Inferiore | Superiore |
@@ -49,7 +49,7 @@ Il catamarano veloce ti fa guadagnare due ore o più. Se arrivi da un volo pomer
 
 Scegli il **catamarano veloce** se hai poco tempo, viaggi leggero e non soffri il mal di mare. Scegli la **nave convenzionale** se porti un veicolo, viaggi con bambini piccoli o persone anziane, sei sensibile al movimento, oppure viaggi a fine luglio e in agosto, quando il meltemi colpisce soprattutto i mezzi veloci.
 
-## La linea delle Cicladi occidentali
+## La linea delle Cicladi occidentali e il giro delle isole
 
 Sifnos si trova sulla cosiddetta linea delle Cicladi occidentali. A seconda della stagione e della compagnia, i collegamenti la uniscono a:
 
@@ -70,7 +70,7 @@ Alcune cose da sapere:
 
 - Verifica se il biglietto ha il **posto numerato** o è a posti liberi. Sui mezzi veloci il posto è quasi sempre assegnato.
 - Se porti la tua auto da Atene, prenota lo spazio veicolo separatamente e per tempo. La capienza del garage è molto più limitata di quella passeggeri.
-- Quasi tutte le compagnie richiedono una carta d'imbarco cartacea o la scansione di un codice al porto. Calcola 30 o 45 minuti prima della partenza al Pireo, un porto enorme e disorientante.
+- Quasi tutte le compagnie richiedono una carta d'imbarco cartacea o la scansione di un codice al porto. Al Pireo, porto enorme e dispersivo, arriva 30–45 minuti prima della partenza.
 - Il Pireo ha diversi cancelli molto distanti fra loro. Controlla il numero sul biglietto e lascia il tempo per raggiungerlo a piedi.
 
 ## Il meltemi e le corse cancellate
@@ -80,22 +80,22 @@ Il **meltemi** è un vento forte e secco da nord che spazza l'Egeo soprattutto d
 In pratica:
 
 - I catamarani veloci vengono sospesi con una soglia di vento più bassa rispetto alle navi convenzionali.
-- Le cancellazioni si annunciano di solito la sera prima o la mattina stessa.
+- Le cancellazioni vengono annunciate di solito la sera prima o la mattina stessa.
 - In caso di cancellazione hai diritto al rimborso o al cambio corsa, ma i posti si esauriscono in fretta.
 
-**La lezione pratica:** non programmare mai il traghetto di ritorno lo stesso giorno del volo internazionale. Lascia una notte ad Atene come margine.
+**La lezione pratica:** non programmare mai il traghetto di ritorno lo stesso giorno del volo internazionale. Lascia una notte ad Atene come margine. Chi non lo fa è quello che vedi correre a perdifiato per il Pireo.
 
 ## Inverno e stagioni intermedie
 
 Da novembre a marzo l'orario si riduce a tre o quattro corse a settimana, per lo più navi convenzionali, e il maltempo può ridurle ulteriormente. Sifnos resta abitata e attiva tutto l'anno, ma una visita invernale richiede programmi flessibili.
 
-Aprile, maggio, settembre e ottobre sono il periodo migliore: corse quotidiane o quasi, mare calmo, acqua tiepida a settembre e nessuna delle ressa di agosto.
+Aprile, maggio, settembre e ottobre sono il periodo migliore: corse quotidiane o quasi, mare calmo, acqua tiepida a settembre e niente ressa d'agosto.
 
 ## Arrivare a Kamares con l'auto già pronta
 
 Ciò che coglie impreparati quasi tutti i visitatori è l'intervallo fra lo sbarco e il momento in cui si è davvero autonomi. Sifnos ha pochissimi taxi e quando ad agosto attracca un traghetto pieno spariscono in pochi minuti. L'autobus coincide con la maggior parte dei traghetti ma segue un orario proprio e si riempie subito.
 
-Noi ti aspettiamo alla nave. Inviaci **data di arrivo e orario approssimativo di attracco** e l'auto sarà pronta al porto di Kamares senza costi aggiuntivi, così come all'eliporto, ad Apollonia, Artemonas e Kastro. Per prenotare non servono anticipi né dati della carta, e responsabilità civile, manutenzione e assistenza locale sono già inclusi nella tariffa giornaliera.
+Noi ti aspettiamo alla nave. Inviaci **data di arrivo e orario approssimativo di attracco** e l'auto sarà pronta al porto di Kamares senza costi aggiuntivi, e il ritiro è gratuito anche all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Per prenotare non servono anticipi né dati della carta, e assicurazione RCA, manutenzione e assistenza sul posto sono già incluse nella tariffa giornaliera.
 
 Dicci l'orario del traghetto e se preferisci un'auto o uno scooter, al resto pensiamo noi.
 

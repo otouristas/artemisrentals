@@ -1,61 +1,61 @@
 ---
 slug: kamares-port-arrival-guide
-title: "Guida all'arrivo al porto di Kamares"
-description: "Cosa fare quando il traghetto attracca a Kamares: bagagli, opzioni di pickup e come raggiungere Apollonia con Artemis. Gestione familiare ad Apollonia dal 1988."
+title: "Arrivo al porto di Kamares: dal traghetto al primo bagno"
+description: "Cosa fare quando il traghetto attracca a Kamares: bagagli, opzioni di ritiro e come raggiungere Apollonia con un noleggio Artemis. Ritiro gratuito, nessun anticipo."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
-tags: [kamares, arrival, ferry]
+tags: [kamares, arrivo, traghetto]
 related: [apollonia-vs-kamares-stay, driving-in-sifnos, rent-a-car-sifnos-2026]
 ---
 
-Kamares è dove la maggior parte dei visitatori tocca Sifnos per la prima volta: una lunga baia riparata, caffè lungo il lungomare e la strada in salita verso Apollonia visibile dal ponte. La prima ora a terra dà il tono al viaggio. Un po' di pianificazione su bagagli, pickup e orari del bus locale fa molta differenza.
+Kamares è il primo contatto con Sifnos per la maggior parte dei visitatori: una lunga baia riparata, i caffè sul lungomare e, già dal ponte del traghetto, la strada che sale verso Apollonia. La prima ora a terra dà il tono a tutto il viaggio. Basta organizzarsi un po' su bagagli, ritiro del mezzo e orari dell'autobus locale.
 
-## Scesi dal traghetto: cosa vedrai
+## Appena sbarcato: cosa troverai
 
-Il fronte del porto è piatto e percorribile a piedi. I taxi aspettano vicino allo sbarco in stagione; il bus per Apollonia parte poco dopo i traghetti più frequentati quando c'è domanda. I carrelli bagagli sono informali: porta le valigie verso un caffè all'ombra se la camera non è pronta.
+Il fronte del porto è pianeggiante e si gira comodamente a piedi. In stagione i taxi aspettano vicino al punto di sbarco; l'autobus per Apollonia parte poco dopo i traghetti più frequentati, quando c'è richiesta. Non ci sono veri carrelli per i bagagli: porta le valigie in un caffè all'ombra se la camera non è ancora pronta.
 
-La spiaggia di Kamares è a pochi passi dal molo. Molti viaggiatori nuotano prima del check-in, soprattutto con arrivi pomeridiani. Tieni il costume accessibile nella borsa da giorno, non sepolto nella stiva.
+La spiaggia di Kamares è a pochi passi dal molo. Molti fanno il bagno prima del check-in, soprattutto se arrivano nel pomeriggio. Tieni il costume a portata di mano nello zaino, non sepolto nella valigia in stiva.
 
-## Ritiro del noleggio Artemis
+## Il ritiro del tuo noleggio Artemis
 
-Artemis di default fa **pickup ad Apollonia** nell'ufficio principale, dieci minuti in auto o una corsa in bus da Kamares. Se il traghetto arriva presto e vuoi le ruote subito, richiedi **pickup a Kamares su richiesta** quando fai la richiesta. Indica nome della nave ed ETA; il team coordina quando l'orario lo consente.
+Il ritiro standard Artemis è **ad Apollonia**, nell'ufficio principale, a dieci minuti d'auto o una corsa in autobus da Kamares. Se il traghetto arriva presto e vuoi subito il mezzo, chiedi il **ritiro a Kamares su richiesta** quando ci scrivi. Indica il nome della nave e l'orario previsto di arrivo: ci organizziamo quando gli orari lo permettono.
 
-**Nessun anticipo** è richiesto per prenotare: invia le date tramite modulo o WhatsApp e attendi conferma personale. Abbi patente e passaporto pronti; i termini seguono la pratica cicladica standard (età minima 23, patente da almeno un anno).
+Per prenotare **non serve alcun anticipo**: invia le date con il modulo di richiesta o su WhatsApp e aspetta la nostra conferma personale. Tieni pronti patente e passaporto; le condizioni di noleggio sono quelle standard delle Cicladi (età minima 23 anni, patente da almeno un anno).
 
-### Se il pickup ad Apollonia funziona meglio
+### Se preferisci il ritiro ad Apollonia
 
-Alcuni ospiti lasciano i bagagli in un hotel a Kamares, prendono il bus in salita, ritirano l'auto ad Apollonia e tornano per i bagagli una volta orientati. Altri prendono un taxi ad Apollonia e iniziano a guidare da lì. Entrambi i modelli funzionano; scegli in base all'energia dopo il traghetto, non all'ideologia.
+Alcuni ospiti lasciano i bagagli in un hotel di Kamares, salgono in autobus, ritirano l'auto ad Apollonia e tornano a prendere le valigie dopo essersi orientati. Altri vanno in taxi ad Apollonia e cominciano a guidare da lì. Funzionano entrambe le soluzioni: scegli in base alle energie che ti restano dopo il traghetto, non per principio.
 
-![Lungomare del porto di Kamares con traghetto e strada verso Apollonia](/images/blog/kamares-port-arrival-guide.jpg "La maggior parte degli arrivi a Sifnos inizia a Kamares: pianifica il pickup prima di attraccare")
+![Lungomare del porto di Kamares con traghetto e strada verso Apollonia](/images/blog/kamares-port-arrival-guide.jpg "Quasi tutti arrivano a Sifnos da Kamares: organizza il ritiro prima di attraccare")
 
-## Logistica della prima notte
+## Organizzare la prima notte
 
-Gli hotel a Kamares significano brevi passeggiate dalla cena al letto. Quelli ad Apollonia significano passeggiate serali nella capitale ma bus o taxi il giorno dell'arrivo, a meno che tu non abbia ritirato l'auto al porto. Leggi [Apollonia vs Kamares](/it/blog/apollonia-vs-kamares-stay) se stai ancora scegliendo la base.
+Con un hotel a Kamares, dalla cena al letto sono due passi. Con un hotel ad Apollonia avrai le passeggiate serali nel capoluogo, ma il giorno dell'arrivo ti servirà un autobus o un taxi, a meno che tu non abbia ritirato l'auto al porto. Leggi [Apollonia o Kamares](/it/blog/apollonia-vs-kamares-stay) se stai ancora scegliendo dove fare base.
 
-Il carburante è disponibile vicino a Kamares; non serve fare il pieno prima di salire ad Apollonia a meno che non pianifichi subito un giro sulla costa sud.
+Vicino a Kamares c'è un distributore; non serve fare il pieno prima di salire ad Apollonia, a meno che tu non voglia partire subito per un giro sulla costa sud.
 
-## Taxi, bus e quando saltarli
+## Taxi, autobus e quando farne a meno
 
-Il bus Kamares–Apollonia è economico e va bene per una persona con zaino da giorno. Diventa scomodo con due valigie grandi, un seggiolino o una famiglia che vuole fermarsi al supermercato prima di salire. I taxi incontrano i traghetti ma si formano code quando arrivano più navi nella stessa ora: avere la conferma Artemis di **pickup a Kamares su richiesta** toglie l'incertezza.
+L'autobus Kamares–Apollonia costa poco e va benissimo per una persona con uno zaino. Diventa scomodo con due valigie grandi, un seggiolino o una famiglia che vuole fermarsi al supermercato prima di salire. I taxi aspettano i traghetti, ma si formano code quando arrivano più navi nella stessa ora: farti confermare da Artemis il **ritiro a Kamares su richiesta** ti toglie ogni dubbio.
 
-Se hai già prenotato il pickup ad Apollonia, il bus resta un backup quando i traghetti arrivano tardi e devi fare check-in prima della chiusura dell'ufficio. Salva il numero WhatsApp di Artemis sul telefono prima di salpare; il segnale sul ponte è migliore che nel parcheggio del porto.
+Se hai già prenotato il ritiro ad Apollonia, l'autobus resta un'alternativa quando il traghetto è in ritardo e devi arrivare prima che l'ufficio chiuda. Salva il numero WhatsApp di Artemis sul telefono prima di partire: sul ponte il segnale è migliore che nel parcheggio del porto.
 
-## Supermercato e bancomat
+## Spesa e contanti
 
-Il mini-market di Kamares copre acqua, crema solare e snack prima della prima guida verso l'hotel. Ci sono bancomat lungo il lungomare; le piccole taverne nell'entroterra possono preferire contanti. Fai scorta prima di andare verso spiagge remote: i negozi si diradano fuori da Apollonia e Platis Gialos.
+Il minimarket di Kamares ha acqua, crema solare e snack per il primo tragitto verso l'hotel. Sul lungomare ci sono bancomat; le piccole taverne dell'entroterra a volte preferiscono i contanti. Fai scorta prima di andare verso le spiagge più isolate: fuori da Apollonia e Platys Gialos i negozi si fanno rari.
 
-## Errori comuni il giorno dell'arrivo
+## Gli errori più comuni il giorno dell'arrivo
 
-- Dare per scontato che ogni traghetto sia sincronizzato con un bus: controlla il tabellone o chiedi al bar.
-- Ritirare un'auto manuale stanchi dal viaggio e affrontare la salita a senso unico di Apollonia in prima: se guidi solo automatico, dillo prenotando in alta stagione.
-- Dimenticare di scrivere ad Artemis se il traghetto è in ritardo; sistemano quando lo sanno.
+- Dare per scontato che ogni traghetto abbia un autobus in coincidenza: guarda il cartello degli orari o chiedi al bar.
+- Ritirare un'auto con cambio manuale stanco del viaggio e affrontare in prima la salita a senso unico di Apollonia: se guidi solo con il cambio automatico, dillo quando prenoti in alta stagione.
+- Dimenticare di avvisare Artemis se il traghetto è in ritardo: se lo sappiamo, ci organizziamo.
 
-## Oltre il primo giorno
+## Dopo il primo giorno
 
-Una volta sistemati, Kamares diventa un punto di partenza per la costa nord o un bagno rapido al porto tra una corsa e l'altra. Abbina questa guida a [guidare a Sifnos](/it/blog/driving-in-sifnos) e alla panoramica [prezzi noleggio auto](/it/blog/sifnos-car-rental-prices) per il quadro completo.
+Una volta sistemato, Kamares diventa il punto di partenza per la costa nord o il posto per un bagno veloce tra un giro e l'altro dell'isola. Abbina questa guida a [guidare a Sifnos](/it/blog/driving-in-sifnos) e alla nostra panoramica sui [prezzi del noleggio auto](/it/blog/sifnos-car-rental-prices) per avere il quadro completo.
 
-Arrivi presto? [Prenota con Artemis](/it/book) con data del traghetto, orario di arrivo approssimativo e luogo di pickup preferito. Artemis incontra le navi in questo porto dal **1988**: un breve messaggio batte stare al molo a indovinare se la Panda ti aspetta.
+Arrivi a breve? [Prenota con Artemis](/it/book) indicando data del traghetto, orario di arrivo indicativo e punto di ritiro preferito. Artemis accoglie i traghetti in questo porto dal **1988**: un breve messaggio è meglio che aspettare sul molo chiedendoti se la tua Panda c'è.
 
-Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/it/sifnos-guide/rent-a-car-sifnos) or [book dates](/it/book).
+Organizza il ritiro gratuito dell'auto a Kamares: [noleggia un'auto a Sifnos](/it) o [prenota le date](/it/book).
