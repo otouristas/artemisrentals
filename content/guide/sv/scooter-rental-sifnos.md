@@ -1,8 +1,8 @@
 ---
 slug: scooter-rental-sifnos
 title: "Hyr scooter på Sifnos: upphämtning i Apollonia"
-description: "Hyr scooter på Sifnos hos Artemis Rental i Apollonia. Våra scootrar och info om tillfälligt bokningsstopp. Gratis upphämtning i Kamares hamn, inget förskott."
-answer: "Artemis har SYM-scootrar för Sifnos på kontoret i Apollonia. Onlinebokning av scooter är tillfälligt stängd, men bilar går fortfarande att hyra."
+description: "Hyr scooter på Sifnos hos Artemis Rental i Apollonia. Våra scootrar och onlinebokning utan förskott. Upphämtning och återlämning bara på kontoret i Apollonia."
+answer: "Artemis har SYM-scootrar för Sifnos på kontoret i Apollonia. Du bokar dem online utan förskottsbetalning och hämtar och lämnar dem på kontoret."
 datePublished: "2026-08-04"
 dateModified: "2026-08-04"
 cover: "/images/brand/artemis-motos.jpg"
@@ -20,9 +20,9 @@ related:
 
 Artemis har SYM-scootrar för korta turer till stränderna när uthyrningen är öppen. Upphämtning och återlämning sker **endast på kontoret i Apollonia**.
 
-## Tillfälligt bokningsstopp
+## Boka online
 
-**Onlinebokning av scooter är inte möjlig just nu.** Se [våra scootrar](/sv/scooters) för modeller och priser, och [hyr en bil](/sv/cars) om du behöver ta dig runt den här veckan.
+**Scooter bokar du online, utan förskottsbetalning.** Se [våra scootrar](/sv/scooters) för modeller och priser, eller [hyr en bil](/sv/cars) om du hellre vill det.
 
 ## När scooter passar på Sifnos
 

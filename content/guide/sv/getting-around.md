@@ -29,7 +29,7 @@ related:
 
 ## Hyra bil på Sifnos
 
-Småbilar passar bäst i de smala bygränderna och på trånga parkeringar. Artemis servar bilarna för öns vägar. Vill du ha automatlåda i juli eller augusti, skicka din förfrågan tidigt. **Upphämtning av bil** är gratis i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro. Scootrar hämtas i Apollonia, och onlinebokning av scooter är tillfälligt stängd.
+Småbilar passar bäst i de smala bygränderna och på trånga parkeringar. Artemis servar bilarna för öns vägar. Vill du ha automatlåda i juli eller augusti, skicka din förfrågan tidigt. **Upphämtning av bil** är gratis i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro. Scootrar hämtas i Apollonia och bokas online utan förskottsbetalning.
 
 Läs mer om att [hyra bil på Sifnos](/sv) och våra [praktiska körtips](/sv/sifnos-guide/practical-tips).
 

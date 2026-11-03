@@ -29,7 +29,7 @@ related:
 
 ## Louer une voiture à Sifnos
 
-Les citadines sont les plus à l’aise dans les ruelles des villages et sur les places de parking étroites. Artemis entretient ses voitures pour les routes de l’île ; pour une boîte automatique en juillet–août, demandez vos dates tôt. Le **retrait de la voiture** est gratuit au port de Kamares, à l’héliport, à Apollonia, à Artemonas et à Kastro. Les scooters partent d’Apollonia ; la réservation de scooter en ligne est temporairement indisponible.
+Les citadines sont les plus à l’aise dans les ruelles des villages et sur les places de parking étroites. Artemis entretient ses voitures pour les routes de l’île ; pour une boîte automatique en juillet–août, demandez vos dates tôt. Le **retrait de la voiture** est gratuit au port de Kamares, à l’héliport, à Apollonia, à Artemonas et à Kastro. Les scooters partent d’Apollonia, et se réservent en ligne sans acompte.
 
 Voir aussi [louer une voiture à Sifnos](/fr) et nos [conseils pratiques de conduite](/fr/sifnos-guide/practical-tips).
 

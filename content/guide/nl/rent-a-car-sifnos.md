@@ -48,7 +48,7 @@ Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos zijn mogelijk op aanvraag
 
 ## Scooters
 
-Scooters huren vanuit Apollonia vind je op onze [scooterpagina](/nl/scooters), maar **scooters online reserveren kan tijdelijk niet**. Voor auto's kun je gewoon een aanvraag doen.
+Scooters huren vanuit Apollonia vind je op onze [scooterpagina](/nl/scooters), en **scooters reserveer je online zonder vooruitbetaling**. Ophalen en inleveren alleen bij het kantoor in Apollonia.
 
 ## Volgende stappen
 

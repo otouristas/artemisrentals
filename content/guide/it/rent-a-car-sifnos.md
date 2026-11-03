@@ -48,7 +48,7 @@ Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta (supplemento 
 
 ## Scooter
 
-Il noleggio scooter da Apollonia è presente nella nostra [pagina scooter](/it/scooters), ma **la prenotazione online degli scooter è temporaneamente sospesa**. Le auto restano prenotabili.
+Il noleggio scooter da Apollonia è presente nella nostra [pagina scooter](/it/scooters), e **gli scooter si prenotano online senza anticipo**. Ritiro e riconsegna solo all'ufficio di Apollonia.
 
 ## Prossimi passi
 

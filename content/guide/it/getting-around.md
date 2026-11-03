@@ -29,7 +29,7 @@ related:
 
 ## Noleggio auto a Sifnos
 
-Le utilitarie sono le più adatte ai vicoli dei villaggi e ai parcheggi stretti. Artemis cura le sue auto per le strade dell'isola; per luglio e agosto, se vuoi il cambio automatico, chiedi le date per tempo. Il **ritiro dell'auto** è gratuito al porto di Kamares, all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Gli scooter si ritirano ad Apollonia; la prenotazione online degli scooter è temporaneamente sospesa.
+Le utilitarie sono le più adatte ai vicoli dei villaggi e ai parcheggi stretti. Artemis cura le sue auto per le strade dell'isola; per luglio e agosto, se vuoi il cambio automatico, chiedi le date per tempo. Il **ritiro dell'auto** è gratuito al porto di Kamares, all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Gli scooter si ritirano ad Apollonia e si prenotano online senza anticipo.
 
 Leggi anche [noleggiare un'auto a Sifnos](/it) e i [consigli pratici per guidare](/it/sifnos-guide/practical-tips).
 

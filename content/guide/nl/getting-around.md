@@ -29,7 +29,7 @@ related:
 
 ## Een auto huren op Sifnos
 
-Compacte auto's passen het best in de dorpsstraatjes en op krappe parkeerplekken. Artemis onderhoudt zijn auto's speciaal voor de wegen op het eiland; vraag voor een automaat in juli en augustus vroeg je data aan. **Ophalen van de auto** is gratis in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro. Scooters haal je op in Apollonia; scooters online reserveren kan tijdelijk niet.
+Compacte auto's passen het best in de dorpsstraatjes en op krappe parkeerplekken. Artemis onderhoudt zijn auto's speciaal voor de wegen op het eiland; vraag voor een automaat in juli en augustus vroeg je data aan. **Ophalen van de auto** is gratis in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro. Scooters haal je op in Apollonia en reserveer je online zonder vooruitbetaling.
 
 Lees ook [auto huren op Sifnos](/nl) en de [praktische tips voor autorijden](/nl/sifnos-guide/practical-tips).
 

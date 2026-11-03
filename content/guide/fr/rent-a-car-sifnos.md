@@ -48,7 +48,7 @@ Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sont possibles sur demand
 
 ## Scooters
 
-La location de scooters à Apollonia figure sur notre [page scooters](/fr/scooters), mais **la réservation de scooters en ligne est temporairement indisponible**. Les voitures restent réservables.
+La location de scooters à Apollonia figure sur notre [page scooters](/fr/scooters), et **la réservation de scooters en ligne se fait sans acompte**. Retrait et retour à l'agence d'Apollonia uniquement.
 
 ## Et ensuite
 

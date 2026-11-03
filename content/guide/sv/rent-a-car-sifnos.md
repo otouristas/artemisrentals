@@ -48,7 +48,7 @@ Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos går att ordna på begä
 
 ## Scootrar
 
-Scooteruthyrning från Apollonia finns på vår [scootersida](/sv/scooters), men **onlinebokning av scooter är tillfälligt stängd**. Bilar går fortfarande att boka.
+Scooteruthyrning från Apollonia finns på vår [scootersida](/sv/scooters), och **scooter bokar du online utan förskottsbetalning**. Upphämtning och återlämning sker bara på kontoret i Apollonia.
 
 ## Nästa steg
 
