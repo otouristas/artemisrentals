@@ -13,7 +13,8 @@ import {
   type PeriodId,
 } from "@/lib/fleet";
 import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
-import { buildMetadata } from "@/lib/seo";
+import { JsonLd } from "@/components/JsonLd";
+import { buildMetadata, rentalCatalogJsonLd } from "@/lib/seo";
 import type { Locale } from "@/i18n/routing";
 
 export async function generateMetadata({
@@ -124,6 +125,7 @@ export default async function RatesPage({
   return (
     <div className="container-site page-hero pb-20">
       <Breadcrumbs locale={loc} items={[{ label: t("title") }]} />
+      <JsonLd data={rentalCatalogJsonLd(loc, t("title"))} />
       <h1 className="text-display text-aegean">{t("title")}</h1>
       <p className="mt-4 max-w-2xl text-lead text-aegean/75">{t("lead")}</p>
       <TrustBadges className="mt-6" />

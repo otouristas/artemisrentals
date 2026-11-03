@@ -12,7 +12,7 @@ import { ScooterBookingNotice } from "@/components/ScooterBookingNotice";
 import { ReviewCard } from "@/components/ReviewCard";
 import { ReviewsSummary } from "@/components/ReviewsSummary";
 import { getReviewsWithText, reviewKey, REVIEW_COUNT } from "@/lib/reviews";
-import { buildMetadata, absoluteUrl, businessJsonLd } from "@/lib/seo";
+import { buildMetadata, absoluteUrl, BUSINESS_ID, WEBSITE_ID } from "@/lib/seo";
 import { bcp47 } from "@/lib/i18n-locale";
 import type { Locale } from "@/i18n/routing";
 
@@ -55,7 +55,8 @@ export default async function HomePage({
           "@id": `${absoluteUrl(loc)}/#webpage`,
           url: absoluteUrl(loc),
           name: t("headline"),
-          about: businessJsonLd(),
+          about: { "@id": BUSINESS_ID },
+          isPartOf: { "@id": WEBSITE_ID },
           inLanguage: bcp47(loc),
         }}
       />

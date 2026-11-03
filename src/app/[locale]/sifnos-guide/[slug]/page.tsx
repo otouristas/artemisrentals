@@ -13,11 +13,10 @@ import {
   getRelatedArticles,
   markdownToHtml,
 } from "@/lib/content";
-import { buildMetadata, absoluteUrl, absoluteImageUrl } from "@/lib/seo";
+import { articleJsonLd, buildMetadata } from "@/lib/seo";
 import { tripPlannerUrl } from "@/lib/site";
 import fanout from "../../../../../content/seo/fanout.json";
 import { routing, type Locale } from "@/i18n/routing";
-import { bcp47 } from "@/lib/i18n-locale";
 import { resolveContentImage, resolveCoverSrc } from "@/lib/sifnos-photos";
 
 export const revalidate = 60;
@@ -73,17 +72,17 @@ export default async function GuideArticlePage({
           version repeated one answer across every question. The Q&A below is real
           on-page content instead, which is what actually earns the long-tail rankings. */}
       <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "Article",
-          headline: article.title,
+        data={articleJsonLd({
+          locale: loc,
+          type: "Article",
+          path: `/sifnos-guide/${slug}`,
+          title: article.title,
           description: article.description,
+          answer: article.answer,
+          datePublished: article.datePublished,
           dateModified: article.dateModified,
-          image: cover ? absoluteImageUrl(cover.src) : undefined,
-          inLanguage: bcp47(loc),
-          mainEntityOfPage: absoluteUrl(loc, `/sifnos-guide/${slug}`),
-          author: { "@type": "Organization", name: article.author ?? "Artemis Rental" },
-        }}
+          image: cover?.src,
+        })}
       />
       <Breadcrumbs
         locale={loc}

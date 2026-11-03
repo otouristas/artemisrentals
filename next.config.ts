@@ -39,6 +39,14 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  // Some agents look for llms files under /.well-known/. Serve the generated
+  // routes there too instead of keeping hand-maintained copies in public/.
+  async rewrites() {
+    return [
+      { source: "/.well-known/llms.txt", destination: "/llms.txt" },
+      { source: "/.well-known/llms-full.txt", destination: "/llms-full.txt" },
+    ];
+  },
   async redirects() {
     return [
       // Legacy Artemis .html paths

@@ -12,9 +12,8 @@ import {
   getRelatedArticles,
   markdownToHtml,
 } from "@/lib/content";
-import { buildMetadata, absoluteUrl, absoluteImageUrl } from "@/lib/seo";
+import { articleJsonLd, buildMetadata } from "@/lib/seo";
 import { routing, type Locale } from "@/i18n/routing";
-import { bcp47 } from "@/lib/i18n-locale";
 import { resolveContentImage, resolveCoverSrc } from "@/lib/sifnos-photos";
 
 export const revalidate = 60;
@@ -64,18 +63,17 @@ export default async function BlogPostPage({
   return (
     <article className="container-site page-hero pb-20">
       <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "BlogPosting",
-          headline: post.title,
+        data={articleJsonLd({
+          locale: loc,
+          type: "BlogPosting",
+          path: `/blog/${slug}`,
+          title: post.title,
           description: post.description,
+          answer: post.answer,
           datePublished: post.datePublished,
-          dateModified: post.dateModified ?? post.datePublished,
-          image: cover ? absoluteImageUrl(cover.src) : undefined,
-          author: { "@type": "Organization", name: post.author ?? "Artemis Rental" },
-          mainEntityOfPage: absoluteUrl(loc, `/blog/${slug}`),
-          inLanguage: bcp47(loc),
-        }}
+          dateModified: post.dateModified,
+          image: cover?.src,
+        })}
       />
       <Breadcrumbs
         locale={loc}

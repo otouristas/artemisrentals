@@ -14,9 +14,7 @@ import { AnalyticsEvents } from "@/components/AnalyticsEvents";
 import { CookieBanner } from "@/components/CookieBanner";
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { JsonLd } from "@/components/JsonLd";
-import { allInLanguages, businessJsonLd, absoluteUrl } from "@/lib/seo";
-import { SITE_URL } from "@/lib/site";
-import type { Locale } from "@/i18n/routing";
+import { siteGraphJsonLd } from "@/lib/seo";
 
 const inter = Inter({
   subsets: ["latin", "greek"],
@@ -40,26 +38,6 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const messages = await getMessages();
 
-  const graph = {
-    "@context": "https://schema.org",
-    "@graph": [
-      businessJsonLd(),
-      {
-        "@type": "WebSite",
-        "@id": `${SITE_URL}/#website`,
-        url: SITE_URL,
-        name: "Artemis Rental",
-        inLanguage: allInLanguages(),
-        publisher: { "@id": `${SITE_URL}/#business` },
-        potentialAction: {
-          "@type": "SearchAction",
-          target: `${absoluteUrl(locale as Locale, "/sifnos-guide")}?q={search_term_string}`,
-          "query-input": "required name=search_term_string",
-        },
-      },
-    ],
-  };
-
   return (
     <html
       lang={locale}
@@ -68,7 +46,7 @@ export default async function LocaleLayout({
     >
       <body className="flex min-h-full flex-col font-sans antialiased" suppressHydrationWarning>
         <NextIntlClientProvider messages={messages}>
-          <JsonLd data={graph} />
+          <JsonLd data={siteGraphJsonLd()} />
           <Header />
           <main className="flex-1">{children}</main>
           <Footer locale={locale} />

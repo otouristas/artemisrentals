@@ -3,6 +3,15 @@ import { business, SITE_URL } from "./site";
 import type { Locale } from "@/i18n/routing";
 import { routing } from "@/i18n/routing";
 import { bcp47, hreflangLanguages, ogLocale } from "@/lib/i18n-locale";
+import {
+  getCars,
+  getRateRow,
+  getRatesMeta,
+  getScooters,
+  localizeField,
+  type PeriodId,
+  type Vehicle,
+} from "@/lib/fleet";
 
 export function localePath(locale: Locale, path = "") {
   const clean = path.startsWith("/") ? path : `/${path}`;
@@ -120,21 +129,58 @@ function aggregateRatingJsonLd() {
   };
 }
 
+export const BUSINESS_ID = `${SITE_URL}/#business`;
+export const WEBSITE_ID = `${SITE_URL}/#website`;
+
+/**
+ * The one AutoRental entity. Every other node (WebSite, WebPage, Article, Offer)
+ * points at it by @id instead of repeating it, so search and AI engines see a
+ * single business with one name, address, phone set and founding year.
+ *
+ * Deliberately absent until real values exist: openingHours (seasonal, unknown),
+ * sameAs (no confirmed GBP/social profile URLs yet) and knowsLanguage (site
+ * languages are not the same as the languages spoken at the desk).
+ */
 export function businessJsonLd(description?: string) {
   const aggregateRating = aggregateRatingJsonLd();
+  const [office, mobile] = business.phones;
   return {
     "@type": "AutoRental",
-    "@id": `${SITE_URL}/#business`,
+    "@id": BUSINESS_ID,
     name: business.name,
+    legalName: business.legalName,
     alternateName: business.alternateNames,
     url: SITE_URL,
-    logo: `${SITE_URL}/images/brand/artemis-auto-rental.svg`,
+    logo: {
+      "@type": "ImageObject",
+      url: `${SITE_URL}/images/brand/artemis-auto-rental.svg`,
+    },
     image: `${SITE_URL}/images/brand/hero-sifnos.jpg`,
     description:
       description ??
-      "Car, scooter and motorcycle rentals in Sifnos with reliable service since 1988.",
-    telephone: business.phones[0].e164,
+      `Family-run car and scooter rental in Apollonia, Sifnos, since ${business.since}. Free car pickup at Kamares port, no prepayment to reserve.`,
+    telephone: office.e164,
     email: business.email,
+    contactPoint: [
+      {
+        "@type": "ContactPoint",
+        contactType: "reservations",
+        telephone: office.e164,
+        email: business.email,
+        areaServed: "GR",
+      },
+      ...(mobile
+        ? [
+            {
+              "@type": "ContactPoint",
+              contactType: "customer support",
+              name: "Mobile and WhatsApp",
+              telephone: mobile.e164,
+              areaServed: "GR",
+            },
+          ]
+        : []),
+    ],
     address: {
       "@type": "PostalAddress",
       ...business.address,
@@ -144,13 +190,162 @@ export function businessJsonLd(description?: string) {
       latitude: business.geo.latitude,
       longitude: business.geo.longitude,
     },
+    hasMap: business.rating.url,
     areaServed: [
       { "@type": "Place", name: "Sifnos" },
       { "@type": "AdministrativeArea", name: "Cyclades" },
     ],
     priceRange: business.priceRange,
+    currenciesAccepted: "EUR",
     foundingDate: String(business.since),
     ...(aggregateRating ? { aggregateRating } : {}),
+  };
+}
+
+/** Site-wide graph rendered once in the locale layout. */
+export function siteGraphJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      businessJsonLd(),
+      {
+        "@type": "WebSite",
+        "@id": WEBSITE_ID,
+        url: SITE_URL,
+        name: business.name,
+        alternateName: business.alternateNames,
+        inLanguage: allInLanguages(),
+        publisher: { "@id": BUSINESS_ID },
+        // No SearchAction: the site has no search endpoint, and Google retired the
+        // sitelinks search box in 2024. A dead target only misleads agents.
+      },
+    ],
+  };
+}
+
+/**
+ * Article / BlogPosting for guide and blog entries. Publisher and author point at
+ * the business node so the content is attributed to the same entity that rents
+ * the cars, which is the E-E-A-T signal that matters for a local operator.
+ */
+export function articleJsonLd({
+  locale,
+  type,
+  path,
+  title,
+  description,
+  answer,
+  datePublished,
+  dateModified,
+  image,
+}: {
+  locale: Locale;
+  type: "Article" | "BlogPosting";
+  path: string;
+  title: string;
+  description: string;
+  answer?: string;
+  datePublished?: string;
+  dateModified?: string;
+  image?: string;
+}) {
+  const url = absoluteUrl(locale, path);
+  const businessRef = {
+    "@type": "Organization",
+    "@id": BUSINESS_ID,
+    name: business.name,
+    url: SITE_URL,
+  };
+  return {
+    "@context": "https://schema.org",
+    "@type": type,
+    "@id": `${url}#article`,
+    headline: title,
+    description,
+    ...(answer ? { abstract: answer } : {}),
+    ...(datePublished ? { datePublished } : {}),
+    dateModified: dateModified ?? datePublished,
+    ...(image ? { image: absoluteImageUrl(image) } : {}),
+    inLanguage: bcp47(locale),
+    url,
+    mainEntityOfPage: { "@type": "WebPage", "@id": url },
+    isPartOf: { "@id": WEBSITE_ID },
+    // Named inline as well as by @id: Google's Article docs want author.name and
+    // publisher.name on the node itself, not only through a graph reference.
+    author: businessRef,
+    publisher: businessRef,
+    about: { "@type": "Place", name: "Sifnos, Cyclades, Greece" },
+  };
+}
+
+type SeasonPeriod = { id: PeriodId; label: Partial<Record<string, string>> & { en: string } };
+
+/**
+ * Daily rate card for /rates: one Offer per vehicle with a UnitPriceSpecification
+ * per season, straight from content/data/rates.json (the same numbers the table
+ * shows). Seasons without a published price are left out, never estimated.
+ */
+export function rentalCatalogJsonLd(locale: Locale, name: string) {
+  const periods = getRatesMeta().periods as SeasonPeriod[];
+  const offerFor = (vehicle: Vehicle) => {
+    const row = getRateRow(vehicle.rateKey);
+    if (!row) return null;
+    const specs = periods
+      .filter((p) => typeof row[p.id] === "number")
+      .map((p) => ({
+        "@type": "UnitPriceSpecification",
+        name: localizeField(p.label, locale),
+        price: row[p.id],
+        priceCurrency: "EUR",
+        unitCode: "DAY",
+      }));
+    if (specs.length === 0) return null;
+    const path = vehicle.category === "car" ? `/cars/${vehicle.slug}` : `/scooters/${vehicle.slug}`;
+    return {
+      "@type": "Offer",
+      url: absoluteUrl(locale, path),
+      businessFunction: "http://purl.org/goodrelations/v1#LeaseOut",
+      priceCurrency: "EUR",
+      priceSpecification: specs,
+      itemOffered: vehicleJsonLd(vehicle),
+      seller: { "@id": BUSINESS_ID },
+    };
+  };
+  const list = (vehicles: Vehicle[]) =>
+    vehicles.map(offerFor).filter((o): o is NonNullable<typeof o> => o !== null);
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "OfferCatalog",
+    "@id": `${absoluteUrl(locale, "/rates")}#catalog`,
+    name,
+    url: absoluteUrl(locale, "/rates"),
+    provider: { "@id": BUSINESS_ID },
+    itemListElement: [...list(getCars()), ...list(getScooters())],
+  };
+}
+
+/** Car or Motorcycle node with the specs the fleet data actually holds. */
+export function vehicleJsonLd(vehicle: Vehicle) {
+  return {
+    "@type": vehicle.category === "car" ? "Car" : "Motorcycle",
+    name: vehicle.name,
+    image: absoluteImageUrl(vehicle.image),
+    vehicleTransmission: vehicle.transmission === "automatic" ? "Automatic" : "Manual",
+    fuelType: "Petrol",
+    ...(vehicle.seats ? { seatingCapacity: vehicle.seats } : {}),
+    ...(vehicle.engineCc
+      ? {
+          vehicleEngine: {
+            "@type": "EngineSpecification",
+            engineDisplacement: {
+              "@type": "QuantitativeValue",
+              value: vehicle.engineCc,
+              unitCode: "CMQ",
+            },
+          },
+        }
+      : {}),
   };
 }
 
@@ -203,7 +398,8 @@ export function aboutPageJsonLd(locale: Locale, name?: string) {
     "@type": "AboutPage",
     name: name ?? "About Artemis Rental",
     url: absoluteUrl(locale, "/about"),
-    mainEntity: businessJsonLd(),
+    mainEntity: { "@id": BUSINESS_ID },
+    isPartOf: { "@id": WEBSITE_ID },
     inLanguage: bcp47(locale),
   };
 }
