@@ -151,6 +151,15 @@ export function CheckIcon(p: IconProps) {
   );
 }
 
+export function SearchIcon(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <circle cx="8.75" cy="8.75" r="5.25" />
+      <path d="m12.75 12.75 4 4" />
+    </Svg>
+  );
+}
+
 export function ArrowRightIcon(p: IconProps) {
   return (
     <Svg {...p}>

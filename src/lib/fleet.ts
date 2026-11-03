@@ -8,8 +8,8 @@ export type RateRow = Record<PeriodId, RateValue>;
 
 const PERIOD_IDS: PeriodId[] = ["low", "shoulder", "mid", "peak"];
 
-/** Flip to true when scooter booking opens again. */
-export const SCOOTERS_BOOKING_ENABLED = false;
+/** Scooter booking is open. Set to false to pause it (shows the notice, hides scooters from booking). */
+export const SCOOTERS_BOOKING_ENABLED = true;
 
 export function isScooterBookingEnabled() {
   return SCOOTERS_BOOKING_ENABLED;
