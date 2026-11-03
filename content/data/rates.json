@@ -9,7 +9,7 @@
         "it": "1 gen – 10 mag & 1–31 ott",
         "fr": "1 janv. – 10 mai & 1–31 oct.",
         "de": "1 Jan – 10 Mai & 1–31 Okt",
-        "sv": "1 jan – 10 maj & 1–31 okt",
+        "sv": "1 jan – 10 maj och 1–31 okt",
         "nl": "1 jan – 10 mei & 1–31 okt"
       },
       "ranges": [
@@ -25,7 +25,7 @@
         "it": "11 mag – 10 giu & 11–30 set",
         "fr": "11 mai – 10 juin & 11–30 sep.",
         "de": "11 Mai – 10 Jun & 11–30 Sep",
-        "sv": "11 maj – 10 jun & 11–30 sep",
+        "sv": "11 maj – 10 jun och 11–30 sep",
         "nl": "11 mei – 10 jun & 11–30 sep"
       },
       "ranges": [
@@ -168,7 +168,7 @@
     "it": "Tariffe giornaliere in euro per stagione. Auto: ritiro e riconsegna gratuiti al porto di Kamares, eliporto, Apollonia, Artemonas e Kastro. Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta (costo confermato in prenotazione). Scooter: solo ufficio di Apollonia. Nessun anticipo per prenotare.",
     "fr": "Tarifs journaliers en euros par saison. Voitures : prise en charge et retour gratuits au port de Kamares, héliport, Apollonia, Artemonas et Kastro. Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sur demande (frais confirmés à la réservation). Scooters : bureau d'Apollonia uniquement. Aucun prépaiement pour réserver.",
     "de": "Tagespreise in Euro nach Saison. Autos: kostenlose Abholung & Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro. Vathi, Platys Gialos, Faros, Chrysopigi und Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt). Roller: nur Büro Apollonia. Keine Vorauszahlung zur Reservierung.",
-    "sv": "Dagspriser i euro per säsong. Bilar: kostnadsfri hämtning & återlämning vid Kamares hamn, heliport, Apollonia, Artemonas och Kastro. Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgift bekräftas vid bokning). Scootrar: endast Apollonia-kontoret. Ingen förskottsbetalning för att reservera.",
+    "sv": "Dagspriser i euro per säsong. Bilar: kostnadsfri upphämtning och återlämning i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro. Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgiften bekräftas vid bokning). Scootrar: endast kontoret i Apollonia. Ingen förskottsbetalning vid bokning.",
     "nl": "Dagprijzen in euro's per seizoen. Auto's: gratis ophalen & terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro. Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Geen vooruitbetaling om te reserveren."
   },
   "pickup": {
@@ -178,7 +178,7 @@
       "it": "Ritiro e riconsegna gratuiti al porto di Kamares, eliporto, Apollonia, Artemonas e Kastro.",
       "fr": "Prise en charge et retour gratuits au port de Kamares, héliport, Apollonia, Artemonas et Kastro.",
       "de": "Kostenlose Abholung und Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro.",
-      "sv": "Kostnadsfri hämtning och återlämning vid Kamares hamn, heliport, Apollonia, Artemonas och Kastro.",
+      "sv": "Kostnadsfri upphämtning och återlämning i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro.",
       "nl": "Gratis ophalen en terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro."
     },
     "carsRequest": {
@@ -187,7 +187,7 @@
       "it": "Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta (costo confermato in prenotazione).",
       "fr": "Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sur demande (frais confirmés à la réservation).",
       "de": "Vathi, Platys Gialos, Faros, Chrysopigi und Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt).",
-      "sv": "Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgift bekräftas vid bokning).",
+      "sv": "Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgiften bekräftas vid bokning).",
       "nl": "Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bij boeking bevestigd)."
     },
     "scooters": {
@@ -196,7 +196,7 @@
       "it": "Scooter: ritiro e riconsegna solo presso l'ufficio di Apollonia.",
       "fr": "Scooters : prise en charge et retour au bureau d'Apollonia uniquement.",
       "de": "Roller: Abholung und Rückgabe nur im Büro Apollonia.",
-      "sv": "Scootrar: hämtning och återlämning endast vid Apollonia-kontoret.",
+      "sv": "Scootrar: upphämtning och återlämning endast på kontoret i Apollonia.",
       "nl": "Scooters: ophalen en terugbrengen alleen bij het kantoor in Apollonia."
     }
   }

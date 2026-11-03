@@ -1,8 +1,8 @@
 ---
 slug: overview
 title: "Sifnos, Grekland: den kompletta öguiden"
-description: "Sifnos, Grekland: komplett guide till den kykladiska ön känd för sin matlagning, sitt krukmakeri och sina vandringsleder. Byar, stränder."
-answer: "Sifnos är en grekisk ö i Kykladerna, ungefär 14 km lång, känd framför allt för sin matlagning, sin krukmakartradition och ett nät av markerade stenlagda stigar. Apollonia är den livliga huvudorten uppe på åsen, Kamares färjehamnen, och stränder och byar ligger tillräckligt utspridda för att en bil eller scooter ska förvandla besöket."
+description: "Sifnos, Grekland: guide till Kykladön känd för mat, keramik och vandringsleder. Byar, stränder, hur länge du ska stanna och när du ska åka."
+answer: "Sifnos är en grekisk ö i Kykladerna, ungefär 14 km lång, känd framför allt för sin matlagning, sin keramik och ett nät av markerade stenlagda stigar. Apollonia är den livliga huvudorten uppe på åsen och Kamares är färjehamnen. Stränder och byar ligger så pass utspridda att en bil eller scooter gör stor skillnad för besöket."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/villages/apollonia.webp"
@@ -14,39 +14,39 @@ related:
   - beaches
 ---
 
-Sifnos ligger i västra Kykladerna, ungefär halvvägs mellan Aten och Santorini men temperamentsmässigt långt från båda. Ön är cirka 14 km lång och 7 km bred, har omkring 2 600 fast bosatta och har byggt sig ett rykte i hela Grekland för tre saker: enastående mat, en sekelgammal krukmakartradition och ett av öarnas bästa nät av markerade vandringsleder.
+Sifnos ligger i västra Kykladerna, ungefär halvvägs mellan Aten och Santorini men till sin karaktär långt från båda. Ön är cirka 14 km lång och 7 km bred, har omkring 2 600 fast bosatta och har byggt sig ett rykte i hela Grekland för tre saker: enastående mat, en flera hundra år gammal keramiktradition och ett av öarnas bästa nät av markerade vandringsleder.
 
-Vad den inte har är flygplats, kryssningsterminal eller festscen. Just den frånvaron är poängen, och därför lockar Sifnos människor som återvänder år efter år i stället för att bocka av den från en lista.
+Det ön inte har är flygplats, kryssningsterminal eller festliv. Det är just det som är poängen, och därför lockar Sifnos människor som kommer tillbaka år efter år i stället för att bara bocka av ön på en lista.
 
 ![Apollonia](/images/sifnos/villages/apollonia.webp "Apollonia, Sifnos huvudort uppe på åsen")
 
 ## Vad som gör Sifnos annorlunda
 
-Grekiska öar tenderar att specialisera sig. Mykonos gör nattliv, Santorini kalderautsikten, Milos enastående geologi. Sifnos gör **mat**, och gör det på allvar.
+De grekiska öarna har ofta var sin specialitet. Mykonos står för nattlivet, Santorini för utsikten över kalderan och Milos för en fantastisk geologi. Sifnos står för **maten**, och tar den på största allvar.
 
-Ön födde Nikolaos Tselementes, vars kokbok från 1910 blev så inflytelserik att hans efternamn blev det vanliga grekiska ordet för receptbok. Det arvet syns fortfarande: byarnas tavernor lagar mat med en ambition man inte väntar sig av deras storlek. Leta efter **revithada**, kikärter som får baka långsamt över natten i ett lerkärl, traditionellt i bybagarens vedugn på lördagskvällen till söndagslunchen, och **mastelo**, lamm eller get tillagad i lerkärl med dill och vin.
+Härifrån kom Nikolaos Tselementes, vars kokbok från 1910 blev så inflytelserik att hans efternamn blev det vanliga grekiska ordet för receptbok. Det arvet märks fortfarande: tavernorna i byarna lagar mat med en ambition som du knappast väntar dig av så små ställen. Leta efter **revithada**, kikärter som får baka långsamt över natten i ett lerkärl, traditionellt i bybagarens vedugn på lördagskvällen till söndagslunchen, och **mastelo**, lamm eller get tillagad i lerkärl med dill och vin.
 
-Krukmakeriet är ingen souvenirindustri, det är själva anledningen till att kokkärlen av lera finns. Verkstäder kring Kamares, Artemonas och Vathi drejar och bränner alltjämt så som ön gjort i generationer.
+Keramiken är ingen souvenirindustri, det är den som är anledningen till att lerkrukorna för matlagning finns. Verkstäder kring Kamares, Artemonas och Vathi drejar och bränner fortfarande sina kärl på samma sätt som man gjort på ön i generationer.
 
-Den tredje tråden är vandring. Sifnos underhåller ett nät av restaurerade stenlagda stigar, många av dem urgamla vägar mellan byar och kloster, ordentligt markerade och verkligt gångbara. Flera av de bästa stränderna och kapellen ger mer till fots än via vägen.
+Det tredje är vandringen. Sifnos sköter ett nät av restaurerade stenlagda stigar, många av dem uråldriga vägar mellan byar och kloster, ordentligt markerade och fullt möjliga att gå. Flera av de bästa stränderna och kapellen är mer givande att nå till fots än med bil.
 
 ## Geografin på en minut
 
-Ön delar sig tydligt i två zoner.
+Ön kan enkelt delas in i två delar.
 
-Den **centrala åsen** rymmer de sammanhängande inlandsbyarna: Apollonia, huvudorten, med Artemonas alldeles norrut, plus Exampela, Katavati, Kato Petali och Ano Petali, nära nog att promenera emellan. Här bor merparten av befolkningen och här finns restaurangerna och kvällslivet.
+På den **centrala åsen** ligger inlandsbyarna, som nästan sitter ihop: Apollonia, huvudorten, med Artemonas alldeles norrut, plus Exampela, Katavati, Kato Petali och Ano Petali, så nära varandra att du kan promenera mellan dem. Här bor merparten av befolkningen och här finns restaurangerna och kvällslivet.
 
-**Kusten** nedanför rymmer de utspridda orterna: Kamares i väster, dit färjorna kommer, Platys Gialos, Faros och Chrysopigi i söder, Vathi i sydväst och Cherronisos långt norrut. Kastro, den medeltida huvudorten, klamrar sig fast vid en klippa på östkusten.
+Längs **kusten** nedanför ligger de utspridda orterna: Kamares i väster, där färjorna lägger till, Platys Gialos, Faros och Chrysopigi i söder, Vathi i sydväst och Cherronisos långt norrut. Kastro, den medeltida huvudorten, klamrar sig fast vid en klippa på östkusten.
 
-Inget ligger mer än ungefär 25 minuter från Apollonia, men vägarna är smala och slingrande, så avståndet på kartan säger föga om restiden.
+Ingenting ligger mer än ungefär 25 minuter med bil från Apollonia, men vägarna är smala och kurviga, så avståndet på kartan säger inte mycket om restiden.
 
 ## Hur många dagar behöver du?
 
 **Tre dagar** täcker det väsentliga: inlandsbyarna, Kastro och två eller tre stränder.
 
-**Fem till sju dagar** är den ideala längden. Nog för att nå norra delen, gå ett par leder, äta ordentligt och unna sig en långsam dag.
+**Fem till sju dagar** är det perfekta läget. Då hinner du till nordkusten, går ett par av lederna, äter ordentligt och unnar dig en lat dag.
 
-**Tio dagar eller mer** och du slutar vara besökare. Många gör precis så och betraktar två veckor som ett minimum.
+**Tio dagar eller mer**, och du är inte längre bara besökare. Många gör precis så och ser två veckor som ett minimum.
 
 ## När du ska åka
 
@@ -54,24 +54,24 @@ Inget ligger mer än ungefär 25 minuter från Apollonia, men vägarna är smala
 | --- | --- |
 | **April till mitten av maj** | Grönt, vildblommor, svalt hav, mycket ännu stängt |
 | **Mitten av maj till juni** | Varmt, lugnt, allt öppet, utmärkt prisvärdhet |
-| **Juli och augusti** | Hett, fullt, fulla färjor, meltemin, boka i mycket god tid |
-| **September** | Kännarnas månad: varmt hav, glesare folk, stillhet |
-| **Oktober** | Vackert och tyst, verksamheter börjar stänga vid mitten |
-| **November till mars** | Verkligt stilla, få färjor, en annan ö |
+| **Juli och augusti** | Hett, mycket folk, fulla färjor, meltemivinden, boka i mycket god tid |
+| **September** | Kännarnas månad: varmt hav, mindre folk, lugnt |
+| **Oktober** | Vackert och lugnt, många ställen börjar stänga i mitten av månaden |
+| **November till mars** | Riktigt stilla, få färjor, en helt annan ö |
 
-Har du fritt val är **september** den bästa månaden på Sifnos. Havet är som varmast efter en hel sommar, augustifolket har åkt och ljuset är anmärkningsvärt.
+Har du fritt val är **september** den bästa månaden på Sifnos. Havet är som varmast efter en hel sommar, augustituristerna har åkt hem och ljuset är fantastiskt.
 
 ## Byarna
 
 ![Artemonas](/images/sifnos/villages/artemonas.webp "Artemonas, Apollonias ståtliga granne")
 
-**Apollonia** är huvudorten och tyngdpunkten, byggd längs en ås med en bilfri gränd av restauranger, barer och butiker som håller sig livlig sent på sommaren.
+**Apollonia** är huvudorten och tyngdpunkten, byggd längs en ås med en bilfri gata full av restauranger, barer och butiker där det är livligt till sent på sommarkvällarna.
 
-**Artemonas**, femton minuters promenad norrut, är den eleganta: nyklassiska herrgårdar, breda stenlagda gränder, förnämliga konditorier och betydligt lugnare kvällar.
+**Artemonas**, femton minuters promenad norrut, är den eleganta: nyklassiska herrgårdar, breda stenlagda gränder, utmärkta konditorier och betydligt lugnare kvällar.
 
-**Kastro** är den enastående. Den medeltida huvudorten, en muromgärdad by lindad kring en udde, med venetianska vapensköldar över dörrarna och Egeiska havet på tre sidor. Åk dit för solnedgången och stanna kvar när dagsbesökarna gett sig av.
+**Kastro** är den mest speciella. Den medeltida huvudorten är en befäst by som ligger samlad kring en klippudde, med venetianska vapensköldar över dörrarna och Egeiska havet på tre sidor. Åk dit till solnedgången och stanna kvar när dagsbesökarna har gett sig av.
 
-**Kamares** är hamnen, och tillika en riktig badort med en lång sandstrand.
+**Kamares** är hamnen, men också en riktig badort med en lång sandstrand.
 
 **Faros**, **Platys Gialos** och **Vathi** är kustorterna, var och en byggd kring sin egen strand.
 
@@ -79,26 +79,26 @@ Har du fritt val är **september** den bästa månaden på Sifnos. Havet är som
 
 ![Platys Gialos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, öns längsta strand")
 
-Sifnos stränder är sandiga, mestadels sydvända och för det mesta små. **Platys Gialos** är den längsta och bäst utrustade. **Vathi** är en skyddad hästskovik med ovanligt lugnt vatten. **Kamares** har grunt vatten som passar barn perfekt. **Chrysopigi** erbjuder bad från klipporna nedanför öns mest fotograferade kloster, med sandiga Apokofto intill. **Faros** har tre små vikar några minuter från varandra. Längre bort belönar **Cherronisos** i norr samt **Fykiada** och **Vroulidia** mödan att ta sig dit.
+Stränderna på Sifnos är sandiga, för det mesta vända mot söder och oftast små. **Platys Gialos** är den längsta och bäst utrustade. **Vathi** är en skyddad hästskovik med ovanligt lugnt vatten. **Kamares** har grunt vatten som passar barn perfekt. På **Chrysopigi** badar du från klipporna nedanför öns mest fotograferade kloster, med sandstranden Apokofto alldeles intill. **Faros** har tre små vikar några minuter från varandra. Längre bort är **Cherronisos** längst i norr samt **Fykiada** och **Vroulidia** väl värda besväret att ta sig dit.
 
 Alla detaljer, inklusive tillfartsvägar och parkering, finns i [strandguiden](/sv/sifnos-guide/beaches).
 
 ## Hur du tar dig hit
 
-Det finns ingen flygplats. Du flyger till Aten, tar dig till Pireus hamn och tar en färja till Kamares, ungefär 2,5 till 3 timmar med snabbkatamaran eller omkring 5 timmar med konventionell färja. Se [ta sig till Sifnos](/sv/sifnos-guide/how-to-get-there) och [färjeguiden](/sv/sifnos-guide/ferries).
+Det finns ingen flygplats. Du flyger till Aten, tar dig vidare till hamnen i Pireus och åker färja till Kamares, ungefär 2,5 till 3 timmar med snabbkatamaran eller omkring 5 timmar med konventionell färja. Läs [hur du tar dig till Sifnos](/sv/sifnos-guide/how-to-get-there) och [färjeguiden](/sv/sifnos-guide/ferries).
 
 ## Att ta sig runt, och varför det spelar roll
 
-Här ligger den praktiska kärnan i en Sifnosresa. Ön är liten, men det fina ligger utspritt längs kusten och busslinjerna, hur verkliga de än är, går glest, fylls i augusti och kommer att styra ditt schema.
+Det här är den praktiska kärnan i en Sifnosresa. Ön är liten, men det bästa ligger utspritt längs kusten. Bussar finns visserligen, men de går sällan, blir fulla i augusti och styr ditt schema.
 
-Avstånden är korta: Apollonia till Platys Gialos ungefär 20 minuter, till Kastro 10, till Vathi 20, till Cherronisos 35. Med egna hjul hinner du bada vid två stränder och ändå vara tillbaka till middagen i Apollonia. Utan blir det en dag av väntan vid hållplatser.
+Avstånden är korta: från Apollonia tar det ungefär 20 minuter till Platys Gialos, cirka 10 till Kastro, cirka 20 till Vathi och cirka 35 till Cherronisos. Med egna hjul hinner du bada vid två stränder och ändå vara tillbaka till middagen i Apollonia. Utan dem går dagen åt till att vänta vid busshållplatser.
 
-En **bil** passar familjer, alla med bagage och blåsiga dagar. En **scooter** passar ensamresenärer och par på korta sträckor i stabilt väder. Vägarna är asfalterade och välskötta men smala och slingrande med få räcken, så kör lugnt och lämna företräde uppför där vägen smalnar.
+En **bil** passar familjer, alla som har bagage och resor när det blåser. En **scooter** passar dig som reser ensam eller som par och gör korta turer i stabilt väder. Vägarna är asfalterade och välskötta men smala och kurviga, med få vägräcken, så kör lugnt och släpp fram trafiken uppför där vägen blir smal.
 
-## Var Artemis kommer in
+## Här kommer Artemis in
 
-Vi har hyrt ut bilar, scootrar och motorcyklar på Sifnos från samma kontor i Apollonia sedan **1988**, som familjeföretag. Kostnadsfri utkörning till **Kamares hamn, helikopterplattan, Apollonia, Artemonas och Kastro**, med Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran.
+Vi är ett familjeföretag och har hyrt ut bilar, scootrar och motorcyklar på Sifnos från samma kontor i Apollonia sedan **1988**. Vi kör ut gratis till **Kamares hamn, heliporten, Apollonia, Artemonas och Kastro**, med Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran.
 
-Ingen förskottsbetalning och inga kortuppgifter för att boka. Trafikförsäkring, service, hjälmar och lokal hjälp ingår redan i dagspriset. Berätta din färjeankomst så står bilen och väntar i hamnen.
+Ingen förskottsbetalning och inga kortuppgifter vid bokning. Trafikförsäkring, service, hjälmar och lokal hjälp ingår redan i dagspriset. Berätta när din färja kommer, så står bilen och väntar i hamnen.
 
-[Se flottan och priserna](/sv/cars) · [Boka datum](/sv/book) · [Strandguide](/sv/sifnos-guide/beaches) · [Var man bor](/sv/sifnos-guide/where-to-stay)
+[Se bilar och priser](/sv/cars) · [Boka datum](/sv/book) · [Strandguiden](/sv/sifnos-guide/beaches) · [Var ska man bo](/sv/sifnos-guide/where-to-stay)

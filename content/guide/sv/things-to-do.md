@@ -1,8 +1,8 @@
 ---
 slug: things-to-do
 title: "Saker att göra på Sifnos"
-description: "Fullständig guide till saker att göra på Sifnos: stränder, byar, vandringsleder, mat, keramik, kloster, båtdagar, planerade kring en Artemis-hyrbil."
-answer: "Bada i Platis Gialos och Vathi, besök Chrysopigi och medeltida Kastro, vandra by-till-kust-stigar, smaka mastelo och revithada, bläddra i keramikverkstäder och använd en Artemis-hyrbil för att koppla allt utan buss-tidtabeller."
+description: "Allt att göra på Sifnos: stränder, byar, vandringsleder, mat, keramik, kloster och båtdagar, planerat kring en bil eller scooter som du hyr hos Artemis."
+answer: "Bada i Platis Gialos och Vathi, besök Chrysopigi och medeltida Kastro, vandra på stigarna från byarna ner till kusten, smaka mastelo och revithada, titta in i keramikverkstäder och knyt ihop allt med en hyrbil från Artemis, utan att passa busstider."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
@@ -15,104 +15,104 @@ related:
   - getting-around
 ---
 
-Sifnos belönar resenärer som blandar **stränder, byar, mat och korta vandringar**, och som inte sitter fast och väntar på nästa buss. Avstånden är vänliga; sommarhetta och bagage inte. Den här guiden är den praktiska ”vad göra”-listan för dig som hyr hos Artemis i Apollonia.
+Sifnos belönar den som blandar **stränder, byar, mat och korta vandringar**, och som slipper stå och vänta på nästa buss. Avstånden är överkomliga, sommarvärmen och bagaget är det inte alltid. Den här guiden är en praktisk lista över vad du kan göra när du hyr hos Artemis i Apollonia.
 
-![Klosterudden Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, ett av Sifnos signaturmål")
+![Klosterudden vid Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, en av Sifnos mest kända vyer")
 
-## Varför Sifnos känns annorlunda
+## Därför känns Sifnos annorlunda
 
-Jämfört med busigare Kyklader-rubriker förblir Sifnos rotad i **keramik, gångstigar och seriös ömat**. Kvällarna samlas i Apollonia; dagarna sprider sig till sandvikar och vitkalkade gränder. Bil eller scooter förvandlar en ”två stränder + middag”-resa till en full övecka.
+Jämfört med de mer omtalade och livligare Kykladeröarna har Sifnos behållit sina rötter i **keramik, gamla gångstigar och riktigt bra ömat**. Kvällarna samlas i Apollonia, och på dagarna sprider man sig till sandvikar och vitkalkade gränder. Med bil eller scooter blir en resa med ”två stränder och en middag” en hel vecka på ön.
 
-## Bästa stränderna (med hjul)
+## De bästa stränderna (med egna hjul)
 
-![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos för faciliteter och lång sand")
+![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos, med service och lång sandstrand")
 
-- **Platis Gialos**, lång sand, taverner, Blue Flag-rykte, enklast familjelogistik.
-- **Vathi**, skyddad amfiteatervik; idealisk när meltemi är stark.
-- **Chrysopigi**, klostervy + klippbad; kombinera med Faros.
-- **Faros**, fiskebytempo och kustpromenader.
-- **Herronisos & Vroulidia**, lugnare norr; värt körningen.
-- **Fykiada**, bara vandring eller båt; parkera i Platis Gialos eller Vathi.
+- **Platis Gialos**, lång sandstrand, tavernor, känd för sin Blå flagg och enklast för barnfamiljer.
+- **Vathi**, skyddad vik formad som en amfiteater, perfekt när meltemin blåser hårt.
+- **Chrysopigi**, klostret från vykorten och bad från klipporna, kombinera med Faros.
+- **Faros**, fiskebyns lugna tempo och promenader längs kusten.
+- **Herronisos och Vroulidia**, lugnare i norr och värda bilturen.
+- **Fykiada**, nås bara till fots eller med båt, parkera i Platis Gialos eller Vathi.
 
-Fulla access-, vind- och parkeringsnoter: [Sifnos strandguide](/sv/sifnos-guide/beaches).
+Allt om vägar, vind och parkering finns i [strandguiden för Sifnos](/sv/sifnos-guide/beaches).
 
-## Byar & kultur
+## Byar och kultur
 
-![Apollonia Sifnos](/images/sifnos/villages/apollonia.webp "Apollonia, livligt öcentrum")
+![Apollonia, Sifnos](/images/sifnos/villages/apollonia.webp "Apollonia, öns livliga centrum")
 
 ### Apollonia
-Öns huvudort: gränder med barer, butiker och kvällsenergi. Artemis har bas här, praktiskt efter stranddagar när du vill äta middag utan ännu en lång körning.
+Öns huvudort, med gränder fulla av barer, butiker och kvällsliv. Artemis har sitt kontor här, vilket är praktiskt efter stranddagarna när du vill äta middag utan ännu en lång biltur.
 
 ### Artemonas
-![Artemonas](/images/sifnos/villages/artemonas.webp "Nyklassiska gränder Artemonas")
-Nyklassiska herrgårdar, lugnare glamour och ett kort hopp från Apollonia. Perfekt solnedgångspromenad före eller efter nyckelåterlämning.
+![Artemonas](/images/sifnos/villages/artemonas.webp "Nyklassiska gränder i Artemonas")
+Nyklassiska herrgårdar, en lugnare elegans och bara en kort tur från Apollonia. Perfekt för en promenad i solnedgången, före eller efter att du lämnat tillbaka nycklarna.
 
 ### Kastro
-![Medeltida by Kastro](/images/sifnos/villages/kastro.webp "Kastro, medeltida klippby")
-Medeltida gator på kanten av den gamla akropolen, egeisk utsikt och en av öns väsentliga promenader. Lättare som morgon- eller gyllene-timmen-stopp med scooter eller bil parkerad nedanför.
+![Den medeltida byn Kastro](/images/sifnos/villages/kastro.webp "Kastro, medeltida by på klippan")
+Medeltida gator vid kanten av den gamla akropolen, utsikt över Egeiska havet och en av öns självklara promenader. Enklast att besöka på morgonen eller i kvällsljuset, med scootern eller bilen parkerad nedanför.
 
-### Andra byar värda omvägen
+### Fler byar värda en omväg
 ![Exambela](/images/sifnos/villages/exampela.webp "Byn Exambela")
-Exambela, Katavati, Kato Petali, Pano Petali, Troullaki och Agios Loukas syr ihop kullelandet: korta körningar, fotostopp och bagerifynd.
+Exambela, Katavati, Kato Petali, Pano Petali, Troullaki och Agios Loukas binder ihop bergsbygden: korta bilturer, fotostopp och fynd på bagerierna.
 
-Mer: [Apollonia & Artemonas](/sv/sifnos-guide/apollonia-artemonas).
+Mer om byarna: [Apollonia och Artemonas](/sv/sifnos-guide/apollonia-artemonas).
 
 ## Vandring på Sifnos
 
-Sifnos är en av Kykladernas stora vandringsöar. Stigar kopplar byar, keramikstränder och kapell. Klassiska idéer:
+Sifnos är en av Kykladernas bästa vandringsöar. Stigarna förbinder byar, stränder med keramiktradition och kapell. Några klassiker:
 
-1. **Apollonia- / Artemonas-gränder → Kastro**, kulturrikt, måttlig ansträngning.
-2. **Kamares kuststigar**, hamnstart, grottor och utsiktspunkter.
-3. **Korridor Vathi ↔ Platis Gialos**, strand till strand (avsnitt inkluderar Fykiada-infarter).
-4. **Agios Andreas akropolis-länkar**, historia + åsutsikt (kolla hetta och skor).
+1. **Gränderna i Apollonia / Artemonas → Kastro**, mycket kultur, måttlig ansträngning.
+2. **Kuststigarna vid Kamares**, start i hamnen, grottor och utsiktspunkter.
+3. **Sträckan Vathi ↔ Platis Gialos**, från strand till strand (delar av den går mot Fykiada).
+4. **Stigarna till akropolen Agios Andreas**, historia och utsikt från åsen (tänk på värmen och skorna).
 
-**Ledtips:** börja tidigt, bär vatten, bra skor och överväg enkelriktad vandring med partner som hämtar i bil: enkelt med hyrbil. Lämna värdesaker utom synhåll i bilen.
+**Tips för vandringen:** börja tidigt, ta med vatten, ha ordentliga skor och fundera på att gå en sträcka enkel väg medan någon i sällskapet kör och hämtar upp dig, enkelt när du har hyrbil. Lämna inga värdesaker synliga i bilen.
 
-## Mat & gastronomi
+## Mat och gastronomi
 
-Sifnos pugnar över sin vikt: kikärts-**revithada**, långsamt tillagad **mastelo**, lokala ostar, honung och bagerisötsaker. Boka populära taverner under högsäsongsveckor; kör till byar för lugnare bord.
+Sifnos är en matö långt över sin storlek: kikärtsgrytan **revithada**, långkokt **mastelo**, lokala ostar, honung och sötsaker från bagerierna. Boka populära tavernor under högsäsongens veckor och kör till byarna för lugnare bord.
 
-Se [Mat & keramik](/sv/sifnos-guide/food-pottery) för en djupare dykning.
+Läs mer i [Mat och keramik](/sv/sifnos-guide/food-pottery).
 
 ## Keramikverkstäder
 
-Keramik är del av öns identitet: verkstäder samlades historiskt kring kustbyar som **Kamares, Vathi och Herronisos**. Många välkomnar besökare att bläddra; vissa erbjuder korta upplevelser under säsong. Kombinera verkstadsstopp med bad så dagen inte känns som en museirunda.
+Keramiken är en del av öns identitet, och verkstäderna har historiskt legat i kustbyar som **Kamares, Vathi och Herronisos**. Många välkomnar besökare som vill titta, och några erbjuder korta prova-på-stunder under säsongen. Kombinera ett verkstadsbesök med ett bad, så känns dagen inte som en museirunda.
 
-## Kloster & kapell
+## Kloster och kapell
 
-- **Panagia Chrysopigi**, patronkloster på sydöstra udden; festenergi under säsong.
-- **Vryssi och andra inlandskloster**, lugnare andliga stopp mellan byar.
-- **Profitis Ilias**, höga utsiktspunkter belönar klara dagar (kolla väg/stigförhållanden).
+- **Panagia Chrysopigi**, öns skyddshelgons kloster på udden i sydost, med fest och liv under säsongen.
+- **Vryssi och andra kloster i inlandet**, lugnare andliga stopp mellan byarna.
+- **Profitis Ilias**, utsikten från höjden lönar sig en klar dag (kolla hur väg och stig ser ut).
 
-Respektera klädkoder på aktiva religiösa platser; parkera utan att blockera processioner eller kapellgrindar.
+Klä dig respektfullt vid aktiva religiösa platser och parkera så att du inte blockerar processioner eller kapellgrindar.
 
-## Båtdagar & öhopp
+## Båtdagar och öhopp
 
-Från Sifnos kan du gå med på kustbåtturer eller färjehopp mot grannöar (t.ex. Milos, Kimolos eller Polyegos-dagslandskap beroende på säsong och operatörer). Planera färjedagar först, boka sedan Artemis-hjul **bara för Sifnos-nätterna** du är iland.
+Från Sifnos kan du följa med på båtturer längs kusten eller ta färjan till grannöarna (till exempel Milos, Kimolos eller en dag i vilda Polyegos, beroende på säsong och bolag). Planera färjedagarna först och boka sedan bil eller scooter från Artemis **bara för nätterna på Sifnos**.
 
-Live färjeidéer: [Aten–Sifnos-rutter på Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) och [Touristas AI-planeraren](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+Aktuella färjetips: [rutter Aten–Sifnos på Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) och [reseplaneraren Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
-## Exempel 4-dagarsplan (med hyrbil)
+## Exempel på fyra dagar (med hyrbil)
 
 | Dag | Plan |
 | --- | --- |
-| 1 | Färja → Kamares-bad eller Apollonia-landning → solnedgång Artemonas |
-| 2 | Sydslinga: Faros → Chrysopigi → Platis Gialos |
-| 3 | Vathi-strandmorgon → keramikstopp → Kastro i gyllene timmen |
-| 4 | Norr till Herronisos / Vroulidia eller vandring + tidig middag i Apollonia |
+| 1 | Färja → bad i Kamares eller installera dig i Apollonia → solnedgång i Artemonas |
+| 2 | Sydlig runda: Faros → Chrysopigi → Platis Gialos |
+| 3 | Förmiddag på stranden i Vathi → keramikstopp → Kastro i kvällsljuset |
+| 4 | Norrut till Herronisos / Vroulidia, eller en vandring + tidig middag i Apollonia |
 
-## FAQ
+## Vanliga frågor
 
-**Är Sifnos bra med barn?** Ja: sand Platis Gialos / Kamares, korta körningar och byglasslogistik är enkla med bil.
+**Passar Sifnos för barn?** Ja. Sandstränderna i Platis Gialos och Kamares, korta bilturer och glass i byarna är lätt att ordna med bil.
 
-**Hur många dagar?** Fyra till fem för den klassiska mixen; en vecka om du vill ha vandringar och båtdagar.
+**Hur många dagar?** Fyra till fem för den klassiska blandningen, en vecka om du vill vandra och åka på båtturer.
 
-**Behöver jag bil?** För tre eller fler strand-/bydagar i högsäsong, ja för de flesta besökare. Scootrar passar par med lätta väskor som är säkra i backar.
+**Behöver jag bil?** För tre eller fler dagar med stränder och byar under högsäsong, ja, för de flesta besökare. Scooter passar par med lite bagage som känner sig säkra i backar.
 
-**Bästa solnedgångar?** Kastro-kanter, Chrysopigi-uddens ljus och Apollonia/Artemonas-gränder efter att hettan faller.
+**Bästa platserna för solnedgången?** Murarna i Kastro, ljuset på udden vid Chrysopigi och gränderna i Apollonia och Artemonas när värmen har lagt sig.
 
-**Kan jag göra Sifnos utan bokade turer?** Absolut: stränder och byar är self-drive-vänliga. Boka bara båtturer eller verkstäder du specifikt vill ha.
+**Kan jag se Sifnos utan att boka utflykter?** Absolut. Stränder och byar är lätta att nå på egen hand med bil. Boka bara de båtturer eller verkstadsbesök du verkligen vill göra.
 
-## Redo för nycklar?
+## Redo att hämta nycklarna?
 
-[Begär datum](/sv/book) hos Artemis, ingen förskottsbetalning för att reservera, eller bläddra i [flottan](/sv/cars). Djupare live-listor också på [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+[Skicka en förfrågan om datum](/sv/book) till Artemis, ingen förskottsbetalning vid bokning, eller [se bilarna](/sv/cars). Fler aktuella tips finns på [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

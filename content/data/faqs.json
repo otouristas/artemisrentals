@@ -280,47 +280,47 @@
     },
     {
       "q": "Var hämtar jag fordonet?",
-      "a": "Hämtning och återlämning sker på vårt kontor i Apollonia. Hämtning och återlämning i Kamares kan ordnas på begäran, praktiskt när färjan kommer sent."
+      "a": "Upphämtning och återlämning sker på vårt kontor i Apollonia. Upphämtning och återlämning i Kamares kan ordnas på begäran, vilket är praktiskt när färjan kommer sent."
     },
     {
       "q": "Ska jag hyra bil eller scooter på Sifnos?",
-      "a": "Välj bil för familjer, bagage eller komfort på längre östräckor. Välj scooter om du vill hoppa smidigt mellan stränder för en eller två personer och redan känner dig trygg på grekiska övägar."
+      "a": "Välj bil om du reser med familj, har bagage eller vill åka bekvämt på längre sträckor på ön. Välj scooter om du reser ensam eller i par, vill ta dig smidigt mellan stränderna och redan känner dig säker på grekiska övägar."
     },
     {
-      "q": "Finns det automatbilar?",
-      "a": "Ja. Artemis erbjuder automatalternativ som Peugeot 208 Automatic och Nissan Micra Automatic. Tillgängligheten varierar per säsong: fråga tidigt för juli och augusti."
+      "q": "Finns det bilar med automatlåda?",
+      "a": "Ja. Artemis har bilar med automatlåda, till exempel Peugeot 208 Automatic och Nissan Micra Automatic. Tillgången varierar med säsongen, så fråga i god tid inför juli och augusti."
     },
     {
       "q": "Hur långt i förväg bör jag boka på sommaren?",
-      "a": "För juli och augusti, fråga så tidigt du kan. Mellansäsongen är mer flexibel, men populära modeller tar slut snabbt runt helger och färjetoppar."
+      "a": "Inför juli och augusti bör du fråga så tidigt du kan. Under för- och eftersäsong är det lättare, men populära modeller tar ändå slut snabbt kring helger och dagar med många färjor."
     },
     {
       "q": "Vilka dokument behöver jag?",
-      "a": "Ta med ett giltigt körkort (och International Driving Permit om det krävs för din nationalitet), pass eller ID samt en betalningsmetod för hyran när datumen är bekräftade."
+      "a": "Ta med giltigt körkort (och internationellt körkort om det krävs för din nationalitet), pass eller id-kort samt ett sätt att betala hyran när datumen är bekräftade."
     },
     {
       "q": "Ingår försäkring?",
-      "a": "Grundskydd som krävs enligt grekisk lag ingår. Självrisk, tilläggsförsäkring och skadehantering förklaras vid hämtning: fråga oss före resan om du behöver detaljer."
+      "a": "Det grundskydd som grekisk lag kräver ingår. Självrisk, tilläggsskydd och vad som gäller vid skada går vi igenom vid upphämtningen. Fråga oss före resan om du vill veta detaljerna."
     },
     {
       "q": "Vad gäller för bränsle?",
-      "a": "Fordon lämnas ut med en registrerad bränslenivå och ska återlämnas på en jämförbar nivå om inget annat avtalats vid hämtning."
+      "a": "Fordonen lämnas ut med en noterad bränslenivå och ska lämnas tillbaka med ungefär samma nivå, om inget annat avtalas vid upphämtningen."
     },
     {
       "q": "Erbjuder ni barnstolar?",
-      "a": "Barnstolar kan finnas på begäran: nämn åldrar och behov när du frågar så att vi kan kontrollera lagret för dina datum."
+      "a": "Barnstolar kan finnas på begäran. Berätta barnens ålder och vad du behöver när du skickar förfrågan, så kollar vi vad vi har inne för dina datum."
     },
     {
       "q": "Vad kostar scootrar?",
-      "a": "Scooterpriser varierar efter motorstorlek och säsong. Skicka dina datum via kalendern på scootersidan eller WhatsApp så ger vi dig ett dagspris."
+      "a": "Scooterpriserna varierar med motorstorlek och säsong. Skicka dina datum via kalendern på scootersidan eller på WhatsApp, så får du ett dagspris."
     },
     {
       "q": "Vad händer om färjan är försenad?",
-      "a": "Sms:a eller ring oss med den nya ankomsttiden. Vi anpassar ofta Kamares-hämtningar när båtar går sent: håll oss bara informerade."
+      "a": "Skriv eller ring och berätta den nya ankomsttiden. Vi flyttar ofta upphämtningar i Kamares när båtarna är sena, håll oss bara uppdaterade."
     },
     {
       "q": "Kan jag ändra eller avboka datum?",
-      "a": "Berätta så tidigt du kan. Vi gör vårt bästa för att hantera ändringar, färjestörningar och väderrelaterade förseningar."
+      "a": "Hör av dig så tidigt du kan. Vi gör vårt bästa för att lösa ändringar, inställda eller försenade färjor och förseningar på grund av vädret."
     }
   ],
   "nl": [

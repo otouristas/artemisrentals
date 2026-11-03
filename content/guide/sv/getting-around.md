@@ -1,8 +1,8 @@
 ---
 slug: getting-around
-title: "Ta sig runt på Sifnos: bil vs scooter"
-description: "Hur man tar sig runt på Sifnos: bil vs scooter vs buss vs taxi, vägtips, parkering, bränsle och när Artemis-uthyrning ger mest mening. Från Artemis Rental."
-answer: "För de flesta besökare som stannar tre nätter eller mer är bil det bekvämaste sättet att nå stränder och byar. Scootrar passar säkra förare med lätt bagage. Bussar finns på sommaren men är glesa för strandhopp; taxibilar är begränsade under högsäsong."
+title: "Att ta sig runt på Sifnos: bil eller scooter?"
+description: "Så tar du dig runt på Sifnos: bil, scooter, buss eller taxi, vägtips, parkering, bränsle och när det lönar sig mest att hyra hos Artemis. Från Artemis Rental."
+answer: "För de flesta som stannar tre nätter eller mer är bil det bekvämaste sättet att nå stränder och byar. Scooter passar vana förare med lite bagage. Bussar går på sommaren men för sällan för att hoppa mellan stränder, och taxibilarna räcker inte till under högsäsong."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/villages/kastro.webp"
@@ -15,57 +15,57 @@ related:
   - kamares-port
 ---
 
-![Vägankomst Kamares](/images/sifnos/beaches/kamares.webp "Från Kamares hamn upp till Apollonia")
+![Vägen från hamnen i Kamares](/images/sifnos/beaches/kamares.webp "Från Kamares hamn upp till Apollonia")
 
 ## Det korta svaret
 
-| Läge | Bäst för | Se upp för |
+| Färdsätt | Passar bäst för | Tänk på |
 | --- | --- | --- |
-| **Bil** | Familjer, strandutrustning, nordkust, blandat väder | Parkering i högsäsong vid Platis Gialos / populära vikar |
-| **Scooter** | Par, lätta väskor, Apollonia–strand-hopp | Vind, grusinfarter (Vroulidia), branta backar två upp |
-| **Buss** | Budgetresenärer på huvudkorridorer | Tunna tidtabeller för multi-stranddagar |
-| **Taxi** | Sen färja, engångstransfer | Tillgång trång på augustikvällar |
-| **Till fots** | Apollonia/Artemonas-kvällar, Kastro-kärna, Fykiada-hike | Middagshetta |
+| **Bil** | Familjer, strandutrustning, nordkusten, ostadigt väder | Parkering vid Platis Gialos och populära vikar under högsäsong |
+| **Scooter** | Par, lite bagage, korta turer mellan Apollonia och stränderna | Blåst, grusiga infarter (Vroulidia), branta backar med två på sadeln |
+| **Buss** | Dig med liten budget längs huvudvägarna | Glesa turer om du vill hinna flera stränder samma dag |
+| **Taxi** | Sena färjor, enstaka transporter | Svårt att få tag i en på kvällarna i augusti |
+| **Till fots** | Kvällar i Apollonia och Artemonas, gamla Kastro, vandringen till Fykiada | Middagsvärmen |
 
-## Biluthyrning på Sifnos
+## Hyra bil på Sifnos
 
-Kompakta bilar passar bygränder och trånga parkeringar bäst. Artemis håller bilar för övägar; begär datum tidigt för juli–augusti-automat. **Upphämtning** är typiskt Apollonia; bilar kan också möta färjor i **Kamares** på begäran. Scootrar är Apollonia-baserade.
+Småbilar passar bäst i de smala bygränderna och på trånga parkeringar. Artemis servar bilarna för öns vägar. Vill du ha automatlåda i juli eller augusti, skicka din förfrågan tidigt. **Upphämtning av bil** är gratis i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro. Scootrar hämtas i Apollonia, och onlinebokning av scooter är tillfälligt stängd.
 
-Se även [praktiska körtips](/sv/sifnos-guide/practical-tips).
+Läs mer om att [hyra bil på Sifnos](/sv) och våra [praktiska körtips](/sv/sifnos-guide/practical-tips).
 
-## Scooteruthyrning
+## Hyra scooter
 
-Bra för erfarna förare som vill ha vind-i-ansiktet-frihet mellan Apollonia, Faros, Chrysopigi och Vathi. Använd hjälm, tänk på grus och undvik överlast. Är du ny på öbackar eller reser med barn/mycket väskor, välj bil.
+Perfekt för vana förare som vill känna friheten med vinden i ansiktet mellan Apollonia, Faros, Chrysopigi och Vathi. Använd hjälmen, se upp för grus och lasta inte för tungt. Är du ovan vid branta övägar eller reser med barn eller mycket bagage, välj hellre bil.
 
-## Bussar & taxibilar
+## Bussar och taxi
 
-Sommarbussar kopplar Apollonia med Kamares, Platis Gialos, Vathi, Faros och andra byar: användbara, men inte ideala om du vill ha tre vikar på en dag. Taxibilar finns; räkna inte med att vifta fram en vid en avlägsen strand kl. 19 under högsäsong.
+Sommarbussarna går mellan Apollonia och Kamares, Platis Gialos, Vathi, Faros och andra byar. De är användbara, men inte idealiska om du vill hinna tre vikar på en dag. Taxibilar finns, men räkna inte med att få tag i en vid en avlägsen strand klockan 19:00 mitt i högsäsongen.
 
-## Vägens karaktär
+## Vägarna
 
-- Asfalt täcker huvudaxlarna Apollonia–strand.
-- Vissa nord- / vikinfarter har ojämna eller branta finaler: kör långsamt.
-- Blinda kurvor och smala byvägar: lätt tuta, speglar in.
-- Nattkörning: se upp för obelysta kanter och scootrar.
+- Huvudvägarna mellan Apollonia och stränderna är asfalterade.
+- Vissa infarter i norr och ner till vikarna slutar ojämnt eller brant, så kör sakta.
+- Skymda kurvor och smala bygator: tuta lätt och fäll in backspeglarna.
+- När du kör i mörker: se upp för obelysta vägkanter och scootrar.
 
-## Parkerings-fusklapp
+## Snabbguide till parkering
 
-- **Apollonia kväll:** parkera en gång, gå.
-- **Platis Gialos:** tidigare = närmare.
-- **Chrysopigi:** begränsat; blockera aldrig klosteraccess.
-- **Kastro:** parkera nedanför / utanför och gå de medeltida gränderna.
-- **Herronisos:** trånga bygränder, tålamod.
+- **Apollonia på kvällen:** parkera en gång och gå sedan.
+- **Platis Gialos:** ju tidigare du kommer, desto närmare stranden.
+- **Chrysopigi:** få platser, blockera aldrig vägen till klostret.
+- **Kastro:** parkera nedanför eller utanför byn och gå in i de medeltida gränderna.
+- **Herronisos:** trånga bygränder, ha tålamod.
 
-## Bränsle & räckvidder
+## Bränsle och avstånd
 
-Fyll i Apollonia- / huvudvägsområdet före en full nordkustdag i högsäsong. Avstånden är korta, men köer uppstår när flera färjor lägger till samma eftermiddag.
+Tanka i Apollonia eller längs huvudvägen innan du ger dig ut på en heldag på nordkusten under högsäsong. Avstånden är korta, men det blir köer när flera färjor kommer in samma eftermiddag.
 
-## Föreslagna dagsradier från Apollonia
+## Ungefärliga restider från Apollonia
 
 - **0–15 min:** Artemonas, Katavati, Kastro, Kamares
 - **15–25 min:** Faros, Chrysopigi, Platis Gialos, Vathi
 - **30–40 min:** Herronisos, Vroulidia
 
-## Artemis-flotta
+## Hyr hos Artemis
 
-[Bilar](/sv/cars) · [Scootrar](/sv/scooters) · [Priser](/sv/rates) · [Begär datum](/sv/book)
+[Guide: hyra bil](/sv/sifnos-guide/rent-a-car-sifnos) · [Bilar](/sv/cars) · [Priser](/sv/rates) · [Fråga om datum](/sv/book)
