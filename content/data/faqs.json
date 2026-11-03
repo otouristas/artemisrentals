@@ -164,55 +164,55 @@
   "fr": [
     {
       "q": "Dois-je verser un acompte pour réserver ?",
-      "a": "Aucun prépaiement n'est requis pour la réservation. Contactez Artemis avec vos dates et le véhicule souhaité, et nous confirmons la disponibilité."
+      "a": "Aucun acompte n'est demandé pour réserver. Contactez Artemis avec vos dates et le véhicule souhaité : nous vous confirmons la disponibilité."
     },
     {
       "q": "Quel est l'âge minimum pour louer ?",
       "a": "Les conducteurs doivent avoir entre 23 et 75 ans et détenir un permis de conduire valide depuis plus d'un an."
     },
     {
-      "q": "Où puis-je récupérer le véhicule ?",
-      "a": "La prise en charge et le retour se font à notre bureau d'Apollonia. La prise en charge et le retour à Kamares peuvent être organisés sur demande, utile lorsque votre ferry arrive en retard."
+      "q": "Où retirer le véhicule ?",
+      "a": "Le retrait et le retour se font à notre agence d'Apollonia. Le retrait et le retour à Kamares peuvent être organisés sur demande, ce qui est pratique quand votre ferry arrive tard."
     },
     {
       "q": "Faut-il louer une voiture ou un scooter à Sifnos ?",
-      "a": "Choisissez une voiture pour les familles, les bagages ou le confort sur les trajets plus longs. Choisissez un scooter si vous voulez enchaîner les plages à une ou deux personnes et vous sentez déjà à l'aise sur les routes des îles grecques."
+      "a": "Choisissez une voiture pour voyager en famille, avec des bagages ou plus confortablement sur les longs trajets. Choisissez un scooter si vous voulez aller de plage en plage à une ou deux personnes et que vous êtes déjà à l'aise sur les routes des îles grecques."
     },
     {
-      "q": "Y a-t-il des voitures automatiques ?",
-      "a": "Oui. Artemis propose des options automatiques comme la Peugeot 208 Automatic et la Nissan Micra Automatic. La disponibilité varie selon la saison : renseignez-vous tôt pour juillet et août."
+      "q": "Avez-vous des voitures à boîte automatique ?",
+      "a": "Oui. Artemis propose des modèles à boîte automatique, comme la Peugeot 208 automatique et la Nissan Micra automatique. La disponibilité varie selon la saison : pour juillet et août, renseignez-vous tôt."
     },
     {
       "q": "Combien de temps à l'avance faut-il réserver en été ?",
-      "a": "Pour juillet et août, renseignez-vous le plus tôt possible. Les mois intermédiaires sont plus souples, mais les modèles populaires partent vite les week-ends et aux pics de ferry."
+      "a": "Pour juillet et août, renseignez-vous le plus tôt possible. Les mois d'intersaison sont plus souples, mais les modèles les plus demandés partent vite autour des week-ends et des pics d'arrivées en ferry."
     },
     {
       "q": "Quels documents dois-je apporter ?",
-      "a": "Apportez un permis de conduire valide (et un Permis de conduire international si requis pour votre nationalité), un passeport ou une pièce d'identité, et un moyen de paiement pour la location une fois les dates confirmées."
+      "a": "Munissez-vous d'un permis de conduire valide (et d'un permis de conduire international si votre nationalité l'exige), d'un passeport ou d'une carte d'identité, et d'un moyen de paiement pour la location une fois les dates confirmées."
     },
     {
       "q": "L'assurance est-elle incluse ?",
-      "a": "La couverture de base exigée par la loi grecque est incluse. Franchise, options et procédures en cas de dommages sont expliquées à la prise en charge : demandez-nous avant le voyage si vous avez besoin de précisions."
+      "a": "La couverture de base exigée par la loi grecque est incluse. La franchise, les garanties optionnelles et la marche à suivre en cas de dommage sont expliquées au retrait : si vous avez besoin de précisions, demandez-nous avant votre voyage."
     },
     {
       "q": "Quelle est la politique de carburant ?",
-      "a": "Les véhicules sont fournis avec un niveau de carburant enregistré et doivent être rendus à un niveau comparable, sauf accord contraire à la prise en charge."
+      "a": "Les véhicules sont remis avec un niveau de carburant noté au départ et doivent être rendus avec un niveau équivalent, sauf accord contraire au retrait."
     },
     {
-      "q": "Proposez-vous des sièges enfants ?",
-      "a": "Des sièges enfants peuvent être disponibles sur demande : indiquez les âges et vos besoins lorsque vous nous contactez, afin que nous vérifiions le stock pour vos dates."
+      "q": "Proposez-vous des sièges enfant ?",
+      "a": "Des sièges enfant peuvent être disponibles sur demande : indiquez l'âge des enfants et vos besoins dans votre demande, pour que nous vérifiions ce qui est disponible à vos dates."
     },
     {
       "q": "Combien coûtent les scooters ?",
-      "a": "Les tarifs scooter varient selon la cylindrée et la saison. Envoyez vos dates via le calendrier de la page scooter ou WhatsApp et nous vous indiquerons un tarif journalier."
+      "a": "Les tarifs des scooters varient selon la cylindrée et la saison. Envoyez-nous vos dates via le calendrier de la page scooter ou par WhatsApp, et nous vous indiquerons un tarif journalier."
     },
     {
-      "q": "Et si mon ferry est retardé ?",
-      "a": "Écrivez-nous ou appelez-nous avec la nouvelle heure d'arrivée. Nous adaptons souvent les prises en charge à Kamares lorsque les bateaux ont du retard : tenez-nous simplement informés."
+      "q": "Et si mon ferry a du retard ?",
+      "a": "Écrivez-nous ou appelez-nous avec la nouvelle heure d'arrivée. Nous décalons régulièrement les retraits à Kamares quand les bateaux ont du retard : tenez-nous simplement au courant."
     },
     {
       "q": "Puis-je modifier ou annuler les dates ?",
-      "a": "Prévenez-nous le plus tôt possible. Nous ferons de notre mieux pour gérer les changements, les perturbations de ferry et les retards liés à la météo."
+      "a": "Prévenez-nous le plus tôt possible. Nous ferons de notre mieux pour nous adapter aux changements, aux perturbations des ferries et aux retards dus à la météo."
     }
   ],
   "de": [

@@ -1,8 +1,8 @@
 ---
 slug: kamares-port
-title: "Kamares, Sifnos : guide du port, plage et arrivée"
-description: "Kamares à Sifnos : l'unique port de l'île et une véritable station balnéaire. Ce qu'on trouve au port, la plage, où manger et dormir, monter à Apollonia."
-answer: "Kamares est l'unique port de ferry de Sifnos, sur la côte ouest, et aussi l'une des meilleures plages familiales de l'île. Apollonia, la capitale, se trouve à environ 5,5 km en montée, soit une dizaine de minutes en voiture."
+title: "Kamares, Sifnos : le port, la plage et l'arrivée"
+description: "Kamares à Sifnos : l'unique port de l'île et une vraie station balnéaire. Ce qu'on trouve au port, la plage, où manger et dormir, comment monter à Apollonia."
+answer: "Kamares est l'unique port de ferry de Sifnos, sur la côte ouest, et aussi l'une des meilleures plages familiales de l'île. Apollonia, la capitale, se trouve à environ 5,5 km en montée, soit une dizaine de minutes en voiture. Tout ce qui arrive sur l'île passe par ici."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/beaches/kamares.webp"
@@ -15,81 +15,81 @@ related:
   - getting-around
 ---
 
-Sifnos commence à Kamares. Tous les ferries y accostent, si bien que chaque visiteur pose le pied sur l'île à ce même quai. Ce qui surprend la plupart d'entre eux, c'est que Kamares n'est pas un simple point de transit : c'est un port en activité enroulé autour d'une longue plage de sable, avec tavernes, boulangeries et chambres, et il constitue un lieu de séjour tout à fait valable.
+Sifnos commence à Kamares. Tous les ferries y accostent, si bien que chaque visiteur pose le pied sur l'île à ce même quai. Ce qui surprend la plupart d'entre eux, c'est que Kamares n'est pas un simple lieu de passage : c'est un vrai port, lové autour d'une longue plage de sable, avec ses tavernes, ses boulangeries et ses chambres, et l'on peut très bien y séjourner.
 
 ![Plage et port de Kamares](/images/sifnos/beaches/kamares.webp "Kamares, le village portuaire et sa baie de sable")
 
-## Où se situe Kamares
+## Où se trouve Kamares
 
-Le village occupe une baie profonde et abritée sur la **côte ouest** de Sifnos, encadrée de collines des deux côtés. Cet abri explique la présence du port ici, et c'est aussi ce qui rend la baignade si calme.
+Le village occupe une baie profonde et abritée sur la **côte ouest** de Sifnos, entre deux versants de collines. C'est cet abri qui explique la présence du port, et c'est aussi lui qui rend la baignade si calme.
 
-La disposition est simple. Le quai des ferries se trouve à une extrémité, la plage s'étire le long de la baie, et une unique route littorale relie les deux, bordée de presque tout ce dont vous avez besoin. Impossible de s'y perdre.
+Le plan est simple. Le quai des ferries est à une extrémité, la plage s'étire le long de la baie, et une seule route de front de mer relie les deux, bordée de presque tout ce dont vous aurez besoin. Impossible de s'y perdre.
 
-**Apollonia**, la capitale, se trouve à environ 5,5 km dans les terres et en montée, soit une dizaine de minutes par une route bien revêtue mais sinueuse.
+**Apollonia**, la capitale de l'île, se trouve à environ 5,5 km à l'intérieur des terres, en montée, soit une dizaine de minutes en voiture par une route bien revêtue mais sinueuse.
 
-## Les premiers pas après le ferry
+## Vos premiers pas en descendant du ferry
 
-1. Dégagez la rampe et le pont véhicules, qui se vide vite et sans cérémonie.
-2. Récupérez votre voiture si vous avez prévu un **retrait à Kamares**, ou dirigez-vous vers la zone bus et taxis juste après le quai.
-3. Si votre arrivée à l'hébergement est plus tardive, déposez vos bagages et allez nager. La plage est à deux minutes.
-4. Repérez les agences de billets sur le front de mer pour votre traversée retour.
+1. Quittez la rampe et éloignez-vous du pont garage, qui se vide vite et sans ménagement.
+2. Retrouvez votre voiture si vous avez réservé un **retrait à Kamares**, ou dirigez-vous vers l'arrêt de bus et la station de taxis, juste après le quai.
+3. Si vous ne pouvez entrer dans votre logement que plus tard, posez vos bagages et allez vous baigner. La plage est à deux minutes à pied.
+4. Repérez les billetteries le long du front de mer pour votre traversée retour.
 
-L'arrivée peut sembler chaotique quelques minutes lorsqu'un grand ferry débarque en août : voitures, scooters, valises et pancartes d'hôtels dans le même espace réduit. Tout se calme en un quart d'heure.
+En août, quand un grand ferry débarque, l'arrivée peut sembler chaotique pendant quelques minutes : voitures, scooters, valises et pancartes des transferts d'hôtel se partagent le même petit espace. Tout se calme en un quart d'heure.
 
 ## La plage
 
-La plage de Kamares est longue, sableuse et en pente douce, l'eau ne devenant profonde qu'après une bonne distance. Cette combinaison en fait **l'une des deux meilleures plages de Sifnos pour les jeunes enfants**, avec Platys Gialos, et c'est la seule bonne plage accessible à pied depuis un ferry.
+La plage de Kamares est longue, en sable et peu profonde : on a pied très loin. C'est ce qui en fait **l'une des deux meilleures plages de Sifnos pour les jeunes enfants**, avec Platys Gialos, et c'est la seule belle plage que l'on rejoint à pied en descendant du ferry.
 
-Des transats et parasols saisonniers occupent la partie centrale, tandis que le sable non aménagé et plus tranquille s'étend vers l'autre bout. Des tamaris à l'arrière offrent une ombre naturelle par endroits.
+Des transats et des parasols sont installés en saison dans la partie centrale, tandis que le sable non aménagé, plus tranquille, s'étend vers l'autre bout. À l'arrière, des tamaris offrent par endroits une ombre naturelle.
 
-Comme la baie est orientée à l'ouest et fermée par des hauteurs, elle reste nettement calme quand le **meltem** souffle du nord. Par jour de vent, c'est un repli fiable, juste après Vathi.
+Comme la baie est orientée à l'ouest et fermée par des hauteurs, elle reste remarquablement calme quand le **meltem** souffle du nord. Par jour de vent, c'est un repli sûr, juste après Vathi.
 
 ## Ce qu'on trouve au port
 
-- **Tavernes et cafés** tout le long du front de mer, plusieurs ouverts dès le petit matin
-- Une **boulangerie** et quelques **supérettes** pour les provisions
+- **Tavernes et cafés** tout le long du front de mer, dont plusieurs ouverts dès le petit matin
+- Une **boulangerie** et quelques **supérettes** pour les courses
 - **Chambres et petits hôtels**, souvent en vue du quai
-- **Agences de billets** et, en saison, un point d'information portuaire
-- **Ateliers de poterie**, perpétuant une tradition séculaire
-- **Départs de sentiers**, dont la montée vers Agios Symeon
+- **Billetteries des ferries** et, en saison, un point d'information portuaire
+- **Ateliers de poterie**, qui perpétuent une tradition présente à Kamares depuis des générations
+- **Départs de sentiers**, dont celui qui monte vers Agios Symeon
 
-Il n'y a pas d'agence bancaire, mais des distributeurs sont disponibles. Pour un choix plus large de commerces et de restaurants, il faut monter à Apollonia.
+Il n'y a pas d'agence bancaire, mais vous trouverez des distributeurs. Pour un plus grand choix de commerces et de restaurants, il faut monter à Apollonia.
 
-## Faut-il loger à Kamares ?
+## Faut-il loger à Kamares ?
 
-C'est un très bon choix dans trois cas : votre ferry arrive tard le soir, il repart tôt le matin, ou vous voyagez avec de jeunes enfants qui veulent du sable sans trajet en voiture.
+C'est un très bon choix dans trois cas : votre ferry arrive tard le soir, il repart tôt le matin, ou vous voyagez avec de jeunes enfants qui veulent du sable sans prendre la voiture.
 
-La contrepartie : les meilleures tables et la seule véritable animation nocturne de l'île se trouvent en haut, à Apollonia et Artemonas, à quinze minutes de route. Kamares est détendu plutôt qu'animé une fois la nuit tombée.
+La contrepartie : les meilleures tables de l'île et sa seule vraie vie nocturne se trouvent en haut, à Apollonia et Artemonas, à quinze minutes de route. Le soir, Kamares est paisible plutôt qu'animé.
 
-Voir la [comparaison complète des lieux de séjour](/fr/sifnos-guide/where-to-stay).
+Consultez la [comparaison complète des hébergements](/fr/sifnos-guide/where-to-stay) pour voir comment Kamares se situe par rapport aux autres bases.
 
-## Monter à Apollonia
+## Monter à Apollonia et au-delà
 
-C'est le problème pratique que rencontre chaque nouvel arrivant, et il vaut mieux le connaître avant de débarquer.
+C'est le problème pratique que rencontre chaque nouvel arrivant, et mieux vaut le connaître avant de débarquer.
 
-**Le bus** assure la correspondance avec la plupart des ferries et monte à Apollonia, où convergent les lignes de l'île. Il fonctionne, mais suit son propre horaire plutôt que celui du bateau, et se remplit vite.
+**Le bus** attend la plupart des ferries et monte à Apollonia, où se rejoignent les lignes de l'île. Il fait l'affaire, mais il suit son propre horaire plutôt que celui du bateau, et il se remplit vite quand un ferry plein débarque.
 
-**Les taxis** existent, mais Sifnos n'en compte qu'une poignée pour toute l'île. Quand un grand ferry débarque en août, ils disparaissent en quelques minutes et il n'existe aucun véritable système de file.
+**Les taxis** existent, mais Sifnos n'en compte qu'une poignée pour toute l'île. Quand un grand ferry débarque en août, ils sont partis en quelques minutes et il n'y a pas vraiment de file d'attente organisée.
 
-**Votre propre véhicule** supprime entièrement le problème.
+**Avec votre propre véhicule**, le problème disparaît.
 
-## Remise de la voiture au quai
+## Retrait de la voiture au quai
 
-Nous venons au bateau. Envoyez-nous votre **date d'arrivée et l'heure approximative d'accostage**, et votre voiture vous attendra au port de Kamares à votre descente, **sans supplément**.
+Nous vous attendons au bateau. Envoyez-nous votre **date d'arrivée en ferry et l'heure approximative d'accostage**, et votre voiture vous attendra au port de Kamares à votre descente, **sans supplément**.
 
-La même livraison gratuite couvre l'héliport, Apollonia, Artemonas et Kastro. Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sont possibles sur demande, le montant étant confirmé à la réservation.
+La même livraison gratuite vaut pour l'héliport, Apollonia, Artemonas et Kastro. Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sont possibles sur demande, avec des frais confirmés à la réservation.
 
-Quelques précisions pratiques :
+Quelques précisions pratiques :
 
-- Les **scooters** se récupèrent uniquement à notre bureau d'Apollonia, pas au port.
-- Si votre ferry a du retard, écrivez-nous sur WhatsApp. Les retards sont normaux et nous les anticipons.
-- Aucun acompte ni coordonnées bancaires ne sont nécessaires pour réserver.
-- Responsabilité civile, entretien, casques et assistance locale sont déjà compris dans le tarif journalier.
+- Les **scooters** se récupèrent uniquement à notre agence d'Apollonia, pas au port.
+- Si votre ferry a du retard, écrivez-nous sur WhatsApp. Les retards sont fréquents et nous nous organisons en conséquence.
+- Pour réserver, ni acompte ni carte bancaire.
+- L'assurance responsabilité civile, l'entretien, les casques et l'aide sur place sont déjà compris dans le tarif journalier.
 
-Nous exerçons depuis le même bureau d'Apollonia depuis 1988, en entreprise familiale, ce qui nous permet de savoir à peu près quand votre bateau accostera réellement, et pas seulement ce qu'annonce l'horaire.
+Notre entreprise familiale tient la même agence à Apollonia depuis 1988 : c'est pourquoi nous savons à peu près quand votre bateau accostera vraiment, et pas seulement ce qu'annonce l'horaire.
 
-## Stationnement à Kamares
+## Se garer à Kamares
 
-Il existe du stationnement le long du front de mer et sur des espaces informels derrière la plage. C'est serré en milieu de journée en août, et plus encore dans la demi-heure qui précède ou suit l'arrivée ou le départ d'un ferry. Ne bloquez jamais la voie d'accès au quai, le fret y circule en permanence.
+On peut se garer le long du front de mer et sur des terrains non aménagés derrière la plage. C'est serré en milieu de journée en août, et plus encore dans la demi-heure qui précède ou suit l'arrivée ou le départ d'un ferry. Ne bloquez pas la voie d'accès au quai : les camions de marchandises y passent sans cesse.
 
-[Réserver une voiture pour votre arrivée en ferry](/fr/book) · [Voir la flotte](/fr/cars) · [Guide des ferries](/fr/sifnos-guide/ferries) · [Comment aller à Sifnos](/fr/sifnos-guide/how-to-get-there)
+[Réserver une voiture pour votre arrivée en ferry](/fr/book) · [Voir la flotte](/fr/cars) · [Guide des ferries](/fr/sifnos-guide/ferries) · [Comment venir à Sifnos](/fr/sifnos-guide/how-to-get-there)
