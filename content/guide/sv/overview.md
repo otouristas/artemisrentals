@@ -4,7 +4,7 @@ title: "Sifnos, Grekland: den kompletta öguiden"
 description: "Sifnos, Grekland: guide till Kykladön känd för mat, keramik och vandringsleder. Byar, stränder, hur länge du ska stanna och när du ska åka."
 answer: "Sifnos är en grekisk ö i Kykladerna, ungefär 14 km lång, känd framför allt för sin matlagning, sin keramik och ett nät av markerade stenlagda stigar. Apollonia är den livliga huvudorten uppe på åsen och Kamares är färjehamnen. Stränder och byar ligger så pass utspridda att en bil eller scooter gör stor skillnad för besöket."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/apollonia.webp"
 author: "Artemis Rental"
 order: 1
@@ -38,13 +38,13 @@ På den **centrala åsen** ligger inlandsbyarna, som nästan sitter ihop: Apollo
 
 Längs **kusten** nedanför ligger de utspridda orterna: Kamares i väster, där färjorna lägger till, Platys Gialos, Faros och Chrysopigi i söder, Vathi i sydväst och Cherronisos långt norrut. Kastro, den medeltida huvudorten, klamrar sig fast vid en klippa på östkusten.
 
-Ingenting ligger mer än ungefär 25 minuter med bil från Apollonia, men vägarna är smala och kurviga, så avståndet på kartan säger inte mycket om restiden.
+Det mesta ligger inom ungefär 25 minuter med bil från Apollonia, Cherronisos längst i norr närmare 35, men vägarna är smala och kurviga, så avståndet på kartan säger inte mycket om restiden.
 
 ## Hur många dagar behöver du?
 
 **Tre dagar** täcker det väsentliga: inlandsbyarna, Kastro och två eller tre stränder.
 
-**Fem till sju dagar** är det perfekta läget. Då hinner du till nordkusten, går ett par av lederna, äter ordentligt och unnar dig en lat dag.
+**Fem till sju dagar** är det perfekta läget. Då hinner du till nordkusten, går ett par av lederna, äter ordentligt och unnar dig en lat dag. Planer dag för dag finns i våra [resplaner för 5 och 7 dagar](/sv/blog/sifnos-itinerary-5-7-days) och i [tredagarsplanen](/sv/blog/3-day-sifnos-itinerary).
 
 **Tio dagar eller mer**, och du är inte längre bara besökare. Många gör precis så och ser två veckor som ett minimum.
 
@@ -93,7 +93,7 @@ Det här är den praktiska kärnan i en Sifnosresa. Ön är liten, men det bäst
 
 Avstånden är korta: från Apollonia tar det ungefär 20 minuter till Platys Gialos, cirka 10 till Kastro, cirka 20 till Vathi och cirka 35 till Cherronisos. Med egna hjul hinner du bada vid två stränder och ändå vara tillbaka till middagen i Apollonia. Utan dem går dagen åt till att vänta vid busshållplatser.
 
-En **bil** passar familjer, alla som har bagage och resor när det blåser. En **scooter** passar dig som reser ensam eller som par och gör korta turer i stabilt väder. Vägarna är asfalterade och välskötta men smala och kurviga, med få vägräcken, så kör lugnt och släpp fram trafiken uppför där vägen blir smal.
+En **bil** passar familjer, alla som har bagage och resor när det blåser. En **scooter** passar dig som reser ensam eller som par, har motorcykelkörkort och gör korta turer i stabilt väder. Vår [jämförelse av bil och scooter](/sv/blog/car-or-scooter-sifnos) hjälper dig att bestämma dig. Vägarna är asfalterade och välskötta men smala och kurviga, med få vägräcken, så kör lugnt och släpp fram trafiken uppför där vägen blir smal.
 
 ## Här kommer Artemis in
 

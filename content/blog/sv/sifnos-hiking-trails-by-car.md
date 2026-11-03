@@ -3,7 +3,7 @@ slug: sifnos-hiking-trails-by-car
 title: "Vandringsleder på Sifnos som du når med bil"
 description: "Startpunkter och dagsvandringar på Sifnos: parkera hyrbilen från Artemis, vandra på uråldriga stigar och var tillbaka i Apollonia till middagen. Sedan 1988."
 datePublished: "2026-07-10"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [vandring, leder, bilkörning]
@@ -16,7 +16,7 @@ Sifnos är en av de bäst markerade vandringsöarna i Kykladerna. Stenlagda stig
 
 Lederna utgår från Apollonia, Artemonas, Kastro och sydkusten. Bussarna går till de större byarna men passar sällan om du vill starta tidigt på morgonen eller komma tillbaka efter solnedgången. Kan du parkera nära leden går det att vandra i gryningen, bada i Vathi vid lunch och ändå hinna till Apollonia för middag.
 
-Hämtar du bilen hos Artemis i **Apollonia** har du nära till flera klassiska leder. **Kamares på begäran** fungerar om ditt hotell ligger vid hamnen men du tänker köra upp till startpunkterna varje dag. Det kostar **ingen förskottsbetalning** att fråga. Skriv dina datum och om du hellre vill ha bil eller scooter för de korta transporterna.
+Hämtar du bilen hos Artemis i **Apollonia** har du nära till flera klassiska leder. Gratis upphämtning i **Kamares hamn** fungerar om ditt hotell ligger vid hamnen men du tänker köra upp till startpunkterna varje dag. Det kostar **ingen förskottsbetalning** att fråga. Skriv dina datum och vilka vandringar du har i tankarna.
 
 ## Klassiska leder värda bilresan
 
@@ -26,7 +26,7 @@ Kör eller gå från Apollonia mot Kastro. Många vandrare parkerar nedanför Ka
 
 ### Slingan vid kyrkan i Chrysopigi
 
-Parkera ovanför stranden vid Chrissopigi och följ kuststigen mot Faros. Lagom lutning, havsutsikt och möjlighet till ett dopp på slutet. Kombinera med tipsen om parkering på eftermiddagen i vår artikel om [stränder med bil](/sv/blog/sifnos-beaches-by-car).
+Parkera ovanför stranden vid Chrysopigi och följ kuststigen mot Faros. Lagom lutning, havsutsikt och möjlighet till ett dopp på slutet. Kombinera med tipsen om parkering på eftermiddagen i vår artikel om [stränder med bil](/sv/blog/sifnos-beaches-by-car).
 
 ### Stigarna mellan Vathi och Exambela
 

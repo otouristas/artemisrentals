@@ -280,11 +280,11 @@
     },
     {
       "q": "Var hämtar jag fordonet?",
-      "a": "Upphämtning och återlämning sker på vårt kontor i Apollonia. Upphämtning och återlämning i Kamares kan ordnas på begäran, vilket är praktiskt när färjan kommer sent."
+      "a": "Bilar: upphämtning och återlämning är kostnadsfri i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro. Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos går att ordna på begäran, och avgiften bekräftas när vi svarar. Scootrar hämtas och återlämnas endast på vårt kontor i Apollonia."
     },
     {
       "q": "Ska jag hyra bil eller scooter på Sifnos?",
-      "a": "Välj bil om du reser med familj, har bagage eller vill åka bekvämt på längre sträckor på ön. Välj scooter om du reser ensam eller i par, vill ta dig smidigt mellan stränderna och redan känner dig säker på grekiska övägar."
+      "a": "Välj bil om du reser med familj, har bagage, kommer när det blåser eller vill åka bekvämt på längre sträckor på ön. Välj scooter om ni är en eller två personer som vill ta er smidigt mellan stränderna, redan känner er säkra på grekiska övägar och har motorcykelkörkort (A1 eller högre): ett körkort för bil räcker inte för en scooter på 125 cc i Grekland."
     },
     {
       "q": "Finns det bilar med automatlåda?",
@@ -296,7 +296,7 @@
     },
     {
       "q": "Vilka dokument behöver jag?",
-      "a": "Ta med giltigt körkort (och internationellt körkort om det krävs för din nationalitet), pass eller id-kort samt ett sätt att betala hyran när datumen är bekräftade."
+      "a": "Ta med ditt fysiska körkort, pass eller id-kort och ett sätt att betala hyran när datumen är bekräftade. Är ditt körkort utfärdat utanför EU eller EES, ta med ett internationellt körkort också."
     },
     {
       "q": "Ingår försäkring?",
@@ -312,7 +312,7 @@
     },
     {
       "q": "Vad kostar scootrar?",
-      "a": "Scooterpriserna varierar med motorstorlek och säsong. Skicka dina datum via kalendern på scootersidan eller på WhatsApp, så får du ett dagspris."
+      "a": "De publicerade scooterpriserna är 30–40 € per dag mellan 11 juni och 10 september, beroende på motorstorlek och säsong. Boka online eller på WhatsApp utan förskottsbetalning och hämta scootern på vårt kontor i Apollonia."
     },
     {
       "q": "Vad händer om färjan är försenad?",

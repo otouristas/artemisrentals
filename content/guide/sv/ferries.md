@@ -4,7 +4,7 @@ title: "Färja till Sifnos 2026: Pireus, restider och tips"
 description: "Komplett guide till färjorna till Sifnos: linjen Pireus–Kamares, restider med snabbkatamaran och konventionell färja, förbindelser till Milos och Serifos."
 answer: "Alla färjor till Sifnos lägger till i Kamares på västkusten. Båtarna går från Pireus och överfarten tar ungefär 2,5 till 3 timmar med snabbkatamaran eller omkring 5 timmar med konventionell färja, med dagliga avgångar på sommaren och tre eller fyra i veckan på vintern."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 3
@@ -97,7 +97,7 @@ Det som gång på gång överraskar besökare är glappet mellan att kliva av b�
 
 Vi möter båten. Skicka din **ankomstdag och ungefär när färjan lägger till**, så står bilen och väntar i Kamares hamn utan extra kostnad. Upphämtningen är också gratis vid heliporten, i Apollonia, Artemonas och Kastro. Du behöver varken betala i förskott eller lämna kortuppgifter för att boka, och trafikförsäkring, service och lokal hjälp ingår redan i dagspriset.
 
-Berätta din färjetid och om du vill ha bil eller scooter, så sköter vi resten.
+Berätta din färjetid och hur många ni är, så sköter vi resten. (Scootrar hämtas på vårt kontor i Apollonia, inte i hamnen.)
 
 [Boka bil till din färjeankomst](/sv/book) eller läs [guiden till ankomsten i Kamares hamn](/sv/sifnos-guide/kamares-port) och se vad som väntar på kajen.
 

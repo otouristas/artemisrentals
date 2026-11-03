@@ -2,7 +2,7 @@
 slug: food-pottery
 title: "Mat och keramik: Sifnos traditioner"
 description: "Guide till mat och keramik på Sifnos: revithada, mastelo, bagerier, keramikbyar och hur du planerar smakstopp med hyrbil. Från Artemis Rental."
-answer: "Sifnos är känt för kikärtsgrytan revithada, mastelo, lokala ostar och en levande keramiktradition. Ät middag i Apollonia och gör utflykter till keramikbyar som Kamares, Vathi och Herronisos mellan baden."
+answer: "Sifnos är känt för kikärtsgrytan revithada, mastelo, lokala ostar och en levande keramiktradition. Ät middag i Apollonia och gör utflykter till keramikbyar som Kamares, Vathi och Cherronisos mellan baden."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/heronissos.webp"
@@ -30,14 +30,14 @@ Bland greker har Sifnos ett matrykte som är större än ön själv. Lerkrukor, 
 ## Var du ska äta
 
 - **Apollonia / Artemonas:** störst utbud på kvällen, gå dit från parkeringen.
-- **Tavernor vid stränderna:** Platis Gialos, Vathi, Faros, Kamares, boka under högsäsongens veckor.
+- **Tavernor vid stränderna:** Platys Gialos, Vathi, Faros, Kamares, boka under högsäsongens veckor.
 - **Överraskningar i byarna:** följ tipsen till Exambela och köken uppe i bergsbyarna när du vill ha lugn och ro.
 
 ## Keramik
 
-![Herronisos](/images/sifnos/beaches/heronissos.webp "Herronisos, keramikby i norr")
+![Cherronisos](/images/sifnos/beaches/heronissos.webp "Cherronisos, keramikby i norr")
 
-Lerhantverket på Sifnos är ingen souvenirmyt. Verkstäderna är fortfarande igång, historiskt i kustbyar som **Kamares, Vathi och Herronisos**. Visa hänsyn när du besöker ateljéerna (fråga innan du fotograferar) och packa ömtåliga föremål i mjuka väskor inför färjan hem.
+Lerhantverket på Sifnos är ingen souvenirmyt. Verkstäderna är fortfarande igång, historiskt i kustbyar som **Kamares, Vathi och Cherronisos**. Visa hänsyn när du besöker ateljéerna (fråga innan du fotograferar) och packa ömtåliga föremål i mjuka väskor inför färjan hem.
 
 Ibland lyfts keramiken fram på festivaler och utställningar under säsongen. Fråga på hotellet eller på vårt kontor vad som händer under dina datum.
 

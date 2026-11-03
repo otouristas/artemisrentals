@@ -2,9 +2,9 @@
 slug: things-to-do
 title: "Saker att göra på Sifnos"
 description: "Allt att göra på Sifnos: stränder, byar, vandringsleder, mat, keramik, kloster och båtdagar, planerat kring en bil eller scooter som du hyr hos Artemis."
-answer: "Bada i Platis Gialos och Vathi, besök Chrysopigi och medeltida Kastro, vandra på stigarna från byarna ner till kusten, smaka mastelo och revithada, titta in i keramikverkstäder och knyt ihop allt med en hyrbil från Artemis, utan att passa busstider."
+answer: "Bada i Platys Gialos och Vathi, besök Chrysopigi och medeltida Kastro, vandra på stigarna från byarna ner till kusten, smaka mastelo och revithada, titta in i keramikverkstäder och knyt ihop allt med en hyrbil från Artemis, utan att passa busstider."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
 author: "Artemis Rental"
 order: 9
@@ -25,14 +25,14 @@ Jämfört med de mer omtalade och livligare Kykladeröarna har Sifnos behållit 
 
 ## De bästa stränderna (med egna hjul)
 
-![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos, med service och lång sandstrand")
+![Platys Gialos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, med service och lång sandstrand")
 
-- **Platis Gialos**, lång sandstrand, tavernor, känd för sin Blå flagg och enklast för barnfamiljer.
+- **Platys Gialos**, lång sandstrand, tavernor, känd för sin Blå flagg och enklast för barnfamiljer.
 - **Vathi**, skyddad vik formad som en amfiteater, perfekt när meltemin blåser hårt.
 - **Chrysopigi**, klostret från vykorten och bad från klipporna, kombinera med Faros.
 - **Faros**, fiskebyns lugna tempo och promenader längs kusten.
-- **Herronisos och Vroulidia**, lugnare i norr och värda bilturen.
-- **Fykiada**, nås bara till fots eller med båt, parkera i Platis Gialos eller Vathi.
+- **Cherronisos och Vroulidia**, lugnare i norr och värda bilturen.
+- **Fykiada**, nås bara till fots eller med båt, parkera i Platys Gialos eller Vathi.
 
 Allt om vägar, vind och parkering finns i [strandguiden för Sifnos](/sv/sifnos-guide/beaches).
 
@@ -63,7 +63,7 @@ Sifnos är en av Kykladernas bästa vandringsöar. Stigarna förbinder byar, str
 
 1. **Gränderna i Apollonia / Artemonas → Kastro**, mycket kultur, måttlig ansträngning.
 2. **Kuststigarna vid Kamares**, start i hamnen, grottor och utsiktspunkter.
-3. **Sträckan Vathi ↔ Platis Gialos**, från strand till strand (delar av den går mot Fykiada).
+3. **Sträckan Vathi ↔ Platys Gialos**, från strand till strand (delar av den går mot Fykiada).
 4. **Stigarna till akropolen Agios Andreas**, historia och utsikt från åsen (tänk på värmen och skorna).
 
 **Tips för vandringen:** börja tidigt, ta med vatten, ha ordentliga skor och fundera på att gå en sträcka enkel väg medan någon i sällskapet kör och hämtar upp dig, enkelt när du har hyrbil. Lämna inga värdesaker synliga i bilen.
@@ -76,7 +76,7 @@ Läs mer i [Mat och keramik](/sv/sifnos-guide/food-pottery).
 
 ## Keramikverkstäder
 
-Keramiken är en del av öns identitet, och verkstäderna har historiskt legat i kustbyar som **Kamares, Vathi och Herronisos**. Många välkomnar besökare som vill titta, och några erbjuder korta prova-på-stunder under säsongen. Kombinera ett verkstadsbesök med ett bad, så känns dagen inte som en museirunda.
+Keramiken är en del av öns identitet, och verkstäderna har historiskt legat i kustbyar som **Kamares, Vathi och Cherronisos**. Många välkomnar besökare som vill titta, och några erbjuder korta prova-på-stunder under säsongen. Kombinera ett verkstadsbesök med ett bad, så känns dagen inte som en museirunda.
 
 ## Kloster och kapell
 
@@ -97,13 +97,15 @@ Aktuella färjetips: [rutter Aten–Sifnos på Discover Cyclades](https://discov
 | Dag | Plan |
 | --- | --- |
 | 1 | Färja → bad i Kamares eller installera dig i Apollonia → solnedgång i Artemonas |
-| 2 | Sydlig runda: Faros → Chrysopigi → Platis Gialos |
+| 2 | Sydlig runda: Faros → Chrysopigi → Platys Gialos |
 | 3 | Förmiddag på stranden i Vathi → keramikstopp → Kastro i kvällsljuset |
-| 4 | Norrut till Herronisos / Vroulidia, eller en vandring + tidig middag i Apollonia |
+| 4 | Norrut till Cherronisos / Vroulidia, eller en vandring + tidig middag i Apollonia |
+
+Stannar du längre? Se våra [resplaner för 5 och 7 dagar](/sv/blog/sifnos-itinerary-5-7-days).
 
 ## Vanliga frågor
 
-**Passar Sifnos för barn?** Ja. Sandstränderna i Platis Gialos och Kamares, korta bilturer och glass i byarna är lätt att ordna med bil.
+**Passar Sifnos för barn?** Ja. Sandstränderna i Platys Gialos och Kamares, korta bilturer och glass i byarna är lätt att ordna med bil.
 
 **Hur många dagar?** Fyra till fem för den klassiska blandningen, en vecka om du vill vandra och åka på båtturer.
 
