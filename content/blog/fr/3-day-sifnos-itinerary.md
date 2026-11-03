@@ -1,41 +1,41 @@
 ---
 slug: 3-day-sifnos-itinerary
-title: "Itinéraire de 3 jours à Sifnos avec location"
-description: "Un plan pratique de 3 jours à Sifnos en voiture ou scooter depuis Apollonia. Retrait gratuit au port de Kamares et à Apollonia, et sans acompte."
+title: "Sifnos en 3 jours avec une voiture de location"
+description: "Un programme concret de 3 jours à Sifnos en voiture ou en scooter depuis Apollonia. Retrait gratuit au port de Kamares et à Apollonia, sans acompte pour réserver."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"
 author: "Artemis Rental"
-tags: [itinerary, planning, beaches]
+tags: [itinéraire, organisation, plages]
 related: [sifnos-beaches-by-car, sifnos-hiking-trails-by-car, apollonia-vs-kamares-stay]
 ---
 
-## Jour 1, Arrivée et installation
+## Jour 1, arrivée et installation
 
-Ferry à Kamares, récupération des clés (prise en charge Kamares sur demande ou bureau Apollonia), baignade à Kamares ou repos, dîner à Apollonia.
+Arrivée en ferry à Kamares, remise des clés (retrait à Kamares sur demande ou à l'agence d'Apollonia), baignade à Kamares ou repos, puis dîner à Apollonia.
 
-## Jour 2, Plages de la côte sud
+## Jour 2, plages de la côte sud
 
-Platis Gialos le matin, Chrissopigi en fin d'après-midi, retour à Artemonas/Apollonia pour la promenade du soir.
+Platys Gialos le matin, Chrysopigi pour la lumière de fin d'après-midi, puis retour à Artemonas ou Apollonia pour la promenade du soir.
 
 ## Jour 3, Kastro et Vathi
 
-Matinée dans les ruelles de Kastro, après-midi dans la baie de Vathi, puis préparer les bagages pour le ferry du lendemain sans précipiter le plein et le retour du véhicule.
+Le matin dans les ruelles de Kastro, l'après-midi dans la baie de Vathi, puis les bagages pour le ferry du lendemain, en gardant le temps de faire le plein et de rendre le véhicule sans vous presser.
 
-## Où manger sans trop planifier
+## Où manger sans tout prévoir
 
-Le steno d'Apollonia concentre d'excellentes adresses pour le dîner: réservez une soirée, flânez les deux autres. Pour le déjeuner, les tavernes de plage à Platis Gialos et Vathi n'exigent pas de réservation en intersaison; les week-ends d'août récompensent ceux qui arrivent avant 13 h.
+La ruelle du steno, à Apollonia, réunit d'excellentes tables pour le dîner : réservez un soir, entrez au hasard les deux autres. À midi, les tavernes de plage de Platys Gialos et de Vathi ne demandent pas de réservation en intersaison ; les week-ends d'août, mieux vaut arriver avant 13h.
 
-Les boulangeries d'Artemonas conviennent pour un café le matin entre Kastro et les routes vers le sud. Les tavernes de Faros marchent quand vous voulez du poisson après Chrissopigi sans remonter par Apollonia.
+Les boulangeries d'Artemonas sont parfaites pour un café le matin, entre Kastro et les routes de la côte sud. Les tavernes de Faros font l'affaire quand vous avez envie de poisson après Chrysopigi sans repasser par Apollonia.
 
-## Alternatives d'une demi-journée
+## Variantes pour une demi-journée
 
-Si le Jour 2 semble trop orienté plage, remplacez un après-midi par une courte randonnée près de Kastro ou un arrêt poterie dans les ateliers de Vathi. S'il pleut (rare mais possible), les boutiques d'Apollonia et le musée folklorique remplissent une matinée en attendant un ciel plus clair.
+Si le jour 2 vous paraît trop chargé en plages, remplacez un après-midi par une courte randonnée près de Kastro ou par une visite des ateliers de poterie de Vathi. La pluie est rare, mais s'il pleut, les boutiques d'Apollonia et le musée des arts et traditions populaires occupent une matinée en attendant l'éclaircie.
 
-Les couples en scooter peuvent suivre cet itinéraire de mai à septembre; les familles devraient lire [voyager en famille à Sifnos](/fr/blog/family-travel-sifnos) et privilégier une voiture compacte pour les siestes et les bagages.
+Les couples en scooter peuvent suivre ce programme de mai à septembre ; les familles liront plutôt [voyager en famille à Sifnos](/fr/blog/family-travel-sifnos) et choisiront par défaut une citadine, plus pratique pour les siestes et les bagages.
 
-## Timing de la location pour ce plan
+## Quand prendre la voiture pour ce programme
 
-Récupérez votre véhicule Artemis le matin du Jour 1 si vous avez dormi à Kamares, ou l'après-midi du Jour 1 si vous préférez d'abord une baignade calme. La **prise en charge à Kamares sur demande** évite un trajet en bus quand le ferry arrive tôt. Rendez le véhicule plein avant le départ; l'équipe indique la station la plus proche quand vous récupérez les clés à **Apollonia**.
+Prenez votre véhicule Artemis le matin du jour 1 si vous avez dormi à Kamares, ou l'après-midi si vous préférez d'abord une baignade tranquille à l'arrivée. Le **retrait à Kamares sur demande** vous évite un trajet en bus quand le ferry arrive tôt. Rendez le véhicule avec le plein avant votre bateau du départ ; l'équipe vous indique la station la plus proche quand vous récupérez les clés à **Apollonia**.
 
-Trois jours suffisent pour voir les points forts de Sifnos sans courir. Restez plus longtemps si vous voulez des journées de randonnée grâce à notre guide [sentiers en voiture](/fr/blog/sifnos-hiking-trails-by-car). [Réservez avec Artemis](/fr/book) avec les dates de ferry, aucun acompte pour la demande.
+Trois jours suffisent pour voir l'essentiel de Sifnos sans courir. Restez plus longtemps si vous voulez des journées de randonnée avec notre guide des [sentiers accessibles en voiture](/fr/blog/sifnos-hiking-trails-by-car). [Réservez avec Artemis](/fr/book) en indiquant vos dates de ferry, sans acompte pour la demande.

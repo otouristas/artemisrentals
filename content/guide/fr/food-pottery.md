@@ -1,8 +1,8 @@
 ---
 slug: food-pottery
-title: "Cuisine et poterie: traditions de Sifnos"
-description: "Guide cuisine et poterie à Sifnos: revithada, mastelo, boulangeries, villages céramiques et comment planifier des arrêts gourmets avec une voiture de location."
-answer: "Sifnos est célèbre pour la revithada de pois chiches, le mastelo, les fromages locaux et une tradition céramique vivante. Mangez à Apollonia le soir; faites des day-trips poterie à Kamares, Vathi et Herronisos entre deux baignades."
+title: "Cuisine et poterie : les traditions de Sifnos"
+description: "Cuisine et poterie à Sifnos : revithada, mastelo, boulangeries, villages de potiers, et comment organiser vos haltes gourmandes en voiture. Par Artemis Rental."
+answer: "Sifnos est réputée pour sa revithada de pois chiches, son mastelo, ses fromages et une tradition céramique toujours vivante. Dînez à Apollonia le soir ; entre deux baignades, allez voir les villages de potiers comme Kamares, Vathi et Cherronisos."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/heronissos.webp"
@@ -14,42 +14,42 @@ related:
   - beaches
 ---
 
-![Côte poterie Vathi](/images/sifnos/beaches/vathi.webp "Vathi, baignade et héritage céramique")
+![Vathi, côte des potiers](/images/sifnos/beaches/vathi.webp "Vathi, baignade et tradition céramique")
 
-## Pourquoi la cuisine est une raison de venir
+## La cuisine, une vraie raison de venir
 
-Sifnos a une réputation chez les Grecs qui dépasse sa taille. Pots d’argile, fours lents, pois chiches, agneau et collines au thym apparaissent dans des menus qui semblent encore locaux. Prévoyez au moins **un déjeuner destination** et **un dîner spécial**.
+Chez les Grecs, Sifnos a une réputation bien plus grande que sa taille. Plats en terre cuite, cuissons lentes au four, pois chiches, agneau et collines parfumées au thym : on retrouve tout cela sur des cartes qui restent authentiquement locales. Prévoyez au minimum **un déjeuner qui vaut le déplacement** et **un dîner spécial**.
 
-## Plats à chercher
+## Les plats à goûter
 
-- **Revithada**, casserole lente de pois chiches, souvent un classique du dimanche
-- **Mastelo**, agneau (ou chèvre) cuit au vin et herbes, traditionnellement en terre
-- **Manoura / fromages locaux**, demandez ce qui se coupe cette semaine
-- **Miel et douceurs aux amandes**, carburant boulangerie avant les trajets plage
+- **Revithada**, des pois chiches mijotés longuement, souvent le classique du dimanche
+- **Mastelo**, de l’agneau (ou du chevreau) cuit au vin et aux herbes, traditionnellement dans un plat en terre
+- **Manoura et fromages locaux**, demandez ce qui est à point cette semaine
+- **Douceurs au miel et aux amandes**, le plein d’énergie à la boulangerie avant la route des plages
 
-## Où baser vos repas
+## Où prendre vos repas
 
-- **Apollonia / Artemonas:** choix du soir le plus dense; marchez depuis votre place.
-- **Tavernes de plage:** Platis Gialos, Vathi, Faros, Kamares; réservez en semaines de pointe.
-- **Surprises de village:** suivez les recommandations pour Exambela / cuisines de colline quand vous voulez du calme.
+- **Apollonia / Artemonas :** le plus grand choix le soir ; allez-y à pied depuis votre place de parking.
+- **Tavernes de plage :** Platys Gialos, Vathi, Faros, Kamares ; réservez pendant les semaines de haute saison.
+- **Bonnes surprises dans les villages :** suivez les recommandations pour Exampela ou les tables des collines quand vous cherchez le calme.
 
 ## Poterie et céramique
 
-![Herronisos](/images/sifnos/beaches/heronissos.webp "Herronisos, village potier du nord")
+![Cherronisos](/images/sifnos/beaches/heronissos.webp "Cherronisos, village potier du nord")
 
-Le travail de l’argile à Sifnos n’est pas un mythe souvenir: des ateliers fonctionnent encore, historiquement le long des villages côtiers comme **Kamares, Vathi et Herronisos**. Visitez les studios de façon éthique (demandez avant les photos) et emballez les pièces fragiles dans des sacs souples pour le ferry retour.
+La poterie de Sifnos n’est pas qu’un argument pour vendre des souvenirs : des ateliers tournent toujours, historiquement dans les villages côtiers comme **Kamares, Vathi et Cherronisos**. Visitez-les avec respect (demandez avant de photographier) et emballez les pièces fragiles dans des sacs souples pour le ferry du retour.
 
-Festivals et expositions saisonniers mettent parfois la céramique en avant: demandez à l’hôtel ou à notre bureau ce qui se passe pendant vos dates.
+Fêtes et expositions mettent parfois la céramique à l’honneur selon la saison : demandez à votre hôtel ou à notre agence ce qui est prévu pendant votre séjour.
 
-## Une journée de conduite gourmande
+## Une journée gourmande en voiture
 
-1. Bain matinal à **Vathi**
-2. Visite poterie dans le village
-3. Arrêt après-midi au promontoire de **Chrysopigi**
+1. Baignade matinale à **Vathi**
+2. Tour des ateliers de poterie du village
+3. Halte l’après-midi sur le promontoire de **Chrysopigi**
 4. Dîner de retour à **Apollonia**
 
-![Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi entre les repas")
+![Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, entre deux repas")
 
-## Angle Artemis
+## Le point de vue d’Artemis
 
-Une location vous laisse courir après les réservations déjeuner sur l’île sans regarder l’horloge du bus. [Demandez des dates](/fr/book) une fois votre ferry fixé.
+Avec une voiture de location, vous pouvez honorer vos réservations de déjeuner aux quatre coins de l’île sans surveiller l’horaire du bus. [Demandez vos dates](/fr/book) dès que votre ferry est réservé.

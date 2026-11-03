@@ -1,8 +1,8 @@
 ---
 slug: practical-tips
-title: "Conseils de conduite pratiques à Sifnos"
-description: "Conseils de conduite pratiques à Sifnos: parking, vent meltemi, carburant, chaleur de midi, sécurité scooter et timing d’été par Artemis Rental."
-answer: "Partez tôt pour la plage en juillet–août, garez une fois à Apollonia le soir, ralentissez sur les approches rugueuses des criques, sécurisez les objets de valeur et respectez le vent si vous êtes en scooter. Faites le plein avant les longues boucles côte nord."
+title: "Conseils pratiques pour conduire à Sifnos"
+description: "Conseils pratiques pour conduire à Sifnos : stationnement, meltem, carburant, chaleur de midi, sécurité en scooter et bons horaires en été, par Artemis Rental."
+answer: "En juillet–août, partez tôt à la plage, garez-vous une fois pour toutes à Apollonia le soir, ralentissez sur les pistes cabossées qui descendent aux criques, mettez vos objets de valeur à l'abri et respectez le vent si vous êtes en scooter. Faites le plein avant les longues boucles sur la côte nord."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/vroulidia.webp"
@@ -14,38 +14,38 @@ related:
   - kamares-port
 ---
 
-## Le timing bat tout
+## L'horaire compte plus que tout
 
-En haute saison, la différence entre un matin calme à Platis Gialos et un midi stressant est environ **90 minutes**. Partez tôt d’Apollonia; faites de longs déjeuners à l’ombre; baignez-vous à nouveau après 16:00.
+En plein été, entre une matinée tranquille à Platys Gialos et un midi stressant, il y a environ **90 minutes** d'écart. Partez tôt d'Apollonia, prenez le temps de déjeuner à l'ombre et retournez vous baigner après 16h00.
 
-## Vent (meltemi)
+## Le vent (meltem)
 
-Les vents du nord sont fréquents en juillet–août. Si des moutons apparaissent sur les côtes ouvertes, pivotez vers **Vathi**, **Kamares** ou des poches abritées à Faros. Les scooters doivent prendre au sérieux les traversières sur les crêtes exposées.
+Les vents du nord sont fréquents en juillet–août. Si vous voyez des moutons sur les côtes exposées, rabattez-vous sur **Vathi**, **Kamares** ou les coins abrités de Faros. En scooter, prenez le vent latéral au sérieux sur les crêtes dégagées.
 
-## Manières de parking
+## Bien se garer
 
-- Ne bloquez jamais chapelles, poubelles ou portails d’hôtel
-- Repliez les rétros dans les ruelles serrées
-- Sur les finales terre (ex. vers Vroulidia), garez sans déchirer les bermes molles
+- Ne bloquez jamais l'accès aux chapelles, aux poubelles ni aux portails des hôtels
+- Rabattez vos rétroviseurs dans les ruelles étroites
+- Sur les derniers mètres en terre (par exemple vers Vroulidia), garez-vous sans abîmer les bas-côtés meubles
 
-![Approche Vroulidia](/images/sifnos/beaches/vroulidia.webp "Approches lentes vers des criques rustiques")
+![Arrivée sur Vroulidia](/images/sifnos/beaches/vroulidia.webp "Approchez lentement les criques sauvages")
 
 ## Chaleur et hydratation
 
-L’asphalte d’île rayonne. Gardez de l’eau en voiture, ne laissez jamais enfants/animaux dans un véhicule garé et préférez les randonnées matinales.
+Sur l'île, le bitume renvoie la chaleur. Gardez de l'eau dans la voiture, ne laissez jamais d'enfants ni d'animaux dans un véhicule garé et faites plutôt vos randonnées le matin.
 
-## Spécifique scooter
+## En scooter
 
-Casque obligatoire, ne disputez pas le bus, attention au gravier près des plages et évitez les surcharges à deux. En cas de doute, passez à une voiture en cours de séjour: contactez Artemis.
+Casque sur la tête, pas de course avec le bus, attention aux gravillons près des plages, et ne surchargez pas le scooter à deux. En cas de doute, passez à une voiture en cours de séjour : écrivez à Artemis.
 
-## Bases de sécurité
+## Sécurité de base
 
-Cachez les sacs, évitez le théâtre de richesse dans la boîte à gants et emportez les passeports au dîner dans les centres animés si le coffre hôtel est limité.
+Cachez vos sacs, n'exposez rien de précieux dans la boîte à gants et, si le coffre de votre hôtel est trop petit, gardez vos passeports sur vous pour aller dîner dans les villages animés.
 
-## Documents et cautions
+## Papiers et cautions
 
-Apportez le permis (et permis international si votre nationalité l’exige) et lisez nos [conditions de location](/fr/terms) avant l’arrivée.
+Apportez votre permis de conduire (et le permis international si votre nationalité l'exige), et lisez nos [conditions de location](/fr/terms) avant votre arrivée.
 
-## Besoin d’aide?
+## Besoin d'un coup de main ?
 
-Appelez ou WhatsApp les numéros du site: les réponses locales battent les apps génériques quand un ferry est en retard. [Demandez des dates](/fr/book).
+Appelez-nous ou écrivez-nous sur WhatsApp aux numéros indiqués sur le site : quand un ferry a du retard, une réponse locale vaut mieux qu'une application générique. [Demander des dates](/fr/book).

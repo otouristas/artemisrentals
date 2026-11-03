@@ -1,8 +1,8 @@
 ---
 slug: things-to-do
-title: "Choses à faire à Sifnos"
-description: "Guide complet des choses à faire à Sifnos: plages, villages, sentiers, cuisine, poterie, monastères, journées bateau, organisés autour d’une location Artemis."
-answer: "Baignade à Platis Gialos et Vathi, visitez Chrysopigi et le médiéval Kastro, marchez les sentiers village–côte, goûtez mastelo et revithada, explorez les ateliers de poterie et utilisez une location Artemis pour tout relier sans horaires de bus."
+title: "Que faire à Sifnos"
+description: "Que faire à Sifnos : plages, villages, randonnées, cuisine, poterie, monastères et sorties en bateau, à organiser autour d'une voiture ou d'un scooter Artemis."
+answer: "Baignez-vous à Platys Gialos et à Vathi, visitez Chrysopigi et le village médiéval de Kastro, randonnez des villages jusqu'à la côte, goûtez le mastelo et la revithada, flânez dans les ateliers de poterie, et reliez le tout avec une location Artemis, sans dépendre des horaires de bus."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
@@ -15,104 +15,104 @@ related:
   - getting-around
 ---
 
-Sifnos récompense les voyageurs qui mélangent **plages, villages, cuisine et courtes randonnées**, et qui ne restent pas bloqués à attendre le prochain bus. Les distances sont amicales; chaleur d’été et bagages non. Ce guide est la liste pratique « quoi faire » pour ceux qui louent avec Artemis à Apollonia.
+Sifnos se savoure quand on mélange **plages, villages, bonne cuisine et petites randonnées**, sans rester bloqué à attendre le prochain bus. Les distances sont courtes ; la chaleur de l'été et les bagages, beaucoup moins sympathiques. Ce guide est la liste pratique de ce qu'il y a à faire, pour les visiteurs qui louent chez Artemis à Apollonia.
 
-![Promontoire monastère Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, l’un des lieux emblématiques de Sifnos")
+![Le promontoire du monastère de Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, l'un des lieux emblématiques de Sifnos")
 
-## Pourquoi Sifnos se sent différente
+## Pourquoi Sifnos est à part
 
-Par rapport aux Cyclades plus bondées, Sifnos reste ancrée dans la **poterie, les sentiers et une cuisine d’île sérieuse**. Les soirées se rassemblent à Apollonia; les journées s’ouvrent sur des baies de sable et des ruelles blanchies. Une voiture ou un scooter transforme un voyage « deux plages + dîner » en une semaine d’île complète.
+Loin des Cyclades qui font la une, Sifnos reste attachée à **sa poterie, ses sentiers et une vraie cuisine d'île**. Le soir, tout le monde se retrouve à Apollonia ; la journée, on part vers les baies de sable et les ruelles blanchies à la chaux. Avec une voiture ou un scooter, un séjour « deux plages et un dîner » devient une vraie semaine de découverte de l'île.
 
-## Meilleures plages (avec des roues)
+## Les plus belles plages (avec un véhicule)
 
-![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos pour services et long sable")
+![Platys Gialos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, pour ses services et sa longue plage de sable")
 
-- **Platis Gialos**, long sable, tavernes, réputation Blue Flag, logistique famille la plus simple.
-- **Vathi**, baie amphithéâtre abritée; idéale quand le meltemi est fort.
-- **Chrysopigi**, carte postale monastère + baignades rocheuses; combinez avec Faros.
-- **Faros**, rythme village de pêcheurs et promenades côtières.
-- **Herronisos et Vroulidia**, nord plus calme; valent le trajet.
-- **Fykiada**, à pied ou en bateau seulement; garez à Platis Gialos ou Vathi.
+- **Platys Gialos** : longue plage de sable, tavernes, réputation Pavillon bleu, la plus simple à organiser en famille.
+- **Vathi** : baie abritée en amphithéâtre ; idéale quand le meltem souffle fort.
+- **Chrysopigi** : le monastère de carte postale et la baignade depuis les rochers ; à combiner avec Faros.
+- **Faros** : rythme de village de pêcheurs et balades le long de la côte.
+- **Cherronisos et Vroulidia** : le nord, plus tranquille ; elles valent le trajet.
+- **Fykiada** : accessible uniquement à pied ou en bateau ; garez-vous à Platys Gialos ou à Vathi.
 
-Notes accès, vent et parking: [guide plages Sifnos](/fr/sifnos-guide/beaches).
+Accès, vent et stationnement en détail : [guide des plages de Sifnos](/fr/sifnos-guide/beaches).
 
 ## Villages et culture
 
-![Apollonia Sifnos](/images/sifnos/villages/apollonia.webp "Apollonia, centre animé de l’île")
+![Apollonia, Sifnos](/images/sifnos/villages/apollonia.webp "Apollonia, le centre animé de l'île")
 
 ### Apollonia
-La capitale: ruelles de bars, commerces et énergie du soir. Artemis y est basé, pratique après les journées plage quand vous voulez dîner sans un autre long trajet.
+La capitale de l'île : des ruelles pleines de bars et de boutiques, et beaucoup d'animation le soir. Artemis y est installé, ce qui est pratique après une journée de plage, quand vous voulez dîner sans reprendre la route pour longtemps.
 
 ### Artemonas
-![Artemonas](/images/sifnos/villages/artemonas.webp "Ruelles néoclassiques Artemonas")
-Demeures néoclassiques, glamour plus calme et un petit saut depuis Apollonia. Balade au coucher du soleil idéale avant ou après la remise des clés.
+![Artemonas](/images/sifnos/villages/artemonas.webp "Les ruelles néoclassiques d'Artemonas")
+Demeures néoclassiques, une élégance plus discrète, et à deux pas d'Apollonia. Parfait pour une balade au coucher du soleil, avant ou après avoir rendu les clés.
 
 ### Kastro
-![Village médiéval Kastro](/images/sifnos/villages/kastro.webp "Kastro, village médiéval perché")
-Rues médiévales sur le bord de l’ancienne acropole, vues égéennes et l’une des balades essentielles de l’île. Plus facile en arrêt matin ou heure dorée avec scooter ou voiture garée en bas.
+![Le village médiéval de Kastro](/images/sifnos/villages/kastro.webp "Kastro, village médiéval à flanc de falaise")
+Des rues médiévales au bord de l'ancienne acropole, des vues sur la mer Égée et l'une des balades incontournables de l'île. Plus agréable le matin ou à l'heure dorée, en laissant le scooter ou la voiture garés en contrebas.
 
-### Autres villages qui valent le détour
-![Exambela](/images/sifnos/villages/exampela.webp "Village Exambela")
-Exambela, Katavati, Kato Petali, Pano Petali, Troullaki et Agios Loukas relient le pays de collines: trajets courts, stops photo et trouvailles boulangerie.
+### D'autres villages qui valent le détour
+![Exampela](/images/sifnos/villages/exampela.webp "Le village d'Exampela")
+Exampela, Katavati, Kato Petali, Pano Petali, Troullaki et Agios Loukas forment le maillage des collines : petits trajets, arrêts photo et bonnes boulangeries à découvrir.
 
-Plus de détail: [Apollonia et Artemonas](/fr/sifnos-guide/apollonia-artemonas).
+Plus de détails : [Apollonia et Artemonas](/fr/sifnos-guide/apollonia-artemonas).
 
 ## Randonnée à Sifnos
 
-Sifnos est l’une des grandes îles de marche des Cyclades. Les sentiers relient villages, plages potières et chapelles. Idées classiques:
+Sifnos est l'une des grandes îles de randonnée des Cyclades. Les sentiers relient les villages, les plages des potiers et les chapelles. Quelques classiques :
 
-1. **Ruelles Apollonia / Artemonas → Kastro**, riche en culture, effort modéré.
-2. **Sentiers côtiers Kamares**, départ port, grottes et points de vue.
-3. **Couloir Vathi ↔ Platis Gialos**, plage à plage (tronçons incluent approches Fykiada).
-4. **Liens acropole Agios Andreas**, histoire + crêtes (vérifiez chaleur et chaussures).
+1. **Des ruelles d'Apollonia et d'Artemonas jusqu'à Kastro** : très riche sur le plan culturel, effort modéré.
+2. **Les sentiers côtiers de Kamares** : départ du port, grottes et points de vue.
+3. **Le couloir Vathi ↔ Platys Gialos** : d'une plage à l'autre (certains tronçons passent par les accès à Fykiada).
+4. **Les chemins vers l'acropole d'Agios Andreas** : histoire et vues depuis les crêtes (attention à la chaleur, prévoyez de bonnes chaussures).
 
-**Conseils sentier:** partez tôt, emportez de l’eau, chaussures correctes et envisagez une marche aller simple avec un partenaire qui fait le pick-up en voiture: facile avec une location. Laissez les objets de valeur hors de vue dans la voiture.
+**Conseils de randonnée :** partez tôt, emportez de l'eau, portez de bonnes chaussures, et pensez à une randonnée en aller simple pendant que quelqu'un vient vous récupérer en voiture : facile quand on a une location. Ne laissez pas d'objets de valeur en vue dans la voiture.
 
 ## Cuisine et gastronomie
 
-Sifnos frappe au-dessus de son poids: pois chiches **revithada**, **mastelo** mijoté, fromages locaux, miel et douceurs de boulangerie. Réservez les tavernes populaires en semaines de pointe; conduisez vers les villages pour des tables plus calmes.
+Sifnos joue dans la cour des grands : **revithada** de pois chiches, **mastelo** mijoté longuement, fromages locaux, miel et douceurs de boulangerie. Réservez les tavernes les plus courues pendant les semaines de haute saison, et prenez la voiture vers les villages pour trouver des tables plus calmes.
 
-Voir [Cuisine et poterie](/fr/sifnos-guide/food-pottery) pour un approfondissement.
+Pour aller plus loin, consultez [Cuisine et poterie](/fr/sifnos-guide/food-pottery).
 
 ## Ateliers de poterie
 
-La céramique fait partie de l’identité de l’île: les ateliers se regroupaient historiquement autour de villages côtiers comme **Kamares, Vathi et Herronisos**. Beaucoup accueillent les visiteurs pour parcourir; certains offrent de courtes expériences en saison. Combinez un arrêt atelier avec une baignade pour que la journée ne ressemble pas à un circuit musée.
+La céramique fait partie de l'identité de l'île : les ateliers se sont longtemps regroupés autour de villages côtiers comme **Kamares, Vathi et Cherronisos**. Beaucoup accueillent les visiteurs qui veulent simplement regarder ; certains proposent de courtes initiations en saison. Associez la visite d'un atelier à une baignade, pour que la journée ne ressemble pas à un circuit de musées.
 
 ## Monastères et chapelles
 
-- **Panagia Chrysopigi**, monastère patron sur le promontoire sud-est; énergie de fête en saison.
-- **Vryssi et autres monastères inland**, arrêts spirituels plus calmes entre villages.
-- **Profitis Ilias**, points de vue hauts récompensent les jours clairs (vérifiez conditions route/sentier).
+- **Panagia Chrysopigi** : le monastère de la sainte patronne de l'île, sur le promontoire sud-est ; ambiance de fête en saison.
+- **Vryssi et les autres monastères de l'intérieur** : des haltes spirituelles plus calmes entre les villages.
+- **Profitis Ilias** : des points de vue en altitude qui récompensent les journées claires (renseignez-vous sur l'état de la route et du sentier).
 
-Respectez les codes vestimentaires sur les sites religieux actifs; garez-vous sans bloquer processions ou portails de chapelle.
+Respectez les tenues exigées dans les lieux de culte en activité, et garez-vous sans gêner les processions ni l'accès aux chapelles.
 
-## Journées bateau et island hopping
+## Sorties en bateau et tour des îles
 
-Depuis Sifnos vous pouvez rejoindre des sorties côtières en bateau ou des hops ferry vers des îles voisines (par exemple Milos, Kimolos ou paysages day Polyegos selon saison et opérateurs). Planifiez d’abord les jours ferry, puis réservez les roues Artemis **uniquement pour les nuits à Sifnos** où vous êtes à terre.
+Depuis Sifnos, vous pouvez partir en excursion en bateau le long des côtes ou prendre le ferry vers les îles voisines (par exemple Milos, Kimolos ou les paysages sauvages de Polyegos pour la journée, selon la saison et les opérateurs). Fixez d'abord vos jours de ferry, puis réservez votre véhicule Artemis **uniquement pour les nuits passées à Sifnos**.
 
-Idées ferry live: [routes Athènes–Sifnos sur Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) et le [planner Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+Pour les ferries en temps réel : [liaisons Athènes–Sifnos sur Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) et le [planificateur Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
-## Plan échantillon 4 jours (avec location)
+## Exemple de programme sur 4 jours (avec une location)
 
-| Jour | Plan |
+| Jour | Programme |
 | --- | --- |
-| 1 | Ferry → baignade Kamares ou installation Apollonia → coucher du soleil Artemonas |
-| 2 | Boucle sud: Faros → Chrysopigi → Platis Gialos |
-| 3 | Matin plage Vathi → arrêt poterie → Kastro à l’heure dorée |
-| 4 | Nord vers Herronisos / Vroulidia ou une randonnée + dîner tôt à Apollonia |
+| 1 | Ferry → baignade à Kamares ou installation à Apollonia → coucher du soleil à Artemonas |
+| 2 | Boucle sud : Faros → Chrysopigi → Platys Gialos |
+| 3 | Matinée à la plage de Vathi → visite d'un atelier de poterie → Kastro à l'heure dorée |
+| 4 | Le nord, vers Cherronisos / Vroulidia, ou une randonnée + dîner tôt à Apollonia |
 
-## FAQ
+## Questions fréquentes
 
-**Sifnos convient-elle aux enfants?** Oui: sable Platis Gialos / Kamares, trajets courts et logistique glace de village sont faciles avec une voiture.
+**Sifnos, c'est bien avec des enfants ?** Oui : le sable de Platys Gialos et de Kamares, les trajets courts et la glace au village, tout est simple avec une voiture.
 
-**Combien de jours?** Quatre à cinq pour le mix classique; une semaine si vous voulez randonnées et journées bateau.
+**Combien de jours prévoir ?** Quatre à cinq pour l'essentiel ; une semaine si vous voulez randonner et faire des sorties en bateau.
 
-**Faut-il une voiture?** Pour trois jours plage/village ou plus en haute saison, oui pour la plupart des visiteurs. Les scooters conviennent aux couples avec sacs légers à l’aise sur les collines.
+**Faut-il une voiture ?** Pour trois jours ou plus de plages et de villages en haute saison, oui, pour la plupart des visiteurs. Le scooter convient aux couples avec peu de bagages et à l'aise dans les côtes.
 
-**Meilleurs couchers de soleil?** Bords de Kastro, lumière du promontoire Chrysopigi et ruelles Apollonia/Artemonas après la baisse de chaleur.
+**Où voir le coucher du soleil ?** Sur les remparts de Kastro, depuis le promontoire de Chrysopigi, et dans les ruelles d'Apollonia et d'Artemonas quand la chaleur retombe.
 
-**Puis-je faire Sifnos sans tours réservés?** Absolument: plages et villages sont self-drive friendly. Réservez seulement les sorties bateau ou ateliers que vous voulez vraiment.
+**Peut-on visiter Sifnos sans réserver d'excursions ?** Tout à fait : plages et villages se découvrent très bien par soi-même, en voiture. Ne réservez que les sorties en bateau ou les ateliers qui vous intéressent vraiment.
 
-## Prêt pour les clés?
+## Prêt à prendre les clés ?
 
-[Demandez des dates](/fr/book) avec Artemis, aucun acompte pour réserver, ou parcourez la [flotte](/fr/cars). Listings live plus riches aussi sur [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+[Demandez vos dates](/fr/book) à Artemis, sans acompte pour réserver, ou parcourez la [flotte](/fr/cars). Vous trouverez aussi plus d'adresses, mises à jour en temps réel, sur [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

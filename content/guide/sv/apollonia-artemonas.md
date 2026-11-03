@@ -1,8 +1,8 @@
 ---
 slug: apollonia-artemonas
-title: "Apollonia & Artemonas: öns centrum"
-description: "Guide till Apollonia och Artemonas på Sifnos: var du promenaderar, parkerar, äter och varför Artemis bas i Apollonia gör stranddagar enklare."
-answer: "Apollonia är Sifnos livliga huvudort för kvällar och service; Artemonas är den eleganta grannen med nyklassiska herrgårdar. Artemis Rental har bas i Apollonia, så du startar och avslutar strandslingor från öns centrum."
+title: "Apollonia och Artemonas: öns centrum"
+description: "Guide till Apollonia och Artemonas på Sifnos: var du promenerar, parkerar och äter, och varför Artemis kontor i Apollonia gör stranddagarna enklare."
+answer: "Apollonia är Sifnos livliga huvudort, med kvällsliv och service. Artemonas är den eleganta grannbyn med nyklassiska herrgårdar. Artemis Rental har sitt kontor i Apollonia, så du börjar och avslutar dina strandturer mitt på ön."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/villages/artemonas.webp"
@@ -15,32 +15,32 @@ related:
   - where-to-stay
 ---
 
-![Apollonia](/images/sifnos/villages/apollonia.webp "Apollonias gränder")
+![Apollonia](/images/sifnos/villages/apollonia.webp "Gränderna i Apollonia")
 
-## Apollonia, huvudstadsenergi
+## Apollonia, huvudortens puls
 
-Apollonia (kallas även Stavri lokalt för den centrala ryggraden) är där Sifnos koncentrerar nattliv, butiker, bagerier och sena bord. Vitkalkade gränder stiger och förgrenar sig; efter 21:00 på sommaren surrar centrum. Den naturliga platsen att **hämta hyresnycklar**, lämna strandprylar på hotellet och gå till middag utan att flytta bilen igen.
+Apollonia (den centrala delen kallas lokalt även Stavri) är platsen där Sifnos samlar nattliv, butiker, bagerier och sena middagar. De vitkalkade gränderna klättrar och delar sig, och efter 21:00 på sommaren sjuder centrum av liv. Här är det naturligt att **hämta nycklarna till hyrbilen**, lämna strandsakerna på hotellet och promenera till middagen utan att flytta bilen igen.
 
-**Gör i Apollonia**
-- Kvällsvolta genom huvudgånggatorna
-- Souvenir- och smyckesshopping
-- Sen dessert och people-watching
-- Praktiska ärenden: bankomater, apotek, minimarknader
+**Att göra i Apollonia**
+- Kvällspromenad, volta, längs de bilfria huvudgatorna
+- Titta på souvenirer och smycken
+- Sen efterrätt och folkliv
+- Praktiska ärenden: bankomater, apotek, småbutiker
 
-**Parkeringsverklighet:** föredra hotellparkering eller centrumkanter; blockera inte smala gränder. När du parkerat för kvällen, gå.
+**Parkering i praktiken:** Använd hotellets parkering eller ställ bilen i utkanten av centrum, och blockera inte de smala gränderna. När bilen väl står parkerad för kvällen går du till fots.
 
-## Artemonas, nyklassisk stillhet
+## Artemonas, nyklassiskt lugn
 
 ![Artemonas](/images/sifnos/villages/artemonas.webp "Artemonas")
 
-Några minuter ovanför / bredvid Apollonia känns Artemonas grönare och mer bostadsartad: herrgårdar, gårdar och lugnare nätter. Idealiskt om du vill ha huvudortsaccess utan att sova ovanför en bar.
+Strax ovanför och intill Apollonia ligger Artemonas, som känns grönare och mer som ett bostadsområde: herrgårdar, innergårdar och lugnare kvällar. Perfekt om du vill ha nära till huvudorten utan att sova ovanför en bar.
 
-**Gör i Artemonas**
-- Arkitekturpromenad i gyllene timmen
+**Att göra i Artemonas**
+- Arkitekturpromenad i det gyllene kvällsljuset
 - Frukost med utsikt
-- Bas för resenärer som gillar lugna morgnar
+- En bra bas för dig som gillar lugna morgnar
 
-## Närliggande byar i korta hopp
+## Byar i närheten, för korta turer
 
 ![Exambela](/images/sifnos/villages/exampela.webp "Exambela")
 ![Katavati](/images/sifnos/villages/katavati.webp "Katavati")
@@ -49,18 +49,18 @@ Några minuter ovanför / bredvid Apollonia känns Artemonas grönare och mer bo
 ![Agios Loukas](/images/sifnos/villages/agios-loukas.webp "Agios Loukas")
 ![Kato Petali](/images/sifnos/villages/kato-petali.webp "Kato Petali")
 
-Använd dem som sceniska kopplingar: Exambela, Katavati, Kato & Pano Petali, Troullaki, Agios Loukas. Ingen kräver en hel dag. De berikar körningen mellan stränder och Kastro.
+Se dem som vackra mellanstopp: Exambela, Katavati, Kato och Pano Petali, Troullaki och Agios Loukas. Ingen av dem kräver en hel dag, men de gör bilturen mellan stränderna och Kastro rikare.
 
-## Kastro som lätt kvällstillägg
+## Kastro, enkelt att lägga till en kväll
 
 ![Kastro](/images/sifnos/villages/kastro.webp "Kastro")
 
-Från Apollonia-området är Kastro en kort körning till solnedgångsmurar och egeiskt vind. Parkera utanför den trånga medeltida kärnan och gå in.
+Från Apollonia är det en kort biltur till Kastro, med murar i solnedgången och vind från Egeiska havet. Parkera utanför den trånga medeltida kärnan och gå in till fots.
 
-## Varför en uthyrningsdisk i Apollonia hjälper
+## Därför underlättar ett uthyrningskontor i Apollonia
 
-Att starta från centrum betyder att varje klassisk slinga är ut-och-tillbaka: söder till Platis Gialos, väster till Vathi, öster till Kastro, norr mot Herronisos. Du sitter inte fast i hamnen om du inte väljer en Kamares-stranddag.
+När du utgår från mitten av ön blir varje klassisk tur en tur ut och tillbaka: söderut till Platis Gialos, västerut till Vathi, österut till Kastro och norrut mot Herronisos. Du sitter inte fast i hamnen, om du inte själv väljer en stranddag i Kamares.
 
-Artemis-tips: säg hotellområde när du frågar. Vi hjälper med mötespunkter och, för bilar, **Kamares färjeupphämtning** på begäran.
+Tips från Artemis: berätta i vilket område du bor när du skickar din förfrågan. Vi hjälper till med mötesplats och, för bilar, **upphämtning vid färjan i Kamares** på begäran.
 
-[Bläddra bilar](/sv/cars) · [Scootrar](/sv/scooters) · [Boka](/sv/book)
+[Se bilarna](/sv/cars) · [Scootrar](/sv/scooters) · [Boka](/sv/book)

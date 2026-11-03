@@ -1,8 +1,8 @@
 ---
 slug: beaches
-title: "Sifnos-stranden die de rit waard zijn"
-description: "Complete Sifnos-strandgids voor auto- en scooterruiters: Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia en Fykiada met toegang, wind."
-answer: "Met een Artemis-auto of scooter prioriteer je Platis Gialos voor voorzieningen, Vathi voor een beschutte baai, Chrysopigi voor de kloosteransichtkaart en Herronisos of Vroulidia voor rustiger noordzwemmen. Kom vroeg in juli–augustus voor parkeren."
+title: "Stranden op Sifnos die de rit waard zijn"
+description: "Complete strandengids voor Sifnos voor wie met auto of scooter rijdt: Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia en Fykiada."
+answer: "Met een auto of scooter van Artemis kies je Platys Gialos voor de voorzieningen, Vathi voor een beschutte baai, Chrysopigi voor het klooster als op een ansichtkaart, en Cherronisos of Vroulidia als je rustiger wilt zwemmen aan de noordkust. Kom in juli en augustus vroeg, dan vind je nog een parkeerplek."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
@@ -14,183 +14,183 @@ related:
   - kamares-port
 ---
 
-Sifnos-stranden liggen rond een compact eiland: korte afstanden op de kaart, maar veel makkelijker met eigen wielen dan met dunne zomerbussen. Deze gids is voor reizigers die sleutels ophalen in Apollonia (of Kamares op verzoek) en duidelijke antwoorden willen: welk strand, hoe er te komen, waar te parkeren en wat de wind meestal doet.
+De stranden van Sifnos liggen verspreid over een klein eiland: op de kaart zijn de afstanden kort, maar met eigen vervoer is het veel makkelijker dan met de schaarse bussen in de zomer. Deze gids is geschreven voor reizigers die hun sleutels ophalen in Apollonia (of op aanvraag in Kamares) en duidelijke antwoorden willen: welk strand, hoe kom je er, waar parkeer je en wat doet de wind meestal.
 
-![Strand Platis Gialos Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos, lang zandstrand in het zuiden van Sifnos")
+![Strand van Platys Gialos op Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, lang zandstrand in het zuiden van Sifnos")
 
-## Hoe je een stranddag kiest
+## Zo kies je je stranddag
 
-- **Gezinnen & voorzieningen:** Platis Gialos of Kamares
-- **Beschut zwemmen:** Vathi (uitstekende windbescherming)
-- **Foto's & klooster:** Chrysopigi (combineer met Faros)
-- **Rustige noordkust:** Herronisos + Vroulidia (auto sterk aanbevolen)
-- **Alleen hike of boot:** Fykiada (geen weg)
+- **Gezinnen en voorzieningen:** Platys Gialos of Kamares
+- **Beschut zwemmen:** Vathi (uitstekend beschut tegen de wind)
+- **Foto's en een klooster:** Chrysopigi (te combineren met Faros)
+- **Rustige noordkust:** Cherronisos en Vroulidia (een auto is hier echt aan te raden)
+- **Alleen te voet of per boot:** Fykiada (geen weg)
 
-Zomertip: verlaat Apollonia vóór **09:30**, of bezoek een tweede strand na **16:00** wanneer daytrippers vertrekken.
+Tip voor de zomer: vertrek vóór **09:30** uit Apollonia, of ga na **16:00** naar een tweede strand, als de dagjesmensen vertrekken.
 
-## Platis Gialos
+## Platys Gialos
 
-**Zuid-Sifnos · ~15–20 minuten vanaf Apollonia per auto**
+**Zuid-Sifnos · ca. 15–20 minuten met de auto vanaf Apollonia**
 
-Een van de grootste en populairste zandstranden op Sifnos, vooral geliefd bij Griekse bezoekers. Verdient regelmatig Blue Flag voor waterkwaliteit en services. Verwacht tavernes, beachbars, watersport in het seizoen, winkels en keramiekstudio's in de buurt.
+Een van de grootste en populairste zandstranden op Sifnos, vooral geliefd bij Griekse bezoekers. Het krijgt regelmatig een Blue Flag voor de waterkwaliteit en de voorzieningen. Je vindt er taverna's, strandbars, in het seizoen watersport, winkels en in de buurt een paar pottenbakkerijen.
 
-**Highlights**
-- Blue Flag-zandkust
-- Uitzicht naar eilandje Kitriani
-- Makkelijke basis voor zuidelijke kustritten
-- Wandelingen bij de Witte Toren (oud signaal)
+**Hoogtepunten**
+- Zandstrand met Blue Flag
+- Uitzicht op het eilandje Kitriani
+- Handige uitvalsbasis voor ritten langs de zuidkust
+- Wandelingen naar de Witte Toren (een oude wachttoren)
 
-**Toegang & parkeren:** verharde weg vanaf Apollonia; bus in het seizoen. Parkeren bij het zand vult laat in de ochtend in piekweken: gebruik zijstraten en loop een paar minuten.
+**Bereikbaarheid en parkeren:** geasfalteerde weg vanaf Apollonia; in het seizoen rijdt er een bus. In het hoogseizoen staan de plekken vlak bij het strand eind van de ochtend vol: parkeer in een zijstraat en loop een paar minuten.
 
-**Wind:** matig, beter beschermd tegen harde noordenwinden dan open noordinhammen.
+**Wind:** gemiddeld, beter beschut tegen harde noordenwind dan de open baaien in het noorden.
 
-**Perfect voor:** gezinnen, zwemmen, lange lunchdagen, reizigers met strandspullen in de kofferbak.
+**Ideaal voor:** gezinnen, zwemmen, lange lunches, reizigers met strandspullen in de kofferbak.
 
-![Strand en haven Kamares](/images/sifnos/beaches/kamares.webp "Kamares, havenbaai en strand in westelijk Sifnos")
+![Strand en haven van Kamares](/images/sifnos/beaches/kamares.webp "Kamares, haven en strand aan de westkust van Sifnos")
 
 ## Kamares
 
-**West-Sifnos (hoofdhaven) · ~10–15 minuten vanaf Apollonia**
+**West-Sifnos (de haven) · ca. 10–15 minuten vanaf Apollonia**
 
-De veerhaven en grootste kustdorp. Brede zandbaai, veel services en de praktische eerste of laatste zwem van je trip. Artemis kan **Kamares-ophaling** voor auto's regelen wanneer de boot aanlegt: vraag het bij je aanvraag.
+De veerhaven en het grootste kustdorp. Een brede zandbaai, veel voorzieningen en een handige plek voor je eerste of laatste duik van de vakantie. Artemis kan voor auto's **ophalen in Kamares** regelen als je boot aanmeert: vraag het bij je aanvraag.
 
-**Highlights**
-- Hoofdveeraankomst / -vertrek
-- Trailheads richting Nymfon en kustgrotten
-- Boodschappen, bakkerijen, keramiekwerkplaatsen
-- Strand + logistiek op één plek
+**Hoogtepunten**
+- De belangrijkste plek voor aankomst en vertrek met de veerboot
+- Startpunt van wandelingen richting Nymfon en de grotten aan de kust
+- Boodschappen, bakkers, pottenbakkerijen
+- Strand en alle praktische zaken op één plek
 
-**Toegang & parkeren:** rechte weg vanaf Apollonia. Havenverkeer piekt wanneer veren aanleggen: plan extra minuten.
+**Bereikbaarheid en parkeren:** een rechte weg vanaf Apollonia. Als er veerboten aanmeren is het druk bij de haven, reken dan op een paar minuten extra.
 
-**Wind:** goed, beschutte baai voor de meeste omstandigheden.
+**Wind:** goed, een beschutte baai bij de meeste weersomstandigheden.
 
-**Perfect voor:** aankomstdagzwemmen, gezinnen, reizigers bij de haven.
+**Ideaal voor:** een duik op de dag van aankomst, gezinnen, reizigers die bij de haven overnachten.
 
-![Baai Vathi Sifnos](/images/sifnos/beaches/vathi.webp "Vathi, beschutte zandbaai")
+![Baai van Vathi op Sifnos](/images/sifnos/beaches/vathi.webp "Vathi, beschutte zandbaai")
 
 ## Vathi
 
-**West-Sifnos · ~20–25 minuten vanaf Apollonia**
+**West-Sifnos · ca. 20–25 minuten vanaf Apollonia**
 
-Fotogenieke, brede zandbaai met kalmer dorpsgevoel. Ooit een groot keramiekcentrum, beloont Vathi nog een trage lunch en middagzwem. Uitstekende beschutting bij meltemi.
+Een fotogenieke, brede zandbaai met een rustige dorpssfeer. Vathi was ooit een belangrijk pottenbakkerscentrum en is nog altijd de plek voor een lange lunch en een middag zwemmen. Uitstekend beschut als de meltemi waait.
 
-**Highlights**
+**Hoogtepunten**
 - Beschut zwemmen
-- Keramiekerfgoed en studio's
-- Paden richting Platis Gialos / Fykiada
-- Zacht zand en klassieke Cycladische amfitheatervorm
+- Pottenbakkerstraditie en ateliers
+- Wandelpaden richting Platys Gialos en Fykiada
+- Zacht zand en de klassieke vorm van een Cycladisch amfitheater
 
-**Toegang & parkeren:** wegaansluiting met dorpsparkeren; kom vóór lunch in augustus.
+**Bereikbaarheid en parkeren:** over de weg bereikbaar, met parkeerplekken in het dorp; kom in augustus vóór de lunch.
 
-**Wind:** uitstekend, een van de meest beschutte stranden van het eiland.
+**Wind:** uitstekend, een van de best beschutte stranden van het eiland.
 
-**Perfect voor:** stellen, scooter-dagtrips (lichte tassen), winderige middagen wanneer andere inhammen choppy zijn.
+**Ideaal voor:** stellen, dagtochten met de scooter (met weinig bagage), winderige middagen waarop het elders woelig is.
 
-![Klooster Chrysopigi Sifnos](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, klooster op de rotsachtige landtong")
+![Klooster van Chrysopigi op Sifnos](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, het klooster op de rotsachtige landtong")
 
 ## Chrysopigi
 
-**Zuidoost-Sifnos · ~20 minuten vanaf Apollonia**
+**Zuidoost-Sifnos · ca. 20 minuten vanaf Apollonia**
 
-De meest gefotografeerde landtong van het eiland: het klooster Panagia Chrysopigi (16e eeuw), beschermheilige van Sifnos, boven rotsachtige zwemplekken en helder water. Kom voor de setting meer dan voor een lang zandlounge.
+De meest gefotografeerde landtong van het eiland: het klooster van Panagia Chrysopigi (16e eeuw), gewijd aan de beschermheilige van Sifnos, boven rotsige plekken om te zwemmen en helder water. Je komt hier meer voor de plek zelf dan om de hele dag op het zand te liggen.
 
-**Highlights**
-- Icoon klooster en feestdagen
-- Snorkelen rond rotsen
-- Combineer met Faros of Platis Gialos in één lus
-- Zonsonderganglicht op het schiereiland
+**Hoogtepunten**
+- Het iconische klooster en de feestdagen
+- Snorkelen tussen de rotsen
+- Te combineren met Faros of Platys Gialos in één rondrit
+- Prachtig avondlicht op het schiereiland
 
-**Toegang & parkeren:** rit via Faros / zuidwegen; parkeren beperkt bij het klooster, blokkeer kapeltoegang niet. Bus naar Faros + wandelen mogelijk maar trager met strandtassen.
+**Bereikbaarheid en parkeren:** rijd via Faros en de wegen in het zuiden; bij het klooster is weinig parkeerruimte, blokkeer nooit de toegang tot de kapel. Met de bus naar Faros en dan lopen kan ook, maar met strandtassen duurt dat langer.
 
-**Wind:** matig; welke kant van de landtong kalmer voelt verandert met de forecast.
+**Wind:** gemiddeld; welke kant van de landtong het rustigst is, hangt af van de weersverwachting.
 
-**Perfect voor:** fotografie, korte zwembeurten, cultuurstops tussen stranddagen.
+**Ideaal voor:** fotografie, een korte duik, een culturele stop tussen stranddagen door.
 
-![Vissersdorpstrand Faros](/images/sifnos/beaches/faros.webp "Faros, vissersdorpstranden")
+![Strand bij het vissersdorp Faros](/images/sifnos/beaches/faros.webp "Faros, de stranden van het vissersdorp")
 
 ## Faros
 
-**Zuidoost-Sifnos · ~15 minuten vanaf Apollonia**
+**Zuidoost-Sifnos · ca. 15 minuten vanaf Apollonia**
 
-Traditioneel vissersdorp dat ooit de hoofdhaven van het eiland was. Kleine stranden, tavernes en kustwandelingen (ook richting Fasolou / Stavros) maken een zachte halve dag.
+Een traditioneel vissersdorp dat ooit de belangrijkste haven van het eiland was. Kleine stranden, taverna's en wandelingen langs de kust (onder andere richting Fasolou en Stavros) maken er een ontspannen halve dag van.
 
-**Highlights**
-- Vissersdorpsfeer
-- Kustvoetpaden
-- Makkelijk duo met Chrysopigi
-- Padlinks richting Agios Andreas / Kastro voor wandelaars
+**Hoogtepunten**
+- De sfeer van een vissersdorp
+- Paden langs de kust
+- Makkelijk te combineren met Chrysopigi
+- Voor wandelaars: paden richting Agios Andreas en Kastro
 
-**Toegang & parkeren:** verharde weg; bescheiden parkeren bij de waterkant.
+**Bereikbaarheid en parkeren:** geasfalteerde weg; beperkt parkeren bij het water.
 
-**Wind:** goed, beschutte zak.
+**Wind:** goed, een beschut hoekje.
 
-**Perfect voor:** ontspannen zwemmen, lunchstops, reizigers die grote resortstranden niet leuk vinden.
+**Ideaal voor:** ontspannen zwemmen, een lunchstop, reizigers die niet van grote badplaatsen houden.
 
-![Herronisos noord Sifnos](/images/sifnos/beaches/heronissos.webp "Herronisos, noordelijke vissersinham")
+![Cherronisos in het noorden van Sifnos](/images/sifnos/beaches/heronissos.webp "Cherronisos, vissersbaai in het noorden")
 
-## Herronisos (Heronissos)
+## Cherronisos (Heronissos)
 
-**Noord-Sifnos · ~30–35 minuten vanaf Apollonia**
+**Noord-Sifnos · ca. 30–35 minuten vanaf Apollonia**
 
-Het noordelijkste stranddorp: klein, traditioneel, met keramiek en een rustige inham. Hier verdient een huurauto zijn plek: bussen zijn zeldzaam en de weg langer.
+Het noordelijkste kustdorp: klein, traditioneel, met pottenbakkers en een rustige baai. Hier bewijst een huurauto zijn waarde: de bus rijdt zelden en de weg is langer.
 
-**Highlights**
-- Einde-van-de-weg-afzondering
-- Traditionele keramiek
-- Vissersdorpschaal
-- Combineer met Vroulidia dezelfde middag
+**Hoogtepunten**
+- De rust van het einde van de weg
+- Traditionele pottenbakkerijen
+- Een vissersdorp op kleine schaal
+- Op dezelfde middag te combineren met Vroulidia
 
-**Toegang & parkeren:** het best per auto; beperkt parkeren in de dorpslaan, voorzichtig achteruit.
+**Bereikbaarheid en parkeren:** het best met de auto; weinig parkeerplek in het dorpsstraatje, rijd voorzichtig achteruit.
 
-**Wind:** matig, meer blootgesteld aan noordenwinden dan Vathi.
+**Wind:** gemiddeld, meer blootgesteld aan noordenwind dan Vathi.
 
-**Perfect voor:** afzondering, ambachtstops, reizigers met een volle dag en brandstof.
+**Ideaal voor:** rust, ambachtelijke stops, reizigers met een hele dag en een volle tank.
 
-![Kiezelstrand Vroulidia](/images/sifnos/beaches/vroulidia.webp "Vroulidia, kiezelstrand bij Herronisos")
+![Kiezelstrand van Vroulidia](/images/sifnos/beaches/vroulidia.webp "Vroulidia, kiezelstrand bij Cherronisos")
 
 ## Vroulidia
 
-**Noord-Sifnos · bij Herronisos**
+**Noord-Sifnos · bij Cherronisos**
 
-Rustig kiezelstrand met helder water en ruiger gevoel. Kleine strandcafés kunnen parasols bieden in het seizoen. De finale aanrijroute kan een korte afdaling te voet vanaf beperkt bermparkeren omvatten.
+Een rustig kiezelstrand met helder water en een ruiger karakter. In het seizoen verhuren kleine strandcafés soms parasols. Het laatste stuk loop je mogelijk even naar beneden vanaf een paar parkeerplekjes langs de weg.
 
-**Toegang:** grind / ruwe aanrijroute op plekken: langzaam in een compacte auto; scooters hebben zorg nodig op losse ondergrond.
+**Bereikbaarheid:** op sommige stukken onverhard of hobbelig, dus rijd langzaam met een compacte auto; op een scooter moet je oppassen op losse ondergrond.
 
-**Wind:** kan blootgesteld voelen bij zuidenwinden.
+**Wind:** kan onbeschut aanvoelen bij zuidenwind.
 
-**Perfect voor:** snorkelen, rustige middagen, reizigers die de grote zuidstranden al zagen.
+**Ideaal voor:** snorkelen, rustige middagen, reizigers die de grote stranden in het zuiden al hebben gezien.
 
-![Afgelegen strand Fykiada](/images/sifnos/beaches/fykiada.webp "Fykiada, hike- of bootstrand")
+![Afgelegen strand Fykiada](/images/sifnos/beaches/fykiada.webp "Fykiada, alleen te voet of per boot bereikbaar")
 
 ## Fykiada
 
-**Tussen Platis Gialos en Vathi · geen weg**
+**Tussen Platys Gialos en Vathi · geen weg**
 
-Volledig onontwikkeld zand, bereikbaar **alleen te voet of per boot**. Bij de kapel van Agios Georgios en een oude olijfboom. Laat de auto in Platis Gialos of Vathi en hike; neem water mee en laat geen afval achter.
+Een volledig ongerept zandstrand, **alleen te voet of per boot** bereikbaar. In de buurt staan de kapel van Agios Georgios en een eeuwenoude olijfboom. Laat de auto achter in Platys Gialos of Vathi en ga lopen; neem water mee en laat geen afval achter.
 
-**Perfect voor:** wandelaars, avontuurzwemmen, menigtevrije ochtenden.
+**Ideaal voor:** wandelaars, avontuurlijke zwemmers, ochtenden zonder drukte.
 
-## Voorgestelde rijlussen
+## Voorgestelde routes met de auto
 
-1. **Zuidlus (halve dag):** Apollonia → Faros → Chrysopigi → Platis Gialos → terug
-2. **West kalme dag:** Apollonia → Vathi (lange zwem) → optionele zonsondergang in Apollonia
-3. **Noord-ontdekker (volle dag):** Apollonia → Herronisos → Vroulidia → terug via Artemonas voor diner
-4. **Havendag:** ochtendveerkoffie in Kamares + strand, dan inland
+1. **Zuidelijke route (halve dag):** Apollonia → Faros → Chrysopigi → Platys Gialos → terug
+2. **Rustige dag in het westen:** Apollonia → Vathi (lang zwemmen) → eventueel de zonsondergang in Apollonia
+3. **Ontdekkingstocht in het noorden (hele dag):** Apollonia → Cherronisos → Vroulidia → terug via Artemonas voor het avondeten
+4. **Havendag:** 's ochtends koffie in Kamares en naar het strand, daarna het binnenland in
 
-## Strand-FAQ
+## Veelgestelde vragen over de stranden
 
-**Beste stranden voor gezinnen?** Platis Gialos en Kamares: zand, ondiepe entrees, services.
+**Wat zijn de beste stranden voor gezinnen?** Platys Gialos en Kamares: zand, ondiep water en voorzieningen.
 
-**Beste bij meltemi?** Eerst Vathi; dan beschutte zakken in Faros / Kamares.
+**Waar zwem je het best als de meltemi waait?** Eerst Vathi; daarna de beschutte hoekjes bij Faros en Kamares.
 
-**Kan ik naar Fykiada rijden?** Nee, alleen hike of boot.
+**Kan ik naar Fykiada rijden?** Nee, je komt er alleen te voet of per boot.
 
-**Keramiek bij stranden?** Zoek in Kamares, Vathi, Herronisos en rond Faros.
+**Zijn er pottenbakkers bij de stranden?** Kijk in Kamares, Vathi, Cherronisos en rond Faros.
 
-**Blue Flag?** Platis Gialos is het Blue Flag-zandstrand dat de meeste bezoekers bedoelen.
+**Blue Flag?** Met het Blue Flag-zandstrand bedoelen de meeste bezoekers Platys Gialos.
 
-## Artemis-tip
+## Tip van Artemis
 
-Houd waardevolle spullen uit zicht, tank vóór lange noordritten in piekseizoen en bericht ons als je **Kamares-ophaling** wilt de ochtend dat je veer aanlegt. Browse [auto's](/nl/cars) en [scooters](/nl/scooters), of [vraag data aan](/nl/book).
+Houd waardevolle spullen uit het zicht, tank in het hoogseizoen voordat je een lange rit naar het noorden maakt en stuur ons een bericht als je wilt **ophalen in Kamares** op de ochtend dat je veerboot aanmeert. Bekijk [auto's](/nl/cars) en [scooters](/nl/scooters), of [vraag je data aan](/nl/book).
 
-Voor live eilandpagina's en dienstregelingen, zie ook [Sifnos op Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en [dingen om te doen](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+Voor actuele eilandpagina's en dienstregelingen kun je ook kijken bij [Sifnos op Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en [wat te doen op Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

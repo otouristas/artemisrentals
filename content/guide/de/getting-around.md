@@ -1,8 +1,8 @@
 ---
 slug: getting-around
-title: "Fortbewegung auf Sifnos: Auto vs Roller"
-description: "Fortbewegung auf Sifnos: Auto vs Roller vs Bus vs Taxi, Straßentipps, Parken, Kraftstoff und wann Artemis-Mieten am meisten Sinn ergeben. Von Artemis Rental."
-answer: "Für die meisten Besucher mit drei oder mehr Nächten ist ein Auto der komfortabelste Weg zu Stränden und Dörfern. Roller passen zu sicheren Fahrern mit leichtem Gepäck. Busse gibt es im Sommer, aber selten für Beach-Hopping; Taxis sind in Hochsaison-Zeiten begrenzt."
+title: "Unterwegs auf Sifnos: Auto oder Roller?"
+description: "Unterwegs auf Sifnos: Auto, Roller, Bus oder Taxi im Vergleich, Tipps zu Straßen, Parken und Tanken und wann sich ein Mietfahrzeug von Artemis am meisten lohnt."
+answer: "Für die meisten Gäste ab drei Nächten ist ein Auto die bequemste Art, Strände und Dörfer zu erreichen. Roller eignen sich für sichere Fahrer mit wenig Gepäck. Im Sommer fahren Busse, aber zu selten, um mehrere Strände abzuklappern, und Taxis sind in der Hochsaison knapp."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/villages/kastro.webp"
@@ -15,57 +15,57 @@ related:
   - kamares-port
 ---
 
-![Straßenankunft Kamares](/images/sifnos/beaches/kamares.webp "Vom Hafen Kamares hinauf nach Apollonia")
+![Ankunft in Kamares](/images/sifnos/beaches/kamares.webp "Vom Hafen Kamares hinauf nach Apollonia")
 
 ## Die kurze Antwort
 
-| Modus | Am besten für | Achtung |
+| Verkehrsmittel | Ideal für | Darauf sollten Sie achten |
 | --- | --- | --- |
-| **Auto** | Familien, Strandausrüstung, Nordküste, Mischwetter | Hochsaison-Parken an Platis Gialos / beliebten Buchten |
-| **Roller** | Paare, leichte Taschen, Apollonia–Strand-Hops | Wind, Schotterzufahrten (Vroulidia), steile Hügel zu zweit |
-| **Bus** | Budgetreisende auf Hauptkorridoren | Dünne Fahrpläne für Multi-Strand-Tage |
-| **Taxi** | Späte Fähre, einmalige Transfers | Verfügbarkeit eng an August-Abenden |
-| **Zu Fuß** | Apollonia/Artemonas-Abende, Kastro-Kern, Fykiada-Hike | Mittagshitze |
+| **Auto** | Familien, Strandausrüstung, Nordküste, wechselhaftes Wetter | Parkplatzsuche in der Hochsaison in Platys Gialos und an beliebten Buchten |
+| **Roller** | Paare, wenig Gepäck, kurze Fahrten von Apollonia zum Strand | Wind, Schotterzufahrten (Vroulidia), steile Anstiege zu zweit |
+| **Bus** | Reisende mit kleinem Budget auf den Hauptstrecken | Zu wenige Fahrten für Tage mit mehreren Stränden |
+| **Taxi** | Späte Fähre, einzelne Transfers | An Abenden im August kaum verfügbar |
+| **Zu Fuß** | Abende in Apollonia und Artemonas, der Ortskern von Kastro, die Wanderung nach Fykiada | Mittagshitze |
 
-## Autovermietung auf Sifnos
+## Mietwagen auf Sifnos
 
-Kompakte Autos passen am besten in Dorfgassen und enge Parkplätze. Artemis hält Autos für Inselstraßen; Daten früh anfragen für Juli–August-Automatik. **Abholung** ist typisch Apollonia; Autos können Fähren auf Anfrage auch in **Kamares** treffen. Roller sind Apollonia-basiert.
+Kleinwagen passen am besten in die Dorfgassen und auf enge Parkplätze. Artemis wartet seine Autos für die Inselstraßen. Wenn Sie im Juli oder August ein Auto mit Automatik möchten, fragen Sie früh an. Die **Abholung des Autos** ist am Hafen Kamares, am Heliport, in Apollonia, Artemonas und Kastro kostenlos. Roller können Sie online ohne Vorauszahlung buchen, Abholung und Rückgabe nur im Büro in Apollonia.
 
-Siehe auch [praktische Fahrtipps](/de/sifnos-guide/practical-tips).
+Mehr dazu unter [Mietwagen auf Sifnos](/de) und in den [praktischen Tipps zum Autofahren](/de/sifnos-guide/practical-tips).
 
-## Rollervermietung
+## Roller mieten
 
-Toll für erfahrene Fahrer, die Wind-im-Gesicht-Freiheit zwischen Apollonia, Faros, Chrysopigi und Vathi wollen. Helm tragen, Schotter beachten, nicht überladen. Wenn Sie Inselhügel neu sind oder mit Kindern/viel Gepäck reisen, wählen Sie ein Auto.
+Ideal für erfahrene Fahrer, die zwischen Apollonia, Faros, Chrysopigi und Vathi den Wind im Gesicht spüren möchten. Tragen Sie den Helm, achten Sie auf Schotter und überladen Sie den Roller nicht. Wenn Sie keine Erfahrung mit steilen Inselstraßen haben oder mit Kindern und viel Gepäck reisen, nehmen Sie lieber ein Auto.
 
-## Busse & Taxis
+## Busse und Taxis
 
-Sommerbusse verbinden Apollonia mit Kamares, Platis Gialos, Vathi, Faros und anderen Dörfern: nützlich, aber nicht ideal, wenn Sie drei Buchten an einem Tag wollen. Taxis gibt es; verlassen Sie sich nicht darauf, um 19:00 an einem abgelegenen Strand einen zu winken in Hochsaison-Saison.
+Im Sommer verbinden Busse Apollonia mit Kamares, Platys Gialos, Vathi, Faros und anderen Dörfern. Das ist nützlich, aber nicht ideal, wenn Sie an einem Tag drei Buchten sehen möchten. Taxis gibt es, doch verlassen Sie sich in der Hochsaison nicht darauf, um 19:00 Uhr an einem abgelegenen Strand eines anzuhalten.
 
-## Straßencharakter
+## Die Straßen
 
-- Asphalt deckt die Hauptachsen Apollonia–Strand.
-- Manche Nord- / Buchtzufahrten haben raue oder steile Finales: langsam fahren.
-- Blinde Kurven und enge Dorfstraßen: leicht hupen, Spiegel einklappen.
-- Nachtfahrt: auf unbeleuchtete Ränder und Roller achten.
+- Die Hauptstrecken von Apollonia zu den Stränden sind asphaltiert.
+- Manche Zufahrten im Norden und zu kleinen Buchten enden rau oder steil, fahren Sie langsam.
+- Unübersichtliche Kurven und enge Dorfstraßen: kurz hupen, Spiegel einklappen.
+- Nachts: Achten Sie auf unbeleuchtete Straßenränder und Roller.
 
-## Park-Cheat-Sheet
+## Parken auf einen Blick
 
-- **Apollonia abends:** einmal parken, laufen.
-- **Platis Gialos:** früher = näher.
-- **Chrysopigi:** begrenzt; Klosterzugang nie blockieren.
-- **Kastro:** unten / außen parken und die mittelalterlichen Gassen laufen.
-- **Herronisos:** enge Dorfgassen, Geduld.
+- **Apollonia am Abend:** einmal parken, dann zu Fuß gehen.
+- **Platys Gialos:** je früher, desto näher.
+- **Chrysopigi:** wenige Plätze, die Zufahrt zum Kloster nie blockieren.
+- **Kastro:** unterhalb oder außerhalb parken und die mittelalterlichen Gassen zu Fuß erkunden.
+- **Cherronisos:** enge Dorfgassen, Geduld mitbringen.
 
-## Kraftstoff & Reichweiten
+## Tanken und Entfernungen
 
-Tanken Sie im Apollonia- / Hauptstraßenbereich vor einem vollen Nordküstentag in Hochsaison. Entfernungen sind kurz, aber Schlangen entstehen, wenn mehrere Fähren am selben Nachmittag anlegen.
+Tanken Sie in der Hochsaison vor einem ganzen Tag an der Nordküste in der Gegend von Apollonia oder an der Hauptstraße. Die Wege sind kurz, aber es bilden sich Schlangen, wenn am selben Nachmittag mehrere Fähren anlegen.
 
-## Empfohlene Tagesradien von Apollonia
+## Fahrzeiten ab Apollonia
 
 - **0–15 Min.:** Artemonas, Katavati, Kastro, Kamares
-- **15–25 Min.:** Faros, Chrysopigi, Platis Gialos, Vathi
-- **30–40 Min.:** Herronisos, Vroulidia
+- **15–25 Min.:** Faros, Chrysopigi, Platys Gialos, Vathi
+- **30–40 Min.:** Cherronisos, Vroulidia
 
-## Artemis-Flotte
+## Die Flotte von Artemis
 
-[Autos](/de/cars) · [Roller](/de/scooters) · [Preise](/de/rates) · [Daten anfragen](/de/book)
+[Mietwagen-Ratgeber](/de/sifnos-guide/rent-a-car-sifnos) · [Autos](/de/cars) · [Preise](/de/rates) · [Zeitraum anfragen](/de/book)

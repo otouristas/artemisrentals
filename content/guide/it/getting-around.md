@@ -1,8 +1,8 @@
 ---
 slug: getting-around
-title: "Come spostarsi a Sifnos: auto vs scooter"
-description: "Come spostarsi a Sifnos: auto vs scooter vs bus vs taxi, consigli stradali, parcheggio, carburante e quando i noleggi Artemis hanno più senso."
-answer: "Per la maggior parte dei visitatori che restano tre o più notti, un’auto è il modo più comodo per raggiungere spiagge e villaggi. Gli scooter vanno bene a chi guida con sicurezza e bagagli leggeri. I bus esistono in estate ma sono poco frequenti per il beach-hopping; i taxi sono limitati nei picchi."
+title: "Come spostarsi a Sifnos: auto o scooter"
+description: "Come spostarsi a Sifnos: auto, scooter, autobus o taxi, consigli sulle strade, parcheggio, carburante e quando conviene noleggiare con Artemis. Da Artemis Rental."
+answer: "Per chi resta tre notti o più, l'auto è il modo più comodo per raggiungere spiagge e villaggi. Lo scooter va bene per chi guida con sicurezza e ha pochi bagagli. D'estate ci sono gli autobus, ma sono poco frequenti per girare tra le spiagge; i taxi scarseggiano in alta stagione."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/villages/kastro.webp"
@@ -15,57 +15,57 @@ related:
   - kamares-port
 ---
 
-![Arrivo strada Kamares](/images/sifnos/beaches/kamares.webp "Dal porto di Kamares su verso Apollonia")
+![La strada da Kamares](/images/sifnos/beaches/kamares.webp "Dal porto di Kamares si sale verso Apollonia")
 
 ## La risposta breve
 
-| Mezzo | Ideale per | Attenzione |
+| Mezzo | Ideale per | Attenzione a |
 | --- | --- | --- |
-| **Auto** | Famiglie, attrezzatura spiaggia, costa nord, meteo misto | Parcheggio di punta a Platis Gialos / cale popolari |
-| **Scooter** | Coppie, borse leggere, hop Apollonia–spiaggia | Vento, accessi sterrati (Vroulidia), salite a due |
-| **Bus** | Viaggiatori low-budget sui corridoi principali | Orari magri per giornate multi-spiaggia |
-| **Taxi** | Traghetto tardi, transfer una tantum | Disponibilità stretta nelle sere di agosto |
-| **A piedi** | Sere Apollonia/Artemonas, nucleo Kastro, hike Fykiada | Caldo di mezzogiorno |
+| **Auto** | Famiglie, attrezzatura da spiaggia, costa nord, meteo variabile | Parcheggio in alta stagione a Platys Gialos e nelle calette più frequentate |
+| **Scooter** | Coppie, bagagli leggeri, tragitti tra Apollonia e le spiagge | Vento, accessi sterrati (Vroulidia), salite ripide in due |
+| **Autobus** | Chi viaggia con un budget ridotto lungo le direttrici principali | Corse rade se vuoi vedere più spiagge in un giorno |
+| **Taxi** | Traghetto in arrivo tardi, trasferimenti singoli | Difficili da trovare la sera ad agosto |
+| **A piedi** | Serate ad Apollonia e Artemonas, il centro di Kastro, il sentiero di Fykiada | Il caldo di mezzogiorno |
 
 ## Noleggio auto a Sifnos
 
-Le auto compatte stanno meglio nelle corsie dei villaggi e nei parcheggi stretti. Artemis mantiene auto per strade isolane; richiedi date presto per automatiche luglio–agosto. Il **ritiro** è tipicamente Apollonia; le auto possono anche incontrare i traghetti a **Kamares** su richiesta. Gli scooter sono basati a Apollonia.
+Le utilitarie sono le più adatte ai vicoli dei villaggi e ai parcheggi stretti. Artemis cura le sue auto per le strade dell'isola; per luglio e agosto, se vuoi il cambio automatico, chiedi le date per tempo. Il **ritiro dell'auto** è gratuito al porto di Kamares, all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Gli scooter si ritirano ad Apollonia e si prenotano online senza anticipo.
 
-Vedi anche [consigli pratici di guida](/it/sifnos-guide/practical-tips).
+Leggi anche [noleggiare un'auto a Sifnos](/it) e i [consigli pratici per guidare](/it/sifnos-guide/practical-tips).
 
 ## Noleggio scooter
 
-Ottimo per rider esperti che vogliono libertà vento-in-faccia tra Apollonia, Faros, Chrysopigi e Vathi. Indossa il casco, attenzione alla ghiaia e non sovraccaricare. Se sei nuovo alle salite isolane o viaggi con bambini/tante borse, scegli un’auto.
+Ideale per chi ha esperienza e vuole la libertà del vento in faccia tra Apollonia, Faros, Chrysopigi e Vathi. Indossa il casco, fai attenzione alla ghiaia e non caricare troppo. Se non conosci le salite delle isole o viaggi con bambini e tanti bagagli, scegli l'auto.
 
-## Bus e taxi
+## Autobus e taxi
 
-I bus estivi collegano Apollonia con Kamares, Platis Gialos, Vathi, Faros e altri villaggi: utili, ma non ideali se vuoi tre cale in un giorno. I taxi esistono; non contare di fermarne uno a una spiaggia remota alle 19:00 in alta stagione.
+D'estate gli autobus collegano Apollonia a Kamares, Platys Gialos, Vathi, Faros e altri villaggi: utili, ma poco pratici se vuoi vedere tre calette in un giorno. I taxi ci sono, ma non contare di trovarne uno su una spiaggia isolata alle 19:00 in alta stagione.
 
-## Carattere delle strade
+## Com'è la strada
 
-- L’asfalto copre le spine principali Apollonia–spiaggia.
-- Alcuni accessi nord / cale hanno finali ruvidi o ripidi: vai piano.
-- Curve cieche e strade strette di villaggio: clacson leggero, specchietti dentro.
-- Guida notturna: attenzione a bordi non illuminati e scooter.
+- Le strade principali tra Apollonia e le spiagge sono asfaltate.
+- Alcuni accessi a nord e alle calette finiscono con tratti sconnessi o ripidi: vai piano.
+- Curve cieche e strade strette nei villaggi: un colpo leggero di clacson e specchietti chiusi.
+- Di notte: attenzione ai bordi non illuminati e agli scooter.
 
-## Cheat-sheet parcheggio
+## Il parcheggio in breve
 
-- **Sera Apollonia:** parcheggia una volta, cammina.
-- **Platis Gialos:** prima = più vicino.
-- **Chrysopigi:** limitato; non bloccare l’accesso al monastero.
-- **Kastro:** parcheggia sotto / fuori e cammina nelle corsie medievali.
-- **Herronisos:** corsie strette del villaggio, pazienza.
+- **Apollonia la sera:** parcheggia una volta e prosegui a piedi.
+- **Platys Gialos:** prima arrivi, più vicino parcheggi.
+- **Chrysopigi:** pochi posti; non bloccare mai l'accesso al monastero.
+- **Kastro:** parcheggia sotto o fuori dal paese e percorri a piedi i vicoli medievali.
+- **Cherronisos:** vicoli stretti, serve pazienza.
 
-## Carburante e autonomie
+## Carburante e distanze
 
-Fai pieno nella zona Apollonia / strada principale prima di una giornata completa sulla costa nord in alta stagione. Le distanze sono corte, ma le code compaiono quando più traghetti attraccano lo stesso pomeriggio.
+In alta stagione fai il pieno nella zona di Apollonia o lungo la strada principale prima di una giornata intera sulla costa nord. Le distanze sono brevi, ma si formano code quando più traghetti arrivano nello stesso pomeriggio.
 
-## Raggi giornalieri suggeriti da Apollonia
+## Quanto dista da Apollonia
 
 - **0–15 min:** Artemonas, Katavati, Kastro, Kamares
-- **15–25 min:** Faros, Chrysopigi, Platis Gialos, Vathi
-- **30–40 min:** Herronisos, Vroulidia
+- **15–25 min:** Faros, Chrysopigi, Platys Gialos, Vathi
+- **30–40 min:** Cherronisos, Vroulidia
 
-## Flotta Artemis
+## La flotta Artemis
 
-[Auto](/it/cars) · [Scooter](/it/scooters) · [Tariffe](/it/rates) · [Richiedi date](/it/book)
+[Guida al noleggio auto](/it/sifnos-guide/rent-a-car-sifnos) · [Auto](/it/cars) · [Tariffe](/it/rates) · [Richiedi le date](/it/book)

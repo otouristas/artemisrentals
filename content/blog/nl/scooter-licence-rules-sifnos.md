@@ -1,39 +1,39 @@
 ---
 slug: scooter-licence-rules-sifnos
-title: "Scooter rijbewijsregels voor huren op Sifnos"
-description: "Rijbewijs, leeftijd en praktische regels voor scooterverhuur bij Artemis op Sifnos. Gratis ophalen in Kamares, zonder vooruitbetaling."
+title: "Welk rijbewijs heb je nodig voor een scooter op Sifnos?"
+description: "Rijbewijs, leeftijd en praktische regels voor het huren van een scooter bij Artemis op Sifnos. Gratis ophalen in Kamares en Apollonia, zonder vooruitbetaling."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"
 author: "Artemis Rental"
-tags: [scooters, licence, rules]
+tags: [scooters, rijbewijs, regels]
 related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]
 ---
 
-Voor je kustscooter-dagen visualiseert, bevestig dat je aan Artemis-huurvoorwaarden voldoet: chauffeurs 23–75 met een rijbewijs van meer dan één jaar.
+Voordat je jezelf al op de scooter langs de kust ziet rijden: kijk eerst of je voldoet aan de huurvoorwaarden van Artemis. Je moet tussen de 23 en 75 jaar oud zijn en al langer dan een jaar een rijbewijs hebben.
 
-## Welke scooterklasse
+## Welke scooter kies je?
 
-Artemis biedt SYM Symphony-modellen van 125cc tot 200cc plus Fiddle en JET4 125. Kies motorgrootte op basis van hellingen, passagiersbelasting en ervaring, niet alleen de dagprijs.
+Artemis heeft SYM Symphony-modellen van 125cc tot 200cc, plus de Fiddle en de JET4 125. Kies de cilinderinhoud op basis van de hellingen, of je een passagier meeneemt en hoeveel ervaring je hebt, en niet alleen op de dagprijs.
 
-## Weggedrag
+## Rij verstandig
 
-Draag een helm, vermijd nachtritten op dag één, en behandel eilandwegen niet als een gesloten circuit. Het doel is strandtijd, geen adrenaline.
+Draag een helm, rijd op de eerste dag niet in het donker en behandel de eilandwegen niet als een circuit. Je bent hier voor het strand, niet voor de adrenaline.
 
-## EU- en niet-EU-rijbewijzen
+## Rijbewijzen uit en buiten de EU
 
-EU-formaat rijbewijzen die motorfiets of AM/A1 dekken worden over het algemeen geaccepteerd voor 125cc-scooters. Niet-EU-bezoekers nemen een International Driving Permit mee naast hun thuisrijbewijs als dat niet in het Engels of Grieks is; Artemis-medewerkers controleren bij ophalen in **Apollonia** of **Kamares op verzoek**.
+Een Europees rijbewijs met de categorie motor of AM/A1 wordt meestal geaccepteerd voor scooters in de klasse van 125cc. Kom je van buiten de EU en is je rijbewijs niet in het Engels of Grieks, neem dan naast je eigen rijbewijs een internationaal rijbewijs mee. De medewerkers van Artemis controleren dit bij het ophalen in **Apollonia** of, op aanvraag, **in Kamares**.
 
-Dekkt je rijbewijs alleen auto's, kun je in Griekenland geen 125cc-scooter huren. Bij twijfel, stuur een foto van je rijbewijs vóór je vliegt; dat spaart teleurstelling aan de balie.
+Geldt je rijbewijs alleen voor auto's, dan kun je in Griekenland geen scooter van 125cc huren. Twijfel je, stuur dan voordat je vertrekt een foto van je rijbewijs: dat voorkomt een teleurstelling aan de balie.
 
-## Cc kiezen voor twee rijders
+## Hoeveel cc met z'n tweeën?
 
-125cc SYM Symphony-modellen hanteren solo-rijders en lichte hellingen goed. Met passagier, overweeg 150cc of 200cc voor Apollonia-naar-Vathi-klimmen zonder de motor te forceren. JET4 en Fiddle 125 passen bij zelfverzekerde rijders op kortere hops tussen Kamares en Platis Gialos.
+De SYM Symphony van 125cc kan prima overweg met één rijder en lichte hellingen. Met een passagier achterop kun je beter een 150cc of 200cc nemen voor de klim van Apollonia naar Vathi, zonder de motor te zwaar te belasten. De JET4 en de Fiddle 125 passen bij ervaren rijders die kortere ritjes maken tussen Kamares en Platys Gialos.
 
-Stellen die rijdagen splitsen kunnen één scooter-dag met één autodag combineren in dezelfde Artemis-aanvraag, **geen vooruitbetaling** om te vragen.
+Wisselen jullie af? Stellen kunnen in dezelfde aanvraag bij Artemis een scooterdag en een autodag combineren, en vragen kost niets: **geen vooruitbetaling**.
 
-## Wanneer een auto meer zin heeft
+## Wanneer een auto handiger is
 
-Gezinnen, alleen-automatisch-chauffeurs, zware bagage of wandeluitrusting duwen je naar compacten. Lees [gezinsreis op Sifnos](/nl/blog/family-travel-sifnos) en [rijden op Sifnos](/nl/blog/driving-in-sifnos) vóór je een week aan twee wielen vastzit.
+Voor gezinnen, wie alleen automaat rijdt, veel bagage of wandelspullen is een compacte auto handiger. Lees [met het gezin naar Sifnos](/nl/blog/family-travel-sifnos) en [autorijden op Sifnos](/nl/blog/driving-in-sifnos) voordat je een hele week voor twee wielen kiest.
 
-Scooterprijzen volgen seizoenslogica zoals auto's; zie [autohuurprijzen op Sifnos](/nl/blog/sifnos-car-rental-prices) voor parallelle planning. Klaar? [Boek bij Artemis](/nl/book) met rijbewijsdetails en gewenste motorgrootte. Scooters huren hier sinds **1988** betekent rechte antwoorden, geen upsell.
+Scooterprijzen volgen per seizoen dezelfde lijn als die van auto's; zie [prijzen voor autohuur op Sifnos](/nl/blog/sifnos-car-rental-prices) om ze naast elkaar te leggen. Klaar? [Reserveer bij Artemis](/nl/book) en vermeld de gegevens van je rijbewijs en de cilinderinhoud van je voorkeur. We verhuren hier al sinds **1988** scooters, dus je krijgt een eerlijk antwoord, geen verkooppraatje.

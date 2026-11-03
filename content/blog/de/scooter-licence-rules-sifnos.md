@@ -1,39 +1,39 @@
 ---
 slug: scooter-licence-rules-sifnos
-title: "Führerscheinregeln für Roller-Miete auf Sifnos"
-description: "Führerschein, Alter und praktische Regeln für Roller-Miete bei Artemis auf Sifnos. Kostenlose Abholung im Hafen Kamares und in Apollonia, ohne Vorauszahlung."
+title: "Führerscheinregeln für die Rollermiete auf Sifnos"
+description: "Führerschein, Alter und praktische Regeln für die Rollermiete bei Artemis auf Sifnos. Kostenlose Abholung am Hafen Kamares und in Apollonia, keine Vorauszahlung."
 datePublished: "2026-06-15"
 dateModified: "2026-07-18"
 cover: "/images/blog/scooter-licence-rules-sifnos-cover.jpg"
 author: "Artemis Rental"
-tags: [scooters, licence, rules]
+tags: [Roller, Führerschein, Regeln]
 related: [driving-in-sifnos, sifnos-car-rental-prices, family-travel-sifnos]
 ---
 
-Bevor Sie sich Küstentage auf dem Roller ausmalen, prüfen Sie, ob Sie die Artemis-Mietbedingungen erfüllen: Fahrer 23–75 mit Führerschein seit mehr als einem Jahr.
+Bevor Sie sich Tage auf dem Roller entlang der Küste ausmalen, prüfen Sie, ob Sie die Mietbedingungen von Artemis erfüllen: Fahrer zwischen 23 und 75 Jahren mit Führerschein seit mehr als einem Jahr.
 
-## Welche Roller-Klasse
+## Welche Rollerklasse?
 
-Artemis bietet SYM Symphony Modelle von 125cc bis 200cc plus Fiddle- und JET4-125-Optionen. Wählen Sie die Hubraumgröße nach Hügeln, Beifahrerlast und Erfahrung, nicht nur nach der Tagesrate.
+Artemis bietet Modelle der SYM Symphony mit 125 bis 200 cm³ sowie Fiddle 125 und JET4 125 an. Wählen Sie den Hubraum nach Steigungen, Zuladung mit Sozius und Ihrer Erfahrung, nicht nur nach dem Tagespreis.
 
-## Straßenmanieren
+## Verhalten auf der Straße
 
-Tragen Sie einen Helm, vermeiden Sie Nachtritte am ersten Tag und behandeln Sie Inselstraßen nicht wie eine geschlossene Rennstrecke. Das Ziel ist Strandzeit, nicht Adrenalin.
+Tragen Sie einen Helm, fahren Sie am ersten Tag nicht im Dunkeln, und behandeln Sie die Inselstraßen nicht wie eine abgesperrte Rennstrecke. Es geht um Zeit am Strand, nicht um Adrenalin.
 
-## EU- und Nicht-EU-Führerscheine
+## Führerscheine aus der EU und aus Drittstaaten
 
-EU-Format-Führerscheine, die Motorräder oder AM/A1-Klassen abdecken, werden für 125cc-Roller in der Regel akzeptiert. Nicht-EU-Besucher sollten einen International Driving Permit zusammen mit dem Heimführerschein mitbringen, wenn dieser nicht auf Englisch oder Griechisch ist: Artemis-Personal prüft bei der Abholung in **Apollonia** oder **Kamares auf Anfrage**.
+Führerscheine im EU-Format mit Motorradklasse oder den Klassen AM/A1 werden für Roller der 125er-Klasse in der Regel akzeptiert. Besucher aus Ländern außerhalb der EU sollten zusätzlich zum nationalen Führerschein einen Internationalen Führerschein mitbringen, wenn dieser nicht auf Englisch oder Griechisch ausgestellt ist. Das Team von Artemis prüft das bei der Abholung in **Apollonia** oder **in Kamares auf Anfrage**.
 
-Wenn Ihr Führerschein nur Autos abdeckt, können Sie in Griechenland keinen 125cc-Roller mieten. Im Zweifel senden Sie vor dem Flug ein Foto Ihres Führerscheins: das spart Enttäuschung am Schalter.
+Wenn Ihr Führerschein nur für Autos gilt, können Sie in Griechenland keinen 125er-Roller mieten. Schicken Sie im Zweifel vor dem Abflug ein Foto Ihres Führerscheins, das erspart Ihnen eine Enttäuschung im Büro.
 
-## Hubraum für zwei Fahrer wählen
+## Der richtige Hubraum zu zweit
 
-125cc SYM Symphony Modelle bewältigen Solo-Fahrer und leichte Hügel gut. Mit Beifahrer erwägen Sie 150cc oder 200cc für Apollonia–Vathi-Steigungen ohne den Motor zu strapazieren. JET4 und Fiddle 125 passen zu sicheren Fahrern auf kürzeren Hops zwischen Kamares und Platis Gialos.
+Die SYM Symphony mit 125 cm³ eignet sich gut für eine Person und leichte Steigungen. Mit Sozius sollten Sie für die Anstiege zwischen Apollonia und Vathi eher 150 oder 200 cm³ wählen, damit der Motor nicht kämpfen muss. JET4 125 und Fiddle 125 passen zu sicheren Fahrern auf kürzeren Strecken zwischen Kamares und Platys Gialos.
 
-Paare, die Fahrttage teilen, können einen Roller-Tag mit einem Auto-Tag aus derselben Artemis-Anfrage kombinieren, **keine Vorauszahlung** zum Fragen.
+Paare, die sich das Fahren aufteilen, können mit derselben Anfrage bei Artemis einen Tag Roller und einen Tag Auto kombinieren. Fragen kostet nichts, **keine Vorauszahlung**.
 
-## Wann ein Auto mehr Sinn ergibt
+## Wann ein Auto sinnvoller ist
 
-Familien, nur-Automatik-Fahrer, schweres Gepäck oder Wanderausrüstung drängen Sie zu Kompakten. Lesen Sie [Familienreisen auf Sifnos](/de/blog/family-travel-sifnos) und [Fahren auf Sifnos](/de/blog/driving-in-sifnos), bevor Sie sich eine ganze Woche auf zwei Räder festlegen.
+Mit Familie, wenn Sie nur Automatik fahren, mit schwerem Gepäck oder Wanderausrüstung ist ein Kleinwagen die bessere Wahl. Lesen Sie [Familienurlaub auf Sifnos](/de/blog/family-travel-sifnos) und [Autofahren auf Sifnos](/de/blog/driving-in-sifnos), bevor Sie sich für eine ganze Woche auf zwei Räder festlegen.
 
-Roller-Raten folgen derselben Saisonlogik wie Autos: siehe [Sifnos Mietwagenpreise](/de/blog/sifnos-car-rental-prices) für parallele Planung. Bereit? [Bei Artemis buchen](/de/book) mit Führerscheindetails und bevorzugter Hubraumgröße. Roller hier seit **1988** zu vermieten bedeutet klare Antworten, keinen Upsell.
+Die Rollerpreise folgen derselben Saisonlogik wie bei Autos, siehe [Mietwagenpreise auf Sifnos](/de/blog/sifnos-car-rental-prices). Bereit? [Buchen Sie bei Artemis](/de/book) mit Angaben zu Ihrem Führerschein und dem gewünschten Hubraum. Wer hier seit **1988** Roller vermietet, gibt klare Antworten und will Ihnen nichts aufschwatzen.

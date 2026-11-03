@@ -2,7 +2,7 @@
 slug: overview
 title: "Sifnos, Grecia: la guida completa all'isola"
 description: "Sifnos, Grecia: guida completa all'isola delle Cicladi famosa per la cucina, la ceramica e i sentieri. Villaggi, spiagge, quanti giorni servono."
-answer: "Sifnos è un'isola greca delle Cicladi, lunga circa 14 km, nota soprattutto per la cucina, la tradizione ceramica e una rete di sentieri lastricati segnalati. Apollonia è il vivace capoluogo sul crinale, Kamares il porto dei traghetti, e spiagge e villaggi sono abbastanza sparsi da rendere un'auto o uno scooter decisivi."
+answer: "Sifnos è un'isola greca delle Cicladi, lunga circa 14 km, nota soprattutto per la cucina, la tradizione ceramica e una rete di sentieri lastricati segnalati. Apollonia è il vivace capoluogo sul crinale, Kamares il porto dei traghetti, e spiagge e villaggi sono così sparsi che un'auto o uno scooter cambiano completamente la vacanza."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/villages/apollonia.webp"
@@ -16,7 +16,7 @@ related:
 
 Sifnos si trova nelle Cicladi occidentali, all'incirca a metà strada fra Atene e Santorini ma lontanissima da entrambe per temperamento. È lunga circa 14 km e larga 7, conta circa 2.600 residenti stabili e si è costruita in tutta la Grecia una reputazione per tre cose: cucina eccezionale, una tradizione ceramica secolare e una delle migliori reti di sentieri segnalati delle isole.
 
-Ciò che non ha è un aeroporto, un terminal crociere o una scena di feste. Proprio quell'assenza è il punto, ed è il motivo per cui Sifnos attira persone che tornano anno dopo anno invece di spuntarla da una lista.
+Quello che non ha sono un aeroporto, un terminal per le crociere e la movida. Ed è proprio questo il bello: per questo Sifnos attira persone che ci tornano anno dopo anno, invece di depennarla da una lista.
 
 ![Apollonia](/images/sifnos/villages/apollonia.webp "Apollonia, il capoluogo sul crinale di Sifnos")
 
@@ -28,7 +28,7 @@ L'isola diede i natali a Nikolaos Tselementes, il cui ricettario del 1910 fu tan
 
 La ceramica non è un'industria di souvenir, è la ragione per cui esistono quelle pentole di terracotta. I laboratori attorno a Kamares, Artemonas e Vathi continuano a tornire e cuocere come si fa qui da generazioni.
 
-Il terzo filone è il camminare. Sifnos mantiene una rete di sentieri lastricati restaurati, molti dei quali antiche vie fra villaggi e monasteri, correttamente segnalati e davvero percorribili. Diverse fra le spiagge e le cappelle migliori ripagano più a piedi che in auto.
+Il terzo punto forte sono le camminate. Sifnos mantiene una rete di sentieri lastricati restaurati, molti dei quali antiche vie fra villaggi e monasteri, correttamente segnalati e davvero percorribili. Diverse fra le spiagge e le cappelle migliori ripagano più a piedi che in auto.
 
 ## La geografia in un minuto
 
@@ -44,7 +44,7 @@ Nulla dista più di circa 25 minuti da Apollonia, ma le strade sono strette e to
 
 **Tre giorni** coprono l'essenziale: i villaggi interni, Kastro e due o tre spiagge.
 
-**Da cinque a sette giorni** è la misura ideale. Bastano per il nord, un paio di sentieri, mangiare come si deve e concedersi una giornata lenta.
+**Da cinque a sette giorni** è la misura ideale. Bastano per arrivare sulla costa nord, percorrere un paio di sentieri, mangiare come si deve e concedersi una giornata lenta.
 
 **Dieci giorni o più** e smetti di essere un visitatore. Molti fanno esattamente così e considerano quindici giorni il minimo.
 
@@ -52,12 +52,12 @@ Nulla dista più di circa 25 minuti da Apollonia, ma le strade sono strette e to
 
 | Periodo | Cosa aspettarsi |
 | --- | --- |
-| **Aprile a metà maggio** | Verde, fiori di campo, mare freddo, molti locali ancora chiusi |
-| **Metà maggio a giugno** | Caldo, tranquillo, tutto aperto, ottimo rapporto qualità prezzo |
+| **Da aprile a metà maggio** | Verde, fiori di campo, mare freddo, molti locali ancora chiusi |
+| **Da metà maggio a giugno** | Caldo, tranquillo, tutto aperto, ottimo rapporto qualità prezzo |
 | **Luglio e agosto** | Caldo intenso, affollato, traghetti pieni, meltemi, prenota con largo anticipo |
 | **Settembre** | Il mese degli intenditori: mare caldo, meno gente, calma |
 | **Ottobre** | Bello e silenzioso, le attività cominciano a chiudere a metà mese |
-| **Novembre a marzo** | Davvero quieto, traghetti limitati, un'altra isola |
+| **Da novembre a marzo** | Davvero quieto, traghetti limitati, un'altra isola |
 
 Potendo scegliere liberamente, **settembre** è il mese migliore a Sifnos. Il mare è al massimo del tepore dopo un'estate intera, la folla di agosto se n'è andata e la luce è notevole.
 
@@ -67,9 +67,9 @@ Potendo scegliere liberamente, **settembre** è il mese migliore a Sifnos. Il ma
 
 **Apollonia** è il capoluogo e il baricentro, costruita lungo un crinale con un vicolo pedonale di ristoranti, bar e negozi che d'estate resta animato fino a tardi.
 
-**Artemonas**, quindici minuti a piedi più a nord, è l'elegante: dimore neoclassiche, ampie stradine lastricate, pasticcerie superbe e una serata molto più quieta.
+**Artemonas**, quindici minuti a piedi più a nord, è il paese elegante: dimore neoclassiche, ampie stradine lastricate, pasticcerie superbe e una serata molto più quieta.
 
-**Kastro** è lo straordinario. La capitale medievale, un villaggio fortificato avvolto attorno a un promontorio, con stemmi veneziani sopra le porte e l'Egeo su tre lati. Vai per il tramonto e resta dopo la partenza dei visitatori giornalieri.
+**Kastro** è il più sorprendente. È la capitale medievale, un villaggio fortificato avvolto attorno a un promontorio, con stemmi veneziani sopra le porte e l'Egeo su tre lati. Vai per il tramonto e resta dopo la partenza dei visitatori giornalieri.
 
 **Kamares** è il porto, e una vera località balneare a sé con una lunga spiaggia sabbiosa.
 
@@ -97,8 +97,8 @@ L'**auto** è adatta alle famiglie, a chi ha bagagli e alle giornate ventose. Lo
 
 ## Dove si inserisce Artemis
 
-Noleggiamo auto, scooter e moto a Sifnos dallo stesso ufficio di Apollonia dal **1988**, come attività familiare. Consegna gratuita a **porto di Kamares, eliporto, Apollonia, Artemonas e Kastro**, con Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta.
+Noleggiamo auto, scooter e moto a Sifnos dallo stesso ufficio di Apollonia dal **1988**, come attività familiare. Consegna gratuita **al porto di Kamares, all'eliporto, ad Apollonia, ad Artemonas e a Kastro**, con Vathi, Platys Gialos, Faros, Chrysopigi e Cherronisos su richiesta.
 
-Nessun anticipo e nessun dato della carta per prenotare. Responsabilità civile, manutenzione, caschi e assistenza locale sono già inclusi nella tariffa giornaliera. Dicci l'orario di arrivo del traghetto e l'auto ti aspetterà al porto.
+Nessun anticipo e nessun dato della carta per prenotare. Assicurazione RCA, manutenzione, caschi e assistenza sul posto sono già inclusi nella tariffa giornaliera. Dicci l'orario di arrivo del traghetto e l'auto ti aspetterà al porto.
 
 [Guarda la flotta e le tariffe](/it/cars) · [Prenota le date](/it/book) · [Guida alle spiagge](/it/sifnos-guide/beaches) · [Dove alloggiare](/it/sifnos-guide/where-to-stay)

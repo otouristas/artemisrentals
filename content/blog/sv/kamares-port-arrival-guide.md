@@ -1,61 +1,61 @@
 ---
 slug: kamares-port-arrival-guide
-title: "Kamares hamnankomst: från färja till första bad"
-description: "Vad du gör när färjan lägger till i Kamares: bagage, upphämtningsalternativ och vägen till Apollonia med Artemis-hyrbil. Kostnadsfri upphämtning i Kamares hamn."
+title: "Ankomst till Kamares hamn: från färjan till första badet"
+description: "Så gör du när färjan lägger till i Kamares: bagage, upphämtning och vägen till Apollonia med hyrbil från Artemis. Gratis upphämtning i Kamares hamn."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
-tags: [kamares, arrival, ferry]
+tags: [kamares, ankomst, färja]
 related: [apollonia-vs-kamares-stay, driving-in-sifnos, rent-a-car-sifnos-2026]
 ---
 
-Kamares är där de flesta besökare först rör Sifnos: en lång skyddad vik, caféer längs kajen och vägen uppför till Apollonia synlig från däcket. Första timmen i land sätter tonen för resan. Lite planering kring bagage, upphämtning och busschema räcker långt.
+I Kamares sätter de flesta besökare foten på Sifnos för första gången: en lång, skyddad vik, kaféer längs strandpromenaden och vägen upp mot Apollonia som syns redan från däck. Den första timmen i land sätter tonen för hela resan. Lite planering kring bagage, upphämtning och bussens tidtabell gör stor skillnad.
 
-## Avstigning: vad du ser
+## När du kliver av färjan
 
-Hamnfronten är flat och gångbar. Taxibilar väntar nära avstigningen under säsong; bussen till Apollonia går ofta kort efter populära färjor när efterfrågan finns. Bagagevagnar är informella; rulla väskorna till ett skuggigt café om rummet inte är klart.
+Hamnområdet är plant och lätt att gå i. Under säsongen väntar taxibilar nära platsen där passagerarna går i land, och bussen till Apollonia brukar gå strax efter de populäraste färjorna när det finns tillräckligt många resenärer. Några riktiga bagagevagnar finns inte, så rulla väskorna till ett kafé i skuggan om ditt rum inte är klart än.
 
-Kamares strand ligger steg från piren. Många badar innan incheckning, särskilt vid eftermiddagsankomst. Håll badkit tillgängligt i daypacken, inte begravt i lastrummet.
+Stranden i Kamares ligger bara några steg från piren. Många badar innan de checkar in, särskilt de som kommer på eftermiddagen. Ha badkläderna lätt åtkomliga i dagväskan, inte längst ner i bagaget i lastrummet.
 
-## Hämta din Artemis-uthyrning
+## Hämta ditt fordon från Artemis
 
-Artemis standard är **Apollonia-upphämtning** på huvudkontoret, tio minuters bilresa eller en buss från Kamares. Om färjan kommer tidigt och du vill ha hjul direkt, be om **Kamares-upphämtning på begäran** när du frågar. Nämn båtnamn och ETA; teamet koordinerar när schemat tillåter.
+Som standard hämtar du fordonet på **huvudkontoret i Apollonia**, tio minuter bort med bil eller en bussresa från Kamares. Kommer färjan tidigt och du vill ha bilen direkt, be om **upphämtning i Kamares på begäran** när du skickar din förfrågan. Ange båtens namn och beräknad ankomsttid, så ordnar vi det när schemat tillåter.
 
-**Ingen förskottsbetalning** krävs för att boka; skicka datum via formuläret eller WhatsApp och vänta på personlig bekräftelse. Ha körkort och pass redo; villkoren följer vanlig cykladisk praxis (minimiålder 23, körkort i minst ett år).
+**Ingen förskottsbetalning** krävs för att boka. Skicka dina datum via formuläret eller WhatsApp och vänta på en personlig bekräftelse. Ha körkort och pass redo. Hyresvillkoren följer det som är brukligt på Kykladerna (lägsta ålder 23 år, körkort sedan minst ett år).
 
-### Om Apollonia-upphämtning passar bättre
+### Om det passar bättre att hämta i Apollonia
 
-Vissa lämnar väskor på Kamares-hotell, tar bussen upp, hämtar bilen i Apollonia och återvänder för bagaget när de orienterat sig. Andra tar taxi till Apollonia och börjar köra därifrån. Båda mönster fungerar; välj efter energi efter färjan, inte ideologi.
+En del gäster lämnar väskorna på hotellet i Kamares, tar bussen upp, hämtar bilen i Apollonia och åker sedan tillbaka efter bagaget när de har hittat rätt. Andra tar taxi till Apollonia och börjar köra därifrån. Båda sätten fungerar. Välj efter hur mycket ork du har kvar efter färjan, inte efter princip.
 
-![Kamares hamnfront med färja och bergsväg till Apollonia](/images/blog/kamares-port-arrival-guide.jpg "De flesta Sifnos-ankomster börjar i Kamares; planera upphämtning innan du lägger till")
+![Hamnen i Kamares med en färja och vägen uppför sluttningen mot Apollonia](/images/blog/kamares-port-arrival-guide.jpg "De flesta som kommer till Sifnos börjar i Kamares, så planera upphämtningen innan du lägger till")
 
-## Första kvällens logistik
+## Första kvällen
 
-Hotell i Kamares betyder korta promenader från middag till säng. Hotell i Apollonia betyder kvällspromenader i huvudorten men buss eller taxi ankomstdagen om du inte hämtat bil i hamnen. Läs [Apollonia eller Kamares](/sv/blog/apollonia-vs-kamares-stay) om du fortfarande väljer bas.
+Bor du i Kamares har du nära från middagen till sängen. Bor du i Apollonia kan du ta en kvällspromenad i huvudorten, men på ankomstdagen behöver du buss eller taxi om du inte har hämtat en bil i hamnen. Läs [Apollonia eller Kamares](/sv/blog/apollonia-vs-kamares-stay) om du inte har bestämt var du ska bo.
 
-Bränsle finns nära Kamares; du behöver inte fylla innan Apollonia om du inte planerar en omedelbar sydkustslinga.
+Det finns bensin nära Kamares, men du behöver inte tanka innan du kör till Apollonia om du inte tänker åka direkt ut på en tur längs sydkusten.
 
-## Taxi, buss och när du hoppar över dem
+## Taxi, buss och när du ska strunta i dem
 
-Kamares–Apollonia-bussen är billig och fin för en person med daypack. Den blir knepig med två stora resväskor, en bilbarnstol eller en familj som vill stanna vid en supermarket innan backen. Taxibilar möter färjor men köer bildas när flera båtar kommer samma timme; att ha Artemis bekräfta **Kamares-upphämtning på begäran** tar bort gissningen.
+Bussen mellan Kamares och Apollonia är billig och fungerar bra för en person med en dagsryggsäck. Den blir besvärlig med två stora resväskor, en bilbarnstol eller en familj som vill handla i en matbutik innan det bär uppför. Taxibilarna möter färjorna, men det blir kö när flera båtar kommer samma timme. Får du **upphämtning i Kamares på begäran** bekräftad av Artemis slipper du chansa.
 
-Om du redan bokat Apollonia-upphämtning fungerar bussen som backup när färjor går sent och du behöver checka in innan kontoret stänger. Spara Artemis WhatsApp-nummer i telefonen innan du seglar; signalen på däck är bättre än på hamnparkeringen.
+Har du redan bokat upphämtning i Apollonia fungerar bussen som reserv när färjorna är sena och du måste hinna checka in innan kontoret stänger. Spara Artemis WhatsApp-nummer i telefonen innan du åker. Täckningen är bättre ute på däck än på parkeringen i hamnen.
 
-## Supermarket och kontanter
+## Handla och ta ut kontanter
 
-Kamares minimarknad täcker vatten, solkräm och snacks innan första körningen till hotellet. Bankomater finns längs kajen; små inlandstaverner kan föredra kontanter. Ladda proviant innan du kör till avlägsna stränder; butiker glesnar utanför Apollonia och Platis Gialos.
+I Kamares minilivs finns vatten, solkräm och snacks inför den första bilresan till hotellet. Det finns bankomater längs strandpromenaden, och de små tavernorna inåt landet tar helst kontanter. Handla det du behöver innan du kör till avlägsna stränder, eftersom det finns få butiker utanför Apollonia och Platis Gialos.
 
-## Vanliga ankomstdagsmisstag
+## Vanliga misstag på ankomstdagen
 
-- Anta att varje färja synkar med en buss; kolla tavlan eller fråga en caféserver.
-- Hämta en manuell bil trött från resan och attackera Apollonias enkelriktade backe i ettan; automatförare, säg det när ni bokar under högsäsong.
-- Glömma att meddela Artemis om färjan är försenad; de justerar när de vet.
+- Att tro att varje färja har en buss som passar. Kolla tavlan eller fråga personalen på ett kafé.
+- Att hämta en bil med manuell växellåda trött efter resan och ge sig på Apollonias enkelriktade backe på ettan. Vill du ha automat, säg det när du bokar under högsäsong.
+- Att glömma att skriva till Artemis om färjan är försenad. Vi anpassar oss när vi vet.
 
-## Efter dag ett
+## Efter första dagen
 
-När ni landat blir Kamares en startpunkt för nordkusten eller ett snabbt hamnbad mellan öturer. Para den här guiden med [köra på Sifnos](/sv/blog/driving-in-sifnos) och vår översikt över [biluthyrningspriser](/sv/blog/sifnos-car-rental-prices).
+När du har kommit i ordning blir Kamares en utgångspunkt för nordkusten eller ett ställe för ett snabbt dopp i hamnen mellan turerna på ön. Läs gärna [köra bil på Sifnos](/sv/blog/driving-in-sifnos) och vår översikt över [priser för hyrbil](/sv/blog/sifnos-car-rental-prices) för hela bilden.
 
-Landar snart? [Boka med Artemis](/sv/book) med färjedatum, ungefärlig ankomsttid och önskad upphämtningsplats. Artemis har mött båtar i den här hamnen sedan **1988**; ett kort meddelande slår att stå på piren och gissa om Pandan väntar.
+Kommer du snart? [Boka hos Artemis](/sv/book) och ange datum för färjan, ungefärlig ankomsttid och var du vill hämta bilen. Artemis har mött båtar i den här hamnen sedan **1988**. Ett kort meddelande är bättre än att stå på piren och undra om din Panda väntar.
 
-Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/sv/sifnos-guide/rent-a-car-sifnos) or [book dates](/sv/book).
+Ordna gratis upphämtning av bil i Kamares: [hyr bil på Sifnos](/sv) eller [boka datum](/sv/book).

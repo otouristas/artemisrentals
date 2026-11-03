@@ -1,8 +1,8 @@
 ---
 slug: ferries
-title: "Veerboot naar Sifnos 2026: Piraeus, vaartijden en tips"
-description: "Complete gids voor de veerboot naar Sifnos. Verbindingen Piraeus Kamares, snelle catamaran of gewone veerboot, aansluitingen naar Milos en Serifos."
-answer: "Elke veerboot naar Sifnos meert aan in Kamares aan de westkust. De afvaarten vertrekken vanuit Piraeus en duren ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot, met dagelijkse afvaarten in de zomer en drie tot vier per week in de winter."
+title: "Veerboot naar Sifnos 2026: routes, vaartijden en tips"
+description: "Complete gids voor de veerboot naar Sifnos. Van Piraeus naar Kamares, snelle catamaran of gewone veerboot, en verbindingen met Milos en Serifos."
+answer: "Elke veerboot naar Sifnos meert aan in Kamares aan de westkust. De afvaarten vertrekken vanuit Piraeus en duren ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot. In de zomer vaart er elke dag een boot, in de winter drie of vier keer per week."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/beaches/kamares.webp"
@@ -14,91 +14,91 @@ related:
   - getting-around
 ---
 
-Sifnos heeft geen vliegveld, dus tenzij u met een helikopter of eigen boot komt, arriveert u over zee. Daarmee is het veerbootticket de belangrijkste boeking van uw reis, en degene die in augustus het vaakst misgaat als u er te lang mee wacht. Hieronder de verbindingen, de realistische vaartijden, het verschil tussen de twee scheepstypes en wat er werkelijk gebeurt als de zomerwind aantrekt.
+Sifnos heeft geen vliegveld. Tenzij je met een helikopter of je eigen boot komt, kom je dus over zee. Daarmee is je veerbootticket de belangrijkste reservering van je reis, en ook de reservering die in augustus het vaakst misgaat als je te lang wacht. In deze gids lees je welke verbindingen er zijn, hoe lang de overtocht realistisch duurt, wat het verschil is tussen de twee soorten schepen en wat er gebeurt als de zomerwind aantrekt.
 
 ![Kamares](/images/sifnos/beaches/kamares.webp "De veerhaven van Kamares, de enige haven van Sifnos")
 
 ## Kamares: de enige haven van het eiland
 
-Elke passagiersveerboot naar Sifnos meert aan in **Kamares**, een beschutte baai aan de westkust. Er is geen tweede haven en geen alternatief aankomstpunt, wat het simpel houdt: welk ticket u ook hebt, u stapt uit op dezelfde kade.
+Elke passagiersveerboot naar Sifnos meert aan in **Kamares**, een beschutte baai aan de westkust. Er is geen tweede haven en geen andere plek om aan te komen. Dat houdt het simpel: welk ticket je ook hebt, je stapt op dezelfde kade van boord.
 
-Kamares is tegelijk werkhaven en een badplaats op zich, met een lang zandstrand, taverna's aan de boulevard, een bakker, een kleine supermarkt en enkele hotels. Als u laat op de avond aankomt, is hier overnachten in plaats van doorrijden een volstrekt verstandige keuze.
+Kamares is een werkende haven en tegelijk een badplaats, met een lang zandstrand, taverna's aan de boulevard, een bakker, een kleine supermarkt en een paar hotels. Kom je laat in de avond aan, dan is hier overnachten in plaats van doorrijden een prima keuze.
 
 Apollonia, de hoofdplaats, ligt ongeveer 5,5 km landinwaarts en bergop, zo'n tien minuten met de auto.
 
-## Piraeus naar Sifnos: de hoofdverbinding
+## Van Piraeus naar Sifnos: de hoofdroute
 
-Piraeus is de haven die Athene bedient, 45 tot 60 minuten van de luchthaven met metro, bus of taxi. Vrijwel al het verkeer naar Sifnos loopt hierlangs.
+Piraeus is de haven van Athene, op 45 tot 60 minuten van de internationale luchthaven met de metro, bus of taxi. Vrijwel al het verkeer naar Sifnos gaat via Piraeus.
 
-Twee heel verschillende scheepstypes varen de route:
+Er varen twee heel verschillende soorten schepen op deze route:
 
 | | Gewone veerboot | Snelle catamaran |
 | --- | --- | --- |
-| Gebruikelijke duur | Ongeveer 5 uur | Ongeveer 2,5 tot 3 uur |
+| Gebruikelijke vaartijd | Ongeveer 5 uur | Ongeveer 2,5 tot 3 uur |
 | Bij ruwe zee | Stabieler, zwaardere romp | Merkbaar onrustiger |
-| Dekken | Open dekken, vrij rondlopen | Gesloten cabine, zitplaats |
-| Voertuigvervoer | Ja | Meestal wel, beperkte ruimte |
-| Uitval bij wind | Zelden | Vaker |
+| Dekken | Open dekken, je kunt vrij rondlopen | Gesloten cabine, vaste zitplaats |
+| Neemt voertuigen mee | Ja | Meestal wel, met beperkte ruimte |
+| Valt uit bij harde wind | Zelden | Vaker |
 | Prijs | Lager | Hoger |
 
-De gewone veerboot doet onderweg Kythnos en Serifos aan, vandaar de langere vaartijd. Veel vaste bezoekers geven er bewust de voorkeur aan: zeelucht, een echte zitplaats, koffie op het dek en een veel grotere kans dat er bij wind gevaren wordt.
+De gewone veerboot legt onderweg aan in Kythnos en Serifos, en doet er daarom langer over. Veel vaste bezoekers kiezen er bewust voor: frisse zeelucht, een echte stoel, een kop koffie aan dek en een veel grotere kans dat de boot vaart als het waait.
 
-De snelle catamaran scheelt twee uur of meer. Komt u van een middagvlucht en wilt u dezelfde avond zwemmen, dan is dat de voor de hand liggende keuze.
+Met de snelle catamaran ben je twee uur of meer eerder. Kom je met een middagvlucht aan en wil je dezelfde avond nog zwemmen, dan is dat de logische keuze.
 
-### Welke moet u boeken?
+### Welke boot kies je?
 
-Neem de **snelle catamaran** als u weinig tijd hebt, licht reist en niet zeeziek wordt. Neem de **gewone veerboot** als u een voertuig meeneemt, met kleine kinderen of oudere familieleden reist, gevoelig bent voor beweging, of eind juli en in augustus reist, wanneer de meltemi de snelle schepen het hardst treft.
+Neem de **snelle catamaran** als je weinig tijd hebt, licht reist en niet snel zeeziek wordt. Neem de **gewone veerboot** als je een voertuig meeneemt, met kleine kinderen of oudere familieleden reist, gevoelig bent voor deining, of eind juli of in augustus reist, wanneer de meltemi de snelle boten het vaakst in de war stuurt.
 
-## De West-Cycladen lijn en eilandhoppen
+## De lijn van de westelijke Cycladen en eilandhoppen
 
-Sifnos ligt op de zogenoemde West-Cycladen lijn. Afhankelijk van seizoen en rederij zijn er verbindingen met:
+Sifnos ligt op de lijn van de westelijke Cycladen. Afhankelijk van het seizoen en de rederij zijn er verbindingen met:
 
-- **Kythnos** en **Serifos**, direct ten noorden, korte overtochten
+- **Kythnos** en **Serifos**, direct ten noorden, allebei korte overtochten
 - **Milos** en **Kimolos**, ten zuiden, eveneens dichtbij
-- **Folegandros**, **Sikinos**, **Ios** en **Santorini** op langere seizoensroutes
-- **Paros** en **Syros**, met toegang tot de centrale Cycladen, als seizoensverbinding
+- **Folegandros**, **Sikinos**, **Ios** en **Santorini**, op langere routes in het seizoen
+- **Paros** en **Syros**, met aansluiting op de centrale Cycladen, op verbindingen in het seizoen
 
-Daardoor is Sifnos een uitstekende uitvalsbasis voor een reis langs twee eilanden. Sifnos met Milos is de populairste combinatie, en de overtocht is kort genoeg voor een lange dagtocht, al leveren twee of drie nachten veel meer op.
+Daardoor is Sifnos een uitstekende uitvalsbasis voor een reis langs twee eilanden. Sifnos met Milos is de populairste combinatie, en de overtocht is zo kort dat je er een lange dagtocht van kunt maken, al heb je meer aan een paar nachten.
 
-Let op: rederijen schudden deze routes elk jaar door elkaar en sommige verbindingen varen alleen in juli en augustus. Controleer altijd de dienstregeling van het lopende seizoen in plaats van die van vorig jaar.
+Let op: de rederijen gooien deze routes elk jaar om en sommige verbindingen varen alleen in juli en augustus. Kijk altijd naar de dienstregeling van het huidige seizoen en ga niet uit van die van vorig jaar.
 
 ## Reserveren: wanneer en hoe
 
-**Boek in juli en augustus zo vroeg mogelijk.** Weekendafvaarten en de populaire vertrektijden aan het eind van de middag raken uitverkocht, en de periode rond 15 augustus, een belangrijke feestdag in Griekenland, is de drukste van het hele jaar.
+**Reserveer in juli en augustus zo vroeg als je kunt.** Afvaarten in het weekend en de populaire vertrektijden aan het eind van de middag raken uitverkocht, en de periode rond 15 augustus, een belangrijke feestdag in Griekenland, is de drukste van het hele jaar.
 
-Een paar dingen om te weten:
+Goed om te weten:
 
-- Controleer of uw ticket een **genummerde stoel** heeft of vrije zitplaatskeuze. Op snelle schepen is de plaats vrijwel altijd toegewezen.
-- Neemt u uw eigen auto mee vanuit Athene, boek dan de voertuigplaats apart en op tijd. De garageruimte is veel beperkter dan de passagierscapaciteit.
-- De meeste rederijen vragen een papieren instapkaart of een scan in de haven. Reken op 30 tot 45 minuten voor vertrek in Piraeus, een enorme en onoverzichtelijke haven.
-- Piraeus heeft meerdere poorten die ver uit elkaar liggen. Controleer het poortnummer op uw ticket en houd rekening met de loopafstand.
+- Kijk of je ticket een **genummerde stoel** heeft of dat je vrij mag gaan zitten. Op snelle boten krijg je vrijwel altijd een vaste plaats.
+- Neem je je eigen auto mee vanuit Athene, reserveer de plaats voor het voertuig dan apart en op tijd. Er is veel minder ruimte voor auto's dan voor passagiers.
+- Bij de meeste rederijen moet je in de haven een papieren instapkaart ophalen of een code laten scannen. Wees 30 tot 45 minuten voor vertrek in Piraeus: het is een enorme en onoverzichtelijke haven.
+- Piraeus heeft een groot aantal poorten verspreid over een lange kade. Kijk op je ticket welk poortnummer je hebt en houd rekening met de loopafstand.
 
-## De meltemi en geannuleerde afvaarten
+## De meltemi en afgelaste afvaarten
 
-De **meltemi** is een krachtige, droge noordenwind die vooral van half juli tot in augustus over de Egeïsche Zee waait. Het is geen storm maar een kenmerk van het seizoen, en hij kan een kracht bereiken waarbij snelle veerboten aan de kade blijven.
+De **meltemi** is een sterke, droge noordenwind die vooral van half juli tot en met augustus over de Egeïsche Zee waait. Het is geen storm maar hoort bij het seizoen, en hij kan zo hard waaien dat snelle veerboten niet uitvaren.
 
-In de praktijk betekent dat:
+Wat dat in de praktijk betekent:
 
-- Snelle catamarans worden bij een lagere windkracht stilgelegd dan gewone veerboten.
-- Annuleringen worden meestal de avond ervoor of dezelfde ochtend bekendgemaakt.
-- Bij annulering hebt u recht op terugbetaling of omboeking, maar de plaatsen zijn snel weg.
+- Snelle catamarans worden al bij minder wind uit de vaart genomen dan gewone veerboten.
+- Afgelaste afvaarten worden meestal de avond ervoor of op de ochtend van vertrek bekendgemaakt.
+- Wordt je afvaart geschrapt, dan heb je recht op terugbetaling of omboeking naar een andere boot, maar die plaatsen zijn snel vergeven.
 
-**De praktische les:** plan uw terugreis nooit op dezelfde dag als uw internationale vlucht. Houd een nacht in Athene als buffer aan.
+**De les:** plan je terugreis met de veerboot nooit op dezelfde dag als je internationale vlucht naar huis. Houd een nacht in Athene aan als buffer. Wie dat niet doet, zie je rennend door Piraeus.
 
 ## Winter en tussenseizoen
 
-Van november tot maart dunt de dienstregeling uit tot ongeveer drie of vier afvaarten per week, vooral gewone veerboten, en slecht weer kan dat verder beperken. Sifnos is het hele jaar bewoond en open, maar een winterbezoek vraagt om flexibele plannen.
+Van november tot en met maart vaart er nog ongeveer drie of vier keer per week een boot, meestal een gewone veerboot, en bij slecht weer kan dat nog minder worden. Sifnos is het hele jaar bewoond en open, maar voor een bezoek in de winter heb je flexibele plannen nodig.
 
-April, mei, september en oktober zijn ideaal: dagelijkse of bijna dagelijkse afvaarten, kalme zee, warm water in september en niets van de drukte van augustus.
+April, mei, september en oktober zijn ideaal: dagelijks of bijna dagelijks een afvaart, een kalme zee, warm water in september en geen gedrang zoals in augustus.
 
-## Aankomen in Kamares met de auto klaar
+## Aankomen in Kamares met een auto die klaarstaat
 
-Waar de meeste bezoekers op stuklopen, is het gat tussen het verlaten van de boot en het moment waarop ze echt mobiel zijn. Sifnos heeft maar een handvol taxi's en als er in augustus een volle veerboot aanmeert, zijn die binnen enkele minuten weg. De bus sluit aan op de meeste veerboten maar volgt zijn eigen schema en zit snel vol.
+Waar bezoekers steeds weer tegenaan lopen, is de tijd tussen van boord stappen en echt op weg kunnen. Sifnos heeft maar een handvol taxi's, en als er in augustus een volle veerboot aanmeert, zijn die binnen een paar minuten weg. De bus sluit aan op de meeste veerboten, maar rijdt volgens zijn eigen schema en zit snel vol.
 
-Wij staan bij de boot. Stuur ons uw **aankomstdatum en het geschatte tijdstip van aanmeren**, dan staat de auto zonder meerprijs klaar in de haven van Kamares, net als op de helihaven, in Apollonia, Artemonas en Kastro. Reserveren vraagt geen aanbetaling en geen kaartgegevens, en WA-verzekering, onderhoud en hulp ter plaatse zitten al in de dagprijs.
+Wij lossen dat op door bij de boot te staan. Stuur ons je **aankomstdatum en de verwachte aankomsttijd van de veerboot**, dan staat de auto zonder extra kosten klaar in de haven van Kamares. Gratis ophalen kan ook op de heliport, in Apollonia, Artemonas en Kastro. Je reserveert zonder vooruitbetaling en zonder kaartgegevens, en WA-verzekering, onderhoud en hulp ter plaatse zitten al in de dagprijs.
 
-Geef ons uw veerboottijd door en of u een auto of scooter wilt, de rest regelen wij.
+Laat ons weten hoe laat je veerboot aankomt en of je een auto of een scooter wilt, dan regelen wij de rest.
 
-[Reserveer een auto voor uw aankomst met de veerboot](/nl/book) of lees de [aankomstgids voor de haven van Kamares](/nl/sifnos-guide/kamares-port).
+[Reserveer je auto voor je aankomst met de veerboot](/nl/book) of lees in de [aankomstgids voor de haven van Kamares](/nl/sifnos-guide/kamares-port) wat je op de kade kunt verwachten.
 
-Meerdere eilanden gepland? [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) bouwt Cycladen-routes op basis van de vaarschema's.
+Ga je meerdere eilanden bezoeken? [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) stelt reisroutes door de Cycladen samen die rekening houden met de vaarschema's.

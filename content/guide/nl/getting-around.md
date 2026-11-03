@@ -1,11 +1,11 @@
 ---
 slug: getting-around
-title: "Rondkomen op Sifnos: auto vs scooter"
-description: "Hoe je rondkomt op Sifnos: auto vs scooter vs bus vs taxi, wegtips, parkeren, brandstof en wanneer Artemis-verhuur het meest zin heeft. Van Artemis Rental."
-answer: "Voor de meeste bezoekers die drie of meer nachten blijven is een auto de comfortabelste manier om stranden en dorpen te bereiken. Scooters passen bij zelfverzekerde rijders met lichte bagage. Bussen bestaan in de zomer maar zijn dun voor strandhoppen; taxi's zijn beperkt in pieken."
+title: "Vervoer op Sifnos: auto of scooter?"
+description: "Zo verplaats je je op Sifnos: auto, scooter, bus of taxi, tips voor de weg, parkeren, tanken en wanneer huren bij Artemis het meest oplevert. Van Artemis Rental."
+answer: "Voor de meeste bezoekers die drie nachten of langer blijven, is een auto de comfortabelste manier om stranden en dorpen te bereiken. Een scooter past bij ervaren rijders met weinig bagage. In de zomer rijden er bussen, maar niet vaak genoeg om stranden af te gaan, en in het hoogseizoen zijn er weinig taxi's."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
-cover: "/images/guide/getting-around.jpg"
+dateModified: "2026-08-04"
+cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
 related:
@@ -15,57 +15,57 @@ related:
   - kamares-port
 ---
 
-![Wegaankomst Kamares](/images/sifnos/beaches/kamares.webp "Vanuit haven Kamares omhoog naar Apollonia")
+![Over de weg vanuit Kamares](/images/sifnos/beaches/kamares.webp "Vanuit de haven van Kamares omhoog naar Apollonia")
 
 ## Het korte antwoord
 
-| Modus | Het beste voor | Let op |
+| Vervoer | Ideaal voor | Let op |
 | --- | --- | --- |
-| **Auto** | Gezinnen, strandspullen, noordkust, gemengd weer | Piekparkeren bij Platis Gialos / populaire inhammen |
-| **Scooter** | Stellen, lichte tassen, Apollonia–strand-hops | Wind, grindaanrijroutes (Vroulidia), steile heuvels met z'n tweeën |
-| **Bus** | Budgetreizigers op hoofdcorridors | Dunne dienstregelingen voor multi-stranddagen |
-| **Taxi** | Late veer, eenmalige transfers | Beschikbaarheid krap op augustusavonden |
-| **Te voet** | Apollonia/Artemonas-avonden, Kastro-kern, Fykiada-hike | Middaghitte |
+| **Auto** | Gezinnen, strandspullen, de noordkust, wisselend weer | Parkeren in het hoogseizoen bij Platys Gialos en populaire baaitjes |
+| **Scooter** | Stellen, weinig bagage, korte ritjes van Apollonia naar het strand | Wind, grind op de laatste stukken (Vroulidia), steile hellingen met z'n tweeën |
+| **Bus** | Reizigers met een klein budget, op de hoofdroutes | Te weinig ritten voor een dag met meerdere stranden |
+| **Taxi** | Late veerboot, losse ritten | Op augustusavonden lastig te krijgen |
+| **Te voet** | Avonden in Apollonia en Artemonas, de kern van Kastro, de wandeling naar Fykiada | De middaghitte |
 
-## Autoverhuur op Sifnos
+## Een auto huren op Sifnos
 
-Compacte auto's passen het best in dorpslanen en krappe parkeerplaatsen. Artemis houdt auto's voor eilandwegen; vraag vroeg data voor juli–augustus-automaten. **Ophalen** is typisch Apollonia; auto's kunnen veren op verzoek ook in **Kamares** ontmoeten. Scooters zijn Apollonia-gebaseerd.
+Compacte auto's passen het best in de dorpsstraatjes en op krappe parkeerplekken. Artemis onderhoudt zijn auto's speciaal voor de wegen op het eiland; vraag voor een automaat in juli en augustus vroeg je data aan. **Ophalen van de auto** is gratis in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro. Scooters haal je op in Apollonia en reserveer je online zonder vooruitbetaling.
 
-Zie ook [praktische rijtips](/nl/sifnos-guide/practical-tips).
+Lees ook [auto huren op Sifnos](/nl) en de [praktische tips voor autorijden](/nl/sifnos-guide/practical-tips).
 
-## Scooterverhuur
+## Een scooter huren
 
-Geweldig voor ervaren rijders die wind-in-het-gezicht-vrijheid willen tussen Apollonia, Faros, Chrysopigi en Vathi. Helm op, let op grind, vermijd overladen. Ben je nieuw op eilandheuvels of reis je met kids/veel tassen, kies een auto.
+Heerlijk voor ervaren rijders die met de wind in hun gezicht tussen Apollonia, Faros, Chrysopigi en Vathi willen rijden. Draag je helm, let op grind en neem niet te veel mee. Ben je niet gewend aan de heuvels op een eiland, of reis je met kinderen of veel bagage, kies dan een auto.
 
-## Bussen & taxi's
+## Bussen en taxi's
 
-Zomerbussen verbinden Apollonia met Kamares, Platis Gialos, Vathi, Faros en andere dorpen: nuttig, maar niet ideaal als je drie inhammen op één dag wilt. Taxi's bestaan; reken er niet op om er om 19:00 bij een afgelegen strand een te wenken in piekseizoen.
+In de zomer rijden er bussen van Apollonia naar Kamares, Platys Gialos, Vathi, Faros en andere dorpen. Handig, maar niet ideaal als je drie baaitjes op één dag wilt zien. Er zijn taxi's, maar reken er in het hoogseizoen niet op dat je er om 19:00 eentje vindt bij een afgelegen strand.
 
-## Wegkarakter
+## Hoe de wegen zijn
 
-- Asfalt dekt de hoofdassen Apollonia–strand.
-- Sommige noord- / inhamaanrijroutes hebben ruwe of steile finales: langzaam gaan.
-- Blinde bochten en smalle dorpsstraten: licht claxonneren, spiegels in.
-- Nachtrijden: let op onverlichte randen en scooters.
+- De hoofdwegen van Apollonia naar de stranden zijn geasfalteerd.
+- Op sommige wegen naar het noorden en naar baaitjes is het laatste stuk hobbelig of steil: rijd langzaam.
+- Blinde bochten en smalle dorpsstraten: toeter even voorzichtig en klap je spiegels in.
+- 's Avonds rijden: let op onverlichte bermen en scooters.
 
-## Parkeer-cheat-sheet
+## Parkeren in het kort
 
-- **Apollonia avond:** één keer parkeren, lopen.
-- **Platis Gialos:** vroeger = dichterbij.
-- **Chrysopigi:** beperkt; blokkeer nooit kloostertoegang.
-- **Kastro:** onder / buiten parkeren en de middeleeuwse lanen inlopen.
-- **Herronisos:** krappe dorpslanen, geduld.
+- **Apollonia, 's avonds:** parkeer één keer en ga lopen.
+- **Platys Gialos:** hoe vroeger, hoe dichterbij.
+- **Chrysopigi:** weinig plek; blokkeer nooit de toegang tot het klooster.
+- **Kastro:** parkeer onderaan of buiten het dorp en loop de middeleeuwse straatjes in.
+- **Cherronisos:** smalle dorpsstraatjes, geduld is een schone zaak.
 
-## Brandstof & bereik
+## Tanken en afstanden
 
-Tank in het Apollonia- / hoofdweggebied vóór een volle noordkustdag in hoogseizoen. Afstanden zijn kort, maar rijen ontstaan wanneer meerdere veren dezelfde middag aanleggen.
+Tank in de omgeving van Apollonia of langs de hoofdweg voordat je in het hoogseizoen een hele dag naar de noordkust gaat. De afstanden zijn kort, maar er ontstaan rijen als er meerdere veerboten op dezelfde middag aankomen.
 
-## Voorgestelde dagelijkse radii vanaf Apollonia
+## Hoe ver je komt vanuit Apollonia
 
 - **0–15 min:** Artemonas, Katavati, Kastro, Kamares
-- **15–25 min:** Faros, Chrysopigi, Platis Gialos, Vathi
-- **30–40 min:** Herronisos, Vroulidia
+- **15–25 min:** Faros, Chrysopigi, Platys Gialos, Vathi
+- **30–40 min:** Cherronisos, Vroulidia
 
-## Artemis-vloot
+## Het wagenpark van Artemis
 
-[Auto's](/nl/cars) · [Scooters](/nl/scooters) · [Prijzen](/nl/rates) · [Vraag data aan](/nl/book)
+[Gids auto huren](/nl/sifnos-guide/rent-a-car-sifnos) · [Auto's](/nl/cars) · [Prijzen](/nl/rates) · [Vraag je data aan](/nl/book)

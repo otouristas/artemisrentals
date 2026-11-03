@@ -1,8 +1,8 @@
 ---
 slug: food-pottery
-title: "Cibo e ceramica: tradizioni di Sifnos"
-description: "Guida cibo e ceramica a Sifnos: revithada, mastelo, panetterie, villaggi ceramici e come pianificare soste di gusto con un’auto a noleggio. Di Artemis Rental."
-answer: "Sifnos è famosa per la revithada di ceci, il mastelo, i formaggi locali e una tradizione ceramica viva. Mangia a Apollonia di sera; fai day-trip nei villaggi ceramici come Kamares, Vathi e Herronisos tra un bagno e l’altro."
+title: "Cucina e ceramica: le tradizioni di Sifnos"
+description: "Cucina e ceramica di Sifnos: revithada, mastelo, forni, villaggi dei vasai e come organizzare le soste golose con un'auto a noleggio. Da Artemis Rental."
+answer: "Sifnos è famosa per la revithada di ceci, il mastelo, i formaggi locali e una tradizione ceramica ancora viva. La sera mangia ad Apollonia; di giorno, tra un bagno e l'altro, visita i villaggi dei vasai come Kamares, Vathi e Cherronisos."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/heronissos.webp"
@@ -14,42 +14,42 @@ related:
   - beaches
 ---
 
-![Costa ceramica Vathi](/images/sifnos/beaches/vathi.webp "Vathi, bagno e eredità ceramica")
+![La costa dei vasai a Vathi](/images/sifnos/beaches/vathi.webp "Vathi, mare e tradizione ceramica")
 
-## Perché il cibo è un motivo per venire
+## Perché la cucina è già un motivo per venire
 
-Sifnos ha una reputazione tra i greci che pesa più delle sue dimensioni. Pentole di argilla, forni lenti, ceci, agnello e colline al timo compaiono in menu che sembrano ancora locali. Pianifica almeno **un pranzo destinazione** e **una cena speciale**.
+Tra i greci Sifnos ha una fama gastronomica che va ben oltre le sue dimensioni. Pentole di terracotta, cotture lente nel forno, ceci, agnello e colline profumate di timo finiscono in menu che hanno ancora un sapore autentico. Prevedi almeno **un pranzo che valga il viaggio** e **una cena speciale**.
 
-## Piatti da cercare
+## Piatti da provare
 
-- **Revithada**, casseruola lenta di ceci, spesso classico della domenica
-- **Mastelo**, agnello (o capra) cotto al vino ed erbe, tradizionalmente in terracotta
-- **Manoura / formaggi locali**, chiedi cosa si taglia quella settimana
-- **Miele e dolci alle mandorle**, carburante panetteria prima delle guide spiaggia
+- **Revithada**, ceci cotti a lungo in forno, spesso il classico della domenica
+- **Mastelo**, agnello (o capretto) cotto nel vino con le erbe, tradizionalmente in terracotta
+- **Manoura e formaggi locali**, chiedi cosa c'è di buono quella settimana
+- **Dolci al miele e alle mandorle**, la scorta dal forno prima di partire per il mare
 
-## Dove basare i pasti
+## Dove mangiare
 
-- **Apollonia / Artemonas:** scelta serale più densa; cammina dal tuo parcheggio.
-- **Taverne spiaggia:** Platis Gialos, Vathi, Faros, Kamares; prenota nelle settimane di punta.
-- **Sorprese di villaggio:** segui consigli per cucine Exambela / collina quando vuoi quiete.
+- **Apollonia / Artemonas:** la scelta più ampia per la sera; ci arrivi a piedi da dove hai parcheggiato.
+- **Taverne sul mare:** Platys Gialos, Vathi, Faros, Kamares; prenota nelle settimane di alta stagione.
+- **Sorprese nei villaggi:** quando cerchi tranquillità, segui i consigli per Exambela e le cucine dell'interno.
 
 ## Ceramica
 
-![Herronisos](/images/sifnos/beaches/heronissos.webp "Herronisos, villaggio ceramico nord")
+![Cherronisos](/images/sifnos/beaches/heronissos.webp "Cherronisos, villaggio di vasai a nord")
 
-Il lavoro dell’argilla a Sifnos non è un mito da souvenir: i laboratori operano ancora, storicamente nei villaggi costieri come **Kamares, Vathi e Herronisos**. Visita gli studi in modo etico (chiedi prima delle foto) e imballa i pezzi fragili in borse morbide per il traghetto di ritorno.
+La ceramica di Sifnos non è una leggenda da souvenir: i laboratori lavorano ancora, storicamente nei villaggi sulla costa come **Kamares, Vathi e Cherronisos**. Visita i laboratori con rispetto (chiedi prima di fotografare) e avvolgi i pezzi fragili in borse morbide per il traghetto del ritorno.
 
-Festival e mostre stagionali a volte mettono in luce la ceramica: chiedi in hotel o al nostro desk cosa c’è nelle tue date.
+A volte festival e mostre stagionali sono dedicati alla ceramica: chiedi in hotel o al nostro ufficio cosa c'è in programma nelle tue date.
 
-## Una giornata di guida gustosa
+## Una giornata in auto tra sapori e ceramiche
 
-1. Bagno mattutino a **Vathi**
-2. Visita ceramica nel villaggio
-3. Sosta pomeridiana al promontorio di **Chrysopigi**
-4. Cena di ritorno a **Apollonia**
+1. Bagno al mattino a **Vathi**
+2. Giro tra i laboratori del villaggio
+3. Sosta pomeridiana sul promontorio di **Chrysopigi**
+4. Cena di nuovo ad **Apollonia**
 
-![Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi tra i pasti")
+![Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, tra un pasto e l'altro")
 
-## Angolo Artemis
+## Il consiglio di Artemis
 
-Un noleggio ti fa inseguire le prenotazioni pranzo sull’isola senza guardare l’orologio del bus. [Richiedi date](/it/book) una volta fissato il traghetto.
+Con un'auto a noleggio puoi girare l'isola da una prenotazione a pranzo all'altra senza guardare l'orario dell'autobus. [Richiedi le date](/it/book) appena hai fissato il traghetto.
