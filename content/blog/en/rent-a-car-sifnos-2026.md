@@ -3,7 +3,7 @@ slug: rent-a-car-sifnos-2026
 title: "Rent a car in Sifnos 2026: prices, tips, and pickup"
 description: "What to know before renting a car on Sifnos in 2026, seasonal prices, Apollonia pickup, and how to enquire with Artemis. Family run in Apollonia since 1988."
 datePublished: "2026-06-15"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
 author: "Artemis Rental"
 tags: [cars, 2026, booking]
@@ -34,17 +34,17 @@ Every vehicle is maintained locally; the business has operated from Apollonia si
 
 ## Insurance, licence, and what to bring
 
-Standard rental terms apply: drivers aged 23–75 with a licence held at least one year. Bring your physical licence and passport to pickup, photos on a phone are not enough for contract signing.
+Standard rental terms apply: drivers aged 23–75 with a licence held for more than one year. If your licence was issued outside the EU or EEA, bring an International Driving Permit too; see [what you need to rent a car on Sifnos](/en/blog/sifnos-car-rental-requirements). Bring your physical licence and passport to pickup, photos on a phone are not enough for contract signing.
 
-Ask about child seats when you enquire if travelling with toddlers. Mention automatic preference explicitly; do not assume allocation in July. Fuel policy is full-to-full, stations are limited, so plan a top-up near Kamares or Apollonia before a long south-coast day.
+Ask about child seats when you enquire if travelling with toddlers. Mention automatic preference explicitly; do not assume allocation in July. Return the car with the same fuel level as at pickup. Petrol stations are few, so ask us at handover where to top up before a long day out.
 
 ## Pickup scenarios that work well
 
-**Apollonia default:** Collect at the office, orient yourself on the one-way loop, park for Apollonia dinner walks the same evening.
+**Kamares port:** The most popular option. Send your boat time and the car is waiting at the quay, free of charge, so you drive straight to your hotel.
 
-**Kamares on request:** Ideal when your ferry lands and you want to drive straight to a south-coast hotel. Message boat time when booking.
+**Apollonia office:** Collect when you are settled, then park once and walk to dinner the same evening. Artemonas and Kastro deliveries are free too.
 
-**Mid-stay swap:** Rare, but couples sometimes start with a car for family visit days then switch to a scooter, ask if your dates allow.
+**Mid-stay changes:** If your plans shift, a different car or extra days, ask us; we will do what availability allows. Online scooter booking is paused for now.
 
 For deeper price context see [Sifnos car rental prices](/en/blog/sifnos-car-rental-prices). Ready to confirm? [Book with Artemis](/en/book), no prepayment, personal reply on WhatsApp or email.
 

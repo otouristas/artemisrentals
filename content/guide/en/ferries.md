@@ -4,7 +4,7 @@ title: "Ferries to Sifnos 2026: Piraeus routes, times and tips"
 description: "Complete guide to ferries to Sifnos. Piraeus to Kamares routes, high-speed vs conventional times, island connections to Milos and Serifos."
 answer: "Every ferry to Sifnos docks at Kamares on the west coast. Sailings leave from Piraeus and take roughly 2.5 to 3 hours by high-speed catamaran or about 5 hours on a conventional ferry, with daily departures through summer and three or four a week in winter."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 3
@@ -97,7 +97,7 @@ The one thing that consistently catches visitors out is the gap between stepping
 
 We solve this by meeting the boat. Send us your **arrival date and approximate docking time** and we will have the car waiting at Kamares port at no extra charge, along with free pickup at the heliport, Apollonia, Artemonas and Kastro. There is no prepayment and no card details taken to reserve, and third-party insurance, maintenance and local help are already in the daily rate.
 
-Tell us your ferry time and whether you want a car or a scooter, and we will do the rest.
+Tell us your ferry time and how many of you are travelling, and we will do the rest. (Scooters are collected from our Apollonia office, not the port, and online scooter booking is paused for now.)
 
 [Reserve your car for your ferry arrival](/en/book) or read the [Kamares port arrival guide](/en/sifnos-guide/kamares-port) for what to expect at the quay.
 

@@ -3,7 +3,7 @@ slug: best-time-visit-sifnos
 title: "Best time to visit Sifnos for driving and swimming"
 description: "When Sifnos weather, swimming, and Artemis rental availability align, from shoulder months to peak August. Free pickup at Kamares port, no prepayment."
 datePublished: "2026-06-15"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/best-time-visit-sifnos-cover.jpg"
 author: "Artemis Rental"
 tags: [season, weather, planning]
@@ -12,7 +12,7 @@ related: [sifnos-car-rental-prices, sifnos-vs-milos, rent-a-car-sifnos-2026]
 
 ## Shoulder months (late May–June, September)
 
-These weeks are the sweet spot for many drivers: swimable seas, open tavernas, and less parking stress than peak August. Compact cars and scooters are easier to confirm last-minute, and village roads feel calmer at midday.
+These weeks are the sweet spot for many drivers: swimable seas, open tavernas, and less parking stress than peak August. Compact cars are easier to confirm last-minute, and village roads feel calmer at midday.
 
 ## High summer (July–August)
 
@@ -25,7 +25,7 @@ October can still be lovely for walking and quieter villages, though swimming co
 ## How this affects your vehicle choice
 
 - **Families / luggage:** book a car early for peak weeks.
-- **Couples beach-hopping:** scooters shine in shoulder months.
+- **Couples beach-hopping:** a small manual car is the cheapest way around in shoulder months; published scooter rates only cover 11 June to 10 September.
 - **Automatic drivers:** request Peugeot 208 Auto or Micra Auto early for July–August.
 
 Ready with dates? [Browse the fleet](/en/cars) or [send an enquiry](/en/book).
@@ -44,6 +44,6 @@ Scooter riders feel wind more, plan car backup or choose sheltered bays on gusty
 
 ## Matching season to rental category
 
-Low and shoulder seasons reward flexible travellers: last-minute compacts, lower daily rates on the [price guide](/en/blog/sifnos-car-rental-prices), and scooters for couples without August sell-out stress. Peak weeks invert the logic, book automatics early, start beach days before 10 a.m., and treat your Artemis enquiry as part of ferry booking, not an afterthought.
+Low and shoulder seasons reward flexible travellers: last-minute compacts, lower daily rates on the [price guide](/en/blog/sifnos-car-rental-prices), and a quieter choice of models without August sell-out stress. Peak weeks invert the logic, book automatics early, start beach days before 10 a.m., and treat your Artemis enquiry as part of ferry booking, not an afterthought.
 
-[Book with Artemis](/en/book) when your window is set, **no prepayment**, pickup in **Apollonia** or **Kamares on request**, cars and scooters since **1988**.
+[Book with Artemis](/en/book) when your window is set, **no prepayment**, free car pickup at **Kamares port** or in **Apollonia**, a family desk since **1988**.

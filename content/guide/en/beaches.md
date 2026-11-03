@@ -4,7 +4,7 @@ title: "Sifnos beaches worth the drive"
 description: "Complete Sifnos beach guide for drivers and scooter riders, Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia and Fykiada with access."
 answer: "With an Artemis car or scooter, prioritise Platys Gialos for facilities, Vathi for a sheltered bay, Chrysopigi for the monastery postcard, and Cherronisos or Vroulidia when you want quieter north-coast swimming. Arrive early in July–August for parking."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
 author: "Artemis Rental"
 order: 6
@@ -14,7 +14,7 @@ related:
   - kamares-port
 ---
 
-Sifnos beaches are spread around a compact island, short distances on the map, but much easier with your own wheels than with sparse summer buses. This guide is written for travellers who pick up keys in Apollonia (or Kamares on request) and want clear answers: which beach, how to get there, where to park, and what the wind usually does.
+Sifnos beaches are spread around a compact island, short distances on the map, but much easier with your own wheels than with sparse summer buses. This guide is written for travellers who collect a car at Kamares port or in Apollonia and want clear answers: which beach, how to get there, where to park, and what the wind usually does.
 
 ![Platys Gialos beach Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, long sandy beach on southern Sifnos")
 
@@ -52,7 +52,7 @@ One of the largest and most popular sandy beaches on Sifnos, especially loved by
 
 **Western Sifnos (main port) · ~10–15 minutes from Apollonia**
 
-The ferry harbour and largest coastal village. Wide sandy bay, lots of services, and the practical first or last swim of your trip. Artemis can arrange **Kamares pickup** for cars when the boat docks, ask when you enquire.
+The ferry harbour and largest coastal village. Wide sandy bay, lots of services, and the practical first or last swim of your trip. Artemis cars can be waiting at the quay when the boat docks, free of charge: send your ferry time when you enquire.
 
 **Highlights**
 - Main ferry arrival / departure
@@ -92,7 +92,7 @@ A photogenic, wide sandy bay with a calmer village feel. Once a major pottery ce
 
 **Southeastern Sifnos · ~20 minutes from Apollonia**
 
-The island’s most photographed headland: the Monastery of Panagia Chrysopigi (16th century), patron saint of Sifnos, above rocky swim spots and clear water. Come for the setting more than for a long sandy lounge.
+The island’s most photographed headland: the Monastery of Panagia Chrysopigi, built in 1650 and home to the icon of the island's patron saint, above rocky swim spots and clear water. Come for the setting more than for a long sandy lounge.
 
 **Highlights**
 - Iconic monastery and festival days
@@ -191,6 +191,6 @@ Completely undeveloped sand, reachable **only on foot or by boat**. Near the cha
 
 ## Artemis tip
 
-Keep valuables out of sight, fill fuel before long north runs in peak season, and message us if you want **Kamares pickup** the morning your ferry docks. Browse [cars](/en/cars) and [scooters](/en/scooters), or [request dates](/en/book).
+Keep valuables out of sight, fill fuel before long north runs in peak season, and send us your ferry time if you want the car waiting at **Kamares port** (free for cars). Browse [cars](/en/cars) and [scooters](/en/scooters), or [request dates](/en/book).
 
 For live island pages and schedules, see also [Sifnos on Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) and [things to do](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

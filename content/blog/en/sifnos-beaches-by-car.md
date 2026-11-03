@@ -3,7 +3,7 @@ slug: sifnos-beaches-by-car
 title: "Best Sifnos beaches to reach by car"
 description: "A driver's guide to Sifnos beaches, Platys Gialos, Vathi, Chrysopigi, and quieter coves with parking tips from Artemis. Family run in Apollonia since 1988."
 datePublished: "2026-07-05"
-dateModified: "2026-07-15"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [beaches, driving, itinerary]
@@ -26,7 +26,7 @@ These eastern coves trade Platys Gialos crowds for taverna tables near the water
 
 ## West and north: quieter options
 
-**Apokofto** and **Fykiada** reward drivers willing to walk the last few minutes from a roadside pull-off. **Kamares** itself is the port beach, handy on arrival day before you collect keys in Apollonia or if you arranged **Kamares pickup on request**.
+**Apokofto** and **Fykiada** reward drivers willing to walk the last few minutes from a roadside pull-off. **Kamares** itself is the port beach, handy on arrival day, especially if your Artemis car was waiting for you at the quay (free **Kamares pickup** for cars).
 
 **Vroulidia** on the north requires a longer drive and a short walk; fewer facilities, more solitude. Check wind direction, north coast beaches can chop up when meltemi blows.
 
@@ -36,7 +36,7 @@ These eastern coves trade Platys Gialos crowds for taverna tables near the water
 
 One sensible pattern: north-coast coffee in Kastro or Artemonas, south-coast swim before noon, siesta, then Apollonia dinner without repacking the hotel. Another: base near Kamares for port swims, drive inland only for Chrysopigi sunsets.
 
-Scooters work for couples in May and September; families with cool boxes and child seats usually prefer a hatchback. Artemis offers both from the same Apollonia office, **no prepayment** to enquire, seasonal rates published on the [rates page](/en/rates).
+Scooters suit couples with a motorcycle licence in high summer (online scooter booking is paused for now); families with cool boxes and child seats usually prefer a hatchback. Cars are delivered free to Kamares port and Apollonia, **no prepayment** to enquire, seasonal rates published on the [rates page](/en/rates).
 
 ## Parking and peak-season reality
 
@@ -48,7 +48,7 @@ If every south-coast lot looks full, try Faros or a second visit to Vathi after 
 
 Morning: drive Apollonia → Vathi (45 minutes including photo stops), swim and coffee. Midday: Platys Gialos lunch and siesta under umbrella. Late afternoon: Chrysopigi for light, then Faros dinner. Return Apollonia after dark on a route you already know. Not the day to explore gravel shortcuts.
 
-This loop assumes a compact from Artemis with **no prepayment** enquiry and fuel topped near Kamares or Apollonia at least once. Scooter couples can run a shorter version skipping Platys Gialos parking stress by eating in Faros instead.
+This loop assumes a compact from Artemis with **no prepayment** enquiry and at least one fuel top-up; ask us where the nearest pump is. Scooter couples can run a shorter version skipping Platys Gialos parking stress by eating in Faros instead.
 
 ## Pair beaches with your stay choice
 

@@ -4,7 +4,7 @@ title: "Things to do on Sifnos"
 description: "Full Sifnos things-to-do guide: beaches, villages, hiking trails, food, pottery, monasteries, boat days, planned around an Artemis car or scooter rental."
 answer: "Swim at Platys Gialos and Vathi, visit Chrysopigi and medieval Kastro, hike village-to-coast trails, taste mastelo and revithada, browse pottery workshops, and use an Artemis rental to link it all without bus timetables."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
 author: "Artemis Rental"
 order: 9
@@ -100,6 +100,8 @@ Live ferry ideas: [Athens–Sifnos routes on Discover Cyclades](https://discover
 | 2 | South loop: Faros → Chrysopigi → Platys Gialos |
 | 3 | Vathi beach morning → pottery stop → Kastro at golden hour |
 | 4 | North to Cherronisos / Vroulidia or a hike + early dinner in Apollonia |
+
+Staying longer? See our [5 and 7 day itineraries](/en/blog/sifnos-itinerary-5-7-days).
 
 ## FAQ
 

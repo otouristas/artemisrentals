@@ -4,7 +4,7 @@ title: "Getting around Sifnos: car vs scooter"
 description: "How to get around Sifnos, car vs scooter vs bus vs taxi, road tips, parking, fuel, and when Artemis rentals make the most sense. From Artemis Rental."
 answer: "For most visitors staying three-plus nights, a car is the most comfortable way to reach beaches and villages. Scooters suit confident riders with light luggage. Buses exist in summer but are infrequent for beach-hopping; taxis are limited in peaks."
 datePublished: "2026-07-01"
-dateModified: "2026-08-04"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
@@ -31,11 +31,11 @@ related:
 
 Compact cars fit village lanes and tight parking best. Artemis maintains cars for island roads; request dates early for July–August automatics. **Car pickup** is complimentary at Kamares port, heliport, Apollonia, Artemonas, and Kastro. Scooters are Apollonia-based; online scooter booking is temporarily unavailable.
 
-See [rent a car in Sifnos](/en) and [practical driving tips](/en/sifnos-guide/practical-tips).
+See [rent a car in Sifnos](/en), [which rental car suits Sifnos](/en/blog/best-rental-car-sifnos) and [practical driving tips](/en/sifnos-guide/practical-tips).
 
 ## Scooter rental
 
-Great for experienced riders who want wind-in-the-face freedom between Apollonia, Faros, Chrysopigi and Vathi. Wear the helmet, mind gravel, and avoid overloading. If you are new to island hills or travelling with kids/lots of bags, choose a car.
+Great for experienced riders who want wind-in-the-face freedom between Apollonia, Faros, Chrysopigi and Vathi. Wear the helmet, mind gravel, and avoid overloading. If you are new to island hills or travelling with kids/lots of bags, choose a car. Note that a car licence does not cover a 125cc scooter in Greece: you need a motorcycle category (A1 or higher), see [scooter licence rules](/en/blog/scooter-licence-rules-sifnos) and the full [car or scooter comparison](/en/blog/car-or-scooter-sifnos).
 
 ## Buses & taxis
 
@@ -53,7 +53,9 @@ Summer buses link Apollonia with Kamares, Platys Gialos, Vathi, Faros and other 
 - **Apollonia evening:** park once, walk.
 - **Platys Gialos:** earlier = closer.
 - **Chrysopigi:** limited; never block monastery access.
-- **Kastro:** park below / outside and walk the medieval lanes.
+- **Kastro:** park outside the village and walk the medieval lanes; there is no driving inside.
+
+More detail, village by village, in [driving in Sifnos](/en/blog/driving-in-sifnos).
 - **Cherronisos:** tight village lanes, patience.
 
 ## Fuel & ranges

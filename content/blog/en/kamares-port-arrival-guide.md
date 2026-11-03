@@ -3,7 +3,7 @@ slug: kamares-port-arrival-guide
 title: "Kamares port arrival guide: ferry to first swim"
 description: "What to do when your ferry docks at Kamares, luggage, pickup options, and getting to Apollonia with Artemis rental. Free pickup at Kamares port, no prepayment."
 datePublished: "2026-07-06"
-dateModified: "2026-07-14"
+dateModified: "2026-11-03"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
 tags: [kamares, arrival, ferry]
@@ -20,13 +20,13 @@ Kamares beach sits steps from the pier. Many travellers swim before checking in,
 
 ## Picking up your Artemis rental
 
-Artemis defaults to **Apollonia pickup** at the main office, a ten-minute drive or one bus ride from Kamares. If your ferry lands early and you want wheels immediately, request **Kamares pickup on request** when you enquire. Mention boat name and ETA; the team coordinates when schedule allows.
+Artemis delivers cars to **Kamares port free of charge**. Send your ferry name and approximate docking time when you enquire and the car will be waiting at the quay. If you would rather settle in first, collect it at the **Apollonia office**, a ten-minute drive or one bus ride uphill. Scooters are the exception: they are collected in Apollonia only.
 
 **No prepayment** is required to book, send dates via the enquiry form or WhatsApp and wait for personal confirmation. Have your licence and passport ready; rental terms follow standard Cycladic practice (minimum age 23, licence held one year).
 
 ### If Apollonia pickup works better
 
-Some guests drop bags at a Kamares hotel, take the bus uphill, collect the car in Apollonia, and return for luggage once oriented. Others taxi to Apollonia and start driving from there. Both patterns work; choose based on energy after the ferry, not ideology.
+Some guests prefer to drop bags at a Kamares hotel, take the bus uphill, collect the car in Apollonia, and return for luggage once oriented. Others taxi to Apollonia and start driving from there. Both patterns work; choose based on energy after the ferry, not ideology.
 
 ![Kamares port waterfront with ferry and hillside road to Apollonia](/images/blog/kamares-port-arrival-guide.jpg "Most Sifnos arrivals start at Kamares, plan pickup before you dock")
 
@@ -34,13 +34,13 @@ Some guests drop bags at a Kamares hotel, take the bus uphill, collect the car i
 
 Hotels in Kamares mean short walks from dinner to bed. Hotels in Apollonia mean evening strolls through the capital but a bus or taxi on arrival day unless you picked up a car at the port. Read [Apollonia vs Kamares](/en/blog/apollonia-vs-kamares-stay) if you are still choosing a base.
 
-Fuel is available near Kamares; you do not need to fill before driving to Apollonia unless you plan an immediate south-coast loop.
+You do not need to refuel before driving up to Apollonia; ask us at handover where the nearest pump is for longer days.
 
 ## Taxis, bus, and when to skip them
 
-The Kamares–Apollonia bus is inexpensive and fine for one person with a daypack. It becomes awkward with two large suitcases, a car seat, or a family that wants to stop at a supermarket before climbing the hill. Taxis meet ferries but queues form when multiple boats arrive the same hour, having Artemis confirm **Kamares pickup on request** removes the guesswork.
+The Kamares–Apollonia bus is inexpensive and fine for one person with a daypack. It becomes awkward with two large suitcases, a car seat, or a family that wants to stop at a supermarket before climbing the hill. Taxis meet ferries but queues form when multiple boats arrive the same hour, having your Artemis car waiting at the quay removes the guesswork.
 
-If you already booked Apollonia pickup, the bus still works as a backup when ferries run late and you need to check in before the office closes. Save the Artemis WhatsApp number in your phone before you sail; signal on deck is better than in the port car park.
+If you chose Apollonia pickup, the bus still works as a backup when ferries run late. Either way, message us with the new arrival time. Save the Artemis WhatsApp number in your phone before you sail; signal on deck is better than in the port car park.
 
 ## Supermarket and cash stop
 
@@ -49,7 +49,7 @@ The Kamares mini-market covers water, sunscreen, and snacks before a first drive
 ## Common arrival-day mistakes
 
 - Assuming every ferry syncs with a bus, check the board or ask a café server.
-- Collecting a manual car tired from travel and tackling Apollonia's one-way hill on first gear, automatic renters, say so when booking peak season.
+- Collecting a manual car tired from travel and tackling the climb to Apollonia without thinking about it. If you want an automatic in July or August, say so when you book.
 - Forgetting to message Artemis if the ferry is delayed; they adjust when they know.
 
 ## Beyond day one

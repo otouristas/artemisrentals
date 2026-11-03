@@ -3,7 +3,7 @@ slug: apollonia-vs-kamares-stay
 title: "Stay in Apollonia or Kamares?"
 description: "Where to base yourself on Sifnos if you plan to rent a car or scooter with Artemis. Free pickup at Kamares port and Apollonia, and no prepayment to reserve."
 datePublished: "2026-06-15"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"
 author: "Artemis Rental"
 tags: [apollonia, kamares, accommodation]
@@ -20,7 +20,7 @@ Choose Kamares if you love beach-first mornings and the shortest walk after the 
 
 ## With a rental, both work
 
-Ask Artemis for Apollonia pickup by default, or **Kamares on request** when your boat arrives late. Browse [where to stay](/en/sifnos-guide/where-to-stay) and [request dates](/en/book) once your hotel is set.
+Car pickup is free at **Kamares port** and in **Apollonia**, as well as Artemonas, Kastro and the heliport, so your base does not change the rental. Browse [where to stay](/en/sifnos-guide/where-to-stay) and [request dates](/en/book) once your hotel is set.
 
 ## Drive times with a rental
 
@@ -30,9 +30,9 @@ Evening returns matter: Apollonia diners walk home after wine; Kamares guests dr
 
 ## Who fits which base
 
-**Apollonia suits:** couples and groups who want nightlife, shopping, and walking to dinner; travellers who prefer collecting keys at the Artemis office without a port detour.
+**Apollonia suits:** couples and groups who want nightlife, shopping, and walking to dinner; travellers who prefer to settle in first and collect the car at the Artemis office.
 
-**Kamares suits:** families with tired kids post-ferry, swimmers who want beach-first mornings, and late arrivals who requested **Kamares pickup on request**.
+**Kamares suits:** families with tired kids post-ferry, swimmers who want beach-first mornings, and late arrivals who collect their car at the quay.
 
 Split stays work, two nights Kamares, three Apollonia, if you do not mind one hotel change. One rental car covers the move without returning keys mid-trip; confirm duration when you [Book with Artemis](/en/book).
 
