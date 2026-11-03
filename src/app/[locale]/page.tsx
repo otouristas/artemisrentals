@@ -15,6 +15,7 @@ import { getReviewsWithText, reviewKey, REVIEW_COUNT } from "@/lib/reviews";
 import { buildMetadata, absoluteUrl, BUSINESS_ID, WEBSITE_ID } from "@/lib/seo";
 import { bcp47 } from "@/lib/i18n-locale";
 import type { Locale } from "@/i18n/routing";
+import { ensureLivePricing } from "@/lib/live-fleet";
 
 export async function generateMetadata({
   params,
@@ -38,6 +39,8 @@ export default async function HomePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  // Live CRM prices before any child renders a price.
+  await ensureLivePricing();
   const t = await getTranslations("Home");
   const reviews = await getTranslations("Reviews");
   // Two rows at lg:grid-cols-3 → up to 6 per category

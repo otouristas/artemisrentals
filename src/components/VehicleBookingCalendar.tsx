@@ -4,15 +4,10 @@ import { useMemo, useState } from "react";
 import { DayPicker, type DateRange } from "react-day-picker";
 import { useTranslations } from "next-intl";
 import { useRouter } from "@/i18n/navigation";
-import { estimateRateForDate } from "@/lib/fleet";
+import { estimateTotal, rentalDays } from "@/lib/fleet";
 import { toISODate } from "@/lib/dates";
+import { soldOutDays, useAvailability } from "@/lib/use-availability";
 import "react-day-picker/style.css";
-
-function daysBetween(from: Date, to: Date) {
-  const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
-  const b = Date.UTC(to.getFullYear(), to.getMonth(), to.getDate());
-  return Math.max(1, Math.round((b - a) / 86400000) + 1);
-}
 
 export function VehicleBookingCalendar({
   vehicleSlug,
@@ -24,6 +19,7 @@ export function VehicleBookingCalendar({
   fromPrice?: number | null;
 }) {
   const t = useTranslations("Fleet");
+  const tBook = useTranslations("Book");
   const router = useRouter();
   const [range, setRange] = useState<DateRange | undefined>();
   const today = useMemo(() => {
@@ -32,24 +28,21 @@ export function VehicleBookingCalendar({
     return d;
   }, []);
 
-  const dayCount =
-    range?.from && range?.to ? daysBetween(new Date(range.from), new Date(range.to)) : 0;
+  const dayCount = range?.from && range?.to ? rentalDays(range.from, range.to) : 0;
 
   const indicativeTotal = useMemo(() => {
-    if (!rateKey || !range?.from || !range?.to) return null;
-    let total = 0;
-    const cursor = new Date(range.from);
-    const end = new Date(range.to);
-    cursor.setHours(0, 0, 0, 0);
-    end.setHours(0, 0, 0, 0);
-    while (cursor <= end) {
-      const rate = estimateRateForDate(rateKey, new Date(cursor));
-      if (rate == null) return null;
-      total += rate;
-      cursor.setDate(cursor.getDate() + 1);
-    }
-    return total;
+    if (!range?.from || !range?.to) return null;
+    return estimateTotal(rateKey, range.from, range.to);
   }, [rateKey, range]);
+
+  // Live availability for this model over the next year: fully booked days are disabled.
+  const windowEnd = useMemo(() => {
+    const d = new Date(today);
+    d.setDate(d.getDate() + 365);
+    return toISODate(d);
+  }, [today]);
+  const availability = useAvailability(toISODate(today), windowEnd, vehicleSlug);
+  const blocked = useMemo(() => soldOutDays(availability.vehicles[vehicleSlug]), [availability.vehicles, vehicleSlug]);
 
   const href =
     range?.from && range?.to
@@ -80,11 +73,13 @@ export function VehicleBookingCalendar({
           mode="range"
           selected={range}
           onSelect={setRange}
-          disabled={{ before: today }}
+          disabled={[{ before: today }, ...blocked]}
+          excludeDisabled
           numberOfMonths={1}
           className="rdp-root"
         />
       </div>
+      {blocked.length > 0 ? <p className="mt-2 text-xs text-aegean/55">{tBook("availHint")}</p> : null}
 
 
       {/* Button, not <Link>: a crawlable href would let Google discover

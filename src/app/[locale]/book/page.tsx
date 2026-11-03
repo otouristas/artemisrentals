@@ -5,6 +5,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { TrustBadges } from "@/components/TrustBadges";
 import { buildMetadata } from "@/lib/seo";
 import type { Locale } from "@/i18n/routing";
+import { ensureLivePricing } from "@/lib/live-fleet";
 
 export async function generateMetadata({
   params,
@@ -43,6 +44,8 @@ export default async function BookPage({
   const { locale } = await params;
   const { vehicle, from, to } = await searchParams;
   setRequestLocale(locale);
+  // Live CRM prices before any child renders a price.
+  await ensureLivePricing();
   const t = await getTranslations("Book");
   const loc = locale as Locale;
   const compact = Boolean(vehicle);

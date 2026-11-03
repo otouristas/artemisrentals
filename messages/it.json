@@ -229,7 +229,12 @@
     "nextStep3": "Paghi al ritiro del veicolo. Nessun pagamento anticipato.",
     "sentQuestions": "Domande o modifiche? Contattaci direttamente.",
     "sentSummaryTitle": "La tua richiesta",
-    "newRequest": "Invia un'altra richiesta"
+    "newRequest": "Invia un'altra richiesta",
+    "availAvailable": "Disponibile per le tue date",
+    "availFew": "{count, plural, one {Ne resta solo 1} other {Ne restano solo #}}",
+    "availSoldOut": "Già prenotato per le tue date",
+    "availHint": "I giorni in grigio sono al completo.",
+    "availChecking": "Verifica disponibilità…"
   },
   "Guide": {
     "title": "Guida di Sifnos",

@@ -229,7 +229,12 @@
     "nextStep3": "Vous payez au retrait du véhicule. Aucun prépaiement.",
     "sentQuestions": "Des questions ou un changement ? Contactez-nous directement.",
     "sentSummaryTitle": "Votre demande",
-    "newRequest": "Envoyer une autre demande"
+    "newRequest": "Envoyer une autre demande",
+    "availAvailable": "Disponible à vos dates",
+    "availFew": "{count, plural, one {Plus que 1 disponible} other {Plus que # disponibles}}",
+    "availSoldOut": "Complet à vos dates",
+    "availHint": "Les jours grisés sont complets.",
+    "availChecking": "Vérification de la disponibilité…"
   },
   "Guide": {
     "title": "Guide de Sifnos",

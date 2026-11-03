@@ -9,6 +9,7 @@ import { FleetSeoExtras } from "@/components/FleetSeoExtras";
 import { buildMetadata, absoluteUrl, itemListJsonLd } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
 import type { Locale } from "@/i18n/routing";
+import { ensureLivePricing } from "@/lib/live-fleet";
 
 export async function generateMetadata({
   params,
@@ -33,6 +34,8 @@ export default async function ScootersPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
+  // Live CRM prices before any child renders a price.
+  await ensureLivePricing();
   const t = await getTranslations("Fleet");
   const scooters = getScooters();
   const loc = locale as Locale;

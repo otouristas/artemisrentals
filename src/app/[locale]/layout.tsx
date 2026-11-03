@@ -15,6 +15,8 @@ import { CookieBanner } from "@/components/CookieBanner";
 import { ScrollToTop } from "@/components/ScrollToTop";
 import { JsonLd } from "@/components/JsonLd";
 import { siteGraphJsonLd } from "@/lib/seo";
+import { ensureLivePricing } from "@/lib/live-fleet";
+import { LivePricingBridge } from "@/components/LivePricingBridge";
 
 const inter = Inter({
   subsets: ["latin", "greek"],
@@ -37,6 +39,7 @@ export default async function LocaleLayout({
   if (!hasLocale(routing.locales, locale)) notFound();
   setRequestLocale(locale);
   const messages = await getMessages();
+  const livePricing = await ensureLivePricing();
 
   return (
     <html
@@ -46,6 +49,7 @@ export default async function LocaleLayout({
     >
       <body className="flex min-h-full flex-col font-sans antialiased" suppressHydrationWarning>
         <NextIntlClientProvider messages={messages}>
+          <LivePricingBridge rows={livePricing} />
           <JsonLd data={siteGraphJsonLd()} />
           <Header />
           <main className="flex-1">{children}</main>

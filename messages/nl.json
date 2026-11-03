@@ -229,7 +229,12 @@
     "nextStep3": "Je betaalt bij het ophalen. Geen vooruitbetaling.",
     "sentQuestions": "Vragen of wijzigingen? Neem direct contact op.",
     "sentSummaryTitle": "Jouw aanvraag",
-    "newRequest": "Nog een aanvraag sturen"
+    "newRequest": "Nog een aanvraag sturen",
+    "availAvailable": "Beschikbaar op jouw data",
+    "availFew": "{count, plural, one {Nog maar 1 vrij} other {Nog maar # vrij}}",
+    "availSoldOut": "Volgeboekt op jouw data",
+    "availHint": "Grijze dagen zijn volgeboekt.",
+    "availChecking": "Beschikbaarheid controleren…"
   },
   "Guide": {
     "title": "Sifnos-gids",

@@ -229,7 +229,12 @@
     "nextStep3": "Sie bezahlen bei der Übergabe. Keine Vorauszahlung.",
     "sentQuestions": "Fragen oder Änderungen? Schreiben oder rufen Sie uns an.",
     "sentSummaryTitle": "Ihre Anfrage",
-    "newRequest": "Weitere Anfrage senden"
+    "newRequest": "Weitere Anfrage senden",
+    "availAvailable": "Für Ihre Daten verfügbar",
+    "availFew": "{count, plural, one {Nur noch 1 frei} other {Nur noch # frei}}",
+    "availSoldOut": "Für Ihre Daten ausgebucht",
+    "availHint": "Ausgegraute Tage sind ausgebucht.",
+    "availChecking": "Verfügbarkeit wird geprüft…"
   },
   "Guide": {
     "title": "Sifnos-Guide",

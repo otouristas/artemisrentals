@@ -3,20 +3,16 @@
 import { useMemo } from "react";
 import { DayPicker, type DateRange } from "react-day-picker";
 import { useTranslations } from "next-intl";
-import { estimateRateForDate } from "@/lib/fleet";
+import { estimateTotal, rentalDays } from "@/lib/fleet";
+import { soldOutDays, useAvailability } from "@/lib/use-availability";
 import { parseISODate, toISODate } from "@/lib/dates";
 import "react-day-picker/style.css";
-
-function daysBetween(from: Date, to: Date) {
-  const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
-  const b = Date.UTC(to.getFullYear(), to.getMonth(), to.getDate());
-  return Math.max(1, Math.round((b - a) / 86400000) + 1);
-}
 
 export function StepDates({
   from,
   to,
   rateKey,
+  vehicleSlug,
   onChange,
   onNext,
   onBack,
@@ -24,6 +20,7 @@ export function StepDates({
   from: string;
   to: string;
   rateKey: string | null;
+  vehicleSlug: string | null;
   onChange: (from: string, to: string) => void;
   onNext: () => void;
   onBack: () => void;
@@ -46,23 +43,24 @@ export function StepDates({
     onChange(next?.from ? toISODate(next.from) : "", next?.to ? toISODate(next.to) : "");
   }
 
-  const nights = range?.from && range?.to ? daysBetween(range.from, range.to) : 0;
+  const nights = range?.from && range?.to ? rentalDays(range.from, range.to) : 0;
 
   const estimatedTotal = useMemo(() => {
-    if (!rateKey || !range?.from || !range?.to) return null;
-    let total = 0;
-    const cursor = new Date(range.from);
-    const end = new Date(range.to);
-    cursor.setHours(0, 0, 0, 0);
-    end.setHours(0, 0, 0, 0);
-    while (cursor <= end) {
-      const rate = estimateRateForDate(rateKey, new Date(cursor));
-      if (rate == null) return null;
-      total += rate;
-      cursor.setDate(cursor.getDate() + 1);
-    }
-    return total;
+    if (!range?.from || !range?.to) return null;
+    return estimateTotal(rateKey, range.from, range.to);
   }, [rateKey, range]);
+
+  // Live availability for the chosen model over the next year: fully booked days are disabled.
+  const windowEnd = useMemo(() => {
+    const d = new Date(today);
+    d.setDate(d.getDate() + 365);
+    return toISODate(d);
+  }, [today]);
+  const availability = useAvailability(vehicleSlug ? toISODate(today) : null, vehicleSlug ? windowEnd : null, vehicleSlug);
+  const blocked = useMemo(
+    () => (vehicleSlug ? soldOutDays(availability.vehicles[vehicleSlug]) : []),
+    [availability.vehicles, vehicleSlug],
+  );
 
   const canProceed = Boolean(from && to);
 
@@ -76,11 +74,13 @@ export function StepDates({
           mode="range"
           selected={range}
           onSelect={handleSelect}
-          disabled={{ before: today }}
+          disabled={[{ before: today }, ...blocked]}
+          excludeDisabled
           numberOfMonths={1}
           className="rdp-root"
         />
       </div>
+      {blocked.length > 0 ? <p className="mt-2 text-xs text-aegean/55">{t("availHint")}</p> : null}
 
       {nights > 0 && (
         <p className="mt-4 text-sm font-medium text-aegean">

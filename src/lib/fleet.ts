@@ -43,6 +43,8 @@ export function getRateRow(rateKey: string | null | undefined): RateRow | null {
 
 /** Lowest published daily rate across seasons (ignores null / closed seasons). */
 export function getLowestRate(rateKey: string | null | undefined): number | null {
+  const live = getLiveRates(rateKey);
+  if (live) return Math.min(...live.map((r) => r.rate));
   const row = getRateRow(rateKey);
   if (!row) return null;
   const values = PERIOD_IDS.map((p) => row[p]).filter((n): n is number => typeof n === "number");
@@ -69,14 +71,82 @@ export function getCurrentSeason(date: Date = new Date()): PeriodId {
   return seasonForDate(date);
 }
 
+/**
+ * Live price periods from the CRM, keyed by vehicle slug (slug === rateKey).
+ * Set on the server by ensureLivePricing() and on the client by LivePricingBridge.
+ * When a vehicle has live periods they replace the static season table for it.
+ */
+export type LiveRate = {
+  slug: string;
+  label: string | null;
+  /** Inclusive, yyyy-MM-dd. */
+  start: string;
+  end: string;
+  rate: number;
+  minDays: number;
+};
+
+let liveRates: Map<string, LiveRate[]> | null = null;
+
+export function setLiveRates(rows: LiveRate[] | null) {
+  if (!rows || rows.length === 0) {
+    liveRates = null;
+    return;
+  }
+  const map = new Map<string, LiveRate[]>();
+  for (const row of rows) map.set(row.slug, [...(map.get(row.slug) ?? []), row]);
+  liveRates = map;
+}
+
+export function getLiveRates(rateKey: string | null | undefined): LiveRate[] | null {
+  if (!rateKey || !liveRates) return null;
+  return liveRates.get(rateKey) ?? null;
+}
+
+function dayKey(date: Date) {
+  const m = String(date.getMonth() + 1).padStart(2, "0");
+  const d = String(date.getDate()).padStart(2, "0");
+  return `${date.getFullYear()}-${m}-${d}`;
+}
+
 export function estimateRateForDate(
   rateKey: string | null | undefined,
   date: Date,
 ): number | null {
+  const live = getLiveRates(rateKey);
+  if (live) {
+    const day = dayKey(date);
+    return live.find((r) => r.start <= day && day <= r.end)?.rate ?? null;
+  }
   const row = getRateRow(rateKey);
   if (!row) return null;
   const value = row[seasonForDate(date)];
   return typeof value === "number" ? value : null;
+}
+
+/**
+ * Rental days between pick-up and return, counted per night like the CRM:
+ * 10 Jun → 14 Jun is 4 days. Same-day pick-up and return counts as 1.
+ */
+export function rentalDays(from: Date, to: Date) {
+  const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
+  const b = Date.UTC(to.getFullYear(), to.getMonth(), to.getDate());
+  return Math.max(1, Math.round((b - a) / 86400000));
+}
+
+/** Estimated total for a rental, or null when any charged day has no price. */
+export function estimateTotal(rateKey: string | null | undefined, from: Date, to: Date): number | null {
+  if (!rateKey || to < from) return null;
+  const days = rentalDays(from, to);
+  let total = 0;
+  const cursor = new Date(from.getFullYear(), from.getMonth(), from.getDate());
+  for (let i = 0; i < days; i++) {
+    const rate = estimateRateForDate(rateKey, cursor);
+    if (rate == null) return null;
+    total += rate;
+    cursor.setDate(cursor.getDate() + 1);
+  }
+  return total;
 }
 
 /** Today's / current-season daily rate for display. */

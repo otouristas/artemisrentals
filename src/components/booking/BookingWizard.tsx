@@ -5,7 +5,7 @@ import { useForm } from "@formspree/react";
 import {
   getAllVehicles,
   getVehicleBySlug,
-  estimateRateForDate,
+  estimateTotal,
   isScooterBookingEnabled,
 } from "@/lib/fleet";
 import { trackEvent } from "@/lib/analytics";
@@ -29,19 +29,10 @@ import {
 const LAST_STEP: BookingStep = 3;
 
 function computeEstimatedTotal(rateKey: string | null, from: string, to: string) {
-  if (!rateKey) return null;
   const start = parseISODate(from);
   const end = parseISODate(to);
-  if (!start || !end || end < start) return null;
-  let total = 0;
-  const cursor = new Date(start);
-  while (cursor <= end) {
-    const rate = estimateRateForDate(rateKey, cursor);
-    if (rate == null) return null;
-    total += rate;
-    cursor.setDate(cursor.getDate() + 1);
-  }
-  return total;
+  if (!start || !end) return null;
+  return estimateTotal(rateKey, start, end);
 }
 
 function updateUrlParams(patch: Record<string, string | undefined>) {
@@ -331,6 +322,7 @@ export function BookingWizard({
             from={state.from}
             to={state.to}
             rateKey={rateKey}
+            vehicleSlug={state.vehicle || null}
             onChange={(from, to) => updateState({ from, to })}
             onNext={goNext}
             onBack={goBack}

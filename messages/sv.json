@@ -229,7 +229,12 @@
     "nextStep3": "Du betalar när du hämtar fordonet. Ingen förskottsbetalning.",
     "sentQuestions": "Frågor eller ändringar? Kontakta oss direkt.",
     "sentSummaryTitle": "Din förfrågan",
-    "newRequest": "Skicka en ny förfrågan"
+    "newRequest": "Skicka en ny förfrågan",
+    "availAvailable": "Ledig för dina datum",
+    "availFew": "{count, plural, one {Bara 1 kvar} other {Bara # kvar}}",
+    "availSoldOut": "Fullbokad för dina datum",
+    "availHint": "Grå dagar är fullbokade.",
+    "availChecking": "Kontrollerar tillgänglighet…"
   },
   "Guide": {
     "title": "Sifnosguiden",

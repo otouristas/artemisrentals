@@ -229,7 +229,12 @@
     "nextStep3": "You pay when you collect the vehicle. No prepayment.",
     "sentQuestions": "Questions or changes? Reach us directly.",
     "sentSummaryTitle": "Your request",
-    "newRequest": "Send another request"
+    "newRequest": "Send another request",
+    "availAvailable": "Available for your dates",
+    "availFew": "{count, plural, one {Only 1 left} other {Only # left}}",
+    "availSoldOut": "Booked for your dates",
+    "availHint": "Greyed-out days are fully booked.",
+    "availChecking": "Checking availability…"
   },
   "Guide": {
     "title": "Sifnos Guide",

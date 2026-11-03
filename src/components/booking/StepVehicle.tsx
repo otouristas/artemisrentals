@@ -3,16 +3,14 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
-import { getCurrentSeasonRate, getLowestRate, isScooterBookingEnabled } from "@/lib/fleet";
+import { getCurrentSeasonRate, getLowestRate, isScooterBookingEnabled, rentalDays } from "@/lib/fleet";
+import { minFreeUnits, useAvailability } from "@/lib/use-availability";
 import { parseISODate } from "@/lib/dates";
 import { intlLocale } from "@/lib/i18n-locale";
 import type { Vehicle } from "./types";
 
 function dayCount(from?: Date, to?: Date) {
-  if (!from || !to) return 0;
-  const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
-  const b = Date.UTC(to.getFullYear(), to.getMonth(), to.getDate());
-  return Math.max(1, Math.round((b - a) / 86400000) + 1);
+  return from && to ? rentalDays(from, to) : 0;
 }
 
 export function StepVehicle({
@@ -42,6 +40,9 @@ export function StepVehicle({
   const days = dayCount(fromDate, toDate);
   const dateFmt = new Intl.DateTimeFormat(intlLocale(locale), { day: "numeric", month: "short" });
   const dateRange = fromDate && toDate ? `${dateFmt.format(fromDate)} – ${dateFmt.format(toDate)}` : "";
+  const availability = useAvailability(days ? from : null, days ? to : null);
+  const freeFor = (slug: string) =>
+    availability.live ? minFreeUnits(availability.vehicles[slug], from, to) : null;
   const scootersOpen = isScooterBookingEnabled();
   const selectedVehicle = vehicles.find((v) => v.slug === value);
   const [category, setCategory] = useState<"car" | "scooter">(() =>
@@ -191,17 +192,21 @@ export function StepVehicle({
               const selected = value === v.slug;
               const lowest = getLowestRate(v.rateKey);
               const total = days ? totalFor(v.rateKey) : null;
+              const free = days ? freeFor(v.slug) : null;
+              const soldOut = free === 0;
               return (
                 <button
                   key={v.slug}
                   type="button"
                   role="radio"
                   aria-checked={selected}
+                  aria-disabled={soldOut || undefined}
+                  disabled={soldOut}
                   onClick={() => {
                     onChange(v.slug);
                     setBrowsing(false);
                   }}
-                  className={`card-premium relative flex flex-col overflow-hidden text-left transition ${
+                  className={`card-premium relative flex flex-col overflow-hidden text-left transition disabled:cursor-not-allowed disabled:opacity-55 ${
                     selected ? "border-aegean ring-1 ring-aegean" : ""
                   }`}
                 >
@@ -221,6 +226,19 @@ export function StepVehicle({
                   </div>
                   <div className="p-4">
                     <p className="font-display text-lg text-aegean">{v.name}</p>
+                    {free !== null ? (
+                      <p
+                        className={`mt-1 inline-flex items-center gap-1.5 text-xs font-semibold ${
+                          soldOut ? "text-red-700" : free <= 2 ? "text-sun" : "text-olive"
+                        }`}
+                      >
+                        <span
+                          aria-hidden
+                          className={`h-1.5 w-1.5 rounded-full ${soldOut ? "bg-red-700" : free <= 2 ? "bg-sun" : "bg-olive"}`}
+                        />
+                        {soldOut ? t("availSoldOut") : free <= 2 ? t("availFew", { count: free }) : t("availAvailable")}
+                      </p>
+                    ) : null}
                     <p className="mt-1 text-xs text-aegean/60">
                       {tFleet("seats", { count: v.seats })} ·{" "}
                       {v.transmission === "automatic" ? tFleet("automatic") : tFleet("manual")}

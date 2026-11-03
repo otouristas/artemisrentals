@@ -4,6 +4,7 @@ import { VehicleDetail } from "@/components/VehicleDetail";
 import { getCars, getVehicleBySlug, localizeField } from "@/lib/fleet";
 import { buildMetadata } from "@/lib/seo";
 import { routing, type Locale } from "@/i18n/routing";
+import { ensureLivePricing } from "@/lib/live-fleet";
 
 export function generateStaticParams() {
   return getCars().flatMap((car) =>
@@ -40,6 +41,8 @@ export default async function CarDetailPage({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
+  // Live CRM prices before any child renders a price.
+  await ensureLivePricing();
   const vehicle = getVehicleBySlug(slug);
   if (!vehicle || vehicle.category !== "car") notFound();
   return <VehicleDetail vehicle={vehicle} locale={locale as Locale} />;
