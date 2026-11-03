@@ -11,7 +11,7 @@ export async function ReviewsSummary({ className }: { className?: string }) {
   return (
     <div
       className={cn(
-        "inline-flex flex-wrap items-center gap-5 border border-aegean/12 bg-foam px-6 py-5",
+        "inline-flex flex-wrap items-center gap-5 rounded-2xl border border-line bg-foam px-6 py-5",
         className,
       )}
     >
@@ -24,7 +24,7 @@ export async function ReviewsSummary({ className }: { className?: string }) {
 
       <div className="h-12 w-px bg-aegean/12" aria-hidden="true" />
 
-      <p className="font-display text-5xl leading-none text-aegean">
+      <p className="text-5xl font-bold leading-none tracking-tight text-aegean">
         {REVIEW_RATING.toFixed(1)}
       </p>
 

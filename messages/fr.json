@@ -71,7 +71,9 @@
     "tripPlannerCta": "Planifiez un saut dans les Cyclades avec Touristas AI",
     "touristasTitle": "Touristas AI",
     "touristasBody": "Posez vos questions sur notre flotte, les tarifs saisonniers, les prises en charge au ferry et les déplacements à Sifnos, puis réservez quand vous êtes prêt.",
-    "askTouristas": "Demander à Touristas AI"
+    "askTouristas": "Demander à Touristas AI",
+    "searchLabel": "Rechercher une voiture par dates",
+    "searchCta": "Voir voitures et prix"
   },
   "Fleet": {
     "carsTitle": "Location de voiture à Sifnos",
@@ -214,7 +216,20 @@
     "estimatedTotal": "Total estimé ~€{total}",
     "estimateLabel": "Total estimé",
     "estimateDisclaimer": "Prix indicatif uniquement. Nous confirmons le tarif final et la disponibilité par téléphone, WhatsApp ou e-mail.",
-    "whatsappAckHint": "Si vous utilisez WhatsApp, Artemis vous envoie aussi une courte confirmation. Sans WhatsApp, ce n’est pas grave : nous répondons par e-mail ou téléphone."
+    "whatsappAckHint": "Si vous utilisez WhatsApp, Artemis vous envoie aussi une courte confirmation. Sans WhatsApp, ce n’est pas grave : nous répondons par e-mail ou téléphone.",
+    "phoneHint": "Ajoutez l'indicatif du pays pour que nous puissions vous joindre sur WhatsApp.",
+    "freePortPickup": "Retrait gratuit au port de Kamares",
+    "changeDates": "Modifier les dates",
+    "totalForDays": "{count, plural, one {pour # jour} other {pour # jours}}",
+    "sentTitle": "Demande reçue",
+    "sentLead": "Merci, {name}. Nous vérifions la disponibilité nous-mêmes et répondons par e-mail, et sur WhatsApp si vous l'utilisez.",
+    "nextStepsTitle": "La suite",
+    "nextStep1": "Nous vérifions qu'un véhicule est libre à vos dates.",
+    "nextStep2": "Nous confirmons le prix final et les détails du retrait.",
+    "nextStep3": "Vous payez au retrait du véhicule. Aucun prépaiement.",
+    "sentQuestions": "Des questions ou un changement ? Contactez-nous directement.",
+    "sentSummaryTitle": "Votre demande",
+    "newRequest": "Envoyer une autre demande"
   },
   "Guide": {
     "title": "Guide de Sifnos",

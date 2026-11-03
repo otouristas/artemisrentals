@@ -66,7 +66,7 @@ export function StepDetails({
   }
 
   return (
-    <div className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_minmax(300px,22rem)] lg:gap-0">
+    <div className="grid gap-10 lg:grid-cols-[minmax(0,1fr)_minmax(320px,23rem)] lg:gap-x-12">
       <div className="min-w-0 lg:pr-10">
         <h2 className="font-display text-2xl text-aegean md:text-3xl">{t("stepDetailsTitle")}</h2>
         <p className="mt-2 max-w-xl text-sm leading-relaxed text-aegean/60">{t("stepDetailsLead")}</p>
@@ -79,6 +79,7 @@ export function StepDetails({
             <Field
               label={t("name")}
               name="name"
+              autoComplete="name"
               value={state.name}
               onValue={(v) => onChange({ name: v })}
               required
@@ -88,6 +89,8 @@ export function StepDetails({
                 label={t("email")}
                 name="email"
                 type="email"
+                autoComplete="email"
+                inputMode="email"
                 value={state.email}
                 onValue={(v) => onChange({ email: v })}
                 required
@@ -102,6 +105,11 @@ export function StepDetails({
             <Field
               label={t("phone")}
               name="phone"
+              type="tel"
+              autoComplete="tel"
+              inputMode="tel"
+              placeholder="+44 7700 900123"
+              hint={t("phoneHint")}
               value={state.phone}
               onValue={(v) => onChange({ phone: v })}
               required
@@ -243,6 +251,10 @@ function Field({
   value,
   onValue,
   type = "text",
+  autoComplete,
+  inputMode,
+  placeholder,
+  hint,
   required,
 }: {
   label: string;
@@ -250,20 +262,37 @@ function Field({
   value: string;
   onValue: (value: string) => void;
   type?: string;
+  autoComplete?: string;
+  inputMode?: ComponentProps<"input">["inputMode"];
+  placeholder?: string;
+  hint?: string;
   required?: boolean;
 }) {
+  const hintId = hint && name ? `${name}-hint` : undefined;
   return (
     <label className="block text-sm">
-      <span className="mb-1.5 block font-medium text-aegean/75">{label}</span>
+      <span className="mb-1.5 block font-medium text-aegean/75">
+        {label}
+        {required ? <span className="text-aegean/40"> *</span> : null}
+      </span>
       <input
         id={name}
         name={name}
         type={type}
+        autoComplete={autoComplete}
+        inputMode={inputMode}
+        placeholder={placeholder}
+        aria-describedby={hintId}
         required={required}
         value={value}
         onChange={(e) => onValue(e.target.value)}
-        className={fieldClass}
+        className={`${fieldClass} placeholder:text-aegean/30`}
       />
+      {hint ? (
+        <span id={hintId} className="mt-1.5 block text-xs text-aegean/50">
+          {hint}
+        </span>
+      ) : null}
     </label>
   );
 }

@@ -71,7 +71,9 @@
     "tripPlannerCta": "Eine Kykladen-Tour mit Touristas AI planen",
     "touristasTitle": "Touristas AI",
     "touristasBody": "Fragen Sie zu unserer Flotte, Saisonpreisen, Fähren-Abholung und Fortbewegung auf Sifnos, und buchen Sie, wenn Sie bereit sind.",
-    "askTouristas": "Touristas AI fragen"
+    "askTouristas": "Touristas AI fragen",
+    "searchLabel": "Autos nach Datum suchen",
+    "searchCta": "Autos & Preise ansehen"
   },
   "Fleet": {
     "carsTitle": "Mietwagen auf Sifnos",
@@ -214,7 +216,20 @@
     "estimatedTotal": "Geschätzter Gesamtpreis ~€{total}",
     "estimateLabel": "Geschätzter Gesamtpreis",
     "estimateDisclaimer": "Nur Richtpreis. Endgültigen Tarif und Verfügbarkeit bestätigen wir per Telefon, WhatsApp oder E-Mail.",
-    "whatsappAckHint": "Wenn Sie WhatsApp nutzen, senden wir auch eine kurze Bestätigung von Artemis. Ohne WhatsApp ist das kein Problem, wir antworten per E-Mail oder Telefon."
+    "whatsappAckHint": "Wenn Sie WhatsApp nutzen, senden wir auch eine kurze Bestätigung von Artemis. Ohne WhatsApp ist das kein Problem, wir antworten per E-Mail oder Telefon.",
+    "phoneHint": "Bitte mit Ländervorwahl, damit wir Sie über WhatsApp erreichen.",
+    "freePortPickup": "Kostenlose Abholung am Hafen Kamares",
+    "changeDates": "Daten ändern",
+    "totalForDays": "{count, plural, one {für # Tag} other {für # Tage}}",
+    "sentTitle": "Anfrage erhalten",
+    "sentLead": "Danke, {name}. Wir prüfen die Verfügbarkeit persönlich und antworten per E-Mail, und über WhatsApp, wenn Sie es nutzen.",
+    "nextStepsTitle": "So geht es weiter",
+    "nextStep1": "Wir prüfen, ob für Ihre Daten ein Fahrzeug frei ist.",
+    "nextStep2": "Wir bestätigen den Endpreis und die Details zur Übergabe.",
+    "nextStep3": "Sie bezahlen bei der Übergabe. Keine Vorauszahlung.",
+    "sentQuestions": "Fragen oder Änderungen? Schreiben oder rufen Sie uns an.",
+    "sentSummaryTitle": "Ihre Anfrage",
+    "newRequest": "Weitere Anfrage senden"
   },
   "Guide": {
     "title": "Sifnos-Guide",

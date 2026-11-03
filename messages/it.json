@@ -71,7 +71,9 @@
     "tripPlannerCta": "Pianifica un salto nelle Cicladi con Touristas AI",
     "touristasTitle": "Touristas AI",
     "touristasBody": "Chiedi della nostra flotta, delle tariffe stagionali, dei ritiri al traghetto e di come muoverti a Sifnos, poi prenota quando sei pronto.",
-    "askTouristas": "Chiedi a Touristas AI"
+    "askTouristas": "Chiedi a Touristas AI",
+    "searchLabel": "Cerca auto per data",
+    "searchCta": "Vedi auto e prezzi"
   },
   "Fleet": {
     "carsTitle": "Noleggio auto a Sifnos",
@@ -214,7 +216,20 @@
     "estimatedTotal": "Totale stimato ~€{total}",
     "estimateLabel": "Totale stimato",
     "estimateDisclaimer": "Prezzo solo indicativo. Confermamo tariffa finale e disponibilità per telefono, WhatsApp o email.",
-    "whatsappAckHint": "Se usi WhatsApp, riceverai anche una breve conferma sul telefono da Artemis. Senza WhatsApp va bene lo stesso: rispondiamo via email o telefono."
+    "whatsappAckHint": "Se usi WhatsApp, riceverai anche una breve conferma sul telefono da Artemis. Senza WhatsApp va bene lo stesso: rispondiamo via email o telefono.",
+    "phoneHint": "Includi il prefisso internazionale, così possiamo scriverti su WhatsApp.",
+    "freePortPickup": "Ritiro gratuito al porto di Kamares",
+    "changeDates": "Cambia date",
+    "totalForDays": "{count, plural, one {per # giorno} other {per # giorni}}",
+    "sentTitle": "Richiesta ricevuta",
+    "sentLead": "Grazie, {name}. Verifichiamo di persona la disponibilità e rispondiamo via email, e su WhatsApp se lo usi.",
+    "nextStepsTitle": "Cosa succede ora",
+    "nextStep1": "Verifichiamo che ci sia un veicolo libero per le tue date.",
+    "nextStep2": "Confermiamo il prezzo finale e i dettagli del ritiro.",
+    "nextStep3": "Paghi al ritiro del veicolo. Nessun pagamento anticipato.",
+    "sentQuestions": "Domande o modifiche? Contattaci direttamente.",
+    "sentSummaryTitle": "La tua richiesta",
+    "newRequest": "Invia un'altra richiesta"
   },
   "Guide": {
     "title": "Guida di Sifnos",

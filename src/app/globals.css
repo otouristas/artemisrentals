@@ -3,12 +3,14 @@
 :root {
   --aegean-ink: #0b2a3c;
   --aegean-deep: #123a52;
-  --salt: #f7f4ef;
-  --limestone: #e6dfd2;
+  --salt: #f5f6f8;
+  --limestone: #e8ebef;
   --olive: #3f4a2f;
   --sun: #c9833a;
   --foam: #ffffff;
-  --mist: rgba(247, 244, 239, 0.72);
+  --mist: rgba(245, 246, 248, 0.72);
+  --line: #e4e7eb;
+  --surface: #f5f6f8;
   --background: var(--salt);
   --foreground: var(--aegean-ink);
   --section-y: clamp(3.5rem, 6vw, 6rem);
@@ -36,6 +38,8 @@
   --color-olive: var(--olive);
   --color-sun: var(--sun);
   --color-foam: var(--foam);
+  --color-line: var(--line);
+  --color-surface: var(--surface);
   --font-sans: var(--font-inter);
   --font-display: var(--font-inter);
 }
@@ -46,11 +50,9 @@
     scroll-padding-top: calc(var(--header-height) + 0.75rem);
   }
 
+  /* Marketplace look: plain white canvas, content carries the colour. */
   body {
-    background:
-      radial-gradient(1200px 600px at 10% -10%, rgba(201, 131, 58, 0.12), transparent 55%),
-      radial-gradient(900px 500px at 100% 0%, rgba(18, 58, 82, 0.1), transparent 50%),
-      linear-gradient(180deg, #fbf9f5 0%, var(--salt) 40%, #efe9df 100%);
+    background: var(--foam);
     color: var(--foreground);
     font-family: var(--font-inter), system-ui, sans-serif;
   }
@@ -128,19 +130,45 @@
   }
 
   .card-premium {
-    background: color-mix(in oklab, var(--foam) 82%, white);
-    border-radius: 1.25rem;
-    box-shadow: 0 12px 40px rgba(11, 42, 60, 0.07);
-    ring: 1px solid color-mix(in oklab, var(--aegean-ink) 8%, transparent);
-    outline: 1px solid color-mix(in oklab, var(--aegean-ink) 8%, transparent);
+    background: var(--foam);
+    border-radius: 0.875rem;
+    border: 1px solid var(--line);
     transition:
-      transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
-      box-shadow 0.35s ease;
+      border-color 0.2s ease,
+      box-shadow 0.25s ease;
   }
 
   .card-premium:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 18px 48px rgba(11, 42, 60, 0.12);
+    border-color: color-mix(in oklab, var(--aegean-ink) 22%, transparent);
+    box-shadow: 0 8px 24px rgba(11, 42, 60, 0.08);
+  }
+
+  /* Bordered panel: booking cards, summaries, review blocks. */
+  .panel {
+    background: var(--foam);
+    border: 1px solid var(--line);
+    border-radius: 0.875rem;
+  }
+
+  /* Spec chip: icon + short label, as on marketplace listings. */
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 1px solid var(--line);
+    border-radius: 0.5rem;
+    padding: 0.35rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: color-mix(in oklab, var(--aegean-ink) 80%, transparent);
+    background: var(--foam);
+  }
+
+  .price-total {
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.18em;
   }
 
   .link-underline {
@@ -158,7 +186,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border-radius: 9999px;
+    border-radius: 0.625rem;
     background: var(--aegean-ink);
     color: var(--foam);
     padding: 0.75rem 1.5rem;
@@ -175,7 +203,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border-radius: 9999px;
+    border-radius: 0.625rem;
     background: var(--sun);
     color: var(--aegean-ink);
     padding: 0.75rem 1.5rem;
@@ -192,7 +220,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    border-radius: 9999px;
+    border-radius: 0.625rem;
     border: 1px solid color-mix(in oklab, var(--foam) 40%, transparent);
     background: color-mix(in oklab, var(--foam) 10%, transparent);
     color: var(--foam);

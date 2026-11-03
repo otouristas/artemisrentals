@@ -41,8 +41,8 @@ export function WizardProgress({
                   isActive
                     ? "bg-aegean text-foam"
                     : isDone
-                      ? "bg-sun text-aegean"
-                      : "bg-limestone/70 text-aegean/50"
+                      ? "bg-olive text-foam"
+                      : "border border-line bg-foam text-aegean/50"
                 } ${isReachable && !isActive ? "group-hover:opacity-80" : ""}`}
               >
                 {isDone ? "✓" : s}
@@ -57,7 +57,7 @@ export function WizardProgress({
             </button>
             {i < BOOKING_STEPS.length - 1 && (
               <span
-                className={`mx-3 h-px flex-1 ${s < furthestStep ? "bg-sun/60" : "bg-aegean/15"}`}
+                className={`mx-3 h-px flex-1 ${s < furthestStep ? "bg-olive/60" : "bg-line"}`}
                 aria-hidden="true"
               />
             )}

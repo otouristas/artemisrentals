@@ -28,7 +28,7 @@ export async function Breadcrumbs({
       <JsonLd data={breadcrumbJsonLd(locale, jsonItems)} />
       <nav
         aria-label={t("breadcrumb")}
-        className="sticky top-[var(--header-height)] z-30 -mx-4 mb-6 border-b border-aegean/10 bg-salt/90 px-4 py-2.5 backdrop-blur-md md:-mx-6 md:px-6"
+        className="sticky top-[var(--header-height)] z-30 -mx-4 mb-6 border-b border-line bg-foam/90 px-4 py-2.5 backdrop-blur-md md:-mx-6 md:px-6"
       >
         <ol className="flex flex-wrap items-center gap-1.5 text-sm text-aegean/60">
           {crumbs.map((crumb, i) => {

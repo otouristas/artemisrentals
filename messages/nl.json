@@ -71,7 +71,9 @@
     "tripPlannerCta": "Plan een Cycladen-hop met Touristas AI",
     "touristasTitle": "Touristas AI",
     "touristasBody": "Vraag naar ons wagenpark, seizoensprijzen, ophalen bij de veerboot en hoe je rondkomt op Sifnos, en boek wanneer je klaar bent.",
-    "askTouristas": "Vraag Touristas AI"
+    "askTouristas": "Vraag Touristas AI",
+    "searchLabel": "Auto's zoeken op datum",
+    "searchCta": "Bekijk auto's en prijzen"
   },
   "Fleet": {
     "carsTitle": "Auto huren op Sifnos",
@@ -214,7 +216,20 @@
     "estimatedTotal": "Geschat totaal ~€{total}",
     "estimateLabel": "Geschat totaal",
     "estimateDisclaimer": "Alleen indicatieve prijs. Wij bevestigen het uiteindelijke tarief en beschikbaarheid via telefoon, WhatsApp of e-mail.",
-    "whatsappAckHint": "Als je WhatsApp gebruikt, sturen we ook een korte bevestiging van Artemis. Geen WhatsApp is ook prima: we antwoorden via e-mail of telefoon."
+    "whatsappAckHint": "Als je WhatsApp gebruikt, sturen we ook een korte bevestiging van Artemis. Geen WhatsApp is ook prima: we antwoorden via e-mail of telefoon.",
+    "phoneHint": "Vermeld de landcode, zodat we je via WhatsApp kunnen bereiken.",
+    "freePortPickup": "Gratis ophalen in de haven van Kamares",
+    "changeDates": "Data wijzigen",
+    "totalForDays": "{count, plural, one {voor # dag} other {voor # dagen}}",
+    "sentTitle": "Aanvraag ontvangen",
+    "sentLead": "Bedankt, {name}. We controleren de beschikbaarheid persoonlijk en antwoorden per e-mail, en via WhatsApp als je dat gebruikt.",
+    "nextStepsTitle": "Wat er nu gebeurt",
+    "nextStep1": "We controleren of er een voertuig vrij is op jouw data.",
+    "nextStep2": "We bevestigen de definitieve prijs en de ophaaldetails.",
+    "nextStep3": "Je betaalt bij het ophalen. Geen vooruitbetaling.",
+    "sentQuestions": "Vragen of wijzigingen? Neem direct contact op.",
+    "sentSummaryTitle": "Jouw aanvraag",
+    "newRequest": "Nog een aanvraag sturen"
   },
   "Guide": {
     "title": "Sifnos-gids",

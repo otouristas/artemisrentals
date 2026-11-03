@@ -4,17 +4,8 @@ import { useMemo } from "react";
 import { DayPicker, type DateRange } from "react-day-picker";
 import { useTranslations } from "next-intl";
 import { estimateRateForDate } from "@/lib/fleet";
+import { parseISODate, toISODate } from "@/lib/dates";
 import "react-day-picker/style.css";
-
-function toISODate(d: Date) {
-  return d.toISOString().slice(0, 10);
-}
-
-function parseISODate(value?: string) {
-  if (!value) return undefined;
-  const d = new Date(`${value}T00:00:00`);
-  return Number.isNaN(d.getTime()) ? undefined : d;
-}
 
 function daysBetween(from: Date, to: Date) {
   const a = Date.UTC(from.getFullYear(), from.getMonth(), from.getDate());
