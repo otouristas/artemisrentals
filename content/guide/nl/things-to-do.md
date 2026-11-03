@@ -1,8 +1,8 @@
 ---
 slug: things-to-do
-title: "Dingen om te doen op Sifnos"
-description: "Volledige gids dingen om te doen op Sifnos: stranden, dorpen, wandelpaden, eten, keramiek, kloosters, bootdagen, gepland rond een Artemis-huur."
-answer: "Zwem bij Platis Gialos en Vathi, bezoek Chrysopigi en middeleeuws Kastro, wandel dorp-naar-kust-paden, proef mastelo en revithada, brows keramiekwerkplaatsen en gebruik een Artemis-huur om alles te verbinden zonder busdienstregelingen."
+title: "Wat te doen op Sifnos"
+description: "Wat je op Sifnos kunt doen: stranden, dorpen, wandelpaden, eten, aardewerk, kloosters en boottochten, gepland rond een huurauto of scooter van Artemis."
+answer: "Zwem in Platys Gialos en Vathi, bezoek Chrysopigi en het middeleeuwse Kastro, wandel van de dorpen naar de kust, proef mastelo en revithada, kijk rond bij de pottenbakkers en verbind alles met een huurauto of scooter van Artemis, zonder op de dienstregeling van de bus te letten."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
@@ -15,104 +15,104 @@ related:
   - getting-around
 ---
 
-Sifnos beloont reizigers die **stranden, dorpen, eten en korte wandelingen** mixen en niet vastzitten te wachten op de volgende bus. Afstanden zijn vriendelijk; zomerhitte en bagage niet. Deze gids is de praktische "wat te doen"-lijst voor wie bij Artemis in Apollonia huurt.
+Sifnos is op zijn best voor reizigers die **stranden, dorpen, lekker eten en korte wandelingen** combineren, en die niet steeds op de volgende bus hoeven te wachten. De afstanden zijn klein; de zomerhitte en je bagage zijn dat niet. Deze gids is de praktische lijst met wat je kunt doen, voor wie bij Artemis in Apollonia huurt.
 
-![Kloosterlandtong Chrysopigi](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, een van de signatuurplekken van Sifnos")
+![De landtong van Chrysopigi met het klooster](/images/sifnos/beaches/chrysopigi.webp "Chrysopigi, een van de bekendste plekken van Sifnos")
 
 ## Waarom Sifnos anders voelt
 
-Vergeleken met drukkere Cycladen-koppen blijft Sifnos geworteld in **keramiek, voetpaden en serieuze eilandkeuken**. Avonden verzamelen zich in Apollonia; dagen waaiervormig naar zandbaaien en witgekalkte lanen. Een auto of scooter maakt van een "twee stranden + diner"-trip een volle eilandweek.
+Vergeleken met de drukkere bekende eilanden van de Cycladen draait Sifnos nog echt om **aardewerk, wandelpaden en serieus koken**. 's Avonds komt iedereen samen in Apollonia; overdag trekt iedereen naar de zandbaaien en de witgekalkte straatjes. Met een auto of scooter wordt een reisje van "twee stranden en een diner" een volle week op het eiland.
 
-## Beste stranden (met wielen)
+## De beste stranden (met eigen vervoer)
 
-![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos voor voorzieningen en lang zand")
+![Platys Gialos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, voor voorzieningen en een lang zandstrand")
 
-- **Platis Gialos**, lang zand, tavernes, Blue Flag-reputatie, makkelijkste gezinslogistiek.
-- **Vathi**, beschutte amfitheaterbaai; ideaal bij sterke meltemi.
-- **Chrysopigi**, kloosteransichtkaart + rotszwemmen; combineer met Faros.
-- **Faros**, vissersdorptempo en kustwandelingen.
-- **Herronisos & Vroulidia**, rustiger noorden; de rit waard.
-- **Fykiada**, alleen wandelen of boot; parkeer in Platis Gialos of Vathi.
+- **Platys Gialos**: lang zandstrand, taverna's, bekend om zijn Blue Flag, het makkelijkst met een gezin.
+- **Vathi**: een beschutte baai in de vorm van een amfitheater; ideaal als de meltemi hard waait.
+- **Chrysopigi**: het klooster als op een ansichtkaart en zwemmen vanaf de rotsen; te combineren met Faros.
+- **Faros**: het tempo van een vissersdorp en wandelingen langs de kust.
+- **Cherronisos en Vroulidia**: het rustigere noorden, de rit waard.
+- **Fykiada**: alleen te voet of per boot; parkeer in Platys Gialos of Vathi.
 
-Volledige toegangs-, wind- en parkeernotities: [Sifnos strandgids](/nl/sifnos-guide/beaches).
+Alles over bereikbaarheid, wind en parkeren: [strandengids van Sifnos](/nl/sifnos-guide/beaches).
 
-## Dorpen & cultuur
+## Dorpen en cultuur
 
-![Apollonia Sifnos](/images/sifnos/villages/apollonia.webp "Apollonia, levendig eilandcentrum")
+![Apollonia op Sifnos](/images/sifnos/villages/apollonia.webp "Apollonia, het levendige centrum van het eiland")
 
 ### Apollonia
-De eilandhoofdstad: lanen met bars, winkels en avondenergie. Artemis zit hier, handig na stranddagen wanneer je wilt dineren zonder weer een lange rit.
+De hoofdplaats van het eiland: straatjes vol bars en winkels, en 's avonds veel leven. Artemis zit hier, handig na een stranddag als je wilt eten zonder nog een lange rit te maken.
 
 ### Artemonas
-![Artemonas](/images/sifnos/villages/artemonas.webp "Neoclassicistische lanen Artemonas")
-Neoclassicistische herenhuizen, rustigere glamour en een korte hop vanaf Apollonia. Perfecte zonsondergangswandeling vóór of na sleutelinlevering.
+![Artemonas](/images/sifnos/villages/artemonas.webp "Neoklassieke straatjes in Artemonas")
+Neoklassieke herenhuizen, ingetogen chic en vlak bij Apollonia. Perfect voor een wandeling bij zonsondergang, voor of nadat je de sleutels inlevert.
 
 ### Kastro
-![Middeleeuws dorp Kastro](/images/sifnos/villages/kastro.webp "Kastro, middeleeuws klifdorp")
-Middeleeuwse straten aan de rand van de oude acropolis, Egeïsche uitzichten en een van de essentiële wandelingen van het eiland. Makkelijker als ochtend- of gouden-uur-stop met scooter of auto onderaan geparkeerd.
+![Het middeleeuwse dorp Kastro](/images/sifnos/villages/kastro.webp "Kastro, middeleeuws dorp op de klif")
+Middeleeuwse straatjes aan de rand van de oude akropolis, uitzicht over de Egeïsche Zee en een van de wandelingen die je op het eiland niet mag missen. Het prettigst 's ochtends of in het gouden uur, met de scooter of auto onderaan geparkeerd.
 
-### Andere dorpen die de omweg waard zijn
-![Exambela](/images/sifnos/villages/exampela.webp "Dorp Exambela")
-Exambela, Katavati, Kato Petali, Pano Petali, Troullaki en Agios Loukas naaien het heuvelland aan elkaar: korte ritten, fotostops en bakkerijvondsten.
+### Andere dorpen die een omweg waard zijn
+![Exambela](/images/sifnos/villages/exampela.webp "Het dorp Exambela")
+Exambela, Katavati, Kato Petali, Pano Petali, Troullaki en Agios Loukas verbinden samen het heuvelland: korte ritjes, mooie fotostops en lekkere vondsten bij de bakker.
 
-Meer: [Apollonia & Artemonas](/nl/sifnos-guide/apollonia-artemonas).
+Meer weten: [Apollonia & Artemonas](/nl/sifnos-guide/apollonia-artemonas).
 
 ## Wandelen op Sifnos
 
-Sifnos is een van de grote wandeleilanden van de Cycladen. Paden verbinden dorpen, keramiekstranden en kapellen. Klassieke ideeën:
+Sifnos is een van de mooiste wandeleilanden van de Cycladen. De paden verbinden dorpen, stranden met pottenbakkerijen en kapellen. Klassieke ideeën:
 
-1. **Apollonia- / Artemonas-lanen → Kastro**, cultuurrijk, matige inspanning.
-2. **Kamares kustpaden**, havenstart, grotten en uitzichten.
-3. **Corridor Vathi ↔ Platis Gialos**, strand naar strand (delen inclusief Fykiada-aanrijroutes).
-4. **Agios Andreas acropolis-links**, geschiedenis + kamuitzichten (check hitte en schoenen).
+1. **Van de straatjes van Apollonia en Artemonas naar Kastro**: veel cultuur, gemiddelde inspanning.
+2. **Kustpaden bij Kamares**: start bij de haven, met grotten en uitzichtpunten.
+3. **Tussen Vathi en Platys Gialos**: van strand naar strand (met stukken richting Fykiada).
+4. **Paden naar de akropolis van Agios Andreas**: geschiedenis en uitzicht vanaf de bergkam (houd rekening met de hitte en draag goede schoenen).
 
-**Padtips:** vroeg starten, water meenemen, fatsoenlijke schoenen en overweeg een eenrichtingswandeling met partner-pickup per auto: makkelijk met een huur. Laat waardevolle spullen uit zicht in de auto.
+**Tips voor onderweg:** begin vroeg, neem water mee, draag stevige schoenen en overweeg een wandeling in één richting, waarbij iemand anders je met de auto ophaalt. Met een huurauto is dat makkelijk geregeld. Laat waardevolle spullen niet zichtbaar in de auto liggen.
 
-## Eten & gastronomie
+## Eten en gastronomie
 
-Sifnos pakt boven zijn gewicht: kikkererwten-**revithada**, langzaam bereid **mastelo**, lokale kazen, honing en bakkerijzoet. Reserveer populaire tavernes in piekweken; rijd naar dorpen voor rustigere tafels.
+Sifnos is culinair veel groter dan het eiland zelf: **revithada** met kikkererwten, langzaam gegaarde **mastelo**, lokale kazen, honing en zoetigheden van de bakker. Reserveer in het hoogseizoen bij populaire taverna's; rijd naar de dorpen als je rustiger wilt zitten.
 
-Zie [Eten & keramiek](/nl/sifnos-guide/food-pottery) voor een diepere duik.
+In [Eten en aardewerk](/nl/sifnos-guide/food-pottery) lees je er meer over.
 
-## Keramiekwerkplaatsen
+## Pottenbakkerijen
 
-Keramiek hoort bij de eilandidentiteit: werkplaatsen clusterden historisch rond kustdorpen zoals **Kamares, Vathi en Herronisos**. Veel verwelkomen bezoekers om te browsen; sommige bieden korte ervaringen in het seizoen. Combineer een werkplaatsstop met een zwem zodat de dag geen museumcircuit voelt.
+Aardewerk is een vast onderdeel van de identiteit van het eiland. De werkplaatsen zaten van oudsher vooral in kustdorpen als **Kamares, Vathi en Cherronisos**. In veel ateliers mag je rondkijken; sommige bieden in het seizoen korte workshops aan. Combineer een bezoek aan een atelier met een duik, zodat de dag niet als een museumbezoek voelt.
 
-## Kloosters & kapellen
+## Kloosters en kapellen
 
-- **Panagia Chrysopigi**, patroonklooster op de zuidoostelijke landtong; feestenergie in het seizoen.
-- **Vryssi en andere inlandse kloosters**, rustigere spirituele stops tussen dorpen.
-- **Profitis Ilias**, hoge uitzichten belonen heldere dagen (check weg/padcondities).
+- **Panagia Chrysopigi**: het klooster van de beschermheilige op de landtong in het zuidoosten; in het seizoen een feestelijke drukte.
+- **Vryssi en andere kloosters in het binnenland**: rustige plekken om even stil te staan, tussen de dorpen.
+- **Profitis Ilias**: hoge uitzichtpunten die op heldere dagen de moeite waard zijn (kijk eerst hoe de weg of het pad erbij ligt).
 
-Respecteer kledingcodes op actieve religieuze plekken; parkeer zonder processies of kapelhekken te blokkeren.
+Respecteer de kledingvoorschriften bij religieuze plekken die in gebruik zijn, en parkeer zonder processies of de poorten van kapellen te blokkeren.
 
-## Bootdagen & island hopping
+## Boottochten en eilandhoppen
 
-Vanaf Sifnos kun je kustboottrips of veerhops naar naburige eilanden meedoen (bijv. Milos, Kimolos of Polyegos-daglandschappen afhankelijk van seizoen en operators). Plan eerst veerdagen, reserveer daarna Artemis-wielen **alleen voor de Sifnos-nachten** dat je aan land bent.
+Vanaf Sifnos kun je mee met boottochten langs de kust of met de veerboot naar naburige eilanden (bijvoorbeeld Milos, Kimolos of de ruige landschappen van Polyegos, afhankelijk van het seizoen en de aanbieders). Plan eerst je dagen met de veerboot en reserveer daarna je vervoer bij Artemis **alleen voor de nachten dat je op Sifnos bent**.
 
-Live veerideeën: [Athene–Sifnos-routes op Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en de [Touristas AI-planner](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+Actuele ideeën voor de veerboot: [routes Athene–Sifnos op Discover Cyclades](https://discovercyclades.gr/en/ferry-routes/direct/athens-piraeus-to-sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en de [planner van Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
 
-## Voorbeeld 4-dagenplan (met huur)
+## Voorbeeldplanning voor 4 dagen (met een huurauto)
 
-| Dag | Plan |
+| Dag | Planning |
 | --- | --- |
-| 1 | Veer → Kamares-zwem of Apollonia settelen → zonsondergang Artemonas |
-| 2 | Zuidlus: Faros → Chrysopigi → Platis Gialos |
-| 3 | Vathi-strandochtend → keramiekstop → Kastro in het gouden uur |
-| 4 | Noord naar Herronisos / Vroulidia of een hike + vroeg diner in Apollonia |
+| 1 | Veerboot → zwemmen in Kamares of je installeren in Apollonia → zonsondergang in Artemonas |
+| 2 | Zuidelijke route: Faros → Chrysopigi → Platys Gialos |
+| 3 | 's Ochtends naar het strand van Vathi → bij de pottenbakkers langs → Kastro in het gouden uur |
+| 4 | Naar het noorden, naar Cherronisos en Vroulidia, of een wandeling en vroeg eten in Apollonia |
 
-## FAQ
+## Veelgestelde vragen
 
-**Is Sifnos goed met kids?** Ja: zand Platis Gialos / Kamares, korte ritten en dorpsijsjeslogistiek zijn makkelijk met een auto.
+**Is Sifnos geschikt voor kinderen?** Ja: zandstranden in Platys Gialos en Kamares, korte ritjes, en met een auto is ook een ijsje halen in het dorp zo geregeld.
 
-**Hoeveel dagen?** Vier tot vijf voor de klassieke mix; een week als je wandelingen en bootdagen wilt.
+**Hoeveel dagen?** Vier tot vijf voor de klassieke mix; een week als je ook wilt wandelen en boottochten wilt maken.
 
-**Heb ik een auto nodig?** Voor drie of meer strand-/dorpsdagen in hoogseizoen ja voor de meeste bezoekers. Scooters passen bij stellen met lichte tassen die zich zeker voelen op heuvels.
+**Heb ik een auto nodig?** Voor de meeste bezoekers wel, als je in het hoogseizoen drie of meer dagen stranden en dorpen wilt bezoeken. Een scooter past bij stellen met weinig bagage die zich zeker voelen op hellingen.
 
-**Beste zonsondergangen?** Kastro-randen, Chrysopigi-landtonglicht en Apollonia/Artemonas-lanen nadat de hitte zakt.
+**Waar zie je de mooiste zonsondergang?** Aan de rand van Kastro, bij het licht op de landtong van Chrysopigi en in de straatjes van Apollonia en Artemonas als de hitte is gezakt.
 
-**Kan ik Sifnos zonder geboekte tours?** Absoluut: stranden en dorpen zijn self-drive-vriendelijk. Boek alleen boottrips of werkplaatsen die je echt wilt.
+**Kan ik Sifnos bezoeken zonder excursies te boeken?** Zeker: stranden en dorpen ontdek je prima op eigen houtje met de auto. Boek alleen de boottochten of workshops die je echt wilt doen.
 
-## Klaar voor sleutels?
+## Klaar voor de sleutels?
 
-[Vraag data aan](/nl/book) bij Artemis, geen vooruitbetaling om te reserveren, of browse de [vloot](/nl/cars). Diepere live listings ook op [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).
+[Vraag je data aan](/nl/book) bij Artemis, reserveren zonder vooruitbetaling, of bekijk het [wagenpark](/nl/cars). Uitgebreidere actuele informatie vind je ook op [Discover Cyclades – Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

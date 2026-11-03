@@ -1,8 +1,8 @@
 ---
 slug: how-to-get-there
-title: "Hoe kom je op Sifnos vanuit Athene, stap voor stap"
-description: "Hoe kom je op Sifnos: vluchten naar Athene, de transfer van luchthaven naar Piraeus, vaartijden naar Kamares en hoe lang de reis werkelijk duurt."
-answer: "Vlieg naar Athene, reis in 45 tot 60 minuten door naar de haven van Piraeus en neem een veerboot naar Kamares op Sifnos, ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot. Sifnos heeft geen vliegveld, dus rechtstreeks vliegen kan niet."
+title: "Zo kom je vanuit Athene op Sifnos, stap voor stap"
+description: "Zo kom je op Sifnos: vliegen naar Athene, de transfer van de luchthaven naar Piraeus, de vaartijden naar Kamares en het alternatief via het vliegveld van Milos."
+answer: "Vlieg naar Athene, reis in ongeveer 45 tot 60 minuten door naar de haven van Piraeus en neem daar de veerboot naar Kamares op Sifnos: ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot. Sifnos heeft geen vliegveld, dus rechtstreeks vliegen kan niet."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/beaches/kamares.webp"
@@ -14,7 +14,7 @@ related:
   - getting-around
 ---
 
-Sifnos heeft geen vliegveld. Elke bezoeker arriveert over zee, waardoor de reis eigenlijk uit twee etappes bestaat: eerst naar Piraeus, dan de boot op. Geen van beide is lastig, maar juist op de overgang verliezen mensen tijd en missen ze soms hun afvaart. Hier is de volledige route, op volgorde, met realistische tijden.
+Sifnos heeft geen vliegveld. Iedereen komt over zee aan, dus de reis bestaat eigenlijk uit twee delen: eerst naar Piraeus, dan de boot op. Geen van beide is moeilijk, maar juist bij de overstap verliezen mensen tijd en missen ze soms hun boot. Hieronder de hele route, stap voor stap, met realistische tijden.
 
 ![Kamares](/images/sifnos/beaches/kamares.webp "Kamares, waar elke reis naar Sifnos eindigt")
 
@@ -23,66 +23,66 @@ Sifnos heeft geen vliegveld. Elke bezoeker arriveert over zee, waardoor de reis 
 | Etappe | Gebruikelijke duur |
 | --- | --- |
 | Vlucht naar Athene (ATH) | Wisselend |
-| Luchthaven Athene naar Piraeus | 45 tot 60 minuten |
-| Marge in Piraeus voor het inschepen | 30 tot 45 minuten |
+| Luchthaven Athene naar de haven van Piraeus | 45 tot 60 minuten |
+| Marge in Piraeus voor het instappen | 30 tot 45 minuten |
 | Piraeus naar Sifnos, snelle catamaran | Ongeveer 2,5 tot 3 uur |
 | Piraeus naar Sifnos, gewone veerboot | Ongeveer 5 uur |
 | Kamares naar Apollonia | Ongeveer 10 minuten |
 
-Reken realistisch op een **halve dag** tussen de landing in Athene en het moment dat u uw tas neerzet op Sifnos, en op een volle dag als u van buiten Europa komt.
+Reken realistisch op een **halve dag** van de landing in Athene tot het moment dat je je tas neerzet op Sifnos, en op een hele dag als je van buiten Europa komt.
 
 ## Stap 1: Vliegen naar Athene
 
-De internationale luchthaven van Athene (ATH) is de toegangspoort. In de zomer zijn er directe verbindingen vanuit de meeste Europese hoofdsteden, en het hele jaar door langeafstandsverbindingen via de gebruikelijke hubs.
+De internationale luchthaven van Athene (ATH) is de toegangspoort. In de zomer zijn er rechtstreekse vluchten vanuit de meeste Europese hoofdsteden, en het hele jaar door verbindingen over lange afstand via de bekende overstapluchthavens.
 
-**De belangrijkste planningsregel:** boek nooit een vlucht die in de middag landt samen met een veerboot die diezelfde middag vertrekt. De transfer naar Piraeus duurt ongeveer een uur, veerboten wachten niet, en een vertraagde vlucht verandert in een gemiste afvaart en een ongeplande nacht in Athene. Landt uw vlucht na ongeveer 14 uur, plan dan een overnachting in Athene of Piraeus en vaar de volgende ochtend.
+**De belangrijkste regel bij het plannen:** boek geen vlucht die 's middags landt in combinatie met een veerboot die diezelfde middag vertrekt. De transfer naar Piraeus duurt ongeveer een uur, veerboten wachten niet, en een vertraagde vlucht betekent dan een gemiste boot en een onverwachte nacht in Athene. Landt je vlucht na ongeveer 14:00, overnacht dan in Athene of Piraeus en vaar de volgende ochtend.
 
 ## Stap 2: Van de luchthaven naar de haven van Piraeus
 
-Piraeus is de haven die Athene bedient, ten zuidwesten van de stad. U hebt vier opties:
+Piraeus is de haven van Athene, ten zuidwesten van de stad. Je hebt vier mogelijkheden:
 
-**Metro (lijn 3, blauw).** Rechtstreeks van de luchthaven naar station Piraeus zonder overstappen, ongeveer een uur. Het is de goedkoopste optie en betrouwbaar, al is het oncomfortabel met grote bagage in de zomerhitte. Het station ligt aan de rand van de haven, maar Piraeus is enorm en er kan nog een lange wandeling naar uw poort volgen.
+**Metro (lijn 3, blauw).** Rechtstreeks van de luchthaven naar station Piraeus zonder overstappen, in ongeveer een uur. Dit is de goedkoopste optie en betrouwbaar, al is het met grote koffers in de zomerhitte niet erg comfortabel. Het station ligt aan de rand van de haven, maar Piraeus is enorm en je kunt nog een flink stuk moeten lopen naar je poort.
 
-**Expresbus X96.** Rijdt 24 uur per dag tussen luchthaven en Piraeus, in 60 tot 90 minuten afhankelijk van het verkeer. Hij stopt op meerdere punten langs de haven, wat u dichter bij uw poort kan brengen dan de metro. Handig bij zeer vroege of zeer late afvaarten.
+**Expresbus X96.** Rijdt 24 uur per dag tussen de luchthaven en Piraeus en doet er afhankelijk van het verkeer 60 tot 90 minuten over. De bus stopt op meerdere plekken langs de haven, waardoor je soms dichter bij je poort uitkomt dan met de metro. Handig bij heel vroege of heel late afvaarten.
 
-**Taxi.** Tussen luchthaven en het centrum van Athene geldt een vast tarief, met een apart tarief naar Piraeus. Ongeveer 45 tot 60 minuten buiten de spits, langer erin. De moeite waard met zware bagage of een krappe aansluiting, en de chauffeur kan u bij de juiste poort afzetten.
+**Taxi.** Tussen de luchthaven en het centrum van Athene geldt een vast tarief, naar Piraeus een apart tarief. Buiten de spits ongeveer 45 tot 60 minuten, in de spits langer. De moeite waard met zware bagage of een krappe overstap, en de chauffeur kan je bij de juiste poort afzetten.
 
-**Privétransfer.** Vooraf geboekt, het duurst, geen wachtrij, en de enige optie die aflevering bij een specifieke poort garandeert. Verstandig voor gezinnen met veel bagage.
+**Privétransfer.** Vooraf gereserveerd, het duurst, geen wachtrij, en de enige optie waarbij je zeker weet dat je bij de juiste poort wordt afgezet. Verstandig voor gezinnen met veel bagage.
 
 ### Een waarschuwing over Piraeus
 
-Piraeus is niet één kade maar een werkhaven van enkele kilometers lang met genummerde poorten (E1 tot E12 en verder). Verschillende rederijen en bestemmingen vertrekken vanaf heel andere punten, en de wandeling tussen twee poorten kan twintig minuten duren. **Controleer uw poortnummer op uw ticket voordat u aankomt** en neem de tijd. Dit brengt eerste bezoekers meer in de war dan wat dan ook op de reis.
+Piraeus is niet één kade, maar een werkende haven van een paar kilometer lang met genummerde poorten (E1 tot E12 en verder). Verschillende rederijen en bestemmingen vertrekken vanaf heel verschillende plekken, en lopen van de ene poort naar de andere kan twintig minuten duren. **Kijk op je ticket welk poortnummer je hebt voordat je aankomt** en neem de tijd. Hier gaat het bij bezoekers die voor het eerst komen het vaakst mis.
 
 ## Stap 3: De veerboot naar Kamares
 
-Elke veerboot naar Sifnos meert aan in Kamares aan de westkust. Twee scheepstypes bedienen de route: snelle catamarans in ongeveer 2,5 tot 3 uur, en gewone veerboten in zo'n 5 uur met tussenstops in Kythnos en Serifos.
+Elke veerboot naar Sifnos meert aan in Kamares aan de westkust. Er varen twee soorten schepen: snelle catamarans in ongeveer 2,5 tot 3 uur, en gewone veerboten in ongeveer 5 uur, met tussenstops in Kythnos en Serifos.
 
-In de zomer varen ze dagelijks, van november tot maart nog drie tot vier keer per week. Boek in juli en augustus ruim van tevoren, zeker rond de feestdag van 15 augustus.
+In de zomer gaat er elke dag een boot; van november tot en met maart nog drie of vier keer per week. Reserveer in juli en augustus ruim van tevoren, zeker rond de feestdag van 15 augustus.
 
-Voor de volledige vergelijking van scheepstypes, seizoensdienstregelingen, de meltemi en advies bij annuleringen, zie de [complete veerbootgids](/nl/sifnos-guide/ferries).
+Een volledige vergelijking van de schepen, de dienstregelingen per seizoen, de meltemi en wat je doet als je boot niet vaart, vind je in de [complete veerbootgids](/nl/sifnos-guide/ferries).
 
 ## Het alternatief via het vliegveld van Milos
 
-Milos, het buureiland in het zuiden, heeft een klein binnenlands vliegveld met vluchten vanuit Athene. U kunt Athene-Milos vliegen en de korte overtocht noordwaarts naar Sifnos nemen.
+Milos, het buureiland in het zuiden, heeft een klein binnenlands vliegveld met vluchten vanuit Athene. Je kunt van Athene naar Milos vliegen en daar de korte overtocht naar het noorden, naar Sifnos, nemen.
 
-Eerlijk gezegd loont dat zelden. De vluchten zijn klein, weinig frequent en vaak duur, u hebt aan het eind alsnog een veerboot nodig, en de verbinding Milos-Sifnos vaart niet dagelijks. Het is vooral zinvol als Milos toch al op het programma stond, dan is heen vliegen en terug varen een elegante route.
+Eerlijk gezegd loont dat zelden. De toestellen zijn klein, er zijn weinig vluchten en ze zijn vaak duur, je hebt aan het eind alsnog een veerboot nodig, en de verbinding tussen Milos en Sifnos vaart niet elke dag. Het is vooral handig als je Milos toch al wilde bezoeken: dan is heen vliegen en verder varen een mooie route.
 
 ## Helikopter
 
-Sifnos heeft een **helihaven**, en charter-helikoptertransfers vanuit Athene bestaan werkelijk. Voor wie dat wil is het een echte optie, in ruim minder dan een uur. Wij bezorgen huurauto's gratis op de helihaven, net als in de haven.
+Sifnos heeft een **heliport**, en er zijn charterhelikopters vanuit Athene. Wie dat wil, heeft daarmee een echte optie: de vlucht duurt ruim minder dan een uur. Wij bezorgen huurauto's gratis op de heliport, net als in de haven.
 
-## Van Kamares naar uw accommodatie
+## Van Kamares naar je accommodatie
 
-U bent geland, gevaren en staat op de kade van Kamares. Apollonia ligt ongeveer 5,5 km landinwaarts en bergop, zo'n tien minuten met de auto. De kustdorpen liggen op 15 tot 25 minuten.
+Je bent geland, hebt de overtocht gemaakt en staat op de kade van Kamares. Apollonia, de hoofdplaats, ligt ongeveer 5,5 km landinwaarts en bergop, zo'n tien minuten met de auto. De kustdorpen liggen op 15 tot 25 minuten.
 
-Uw opties zijn de bus, die op de meeste veerboten aansluit maar een eigen schema volgt en snel vol zit, een taxi, waarvan het eiland er maar een handvol heeft en die binnen enkele minuten verdwenen zijn als er in augustus een volle veerboot aanmeert, of uw eigen vervoer.
+Je kunt de bus nemen, die op de meeste veerboten aansluit maar zijn eigen schema volgt en snel vol zit. Je kunt een taxi nemen, maar het eiland heeft er maar een handvol en die zijn binnen een paar minuten weg als er in augustus een volle veerboot aanmeert. Of je hebt eigen vervoer.
 
-Precies dat gat brengt reizigers in de problemen. **Wij dichten het door u bij de boot op te wachten.** Stuur ons uw aankomstdatum en het geschatte tijdstip van aanmeren, en uw auto staat zonder meerprijs klaar in de haven van Kamares. Dezelfde gratis bezorging geldt op de helihaven, in Apollonia, Artemonas en Kastro, terwijl Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag mogelijk zijn.
+Daar gaat het bij veel mensen mis. **Wij lossen het op door bij de boot te staan.** Stuur ons je aankomstdatum en de verwachte aankomsttijd van de veerboot, dan staat je auto zonder extra kosten klaar in de haven van Kamares. Gratis bezorging kan ook op de heliport, in Apollonia, Artemonas en Kastro, en op aanvraag in Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos.
 
-Reserveren vraagt geen aanbetaling en geen kaartgegevens. WA-verzekering, onderhoud en hulp ter plaatse zitten in de dagprijs, en we doen dit sinds 1988 vanuit hetzelfde kantoor in Apollonia.
+Je reserveert zonder vooruitbetaling en zonder kaartgegevens. WA-verzekering, onderhoud en hulp ter plaatse zitten al in de dagprijs, en we doen dit al sinds 1988 vanuit hetzelfde kantoor in Apollonia.
 
-## De terugreis plannen
+## Je terugreis plannen
 
-Pas dezelfde regel omgekeerd toe, en strenger. **Boek uw terugreis met de veerboot nooit op dezelfde dag als uw internationale vlucht.** Zomerwind kan snelle afvaarten op korte termijn schrappen, en de vervangende plaatsen zijn meteen weg. Houd een nacht in Athene als buffer aan. Het is de goedkoopste reisverzekering die u ooit afsluit.
+Hanteer op de terugweg dezelfde regel, en nog strenger. **Plan je terugreis met de veerboot nooit op dezelfde dag als je internationale vlucht naar huis.** De zomerwind kan snelle afvaarten op het laatste moment schrappen, en de plaatsen op de vervangende boot zijn meteen vergeven. Houd een nacht in Athene aan als buffer. Goedkoper kun je je reis niet verzekeren.
 
-[Reserveer een auto voor uw aankomst](/nl/book) · [Veerboten in detail](/nl/sifnos-guide/ferries) · [Aankomen in de haven van Kamares](/nl/sifnos-guide/kamares-port)
+[Reserveer een auto voor je aankomst](/nl/book) · [Alles over de veerboten](/nl/sifnos-guide/ferries) · [Aankomen in de haven van Kamares](/nl/sifnos-guide/kamares-port)

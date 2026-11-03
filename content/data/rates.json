@@ -169,7 +169,7 @@
     "fr": "Tarifs journaliers en euros, par saison. Voitures : retrait et retour gratuits au port de Kamares, à l'héliport, à Apollonia, à Artemonas et à Kastro. Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sur demande (frais confirmés à la réservation). Scooters : agence d'Apollonia uniquement. Aucun acompte pour réserver.",
     "de": "Tagespreise in Euro nach Saison. Autos: kostenlose Abholung & Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro. Vathi, Platys Gialos, Faros, Chrysopigi und Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt). Roller: nur Büro Apollonia. Keine Vorauszahlung zur Reservierung.",
     "sv": "Dagspriser i euro per säsong. Bilar: kostnadsfri upphämtning och återlämning i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro. Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgiften bekräftas vid bokning). Scootrar: endast kontoret i Apollonia. Ingen förskottsbetalning vid bokning.",
-    "nl": "Dagprijzen in euro's per seizoen. Auto's: gratis ophalen & terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro. Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bij boeking bevestigd). Scooters: alleen kantoor Apollonia. Geen vooruitbetaling om te reserveren."
+    "nl": "Dagprijzen in euro per seizoen. Auto's: gratis ophalen en terugbrengen in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro. Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bevestigd bij reservering). Scooters: alleen bij het kantoor in Apollonia. Reserveren zonder vooruitbetaling."
   },
   "pickup": {
     "carsFree": {
@@ -179,7 +179,7 @@
       "fr": "Retrait et retour gratuits au port de Kamares, à l'héliport, à Apollonia, à Artemonas et à Kastro.",
       "de": "Kostenlose Abholung und Rückgabe am Hafen Kamares, Heliport, Apollonia, Artemonas und Kastro.",
       "sv": "Kostnadsfri upphämtning och återlämning i Kamares hamn, vid heliporten, i Apollonia, Artemonas och Kastro.",
-      "nl": "Gratis ophalen en terugbrengen bij haven Kamares, heliport, Apollonia, Artemonas en Kastro."
+      "nl": "Gratis ophalen en terugbrengen in de haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro."
     },
     "carsRequest": {
       "en": "Vathi, Platys Gialos, Faros, Chrysopigi, and Cherronisos on request (fee confirmed at booking).",
@@ -188,7 +188,7 @@
       "fr": "Vathi, Platys Gialos, Faros, Chrysopigi et Cherronisos sur demande (frais confirmés à la réservation).",
       "de": "Vathi, Platys Gialos, Faros, Chrysopigi und Cherronisos auf Anfrage (Gebühr bei Buchung bestätigt).",
       "sv": "Vathi, Platys Gialos, Faros, Chrysopigi och Cherronisos på begäran (avgiften bekräftas vid bokning).",
-      "nl": "Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bij boeking bevestigd)."
+      "nl": "Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag (kosten bevestigd bij reservering)."
     },
     "scooters": {
       "en": "Scooters: pickup and return at the Apollonia office only.",

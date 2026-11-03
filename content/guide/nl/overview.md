@@ -1,8 +1,8 @@
 ---
 slug: overview
 title: "Sifnos, Griekenland: de complete eilandgids"
-description: "Sifnos, Griekenland: complete gids voor het Cycladische eiland dat bekendstaat om zijn keuken, aardewerk en wandelpaden. Dorpen, stranden."
-answer: "Sifnos is een Grieks eiland in de Cycladen van ongeveer 14 km lang, vooral bekend om zijn keuken, zijn pottenbakkerstraditie en een netwerk van bewegwijzerde geplaveide wandelpaden. Apollonia is de levendige hoofdplaats op de bergrug, Kamares de veerhaven, en de stranden en dorpen liggen ver genoeg uit elkaar dat een auto of scooter het bezoek verandert."
+description: "Sifnos, Griekenland: de complete gids voor het Cycladische eiland van de keuken, het aardewerk en de wandelpaden. Dorpen, stranden, hoe lang en wanneer."
+answer: "Sifnos is een Grieks eiland in de Cycladen van ongeveer 14 km lang, vooral bekend om zijn keuken, zijn aardewerk en een netwerk van bewegwijzerde stenen wandelpaden. Apollonia is de levendige hoofdplaats op de bergrug, Kamares de veerhaven, en de stranden en dorpen liggen zo verspreid dat een auto of scooter je bezoek compleet verandert."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
 cover: "/images/sifnos/villages/apollonia.webp"
@@ -14,91 +14,91 @@ related:
   - beaches
 ---
 
-Sifnos ligt in de westelijke Cycladen, ruwweg halverwege Athene en Santorini maar qua temperament ver van beide verwijderd. Het eiland is ongeveer 14 km lang en 7 km breed, telt zo'n 2.600 vaste inwoners en heeft in heel Griekenland naam gemaakt met drie dingen: uitzonderlijk eten, een eeuwenoude pottenbakkerstraditie en een van de beste netwerken van bewegwijzerde wandelpaden van de eilanden.
+Sifnos ligt in de westelijke Cycladen, ruwweg halverwege Athene en Santorini, maar qua karakter ver van allebei. Het eiland is ongeveer 14 km lang en 7 km breed, telt zo'n 2.600 vaste inwoners en staat in heel Griekenland bekend om drie dingen: uitzonderlijk eten, een eeuwenoude pottenbakkerstraditie en een van de beste netwerken van bewegwijzerde wandelpaden van alle eilanden.
 
-Wat het niet heeft: een vliegveld, een cruiseterminal of een uitgaansscene. Juist die afwezigheid is het punt, en daarom trekt Sifnos mensen die jaar na jaar terugkeren in plaats van het van een lijstje af te vinken.
+Wat het niet heeft: een vliegveld, een cruiseterminal of een uitgaansscene. Juist dat maakt het bijzonder, en daarom trekt Sifnos mensen die jaar na jaar terugkomen in plaats van het eiland van een lijstje af te strepen.
 
-![Apollonia](/images/sifnos/villages/apollonia.webp "Apollonia, de hoofdplaats op de bergrug van Sifnos")
+![Apollonia](/images/sifnos/villages/apollonia.webp "Apollonia, de hoofdplaats van Sifnos op de bergrug")
 
 ## Wat Sifnos anders maakt
 
-Griekse eilanden neigen naar specialisatie. Mykonos doet het nachtleven, Santorini het caldera-uitzicht, Milos buitengewone geologie. Sifnos doet **eten**, en het meent het.
+Griekse eilanden hebben vaak een specialiteit. Mykonos heeft het nachtleven, Santorini het uitzicht over de caldera, Milos zijn bijzondere geologie. Sifnos heeft het **eten**, en neemt dat heel serieus.
 
-Het eiland bracht Nikolaos Tselementes voort, wiens kookboek uit 1910 zo invloedrijk was dat zijn achternaam in het Grieks het gewone woord voor receptenboek werd. Die erfenis is er nog steeds: dorpstaverna's koken hier met een ambitie die u aan hun omvang niet zou aflezen. Zoek naar **revithada**, kikkererwten die een nacht lang langzaam garen in een aardewerken pot, van oudsher in de houtoven van de dorpsbakker op zaterdagavond voor de zondagse lunch, en **mastelo**, lam of geit gegaard in een kleipot met dille en wijn.
+Het eiland is de geboorteplaats van Nikolaos Tselementes, wiens kookboek uit 1910 zo invloedrijk was dat zijn achternaam in het Grieks het gewone woord voor kookboek werd. Dat zie je nog steeds terug: dorpstaverna's koken hier met een ambitie die je bij zo'n klein zaakje niet verwacht. Let op **revithada**, kikkererwten die een hele nacht in een aardewerken pot garen, van oudsher op zaterdagavond in de houtoven van de dorpsbakker voor de lunch op zondag, en op **mastelo**, lam of geit gegaard in een kleipot met dille en wijn.
 
-Het aardewerk is geen souvenirindustrie, het is de reden dat die kookpotten bestaan. Werkplaatsen rond Kamares, Artemonas en Vathi draaien en bakken nog altijd zoals het eiland dat al generaties doet.
+Het aardewerk is geen souvenirindustrie: het is de reden dat die kookpotten bestaan. Werkplaatsen rond Kamares, Artemonas en Vathi draaien en bakken hun stukken nog altijd zoals het eiland dat al generaties doet.
 
-De derde lijn is wandelen. Sifnos onderhoudt een netwerk van herstelde geplaveide paden, veel ervan oude routes tussen dorpen en kloosters, degelijk bewegwijzerd en werkelijk begaanbaar. Verschillende van de mooiste stranden en kapellen lonen te voet meer dan over de weg.
+De derde pijler is wandelen. Sifnos onderhoudt een netwerk van gerestaureerde stenen paden, vaak eeuwenoude routes tussen dorpen en kloosters, goed bewegwijzerd en prima te lopen. Een aantal van de mooiste stranden en kapellen is te voet zelfs mooier om te bereiken dan over de weg.
 
 ## De geografie in één minuut
 
-Het eiland valt netjes in twee zones uiteen.
+Het eiland valt duidelijk in twee delen uiteen.
 
-De **centrale bergrug** herbergt de aaneengesloten dorpen in het binnenland: Apollonia, de hoofdplaats, met Artemonas direct ten noorden, plus Exampela, Katavati, Kato Petali en Ano Petali, dicht genoeg om ertussen te lopen. Hier woont het merendeel van de bevolking en bevinden zich de restaurants en het avondleven.
+Op de **centrale bergrug** liggen de aaneengesloten dorpen van het binnenland: Apollonia, de hoofdplaats, met Artemonas er direct ten noorden van, plus Exampela, Katavati, Kato Petali en Ano Petali, dicht genoeg bij elkaar om tussen te lopen. Hier woont het grootste deel van de bevolking en hier vind je de restaurants en het avondleven.
 
-De **kust** eronder telt de verspreide nederzettingen: Kamares in het westen, waar de veerboten aanmeren, Platys Gialos, Faros en Chrysopigi in het zuiden, Vathi in het zuidwesten en Cherronisos ver in het noorden. Kastro, de middeleeuwse hoofdplaats, klemt zich vast aan een klif aan de oostkust.
+Aan de **kust** daaronder liggen de verspreide kustplaatsen: Kamares in het westen, waar de veerboten aanmeren, Platys Gialos, Faros en Chrysopigi in het zuiden, Vathi in het zuidwesten en Cherronisos helemaal in het noorden. Kastro, de middeleeuwse hoofdplaats, ligt hoog op een klif aan de oostkust.
 
-Niets ligt verder dan ongeveer 25 minuten van Apollonia, maar de wegen zijn smal en bochtig, dus de afstand op de kaart zegt weinig over de reistijd.
+Nergens ben je verder dan ongeveer 25 minuten rijden van Apollonia, maar de wegen zijn smal en bochtig, dus de afstand op de kaart zegt weinig over de reistijd.
 
-## Hoeveel dagen hebt u nodig?
+## Hoeveel dagen heb je nodig?
 
-**Drie dagen** dekken het wezenlijke: de dorpen in het binnenland, Kastro en twee of drie stranden.
+Met **drie dagen** zie je de hoogtepunten: de dorpen in het binnenland, Kastro en twee of drie stranden.
 
-**Vijf tot zeven dagen** is de ideale maat. Genoeg om het noorden te bereiken, een paar paden te lopen, goed te eten en een trage dag te hebben.
+**Vijf tot zeven dagen** is ideaal. Genoeg om naar de noordkust te gaan, een paar wandelpaden te lopen, goed te eten en ook eens een luie dag te nemen.
 
-**Tien dagen of meer** en u bent geen bezoeker meer. Veel mensen doen precies dat en beschouwen twee weken als minimum.
+Blijf je **tien dagen of langer**, dan ben je geen bezoeker meer. Veel mensen doen precies dat en vinden twee weken het minimum.
 
-## Wanneer gaan
+## Wanneer ga je?
 
-| Periode | Wat u kunt verwachten |
+| Periode | Wat je kunt verwachten |
 | --- | --- |
-| **April tot half mei** | Groen, wilde bloemen, koele zee, veel nog gesloten |
-| **Half mei tot juni** | Warm, rustig, alles open, uitstekende prijs-kwaliteit |
-| **Juli en augustus** | Heet, druk, volle veerboten, de meltemi, boek ruim vooruit |
-| **September** | De maand voor kenners: warme zee, minder drukte, kalmte |
-| **Oktober** | Mooi en stil, vanaf half oktober sluiten de zaken |
-| **November tot maart** | Werkelijk stil, weinig veerboten, een ander eiland |
+| **April tot half mei** | Groen, wilde bloemen, koele zee, veel zaken nog dicht |
+| **Half mei tot en met juni** | Warm, rustig, alles open, uitstekende prijs-kwaliteit |
+| **Juli en augustus** | Heet, druk, volle veerboten, de meltemi, ruim vooruit reserveren |
+| **September** | De maand voor kenners: warme zee, minder drukte, rust |
+| **Oktober** | Mooi en stil, vanaf half oktober gaan zaken dicht |
+| **November tot maart** | Echt stil, weinig veerboten, een heel ander eiland |
 
-Hebt u vrije keuze, dan is **september** de beste maand op Sifnos. De zee is op haar warmst na een hele zomer, de drukte van augustus is weg en het licht is opmerkelijk.
+Ben je vrij in je keuze, dan is **september** de beste maand op Sifnos. Na een hele zomer is de zee op haar warmst, de drukte van augustus is voorbij en het licht is prachtig.
 
 ## De dorpen
 
 ![Artemonas](/images/sifnos/villages/artemonas.webp "Artemonas, de statige buur van Apollonia")
 
-**Apollonia** is de hoofdplaats en het zwaartepunt, gebouwd langs een bergrug met een autovrij straatje vol restaurants, bars en winkels dat in de zomer tot laat druk blijft.
+**Apollonia** is de hoofdplaats en het middelpunt van het eiland, gebouwd langs een bergrug, met een autovrij straatje vol restaurants, bars en winkels dat in de zomer tot laat druk blijft.
 
-**Artemonas**, vijftien minuten lopen naar het noorden, is het statige dorp: neoklassieke herenhuizen, brede geplaveide steegjes, voortreffelijke banketbakkers en een veel rustigere avond.
+**Artemonas**, een kwartier lopen naar het noorden, is het chique dorp: neoklassieke herenhuizen, brede geplaveide straatjes, voortreffelijke banketbakkers en een veel rustigere avond.
 
-**Kastro** is het buitengewone. De middeleeuwse hoofdplaats, een ommuurd dorp rond een landtong, met Venetiaanse wapenschilden boven de deuren en de Egeïsche Zee aan drie zijden. Ga voor de zonsondergang en blijf nadat de dagbezoekers zijn vertrokken.
+**Kastro** is het bijzonderste. De middeleeuwse hoofdplaats is een versterkt dorp rond een landtong op een klif, met Venetiaanse wapenschilden boven de deuren en aan drie kanten de Egeïsche Zee. Ga erheen voor de zonsondergang en blijf nog even als de dagjesmensen weg zijn.
 
 **Kamares** is de haven, en tegelijk een volwaardige badplaats met een lang zandstrand.
 
-**Faros**, **Platys Gialos** en **Vathi** zijn de kustplaatsjes, elk gebouwd rond het eigen strand.
+**Faros**, **Platys Gialos** en **Vathi** zijn de kustplaatsjes, elk gebouwd rond een eigen strand.
 
 ## De stranden
 
 ![Platys Gialos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, het langste strand van het eiland")
 
-De stranden van Sifnos zijn zandig, overwegend op het zuiden gericht en meestal klein. **Platys Gialos** is het langst en best voorzien. **Vathi** is een beschutte hoefijzerbaai met ongewoon kalm water. **Kamares** heeft ondiep water, ideaal voor kinderen. **Chrysopigi** biedt zwemmen vanaf de rotsen onder het meest gefotografeerde klooster van het eiland, met het zandige Apokofto ernaast. **Faros** heeft drie kleine baaien op enkele minuten van elkaar. Verderop belonen **Cherronisos** in het uiterste noorden en **Fykiada** en **Vroulidia** de moeite van de rit.
+De stranden van Sifnos zijn zanderig, liggen meestal op het zuiden en zijn meestal klein. **Platys Gialos** is het langst en heeft de meeste voorzieningen. **Vathi** is een beschutte hoefijzervormige baai met opvallend kalm water. **Kamares** heeft ondiep water, ideaal voor kinderen. Bij **Chrysopigi** zwem je vanaf de rotsen onder het meest gefotografeerde klooster van het eiland, met het zandstrand van Apokofto ernaast. **Faros** heeft drie kleine baaitjes op een paar minuten van elkaar. Verder weg zijn **Cherronisos** in het uiterste noorden en **Fykiada** en **Vroulidia** de moeite van de tocht dubbel waard.
 
-Alle details, inclusief toegangswegen en parkeren, staan in de [strandgids](/nl/sifnos-guide/beaches).
+Alle details, ook over toegangswegen en parkeren, vind je in de [strandengids](/nl/sifnos-guide/beaches).
 
-## Hoe u er komt
+## Hoe kom je er?
 
-Er is geen vliegveld. U vliegt naar Athene, reist door naar de haven van Piraeus en neemt een veerboot naar Kamares, ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot. Zie [hoe u op Sifnos komt](/nl/sifnos-guide/how-to-get-there) en de [veerbootgids](/nl/sifnos-guide/ferries).
+Er is geen vliegveld. Je vliegt naar Athene, reist door naar de haven van Piraeus en neemt een veerboot naar Kamares: ongeveer 2,5 tot 3 uur met een snelle catamaran of zo'n 5 uur met een gewone veerboot. Zie [zo kom je op Sifnos](/nl/sifnos-guide/how-to-get-there) en de [veerbootgids](/nl/sifnos-guide/ferries).
 
-## Vervoer, en waarom het uitmaakt
+## Vervoer op het eiland, en waarom dat ertoe doet
 
-Hier zit de praktische kern van een reis naar Sifnos. Het eiland is klein, maar het moois ligt verspreid langs de kust en het busnetwerk is weliswaar echt, maar weinig frequent, in augustus vol, en het bepaalt uw schema.
+Dit is de praktische kern van een reis naar Sifnos. Het eiland is klein, maar de mooiste plekken liggen verspreid langs de kust, en de bus rijdt wel, maar niet vaak, zit in augustus vol en bepaalt je hele planning.
 
-De afstanden zijn kort: Apollonia naar Platys Gialos ongeveer 20 minuten, naar Kastro 10, naar Vathi 20, naar Cherronisos 35. Met eigen vervoer zwemt u bij twee stranden en bent u op tijd terug voor het eten in Apollonia. Zonder wordt het een dag wachten bij haltes.
+De afstanden zijn kort: van Apollonia naar Platys Gialos is ongeveer 20 minuten, naar Kastro zo'n 10, naar Vathi ongeveer 20 en naar Cherronisos zo'n 35. Met eigen vervoer zwem je bij twee stranden en ben je toch op tijd terug voor het eten in Apollonia. Zonder eigen vervoer ben je een dag aan het wachten bij bushaltes.
 
-Een **auto** past bij gezinnen, bij iedereen met bagage en bij winderige dagen. Een **scooter** past bij alleenreizigers en stellen die korte ritjes maken bij rustig weer. De wegen zijn geasfalteerd en goed onderhouden maar smal en bochtig, met weinig vangrails: rijd langzaam en verleen voorrang aan wie omhoog rijdt waar de weg versmalt.
+Een **auto** is ideaal voor gezinnen, voor iedereen met bagage en bij harde wind. Een **scooter** past bij solo-reizigers en stellen die korte ritjes maken bij rustig weer. De wegen zijn geasfalteerd en goed onderhouden, maar smal en bochtig en hebben weinig vangrails: rijd rustig en laat waar de weg smal wordt het verkeer dat omhoog rijdt voorgaan.
 
-## Waar Artemis past
+## Waar Artemis in beeld komt
 
-Wij verhuren sinds **1988** auto's, scooters en motoren op Sifnos vanuit hetzelfde kantoor in Apollonia, als familiebedrijf. Gratis bezorging in de **haven van Kamares, op de helihaven, in Apollonia, Artemonas en Kastro**, met Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos op aanvraag.
+Sinds **1988** verhuren we als familiebedrijf auto's, scooters en motoren op Sifnos, al die tijd vanuit hetzelfde kantoor in Apollonia. We bezorgen gratis in de **haven van Kamares, op de heliport, in Apollonia, Artemonas en Kastro**, en op aanvraag ook in Vathi, Platys Gialos, Faros, Chrysopigi en Cherronisos.
 
-Geen vooruitbetaling en geen kaartgegevens om te reserveren. WA-verzekering, onderhoud, helmen en hulp ter plaatse zitten al in de dagprijs. Geef uw aankomsttijd met de veerboot door en de auto staat klaar in de haven.
+Reserveren zonder vooruitbetaling en zonder kaartgegevens. WA-verzekering, onderhoud, helmen en hulp ter plaatse zitten al in de dagprijs. Laat ons weten hoe laat je veerboot aankomt, dan staat de auto in de haven voor je klaar.
 
-[Bekijk het wagenpark en de tarieven](/nl/cars) · [Data reserveren](/nl/book) · [Strandgids](/nl/sifnos-guide/beaches) · [Waar verblijven](/nl/sifnos-guide/where-to-stay)
+[Bekijk het wagenpark en de prijzen](/nl/cars) · [Data reserveren](/nl/book) · [Strandengids](/nl/sifnos-guide/beaches) · [Waar overnachten](/nl/sifnos-guide/where-to-stay)

@@ -1,61 +1,61 @@
 ---
 slug: kamares-port-arrival-guide
-title: "Kamares haven aankomst: van veerboot naar eerste zwem"
-description: "Wat te doen als je veerboot aanlegt in Kamares: bagage, ophaalopties en naar Apollonia met Artemis-huurauto. Gratis ophalen in Kamares, zonder vooruitbetaling."
+title: "Aankomen in Kamares: van veerboot tot eerste duik"
+description: "Wat je doet als je veerboot aanmeert in Kamares: bagage, ophalen en naar Apollonia met een huurauto van Artemis. Gratis ophalen in Kamares, zonder vooruitbetaling."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
-tags: [kamares, arrival, ferry]
+tags: [kamares, aankomst, veerboot]
 related: [apollonia-vs-kamares-stay, driving-in-sifnos, rent-a-car-sifnos-2026]
 ---
 
-Kamares is waar de meeste bezoekers Sifnos voor het eerst aanraken: een lange beschutte baai, cafés langs de kade en de weg omhoog naar Apollonia zichtbaar vanaf het dek. Het eerste uur aan land zet de toon voor je trip. Een beetje planning rond bagage, ophalen en de busdienst helpt enorm.
+Voor de meeste bezoekers is Kamares de eerste kennismaking met Sifnos: een lange, beschutte baai, cafés langs de kade en vanaf het dek zie je de weg al omhoog lopen naar Apollonia. Het eerste uur aan wal zet de toon voor je hele reis. Met een beetje planning rond je bagage, het ophalen van je auto en de dienstregeling van de bus kom je een heel eind.
 
 ## Van boord: wat je ziet
 
-De havenfront is vlak en beloopbaar. Taxi's wachten bij de ontscheping in het seizoen; de bus naar Apollonia vertrekt vaak kort na populaire veren wanneer er vraag is. Bagagekarretjes zijn informeel; rol je tassen naar een beschaduwd café als je kamer nog niet klaar is.
+De haven is vlak en goed te belopen. In het seizoen wachten er taxi's vlak bij de plek waar je van boord gaat; de bus naar Apollonia vertrekt kort na de drukke veerboten als er genoeg vraag is. Bagagekarretjes zijn er niet echt: rol je koffers naar een café in de schaduw als je kamer nog niet klaar is.
 
-Het strand van Kamares ligt stappen van de pier. Veel reizigers zwemmen vóór check-in, vooral bij middagaankomsten. Houd zwemspullen bereikbaar in je daypack, niet begraven in het ruim.
+Het strand van Kamares ligt op een paar stappen van de pier. Veel reizigers gaan zwemmen voordat ze inchecken, vooral als ze 's middags aankomen. Houd je zwemspullen bij de hand in je dagtas, en niet onderin je koffer in het ruim.
 
-## Je Artemis-huur ophalen
+## Je huurauto van Artemis ophalen
 
-Artemis standaard is **Apollonia-ophalen** bij het hoofdkantoor, tien minuten rijden of één busrit vanaf Kamares. Komt je veerboot vroeg aan en wil je meteen wielen, vraag **Kamares-ophalen op verzoek** bij je aanvraag. Noem bootnaam en ETA; het team coördineert wanneer het schema het toelaat.
+Bij Artemis haal je je auto standaard op bij het **kantoor in Apollonia**, tien minuten rijden of één busrit vanaf Kamares. Komt je veerboot vroeg aan en wil je meteen eigen vervoer, vraag dan bij je aanvraag om **ophalen in Kamares op aanvraag**. Geef de naam van de boot en de verwachte aankomsttijd door; het team regelt het als het in de planning past.
 
-**Geen vooruitbetaling** nodig om te boeken; stuur data via het formulier of WhatsApp en wacht op persoonlijke bevestiging. Houd rijbewijs en paspoort klaar; voorwaarden volgen standaard Cycladische praktijk (minimumleeftijd 23, rijbewijs één jaar).
+Reserveren kan **zonder vooruitbetaling**: stuur je data via het aanvraagformulier of WhatsApp en wacht op een persoonlijke bevestiging. Houd je rijbewijs en paspoort bij de hand; de huurvoorwaarden zijn zoals gebruikelijk op de Cycladen (minimumleeftijd 23 jaar, rijbewijs minstens één jaar in bezit).
 
-### Als Apollonia-ophalen beter werkt
+### Als ophalen in Apollonia beter uitkomt
 
-Sommige gasten droppen tassen bij een Kamares-hotel, nemen de bus omhoog, halen de auto in Apollonia en keren terug voor bagage zodra ze georiënteerd zijn. Anderen taxiën naar Apollonia en starten daar. Beide patronen werken; kies op energie na de veerboot, niet op ideologie.
+Sommige gasten zetten hun bagage af bij een hotel in Kamares, nemen de bus naar boven, halen de auto op in Apollonia en komen terug voor hun bagage als ze hun weg een beetje kennen. Anderen nemen een taxi naar Apollonia en beginnen daar met rijden. Allebei prima; kies op basis van hoeveel energie je na de overtocht nog hebt, niet op principe.
 
-![Kamares havenfront met veerboot en bergweg naar Apollonia](/images/blog/kamares-port-arrival-guide.jpg "De meeste Sifnos-aankomsten starten in Kamares; plan ophalen vóór je aanlegt")
+![De kade van Kamares met een veerboot en de weg omhoog naar Apollonia](/images/blog/kamares-port-arrival-guide.jpg "De meeste bezoekers komen aan in Kamares: regel het ophalen voordat je aanmeert")
 
-## Logistiek eerste avond
+## De eerste avond
 
-Hotels in Kamares betekenen korte wandelingen van diner naar bed. Hotels in Apollonia betekenen avondwandelingen door de hoofdstad maar bus of taxi op aankomstdag tenzij je een auto in de haven ophaalde. Lees [Apollonia of Kamares](/nl/blog/apollonia-vs-kamares-stay) als je nog een basis kiest.
+Slaap je in Kamares, dan loop je zo van het restaurant naar je bed. Slaap je in Apollonia, dan kun je 's avonds door de hoofdplaats slenteren, maar heb je op de dag van aankomst een bus of taxi nodig, tenzij je je auto in de haven hebt opgehaald. Lees [Apollonia of Kamares](/nl/blog/apollonia-vs-kamares-stay) als je nog niet weet waar je wilt verblijven.
 
-Brandstof is beschikbaar bij Kamares; je hoeft niet te tanken vóór Apollonia tenzij je meteen een zuidkustlus plant.
+Bij Kamares kun je tanken; je hoeft niet te tanken voordat je naar Apollonia rijdt, tenzij je meteen een rondrit langs de zuidkust wilt maken.
 
-## Taxi's, bus en wanneer je ze overslaat
+## Taxi, bus, en wanneer je ze overslaat
 
-De Kamares–Apollonia-bus is goedkoop en prima voor één persoon met daypack. Het wordt lastig met twee grote koffers, een autostoeltje of een gezin dat bij een supermarkt wil stoppen vóór de heuvel. Taxi's ontmoeten veren maar rijen ontstaan als meerdere boten hetzelfde uur aankomen; Artemis laten bevestigen **Kamares-ophalen op verzoek** haalt het giswerk weg.
+De bus van Kamares naar Apollonia is goedkoop en prima voor iemand alleen met een dagtas. Met twee grote koffers, een autostoeltje of een gezin dat nog even langs de supermarkt wil voordat het de berg op gaat, wordt het lastig. Er staan taxi's bij de veerboten, maar als er meerdere boten in hetzelfde uur aankomen, ontstaan er rijen. Als Artemis **ophalen in Kamares op aanvraag** bevestigt, hoef je niet te gokken.
 
-Heb je al Apollonia-ophalen geboekt, werkt de bus nog als backup wanneer veren laat varen en je wilt inchecken vóór het kantoor sluit. Sla het Artemis WhatsApp-nummer op vóór je vaart; signaal op dek is beter dan op het havenparkeerterrein.
+Heb je ophalen in Apollonia gereserveerd, dan is de bus nog altijd een goed alternatief als je veerboot vertraging heeft en je wilt inchecken voordat het kantoor sluit. Sla het WhatsApp-nummer van Artemis op in je telefoon voordat je vertrekt; aan dek heb je meestal beter bereik dan op de parkeerplaats in de haven.
 
-## Supermarkt en contant
+## Boodschappen en contant geld
 
-De Kamares-minimarkt dekt water, zonnebrand en snacks vóór de eerste rit naar je hotel. Geldautomaten staan langs de kade; kleine inlandse tavernes prefereren soms contant. Laad proviand vóór je naar afgelegen stranden rijdt; winkels dunnen uit buiten Apollonia en Platis Gialos.
+In de minimarkt van Kamares haal je water, zonnebrand en snacks voor de eerste rit naar je hotel. Langs de kade staan geldautomaten; kleine taverna's in het binnenland willen soms liever contant geld. Sla proviand in voordat je naar afgelegen stranden rijdt: buiten Apollonia en Platys Gialos zijn er weinig winkels.
 
-## Veelgemaakte aankomstdagfouten
+## Veelgemaakte fouten op de dag van aankomst
 
-- Aannemen dat elke veerboot synct met een bus; check het bord of vraag een cafémedewerker.
-- Een handgeschakelde auto ophalen moe van reizen en Apollonias eenrichtingsheuvel in één aanpakken; automatische chauffeurs, zeg het bij piekboekingen.
-- Vergeten Artemis te berichten als de veerboot vertraagt; ze passen aan wanneer ze het weten.
+- Ervan uitgaan dat er bij elke veerboot een bus klaarstaat: kijk op het bord of vraag het in een café.
+- Moe van de reis een handgeschakelde auto ophalen en dan in de eerste versnelling de steile eenrichtingsweg in Apollonia op moeten. Rijd je liever automaat, zeg dat dan als je in het hoogseizoen reserveert.
+- Vergeten Artemis een bericht te sturen als de veerboot vertraging heeft; we passen ons aan als we het weten.
 
-## Na dag één
+## Na de eerste dag
 
-Eenmaal gesetteld wordt Kamares een startpunt voor de noordkust of een snelle havenzwem tussen eilandritten. Combineer deze gids met [rijden op Sifnos](/nl/blog/driving-in-sifnos) en ons overzicht van [autohuurprijzen](/nl/blog/sifnos-car-rental-prices).
+Als je eenmaal gesetteld bent, is Kamares een goed vertrekpunt voor de noordkust of voor een snelle duik in de haven tussen je ritten over het eiland door. Combineer deze gids met [autorijden op Sifnos](/nl/blog/driving-in-sifnos) en ons overzicht van de [prijzen voor autohuur](/nl/blog/sifnos-car-rental-prices) voor het complete plaatje.
 
-Binnenkort landen? [Boek bij Artemis](/nl/book) met veerdatum, geschatte aankomsttijd en gewenste ophaallocatie. Artemis ontmoet boten in deze haven sinds **1988**; een kort bericht wint van gissen op de pier of je Panda wacht.
+Kom je binnenkort aan? [Reserveer bij Artemis](/nl/book) met de datum van je veerboot, de verwachte aankomsttijd en waar je de auto wilt ophalen. Artemis haalt al sinds **1988** gasten op in deze haven: één kort berichtje is beter dan op de pier staan gissen of je Panda klaarstaat.
 
-Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/nl/sifnos-guide/rent-a-car-sifnos) or [book dates](/nl/book).
+Regel gratis ophalen van je auto in Kamares: [huur een auto op Sifnos](/nl/sifnos-guide/rent-a-car-sifnos) of [vraag je data aan](/nl/book).

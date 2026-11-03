@@ -326,7 +326,7 @@
   "nl": [
     {
       "q": "Moet ik een aanbetaling doen om te boeken?",
-      "a": "Er is geen vooruitbetaling nodig voor de boeking. Neem contact op met Artemis met je data en gewenste voertuig, en wij bevestigen de beschikbaarheid."
+      "a": "Nee, voor een reservering hoef je niet vooruit te betalen. Stuur Artemis je data en het voertuig van je voorkeur, dan bevestigen we de beschikbaarheid."
     },
     {
       "q": "Wat is de minimumleeftijd om te huren?",
@@ -334,47 +334,47 @@
     },
     {
       "q": "Waar haal ik het voertuig op?",
-      "a": "Ophalen en terugbrengen gebeurt bij ons kantoor in Apollonia. Ophalen en terugbrengen in Kamares kan op aanvraag worden geregeld, handig wanneer je ferry laat aankomt."
+      "a": "Ophalen en terugbrengen gebeurt bij ons kantoor in Apollonia. Op aanvraag kan het ook in Kamares, handig als je veerboot laat aankomt."
     },
     {
       "q": "Moet ik op Sifnos een auto of een scooter huren?",
-      "a": "Kies een auto voor gezinnen, bagage of comfort op langere eilandroutes. Kies een scooter als je wendbaar van strand naar strand wilt voor één of twee personen en je al zeker voelt op Griekse eilandwegen."
+      "a": "Kies een auto voor gezinnen, bagage of comfort op langere ritten over het eiland. Kies een scooter als je met één of twee personen wendbaar van strand naar strand wilt en je al zeker voelt op Griekse eilandwegen."
     },
     {
-      "q": "Zijn er automatische auto's beschikbaar?",
-      "a": "Ja. Artemis biedt automatische opties zoals de Peugeot 208 Automatic en Nissan Micra Automatic. Beschikbaarheid verschilt per seizoen: vraag vroeg voor juli en augustus."
+      "q": "Hebben jullie auto's met automaat?",
+      "a": "Ja. Artemis heeft automaten zoals de Peugeot 208 en de Nissan Micra met automaat. De beschikbaarheid verschilt per seizoen, dus vraag voor juli en augustus op tijd."
     },
     {
       "q": "Hoe ver van tevoren moet ik in de zomer boeken?",
-      "a": "Voor juli en augustus: vraag zo vroeg mogelijk. De tussenseizoenen zijn flexibeler, maar populaire modellen gaan rond weekenden en ferry-pieken toch snel weg."
+      "a": "Voor juli en augustus: vraag zo vroeg mogelijk. In het tussenseizoen is er meer ruimte, maar populaire modellen zijn rond weekenden en drukke veerbootdagen toch snel weg."
     },
     {
       "q": "Welke documenten heb ik nodig?",
-      "a": "Neem een geldig rijbewijs mee (en een International Driving Permit als dat voor je nationaliteit vereist is), paspoort of ID, en een betaalmethode voor de huur zodra de data bevestigd zijn."
+      "a": "Neem een geldig rijbewijs mee (en een internationaal rijbewijs als dat voor jouw nationaliteit nodig is), je paspoort of identiteitskaart, en een betaalmiddel voor de huur zodra je data bevestigd zijn."
     },
     {
       "q": "Is verzekering inbegrepen?",
-      "a": "De basisdekking die de Griekse wet vereist is inbegrepen. Eigen risico, optionele dekking en schadeprocedures worden bij ophalen uitgelegd: vraag ons vóór je reis als je details nodig hebt."
+      "a": "De basisdekking die de Griekse wet verplicht stelt, is inbegrepen. Eigen risico, aanvullende dekking en wat je moet doen bij schade leggen we uit bij het ophalen. Wil je het precies weten, vraag het ons dan voor je vertrekt."
     },
     {
       "q": "Wat is het brandstofbeleid?",
-      "a": "Voertuigen worden geleverd met een geregistreerd brandstofniveau en moeten op een vergelijkbaar niveau worden teruggebracht, tenzij bij ophalen anders is afgesproken."
+      "a": "Je krijgt het voertuig mee met een vastgelegde brandstofstand. Lever het met ongeveer dezelfde stand weer in, tenzij we bij het ophalen iets anders afspreken."
     },
     {
       "q": "Bieden jullie kinderzitjes aan?",
-      "a": "Kinderzitjes kunnen op aanvraag beschikbaar zijn: vermeld leeftijden en behoeften bij je aanvraag, zodat wij de voorraad voor jouw data kunnen checken."
+      "a": "Kinderzitjes zijn mogelijk op aanvraag. Vermeld de leeftijden en wat je nodig hebt bij je aanvraag, dan kijken we wat er voor jouw data beschikbaar is."
     },
     {
       "q": "Wat kosten scooters?",
-      "a": "Scooterprijzen variëren per cilinderinhoud en seizoen. Stuur je data via de kalender op de scooterpagina of WhatsApp en wij geven een dagprijs."
+      "a": "Scooterprijzen hangen af van de cilinderinhoud en het seizoen. Stuur je data via de kalender op de scooterpagina of via WhatsApp, dan krijg je van ons een dagprijs."
     },
     {
-      "q": "Wat als mijn ferry vertraging heeft?",
-      "a": "App of bel ons met de nieuwe aankomsttijd. Wij passen Kamares-ophalingen regelmatig aan wanneer boten later komen: houd ons gewoon op de hoogte."
+      "q": "Wat als mijn veerboot vertraging heeft?",
+      "a": "Stuur een bericht of bel ons met de nieuwe aankomsttijd. We passen het ophalen in Kamares regelmatig aan als boten later komen, houd ons gewoon op de hoogte."
     },
     {
       "q": "Kan ik data wijzigen of annuleren?",
-      "a": "Laat het ons zo vroeg mogelijk weten. Wij doen ons best om wijzigingen, ferry-verstoringen en weersgerelateerde vertragingen op te vangen."
+      "a": "Laat het ons zo vroeg mogelijk weten. We doen ons best om rekening te houden met wijzigingen, problemen met de veerboot en vertraging door het weer."
     }
   ]
 }
