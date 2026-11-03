@@ -4,7 +4,7 @@ title: "Apollonia & Artemonas: het hart van het eiland"
 description: "Gids voor Apollonia en Artemonas op Sifnos: waar je slentert, parkeert en eet, en waarom de balie van Artemis in Apollonia stranddagen makkelijker maakt."
 answer: "Apollonia is de levendige hoofdplaats van Sifnos, met avondleven en alle voorzieningen; Artemonas is de chique buur met neoklassieke herenhuizen. Artemis Rental zit in Apollonia, dus je begint en eindigt elke strandroute midden op het eiland."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/artemonas.webp"
 author: "Artemis Rental"
 order: 7
@@ -61,6 +61,6 @@ Vanuit de omgeving van Apollonia is het maar een kort ritje naar Kastro, voor de
 
 Omdat je in het midden van het eiland begint, is elke klassieke route een kwestie van heen en terug: naar het zuiden naar Platys Gialos, naar het westen naar Vathi, naar het oosten naar Kastro, naar het noorden richting Cherronisos. Je zit niet vast in de haven, tenzij je zelf voor een stranddag in Kamares kiest.
 
-Tip van Artemis: laat bij je aanvraag weten in welke omgeving je hotel ligt. We helpen je met een handige plek om af te spreken en, voor auto's, op aanvraag met **ophalen bij de veerboot in Kamares**.
+Tip van Artemis: laat bij je aanvraag weten in welke omgeving je hotel ligt. We helpen je met een handige plek om af te spreken en, voor auto's, met gratis **ophalen bij de veerboot in Kamares**: stuur je aankomsttijd, dan staat de auto klaar.
 
 [Bekijk auto's](/nl/cars) · [Scooters](/nl/scooters) · [Reserveren](/nl/book)

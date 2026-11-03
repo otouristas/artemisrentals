@@ -4,7 +4,7 @@ title: "Stranden op Sifnos die de rit waard zijn"
 description: "Complete strandengids voor Sifnos voor wie met auto of scooter rijdt: Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia en Fykiada."
 answer: "Met een auto of scooter van Artemis kies je Platys Gialos voor de voorzieningen, Vathi voor een beschutte baai, Chrysopigi voor het klooster als op een ansichtkaart, en Cherronisos of Vroulidia als je rustiger wilt zwemmen aan de noordkust. Kom in juli en augustus vroeg, dan vind je nog een parkeerplek."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
 author: "Artemis Rental"
 order: 6
@@ -14,7 +14,7 @@ related:
   - kamares-port
 ---
 
-De stranden van Sifnos liggen verspreid over een klein eiland: op de kaart zijn de afstanden kort, maar met eigen vervoer is het veel makkelijker dan met de schaarse bussen in de zomer. Deze gids is geschreven voor reizigers die hun sleutels ophalen in Apollonia (of op aanvraag in Kamares) en duidelijke antwoorden willen: welk strand, hoe kom je er, waar parkeer je en wat doet de wind meestal.
+De stranden van Sifnos liggen verspreid over een klein eiland: op de kaart zijn de afstanden kort, maar met eigen vervoer is het veel makkelijker dan met de schaarse bussen in de zomer. Deze gids is geschreven voor reizigers die een auto ophalen in de haven van Kamares of in Apollonia en duidelijke antwoorden willen: welk strand, hoe kom je er, waar parkeer je en wat doet de wind meestal.
 
 ![Strand van Platys Gialos op Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, lang zandstrand in het zuiden van Sifnos")
 
@@ -52,7 +52,7 @@ Een van de grootste en populairste zandstranden op Sifnos, vooral geliefd bij Gr
 
 **West-Sifnos (de haven) · ca. 10–15 minuten vanaf Apollonia**
 
-De veerhaven en het grootste kustdorp. Een brede zandbaai, veel voorzieningen en een handige plek voor je eerste of laatste duik van de vakantie. Artemis kan voor auto's **ophalen in Kamares** regelen als je boot aanmeert: vraag het bij je aanvraag.
+De veerhaven en het grootste kustdorp. Een brede zandbaai, veel voorzieningen en een handige plek voor je eerste of laatste duik van de vakantie. Auto's van Artemis kunnen gratis op de kade klaarstaan als je boot aanmeert: stuur bij je aanvraag de tijd van je veerboot.
 
 **Hoogtepunten**
 - De belangrijkste plek voor aankomst en vertrek met de veerboot
@@ -92,7 +92,7 @@ Een fotogenieke, brede zandbaai met een rustige dorpssfeer. Vathi was ooit een b
 
 **Zuidoost-Sifnos · ca. 20 minuten vanaf Apollonia**
 
-De meest gefotografeerde landtong van het eiland: het klooster van Panagia Chrysopigi (16e eeuw), gewijd aan de beschermheilige van Sifnos, boven rotsige plekken om te zwemmen en helder water. Je komt hier meer voor de plek zelf dan om de hele dag op het zand te liggen.
+De meest gefotografeerde landtong van het eiland: het klooster van Panagia Chrysopigi, gebouwd in 1650 en de plek van de icoon van de beschermheilige van het eiland, boven rotsige plekken om te zwemmen en helder water. Je komt hier meer voor de plek zelf dan om de hele dag op het zand te liggen.
 
 **Hoogtepunten**
 - Het iconische klooster en de feestdagen
@@ -128,7 +128,7 @@ Een traditioneel vissersdorp dat ooit de belangrijkste haven van het eiland was.
 
 ![Cherronisos in het noorden van Sifnos](/images/sifnos/beaches/heronissos.webp "Cherronisos, vissersbaai in het noorden")
 
-## Cherronisos (Heronissos)
+## Cherronisos (Herronisos)
 
 **Noord-Sifnos · ca. 30–35 minuten vanaf Apollonia**
 
@@ -191,6 +191,6 @@ Een volledig ongerept zandstrand, **alleen te voet of per boot** bereikbaar. In 
 
 ## Tip van Artemis
 
-Houd waardevolle spullen uit het zicht, tank in het hoogseizoen voordat je een lange rit naar het noorden maakt en stuur ons een bericht als je wilt **ophalen in Kamares** op de ochtend dat je veerboot aanmeert. Bekijk [auto's](/nl/cars) en [scooters](/nl/scooters), of [vraag je data aan](/nl/book).
+Houd waardevolle spullen uit het zicht, tank in het hoogseizoen voordat je een lange rit naar het noorden maakt en stuur ons de tijd van je veerboot als je wilt dat de auto in de **haven van Kamares** klaarstaat (gratis voor auto's). Bekijk [auto's](/nl/cars) en [scooters](/nl/scooters), of [vraag je data aan](/nl/book).
 
 Voor actuele eilandpagina's en dienstregelingen kun je ook kijken bij [Sifnos op Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) en [wat te doen op Sifnos](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

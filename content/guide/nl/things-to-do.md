@@ -4,7 +4,7 @@ title: "Wat te doen op Sifnos"
 description: "Wat je op Sifnos kunt doen: stranden, dorpen, wandelpaden, eten, aardewerk, kloosters en boottochten, gepland rond een huurauto of scooter van Artemis."
 answer: "Zwem in Platys Gialos en Vathi, bezoek Chrysopigi en het middeleeuwse Kastro, wandel van de dorpen naar de kust, proef mastelo en revithada, kijk rond bij de pottenbakkers en verbind alles met een huurauto of scooter van Artemis, zonder op de dienstregeling van de bus te letten."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
 author: "Artemis Rental"
 order: 9
@@ -100,6 +100,8 @@ Actuele ideeën voor de veerboot: [routes Athene–Sifnos op Discover Cyclades](
 | 2 | Zuidelijke route: Faros → Chrysopigi → Platys Gialos |
 | 3 | 's Ochtends naar het strand van Vathi → bij de pottenbakkers langs → Kastro in het gouden uur |
 | 4 | Naar het noorden, naar Cherronisos en Vroulidia, of een wandeling en vroeg eten in Apollonia |
+
+Blijf je langer? Bekijk onze [reisroutes voor 5 en 7 dagen](/nl/blog/sifnos-itinerary-5-7-days).
 
 ## Veelgestelde vragen
 

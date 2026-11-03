@@ -3,7 +3,7 @@ slug: sifnos-hiking-trails-by-car
 title: "Wandelpaden op Sifnos die je met de auto bereikt"
 description: "Startpunten en dagwandelingen op Sifnos: parkeer je huurauto van Artemis, loop over eeuwenoude paden en eet 's avonds in Apollonia. Familiebedrijf sinds 1988."
 datePublished: "2026-07-10"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [wandelen, wandelpaden, autorijden]
@@ -16,7 +16,7 @@ Sifnos is een van de best bewegwijzerde wandeleilanden van de Cycladen: stenen p
 
 De wandelpaden vertrekken vanuit Apollonia, Artemonas, Kastro en de zuidkust. De bus rijdt naar de grote dorpen, maar past zelden bij een vroege start of een terugtocht na zonsondergang. Als je vlak bij het begin van een pad parkeert, kun je bij zonsopgang wandelen, rond het middaguur in Vathi zwemmen en toch op tijd in Apollonia zijn voor het avondeten.
 
-Als je je auto bij Artemis in **Apollonia** ophaalt, zit je het dichtst bij een aantal klassieke routes. **Ophalen in Kamares op aanvraag** is handig als je hotel bij de haven ligt maar je elke dag naar paden hoger op het eiland wilt rijden. Een aanvraag is **zonder vooruitbetaling**: stuur je data en laat weten of je voor korte ritjes liever een auto of een scooter wilt.
+Als je je auto bij Artemis in **Apollonia** ophaalt, zit je het dichtst bij een aantal klassieke routes. Gratis ophalen in de **haven van Kamares** is handig als je hotel bij de haven ligt maar je elke dag naar paden hoger op het eiland wilt rijden. Een aanvraag is **zonder vooruitbetaling**: stuur je data en de wandelingen die je in gedachten hebt.
 
 ## Routes waarvoor je graag even rijdt
 

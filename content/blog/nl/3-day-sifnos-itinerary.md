@@ -3,7 +3,7 @@ slug: 3-day-sifnos-itinerary
 title: "Drie dagen Sifnos met een huurauto"
 description: "Een praktische planning voor drie dagen Sifnos met auto of scooter vanuit Apollonia. Gratis ophalen in de haven van Kamares en in Apollonia, geen vooruitbetaling."
 datePublished: "2026-06-15"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/3-day-sifnos-itinerary-cover.jpg"
 author: "Artemis Rental"
 tags: [reisroute, planning, stranden]
@@ -12,7 +12,7 @@ related: [sifnos-beaches-by-car, sifnos-hiking-trails-by-car, apollonia-vs-kamar
 
 ## Dag 1: aankomen en je installeren
 
-Met de veerboot naar Kamares, sleutels ophalen (op aanvraag in Kamares, anders bij het kantoor in Apollonia), zwemmen in Kamares of even bijkomen, en 's avonds eten in Apollonia.
+Met de veerboot naar Kamares, je auto ophalen aan de kade (gratis ophalen in Kamares) of bij het kantoor in Apollonia, zwemmen in Kamares of even bijkomen, en 's avonds eten in Apollonia.
 
 ## Dag 2: de stranden aan de zuidkust
 
@@ -32,10 +32,10 @@ De bakkers in Artemonas zijn ideaal voor een kop koffie 's ochtends, tussen Kast
 
 Vind je dag 2 te veel strand, ruil dan een middag in voor een korte wandeling bij Kastro of een bezoek aan de pottenbakkers in Vathi. Regent het, wat zelden gebeurt, dan vullen de winkels in Apollonia en het volkskundemuseum een ochtend terwijl je op beter weer wacht.
 
-Stellen kunnen deze route van mei tot en met september op de scooter rijden; gezinnen lezen eerst [met het gezin naar Sifnos](/nl/blog/family-travel-sifnos) en kiezen het best een compacte auto, voor de middagdutjes en de bagage.
+Stellen met een motorrijbewijs kunnen deze route in de hoogzomer op de scooter rijden (de gepubliceerde scooterprijzen gelden van 11 juni tot 10 september); gezinnen lezen eerst [met het gezin naar Sifnos](/nl/blog/family-travel-sifnos) en kiezen het best een compacte auto, voor de middagdutjes en de bagage.
 
 ## Wanneer je je huurauto ophaalt
 
-Haal je voertuig van Artemis op dag 1 's ochtends op als je in Kamares hebt geslapen, of op dag 1 's middags als je eerst rustig wilt zwemmen na aankomst. **Ophalen in Kamares op aanvraag** scheelt je een busrit als de veerboot vroeg aankomt. Lever de auto met een volle tank in voordat je boot vertrekt; bij het ophalen van de sleutels in **Apollonia** vertellen we je waar de dichtstbijzijnde pomp is.
+Haal je voertuig van Artemis op dag 1 's ochtends op als je in Kamares hebt geslapen, of op dag 1 's middags als je eerst rustig wilt zwemmen na aankomst. Met **gratis ophalen in Kamares** rijd je zo weg bij de veerboot, in plaats van te wachten op een bus of taxi. Lever de auto op de laatste dag in met dezelfde brandstofstand als bij het ophalen, in de haven voordat je boot vertrekt of in **Apollonia**; bij de overdracht wijzen we je de dichtstbijzijnde pomp aan.
 
-Drie dagen is genoeg om de hoogtepunten van Sifnos te zien zonder te jagen. Blijf langer als je ook wandeldagen wilt uit onze gids [wandelpaden met de auto](/nl/blog/sifnos-hiking-trails-by-car). [Reserveer bij Artemis](/nl/book) met de data van je veerboot, een aanvraag is zonder vooruitbetaling.
+Drie dagen is genoeg om de hoogtepunten van Sifnos te zien zonder te jagen. Blijf je langer? Onze [reisroutes voor 5 en 7 dagen](/nl/blog/sifnos-itinerary-5-7-days) voegen de noordkust, een wandeldag en een rustige eetdag toe, en de gids [wandelpaden met de auto](/nl/blog/sifnos-hiking-trails-by-car) gaat over wandelingen. [Reserveer bij Artemis](/nl/book) met de data van je veerboot, een aanvraag is zonder vooruitbetaling.

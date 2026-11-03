@@ -4,7 +4,7 @@ title: "Kamares, Sifnos: havengids, strand en aankomst"
 description: "Kamares op Sifnos: de enige veerhaven van het eiland en een echte badplaats met zandstrand. De haven, het strand, eten, slapen en hoe je in Apollonia komt."
 answer: "Kamares is de enige veerhaven van Sifnos, aan de westkust, en tegelijk een van de beste gezinsstranden van het eiland. Apollonia, de hoofdplaats, ligt ongeveer 5,5 km bergop, zo'n tien minuten met de auto. Alles en iedereen die op het eiland aankomt, komt hier binnen."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -59,7 +59,7 @@ Er zit geen bankkantoor, maar wel geldautomaten. Voor meer winkels en restaurant
 
 Het is een heel goede keuze in drie gevallen: je veerboot komt laat in de avond aan, je veerboot vertrekt vroeg in de ochtend, of je reist met kleine kinderen die het strand op willen zonder eerst in de auto te zitten.
 
-Het nadeel is dat de beste restaurants en het enige echte avondleven van het eiland boven liggen, in Apollonia en Artemonas, een kwartier rijden. 's Avonds is Kamares eerder ontspannen dan levendig.
+Het nadeel is dat de beste restaurants en het enige echte avondleven van het eiland boven liggen, in Apollonia en Artemonas, tien minuten tot een kwartier rijden. 's Avonds is Kamares eerder ontspannen dan levendig.
 
 In de [volledige vergelijking van verblijfplaatsen](/nl/sifnos-guide/where-to-stay) zie je hoe Kamares het doet tegenover de andere plaatsen.
 

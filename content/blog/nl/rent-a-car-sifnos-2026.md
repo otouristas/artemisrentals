@@ -3,7 +3,7 @@ slug: rent-a-car-sifnos-2026
 title: "Auto huren op Sifnos in 2026: prijzen, tips en ophalen"
 description: "Wat je moet weten voordat je in 2026 een auto huurt op Sifnos: seizoensprijzen, ophalen in Apollonia en een aanvraag doen bij Artemis. Familiebedrijf sinds 1988."
 datePublished: "2026-06-15"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/rent-a-car-sifnos-2026-cover.jpg"
 author: "Artemis Rental"
 tags: [auto's, 2026, reserveren]
@@ -34,17 +34,17 @@ Elk voertuig wordt hier op het eiland onderhouden; het bedrijf zit al sinds **19
 
 ## Verzekering, rijbewijs en wat je meeneemt
 
-De gewone huurvoorwaarden gelden: bestuurders van 23 tot 75 jaar die minstens een jaar hun rijbewijs hebben. Neem je fysieke rijbewijs en paspoort mee als je de auto ophaalt; een foto op je telefoon is niet genoeg om het contract te tekenen.
+De gewone huurvoorwaarden gelden: bestuurders van 23 tot 75 jaar die al meer dan een jaar hun rijbewijs hebben. Is je rijbewijs buiten de EU of EER afgegeven, neem dan ook een internationaal rijbewijs mee; zie [wat je nodig hebt om een auto te huren op Sifnos](/nl/blog/sifnos-car-rental-requirements). Neem je fysieke rijbewijs en paspoort mee als je de auto ophaalt; een foto op je telefoon is niet genoeg om het contract te tekenen.
 
-Reis je met peuters, vraag dan bij je aanvraag naar kinderzitjes. Zeg er duidelijk bij als je een automaat wilt; reken er in juli niet zomaar op. Het brandstofbeleid is vol-vol en er zijn maar weinig tankstations, dus tank bij Kamares of Apollonia bij voor een lange dag aan de zuidkust.
+Reis je met peuters, vraag dan bij je aanvraag naar kinderzitjes. Zeg er duidelijk bij als je een automaat wilt; reken er in juli niet zomaar op. Lever de auto in met dezelfde brandstofstand als bij het ophalen. Er zijn maar weinig tankstations, dus vraag ons bij de overdracht waar je kunt tanken voor een lange dag op pad.
 
 ## Zo kun je je auto handig ophalen
 
-**Standaard in Apollonia:** haal de auto op bij het kantoor, rijd een rondje om het eenrichtingsverkeer te leren kennen en parkeer zo dat je diezelfde avond in Apollonia naar het restaurant kunt lopen.
+**Haven van Kamares:** de populairste keuze. Stuur de aankomsttijd van je boot, dan staat de auto gratis op de kade klaar en rijd je zo door naar je hotel.
 
-**Op aanvraag in Kamares:** ideaal als je met de veerboot aankomt en meteen naar een hotel aan de zuidkust wilt rijden. Geef bij het reserveren door hoe laat je boot aankomt.
+**Kantoor in Apollonia:** haal de auto op als je bent aangekomen, parkeer één keer en loop diezelfde avond naar het restaurant. Bezorging in Artemonas en Kastro is ook gratis.
 
-**Halverwege wisselen:** het gebeurt niet vaak, maar soms beginnen stellen met een auto voor de dagen met familiebezoek en stappen ze daarna over op een scooter. Vraag of dat op jouw data kan.
+**Wijzigingen tijdens je verblijf:** veranderen je plannen, bijvoorbeeld een andere auto of extra dagen, vraag het ons dan; we doen wat de beschikbaarheid toelaat. Ook scooters kun je reserveren, op te halen bij het kantoor in Apollonia.
 
 Meer over de prijzen lees je in [prijzen voor autohuur op Sifnos](/nl/blog/sifnos-car-rental-prices). Klaar om te bevestigen? [Reserveer bij Artemis](/nl/book): geen vooruitbetaling, en een persoonlijk antwoord via WhatsApp of e-mail.
 

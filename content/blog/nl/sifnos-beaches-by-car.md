@@ -3,7 +3,7 @@ slug: sifnos-beaches-by-car
 title: "De mooiste stranden van Sifnos om met de auto te bereiken"
 description: "Strandengids voor wie op Sifnos rijdt: Platys Gialos, Vathi, Chrysopigi en rustigere baaitjes, met parkeertips van Artemis. Familiebedrijf in Apollonia sinds 1988."
 datePublished: "2026-07-05"
-dateModified: "2026-07-15"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [stranden, autorijden, reisroute]
@@ -26,7 +26,7 @@ In deze baaitjes in het oosten ruil je de drukte van Platys Gialos in voor een t
 
 ## West en noord: rustigere opties
 
-**Apokofto** en **Fykiada** zijn de moeite waard voor wie het laatste stuk vanaf een plekje langs de weg wil lopen. **Kamares** zelf is het strand bij de haven, handig op de dag van aankomst voordat je je sleutels in Apollonia ophaalt, of als je **ophalen in Kamares op aanvraag** hebt geregeld.
+**Apokofto** en **Fykiada** zijn de moeite waard voor wie het laatste stuk vanaf een plekje langs de weg wil lopen. **Kamares** zelf is het strand bij de haven, handig op de dag van aankomst, zeker als je auto van Artemis al op de kade op je stond te wachten (gratis **ophalen in Kamares** voor auto's).
 
 Voor **Vroulidia** in het noorden rijd je langer en loop je nog een stukje; minder voorzieningen, meer rust. Let op de windrichting: als de meltemi waait, kan het water aan de noordkust woelig worden.
 
@@ -36,7 +36,7 @@ Voor **Vroulidia** in het noorden rijd je langer en loop je nog een stukje; mind
 
 Een handige opzet: koffie in Kastro of Artemonas, vóór de middag zwemmen aan de zuidkust, siësta, en daarna eten in Apollonia zonder je hotelspullen opnieuw te hoeven inpakken. Een andere optie: overnachten bij Kamares voor een duik in de haven, en alleen het binnenland in rijden voor de zonsondergang bij Chrysopigi.
 
-In mei en september zijn scooters ideaal voor stellen; gezinnen met koelboxen en kinderzitjes kiezen meestal liever een hatchback. Artemis verhuurt allebei vanuit hetzelfde kantoor in Apollonia, een aanvraag is **zonder vooruitbetaling**, en de seizoensprijzen staan op de [prijzenpagina](/nl/rates).
+Scooters passen in de hoogzomer bij stellen met een motorrijbewijs, op te halen bij ons kantoor in Apollonia; gezinnen met koelboxen en kinderzitjes kiezen meestal liever een hatchback. Auto's worden gratis bezorgd in de haven van Kamares en in Apollonia, een aanvraag is **zonder vooruitbetaling**, en de seizoensprijzen staan op de [prijzenpagina](/nl/rates).
 
 ## Parkeren in het hoogseizoen
 
@@ -48,7 +48,7 @@ Lijken alle parkeerplaatsen aan de zuidkust vol, probeer dan Faros of ga na 16:0
 
 's Ochtends: rijd van Apollonia naar Vathi (45 minuten, inclusief fotostops), zwemmen en koffie. Rond het middaguur: lunch in Platys Gialos en siësta onder de parasol. Eind van de middag: naar Chrysopigi voor het mooie licht, daarna eten in Faros. Na zonsondergang terug naar Apollonia over een route die je al kent. Dit is niet de dag om onverharde binnendoorweggetjes uit te proberen.
 
-Deze route gaat uit van een compacte auto van Artemis, gereserveerd **zonder vooruitbetaling**, en minstens één keer tanken bij Kamares of Apollonia. Stellen op de scooter kunnen een kortere versie rijden en de parkeerstress in Platys Gialos overslaan door in Faros te eten.
+Deze route gaat uit van een compacte auto van Artemis, gereserveerd **zonder vooruitbetaling**, en minstens één keer tanken; vraag ons waar de dichtstbijzijnde pomp is. Stellen op de scooter kunnen een kortere versie rijden en de parkeerstress in Platys Gialos overslaan door in Faros te eten.
 
 ## Stem je stranden af op waar je verblijft
 

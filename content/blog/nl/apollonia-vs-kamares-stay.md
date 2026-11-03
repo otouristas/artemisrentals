@@ -3,7 +3,7 @@ slug: apollonia-vs-kamares-stay
 title: "Overnachten in Apollonia of Kamares?"
 description: "Waar je op Sifnos het best verblijft als je een auto of scooter huurt bij Artemis. Gratis ophalen in de haven van Kamares en in Apollonia, zonder vooruitbetaling."
 datePublished: "2026-06-15"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/apollonia-vs-kamares-stay-cover.jpg"
 author: "Artemis Rental"
 tags: [apollonia, kamares, accommodatie]
@@ -20,7 +20,7 @@ Kies Kamares als je je dag het liefst op het strand begint en na de veerboot zo 
 
 ## Met een huurauto kan het allebei
 
-Vraag Artemis om je auto standaard in Apollonia op te halen, of op aanvraag **in Kamares** als je boot laat aankomt. Lees [waar overnachten](/nl/sifnos-guide/where-to-stay) en [vraag je data aan](/nl/book) zodra je hotel vastligt.
+Ophalen van je auto is gratis in de **haven van Kamares** en in **Apollonia**, en ook in Artemonas, Kastro en op de heliport, dus je uitvalsbasis verandert niets aan de huur. Lees [waar overnachten](/nl/sifnos-guide/where-to-stay) en [vraag je data aan](/nl/book) zodra je hotel vastligt.
 
 ## Reistijden met een huurauto
 
@@ -30,9 +30,9 @@ Let op de terugweg 's avonds: vanuit een restaurant in Apollonia loop je na een 
 
 ## Wie past waar?
 
-**Apollonia past bij:** stellen en groepen die willen uitgaan, winkelen en naar het restaurant lopen; reizigers die hun sleutels liever bij het kantoor van Artemis ophalen, zonder omweg via de haven.
+**Apollonia past bij:** stellen en groepen die willen uitgaan, winkelen en naar het restaurant lopen; reizigers die liever eerst rustig aankomen en de auto dan bij het kantoor van Artemis ophalen.
 
-**Kamares past bij:** gezinnen met moe geworden kinderen na de overtocht, zwemmers die hun dag op het strand beginnen, en late aankomers die **ophalen in Kamares op aanvraag** hebben geregeld.
+**Kamares past bij:** gezinnen met moe geworden kinderen na de overtocht, zwemmers die hun dag op het strand beginnen, en late aankomers die hun auto op de kade ophalen.
 
 Je verblijf opsplitsen kan ook: twee nachten Kamares, drie nachten Apollonia, als je het niet erg vindt om één keer van hotel te wisselen. Eén huurauto is genoeg voor de verhuizing, je hoeft de sleutels tussendoor niet in te leveren; geef de totale huurperiode door als je [reserveert bij Artemis](/nl/book).
 
