@@ -4,7 +4,7 @@ title: "Le spiagge di Sifnos che valgono il viaggio in auto"
 description: "Guida alle spiagge di Sifnos per chi va in auto o in scooter: Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia e Fykiada, con gli accessi."
 answer: "Con un'auto o uno scooter Artemis, scegli Platys Gialos per i servizi, Vathi per la baia riparata, Chrysopigi per la cartolina del monastero e Cherronisos o Vroulidia quando vuoi fare il bagno in tranquillità sulla costa nord. A luglio e agosto arriva presto per trovare parcheggio."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
 author: "Artemis Rental"
 order: 6
@@ -14,7 +14,7 @@ related:
   - kamares-port
 ---
 
-Le spiagge di Sifnos sono sparse lungo tutta l'isola, che è piccola: sulla mappa le distanze sono brevi, ma con un mezzo tuo è tutto molto più semplice che con i pochi autobus estivi. Questa guida è pensata per chi ritira le chiavi ad Apollonia (o a Kamares su richiesta) e vuole risposte chiare: quale spiaggia, come arrivarci, dove parcheggiare e come si comporta di solito il vento.
+Le spiagge di Sifnos sono sparse lungo tutta l'isola, che è piccola: sulla mappa le distanze sono brevi, ma con un mezzo tuo è tutto molto più semplice che con i pochi autobus estivi. Questa guida è pensata per chi ritira l'auto al porto di Kamares o ad Apollonia e vuole risposte chiare: quale spiaggia, come arrivarci, dove parcheggiare e come si comporta di solito il vento.
 
 ![La spiaggia di Platys Gialos a Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, la lunga spiaggia di sabbia nel sud di Sifnos")
 
@@ -52,7 +52,7 @@ Una delle spiagge di sabbia più grandi e frequentate di Sifnos, molto amata dai
 
 **Ovest di Sifnos (porto principale) · ~10–15 minuti da Apollonia**
 
-Il porto dei traghetti e il villaggio più grande sulla costa. Un'ampia baia sabbiosa, tanti servizi e il primo (o l'ultimo) bagno più comodo della vacanza. Artemis può organizzare il **ritiro dell'auto a Kamares** all'arrivo della nave: chiedilo quando ci scrivi.
+Il porto dei traghetti e il villaggio più grande sulla costa. Un'ampia baia sabbiosa, tanti servizi e il primo (o l'ultimo) bagno più comodo della vacanza. Le auto Artemis possono aspettarti sulla banchina all'arrivo della nave, gratuitamente: indicaci l'orario del traghetto quando ci scrivi.
 
 **Da non perdere**
 - Il porto principale per arrivi e partenze
@@ -92,7 +92,7 @@ Un'ampia baia di sabbia, molto fotogenica, con l'atmosfera tranquilla di un vill
 
 **Sud-est di Sifnos · ~20 minuti da Apollonia**
 
-Il promontorio più fotografato dell'isola: il monastero della Panagia Chrysopigi (XVI secolo), patrona di Sifnos, sopra gli scogli da cui ci si tuffa in acque limpidissime. Si viene per il paesaggio, più che per stendersi a lungo sulla sabbia.
+Il promontorio più fotografato dell'isola: il monastero della Panagia Chrysopigi, costruito nel 1650, che custodisce l'icona della patrona di Sifnos, sopra gli scogli da cui ci si tuffa in acque limpidissime. Si viene per il paesaggio, più che per stendersi a lungo sulla sabbia.
 
 **Da non perdere**
 - Il monastero simbolo dell'isola e i giorni di festa
@@ -191,6 +191,6 @@ Una spiaggia di sabbia completamente selvaggia, raggiungibile **solo a piedi o i
 
 ## Il consiglio di Artemis
 
-Tieni gli oggetti di valore fuori vista, in alta stagione fai il pieno prima dei lunghi giri a nord e scrivici se vuoi il **ritiro a Kamares** la mattina in cui arriva il tuo traghetto. Sfoglia le [auto](/it/cars) e gli [scooter](/it/scooters), oppure [richiedi le date](/it/book).
+Tieni gli oggetti di valore fuori vista, in alta stagione fai il pieno prima dei lunghi giri a nord e inviaci l'orario del traghetto se vuoi trovare l'auto ad aspettarti al **porto di Kamares** (gratis per le auto). Sfoglia le [auto](/it/cars) e gli [scooter](/it/scooters), oppure [richiedi le date](/it/book).
 
 Per pagine aggiornate sull'isola e sugli orari, vedi anche [Sifnos su Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) e [cosa fare](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

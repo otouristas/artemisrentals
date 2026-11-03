@@ -3,7 +3,7 @@ slug: kamares-port-arrival-guide
 title: "Arrivo al porto di Kamares: dal traghetto al primo bagno"
 description: "Cosa fare quando il traghetto attracca a Kamares: bagagli, opzioni di ritiro e come raggiungere Apollonia con un noleggio Artemis. Ritiro gratuito, nessun anticipo."
 datePublished: "2026-07-06"
-dateModified: "2026-07-14"
+dateModified: "2026-11-03"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
 tags: [kamares, arrivo, traghetto]
@@ -20,13 +20,13 @@ La spiaggia di Kamares è a pochi passi dal molo. Molti fanno il bagno prima del
 
 ## Il ritiro del tuo noleggio Artemis
 
-Il ritiro standard Artemis è **ad Apollonia**, nell'ufficio principale, a dieci minuti d'auto o una corsa in autobus da Kamares. Se il traghetto arriva presto e vuoi subito il mezzo, chiedi il **ritiro a Kamares su richiesta** quando ci scrivi. Indica il nome della nave e l'orario previsto di arrivo: ci organizziamo quando gli orari lo permettono.
+Artemis consegna le auto **al porto di Kamares gratuitamente**. Quando ci scrivi, indica il nome del traghetto e l'orario di arrivo indicativo: l'auto ti aspetterà sulla banchina. Se preferisci sistemarti prima, ritirala all'**ufficio di Apollonia**, a dieci minuti d'auto o una corsa in autobus in salita. Gli scooter sono l'eccezione: si ritirano solo ad Apollonia.
 
 Per prenotare **non serve alcun anticipo**: invia le date con il modulo di richiesta o su WhatsApp e aspetta la nostra conferma personale. Tieni pronti patente e passaporto; le condizioni di noleggio sono quelle standard delle Cicladi (età minima 23 anni, patente da almeno un anno).
 
 ### Se preferisci il ritiro ad Apollonia
 
-Alcuni ospiti lasciano i bagagli in un hotel di Kamares, salgono in autobus, ritirano l'auto ad Apollonia e tornano a prendere le valigie dopo essersi orientati. Altri vanno in taxi ad Apollonia e cominciano a guidare da lì. Funzionano entrambe le soluzioni: scegli in base alle energie che ti restano dopo il traghetto, non per principio.
+Alcuni ospiti preferiscono lasciare i bagagli in un hotel di Kamares, salire in autobus, ritirare l'auto ad Apollonia e tornare a prendere le valigie dopo essersi orientati. Altri vanno in taxi ad Apollonia e cominciano a guidare da lì. Funzionano entrambe le soluzioni: scegli in base alle energie che ti restano dopo il traghetto, non per principio.
 
 ![Lungomare del porto di Kamares con traghetto e strada verso Apollonia](/images/blog/kamares-port-arrival-guide.jpg "Quasi tutti arrivano a Sifnos da Kamares: organizza il ritiro prima di attraccare")
 
@@ -34,13 +34,13 @@ Alcuni ospiti lasciano i bagagli in un hotel di Kamares, salgono in autobus, rit
 
 Con un hotel a Kamares, dalla cena al letto sono due passi. Con un hotel ad Apollonia avrai le passeggiate serali nel capoluogo, ma il giorno dell'arrivo ti servirà un autobus o un taxi, a meno che tu non abbia ritirato l'auto al porto. Leggi [Apollonia o Kamares](/it/blog/apollonia-vs-kamares-stay) se stai ancora scegliendo dove fare base.
 
-Vicino a Kamares c'è un distributore; non serve fare il pieno prima di salire ad Apollonia, a meno che tu non voglia partire subito per un giro sulla costa sud.
+Non serve fare rifornimento prima di salire ad Apollonia; per le giornate più lunghe, alla consegna chiedici dov'è il distributore più vicino.
 
 ## Taxi, autobus e quando farne a meno
 
-L'autobus Kamares–Apollonia costa poco e va benissimo per una persona con uno zaino. Diventa scomodo con due valigie grandi, un seggiolino o una famiglia che vuole fermarsi al supermercato prima di salire. I taxi aspettano i traghetti, ma si formano code quando arrivano più navi nella stessa ora: farti confermare da Artemis il **ritiro a Kamares su richiesta** ti toglie ogni dubbio.
+L'autobus Kamares–Apollonia costa poco e va benissimo per una persona con uno zaino. Diventa scomodo con due valigie grandi, un seggiolino o una famiglia che vuole fermarsi al supermercato prima di salire. I taxi aspettano i traghetti, ma si formano code quando arrivano più navi nella stessa ora: trovare la tua auto Artemis ad aspettarti sulla banchina ti toglie ogni dubbio.
 
-Se hai già prenotato il ritiro ad Apollonia, l'autobus resta un'alternativa quando il traghetto è in ritardo e devi arrivare prima che l'ufficio chiuda. Salva il numero WhatsApp di Artemis sul telefono prima di partire: sul ponte il segnale è migliore che nel parcheggio del porto.
+Se hai scelto il ritiro ad Apollonia, l'autobus resta un'alternativa quando il traghetto è in ritardo. In ogni caso, scrivici il nuovo orario di arrivo. Salva il numero WhatsApp di Artemis sul telefono prima di partire: sul ponte il segnale è migliore che nel parcheggio del porto.
 
 ## Spesa e contanti
 
@@ -49,7 +49,7 @@ Il minimarket di Kamares ha acqua, crema solare e snack per il primo tragitto ve
 ## Gli errori più comuni il giorno dell'arrivo
 
 - Dare per scontato che ogni traghetto abbia un autobus in coincidenza: guarda il cartello degli orari o chiedi al bar.
-- Ritirare un'auto con cambio manuale stanco del viaggio e affrontare in prima la salita a senso unico di Apollonia: se guidi solo con il cambio automatico, dillo quando prenoti in alta stagione.
+- Ritirare un'auto con cambio manuale stanco del viaggio e affrontare la salita verso Apollonia senza pensarci. Se vuoi un'auto con cambio automatico a luglio o agosto, dillo quando prenoti.
 - Dimenticare di avvisare Artemis se il traghetto è in ritardo: se lo sappiamo, ci organizziamo.
 
 ## Dopo il primo giorno

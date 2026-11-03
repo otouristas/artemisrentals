@@ -3,7 +3,7 @@ slug: sifnos-vs-milos
 title: "Sifnos o Milos: quale isola fa per te?"
 description: "Sifnos e Milos a confronto per una vacanza nelle Cicladi: ritmo, spiagge, guida e quando conviene fare base a Sifnos con un noleggio Artemis. Da Artemis Rental."
 datePublished: "2026-07-08"
-dateModified: "2026-07-16"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [programma, cicladi, confronto]
@@ -16,7 +16,7 @@ Molti viaggiatori abbinano Sifnos e Milos in un unico giro delle Cicladi. Sulla 
 
 Milos merita una settimana di strade costiere: Sarakiniko, le gite in barca a Kleftiko, calette nascoste raggiungibili con lunghi sterrati. Farai più chilometri e organizzerai le giornate in base ai colori del tramonto sulla roccia bianca.
 
-A Sifnos bastano da tre a cinque giorni: il nostro [itinerario di 3 giorni](/it/blog/3-day-sifnos-itinerary) copre il meglio senza correre. Villaggi come Apollonia, Artemonas e Kastro sono mete per la sera, così come le spiagge lo sono per il giorno. Con un noleggio Artemis ad **Apollonia** sei in posizione centrale; il **ritiro a Kamares su richiesta** è comodo se vuoi il mezzo appena scendi dal traghetto.
+A Sifnos bastano da tre a cinque giorni: il nostro [itinerario di 3 giorni](/it/blog/3-day-sifnos-itinerary) copre il meglio senza correre. Villaggi come Apollonia, Artemonas e Kastro sono mete per la sera, così come le spiagge lo sono per il giorno. Con un noleggio Artemis ad **Apollonia** sei in posizione centrale; il **ritiro gratuito al porto di Kamares** è comodo se vuoi il mezzo appena scendi dal traghetto.
 
 Nessuna delle due è una vacanza da città. Entrambe ti costringono a rallentare. La differenza è se cerchi lo spettacolo geologico (Milos) o il ritmo fatto di villaggi e cucina (Sifnos).
 
@@ -50,7 +50,7 @@ Anche il periodo conta: leggi [il periodo migliore per Sifnos](/it/blog/best-tim
 
 ## Traghetti tra le due isole
 
-Verifica su Ferryhopper o sui siti delle compagnie le corse dirette Milos–Sifnos: d'estate sono più frequenti, ma non certo ogni ora. L'auto noleggiata a Sifnos va riconsegnata prima di imbarcarti, a meno che tu non abbia concordato un noleggio di sola andata tra le isole (cosa rara). Organizza la riconsegna all'ufficio Artemis di Apollonia lasciandoti il tempo di raggiungere Kamares in taxi o a piedi, se il porto di partenza è diverso.
+Verifica su Ferryhopper o sui siti delle compagnie le corse dirette Milos–Sifnos: d'estate sono più frequenti, ma non certo ogni ora. Riconsegna il mezzo noleggiato a Sifnos prima di imbarcarti: la riconsegna dell'auto al porto di Kamares è gratuita, quindi puoi lasciare le chiavi sulla banchina e salire a piedi sul traghetto per Milos.
 
 Per gli scooter vale la stessa regola: riconsegna prima del traghetto, salvo accordi diversi con noi. Nei caffè del porto il deposito bagagli è improvvisato: tra un'isola e l'altra viaggia leggero.
 
@@ -58,6 +58,6 @@ Per gli scooter vale la stessa regola: riconsegna prima del traghetto, salvo acc
 
 Scegli **Sifnos** se vuoi tragitti brevi, una base centrale ad Apollonia, baie adatte alle famiglie e un lungo fine settimana ben organizzato. Scegli **Milos** se sogni spiagge vulcaniche e tanti chilometri di costa, e accetti di dover pianificare di più.
 
-Visiti prima Sifnos? [Prenota con Artemis](/it/book) indicando le date del traghetto e se preferisci il ritiro a Kamares o ad Apollonia. Anche se poi vai a Milos, cominciare con calma è il modo migliore per affrontare l'isola più movimentata.
+Visiti prima Sifnos? [Prenota con Artemis](/it/book) indicando le date del traghetto e l'orario di arrivo: l'auto ti aspetterà al porto di Kamares. Anche se poi vai a Milos, cominciare con calma è il modo migliore per affrontare l'isola più movimentata.
 
 Vuoi scoprire Sifnos con un mezzo tutto tuo? [Noleggia un'auto a Sifnos con Artemis](/it).

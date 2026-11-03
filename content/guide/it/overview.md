@@ -4,7 +4,7 @@ title: "Sifnos, Grecia: la guida completa all'isola"
 description: "Sifnos, Grecia: guida completa all'isola delle Cicladi famosa per la cucina, la ceramica e i sentieri. Villaggi, spiagge, quanti giorni servono."
 answer: "Sifnos è un'isola greca delle Cicladi, lunga circa 14 km, nota soprattutto per la cucina, la tradizione ceramica e una rete di sentieri lastricati segnalati. Apollonia è il vivace capoluogo sul crinale, Kamares il porto dei traghetti, e spiagge e villaggi sono così sparsi che un'auto o uno scooter cambiano completamente la vacanza."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/apollonia.webp"
 author: "Artemis Rental"
 order: 1
@@ -38,13 +38,13 @@ Il **crinale centrale** raccoglie i villaggi interni collegati fra loro: Apollon
 
 La **costa** più in basso ospita gli insediamenti sparsi: Kamares a ovest, dove attraccano i traghetti, Platys Gialos, Faros e Chrysopigi a sud, Vathi a sud-ovest e Cherronisos all'estremo nord. Kastro, la capitale medievale, si aggrappa a una rupe sulla costa orientale.
 
-Nulla dista più di circa 25 minuti da Apollonia, ma le strade sono strette e tortuose, quindi la distanza sulla mappa è un pessimo indicatore del tempo di percorrenza.
+Quasi tutto è entro circa 25 minuti da Apollonia, con Cherronisos, all'estremo nord, più vicina ai 35, ma le strade sono strette e tortuose, quindi la distanza sulla mappa è un pessimo indicatore del tempo di percorrenza.
 
 ## Quanti giorni servono?
 
 **Tre giorni** coprono l'essenziale: i villaggi interni, Kastro e due o tre spiagge.
 
-**Da cinque a sette giorni** è la misura ideale. Bastano per arrivare sulla costa nord, percorrere un paio di sentieri, mangiare come si deve e concedersi una giornata lenta.
+**Da cinque a sette giorni** è la misura ideale. Bastano per arrivare sulla costa nord, percorrere un paio di sentieri, mangiare come si deve e concedersi una giornata lenta. I programmi giorno per giorno sono nei nostri [itinerari di 5 e 7 giorni](/it/blog/sifnos-itinerary-5-7-days) e nell'[itinerario di 3 giorni](/it/blog/3-day-sifnos-itinerary).
 
 **Dieci giorni o più** e smetti di essere un visitatore. Molti fanno esattamente così e considerano quindici giorni il minimo.
 
@@ -93,7 +93,7 @@ Qui sta il cuore pratico di un viaggio a Sifnos. L'isola è piccola, ma le cose 
 
 Le distanze sono brevi: da Apollonia a Platys Gialos circa 20 minuti, a Kastro 10, a Vathi 20, a Cherronisos 35. Con un mezzo tuo puoi fare il bagno in due spiagge e rientrare per cena ad Apollonia. Senza, è una giornata di attese alle fermate.
 
-L'**auto** è adatta alle famiglie, a chi ha bagagli e alle giornate ventose. Lo **scooter** è adatto a chi viaggia da solo o in coppia per brevi spostamenti con tempo stabile. Le strade sono asfaltate e ben tenute ma strette e tortuose, con poche barriere, quindi guida piano e dai precedenza a chi sale dove la carreggiata si restringe.
+L'**auto** è adatta alle famiglie, a chi ha bagagli e alle giornate ventose. Lo **scooter** è adatto a chi viaggia da solo o in coppia, con patente per moto, per brevi spostamenti con tempo stabile. Il nostro [confronto tra auto e scooter](/it/blog/car-or-scooter-sifnos) ti aiuta a decidere. Le strade sono asfaltate e ben tenute ma strette e tortuose, con poche barriere, quindi guida piano e dai precedenza a chi sale dove la carreggiata si restringe.
 
 ## Dove si inserisce Artemis
 

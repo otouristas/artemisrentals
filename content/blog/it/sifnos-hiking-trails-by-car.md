@@ -3,7 +3,7 @@ slug: sifnos-hiking-trails-by-car
 title: "Sentieri di Sifnos da raggiungere in auto"
 description: "Punti di partenza ed escursioni di un giorno a Sifnos: parcheggia l'auto Artemis, cammina sugli antichi sentieri e torna ad Apollonia per cena. Dal 1988."
 datePublished: "2026-07-10"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [trekking, sentieri, guida]
@@ -16,7 +16,7 @@ Sifnos è una delle isole delle Cicladi con i sentieri meglio segnalati: le mula
 
 I sentieri partono da Apollonia, Artemonas, Kastro e dalla costa sud. Gli autobus servono i villaggi principali, ma raramente hanno orari compatibili con partenze all'alba o rientri dopo il tramonto. Se parcheggi vicino all'inizio del sentiero puoi camminare all'alba, fare il bagno a Vathi a mezzogiorno e arrivare comunque ad Apollonia per cena.
 
-Il ritiro Artemis ad **Apollonia** ti mette vicinissimo a diversi percorsi classici. **Kamares su richiesta** va bene se l'hotel è sul porto ma ogni giorno pensi di salire in auto verso i sentieri. **Nessun anticipo** per la richiesta: indicaci le date e se per i brevi spostamenti preferisci l'auto o lo scooter.
+Il ritiro Artemis ad **Apollonia** ti mette vicinissimo a diversi percorsi classici. Il ritiro gratuito al **porto di Kamares** va bene se l'hotel è sul porto ma ogni giorno pensi di salire in auto verso i sentieri. **Nessun anticipo** per la richiesta: indicaci le date e le camminate che hai in mente.
 
 ## I percorsi più belli da raggiungere in auto
 

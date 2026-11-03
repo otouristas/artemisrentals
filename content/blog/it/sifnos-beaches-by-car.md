@@ -1,9 +1,9 @@
 ---
 slug: sifnos-beaches-by-car
 title: "Le spiagge più belle di Sifnos da raggiungere in auto"
-description: "Le spiagge di Sifnos per chi guida: Platys Gialos, Vathi, Chrysopigi e le calette più tranquille, con i consigli di Artemis per parcheggiare."
+description: "Le spiagge di Sifnos per chi guida: Platys Gialos, Vathi, Chrysopigi e le calette più tranquille, con i consigli di Artemis per parcheggiare. Ad Apollonia dal 1988."
 datePublished: "2026-07-05"
-dateModified: "2026-07-15"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-beaches-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [spiagge, guida, itinerario]
@@ -26,7 +26,7 @@ Queste calette a est lasciano la folla di Platys Gialos per qualche tavolo di ta
 
 ## Ovest e nord: alternative più tranquille
 
-**Apokofto** e **Fykiada** ripagano chi è disposto a fare gli ultimi minuti a piedi da uno slargo a bordo strada. **Kamares** è la spiaggia del porto, comoda il giorno dell'arrivo prima di ritirare le chiavi ad Apollonia, o se hai organizzato il **ritiro a Kamares su richiesta**.
+**Apokofto** e **Fykiada** ripagano chi è disposto a fare gli ultimi minuti a piedi da uno slargo a bordo strada. **Kamares** è la spiaggia del porto, comoda il giorno dell'arrivo, soprattutto se la tua auto Artemis ti aspettava sulla banchina (**ritiro gratuito a Kamares** per le auto).
 
 **Vroulidia**, a nord, richiede un tragitto più lungo e una breve camminata: meno servizi, più solitudine. Controlla la direzione del vento: con il meltemi le spiagge della costa nord possono agitarsi.
 
@@ -36,7 +36,7 @@ Queste calette a est lasciano la folla di Platys Gialos per qualche tavolo di ta
 
 Uno schema che funziona: caffè a Kastro o ad Artemonas, sul versante nord, bagno sulla costa sud prima di mezzogiorno, riposo, poi cena ad Apollonia senza dover cambiare hotel. Un'alternativa: base vicino a Kamares per i bagni al porto, e auto verso l'interno solo per i tramonti a Chrysopigi.
 
-Lo scooter va bene per le coppie a maggio e a settembre; le famiglie con borsa frigo e seggiolini di solito preferiscono un'utilitaria. Artemis offre entrambi dallo stesso ufficio di Apollonia: **nessun anticipo** per la richiesta, tariffe stagionali pubblicate nella [pagina delle tariffe](/it/rates).
+Lo scooter è adatto alle coppie con patente per moto in piena estate, con ritiro al nostro ufficio di Apollonia; le famiglie con borsa frigo e seggiolini di solito preferiscono un'utilitaria. Le auto vengono consegnate gratuitamente al porto di Kamares e ad Apollonia: **nessun anticipo** per la richiesta, tariffe stagionali pubblicate nella [pagina delle tariffe](/it/rates).
 
 ## Il parcheggio in alta stagione
 
@@ -48,7 +48,7 @@ Se tutti i parcheggi della costa sud sembrano pieni, prova Faros o torna a Vathi
 
 Mattina: in auto da Apollonia a Vathi (45 minuti, soste per le foto comprese), bagno e caffè. Mezzogiorno: pranzo a Platys Gialos e riposo sotto l'ombrellone. Tardo pomeriggio: Chrysopigi per la luce, poi cena a Faros. Rientro ad Apollonia col buio, su una strada che conosci già. Non è il giorno giusto per esplorare scorciatoie sterrate.
 
-Questo giro presuppone un'utilitaria Artemis, richiesta **senza anticipo** e almeno un rifornimento vicino a Kamares o ad Apollonia. Le coppie in scooter possono farne una versione più corta, saltando lo stress del parcheggio a Platys Gialos e mangiando invece a Faros.
+Questo giro presuppone un'utilitaria Artemis, richiesta **senza anticipo** e almeno un rifornimento: chiedici dov'è il distributore più vicino. Le coppie in scooter possono farne una versione più corta, saltando lo stress del parcheggio a Platys Gialos e mangiando invece a Faros.
 
 ## Spiagge e scelta dell'alloggio
 

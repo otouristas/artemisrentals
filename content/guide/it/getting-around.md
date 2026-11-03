@@ -4,7 +4,7 @@ title: "Come spostarsi a Sifnos: auto o scooter"
 description: "Come spostarsi a Sifnos: auto, scooter, autobus o taxi, consigli sulle strade, parcheggio, carburante e quando conviene noleggiare con Artemis. Da Artemis Rental."
 answer: "Per chi resta tre notti o più, l'auto è il modo più comodo per raggiungere spiagge e villaggi. Lo scooter va bene per chi guida con sicurezza e ha pochi bagagli. D'estate ci sono gli autobus, ma sono poco frequenti per girare tra le spiagge; i taxi scarseggiano in alta stagione."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
@@ -29,13 +29,13 @@ related:
 
 ## Noleggio auto a Sifnos
 
-Le utilitarie sono le più adatte ai vicoli dei villaggi e ai parcheggi stretti. Artemis cura le sue auto per le strade dell'isola; per luglio e agosto, se vuoi il cambio automatico, chiedi le date per tempo. Il **ritiro dell'auto** è gratuito al porto di Kamares, all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Gli scooter si ritirano ad Apollonia e si prenotano online senza anticipo.
+Le utilitarie sono le più adatte ai vicoli dei villaggi e ai parcheggi stretti. Artemis cura le sue auto per le strade dell'isola; per luglio e agosto, se vuoi il cambio automatico, chiedi le date per tempo. Il **ritiro dell'auto** è gratuito al porto di Kamares, all'eliporto, ad Apollonia, ad Artemonas e a Kastro. Gli scooter si ritirano e si riconsegnano all'ufficio di Apollonia.
 
-Leggi anche [noleggiare un'auto a Sifnos](/it) e i [consigli pratici per guidare](/it/sifnos-guide/practical-tips).
+Leggi anche [noleggiare un'auto a Sifnos](/it), [quale auto a noleggio è adatta a Sifnos](/it/blog/best-rental-car-sifnos) e i [consigli pratici per guidare](/it/sifnos-guide/practical-tips).
 
 ## Noleggio scooter
 
-Ideale per chi ha esperienza e vuole la libertà del vento in faccia tra Apollonia, Faros, Chrysopigi e Vathi. Indossa il casco, fai attenzione alla ghiaia e non caricare troppo. Se non conosci le salite delle isole o viaggi con bambini e tanti bagagli, scegli l'auto.
+Ideale per chi ha esperienza e vuole la libertà del vento in faccia tra Apollonia, Faros, Chrysopigi e Vathi. Indossa il casco, fai attenzione alla ghiaia e non caricare troppo. Se non conosci le salite delle isole o viaggi con bambini e tanti bagagli, scegli l'auto. Ricorda che in Grecia la patente per l'auto non copre uno scooter 125 cc: serve una categoria moto (A1 o superiore). Leggi le [regole sulla patente per lo scooter](/it/blog/scooter-licence-rules-sifnos) e il [confronto completo tra auto e scooter](/it/blog/car-or-scooter-sifnos).
 
 ## Autobus e taxi
 
@@ -53,8 +53,10 @@ D'estate gli autobus collegano Apollonia a Kamares, Platys Gialos, Vathi, Faros 
 - **Apollonia la sera:** parcheggia una volta e prosegui a piedi.
 - **Platys Gialos:** prima arrivi, più vicino parcheggi.
 - **Chrysopigi:** pochi posti; non bloccare mai l'accesso al monastero.
-- **Kastro:** parcheggia sotto o fuori dal paese e percorri a piedi i vicoli medievali.
+- **Kastro:** parcheggia fuori dal villaggio e percorri a piedi i vicoli medievali; all'interno non si circola in auto.
 - **Cherronisos:** vicoli stretti, serve pazienza.
+
+Più dettagli, villaggio per villaggio, in [guidare a Sifnos](/it/blog/driving-in-sifnos).
 
 ## Carburante e distanze
 
