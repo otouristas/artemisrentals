@@ -4,7 +4,7 @@ title: "Sifnos, Greece: the complete island guide"
 description: "Sifnos, Greece: a complete guide to the Cycladic island famous for its food, pottery and footpaths. Villages, beaches, how long to stay, when to go."
 answer: "Sifnos is a Cycladic island in Greece, about 14 km long, known above all for its cooking, its pottery and a network of waymarked stone footpaths. Apollonia is the lively hilltop capital, Kamares the ferry port, and the beaches and villages are spread widely enough that a car or scooter transforms the visit."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/apollonia.webp"
 author: "Artemis Rental"
 order: 1
@@ -38,13 +38,13 @@ The **central ridge** holds the linked inland villages: Apollonia, the capital, 
 
 The **coast** below holds the scattered settlements: Kamares to the west, where the ferries dock; Platys Gialos, Faros and Chrysopigi to the south; Vathi to the southwest; and Cherronisos far to the north. Kastro, the medieval capital, clings to a cliff on the east coast.
 
-Nothing is more than about 25 minutes from Apollonia by road, but the roads are narrow and winding, so map distance is a poor guide to travel time.
+Most places are within about 25 minutes of Apollonia by road, with Cherronisos in the far north closer to 35, but the roads are narrow and winding, so map distance is a poor guide to travel time.
 
 ## How many days do you need?
 
 **Three days** covers the essentials: the inland villages, Kastro, and two or three beaches.
 
-**Five to seven days** is the sweet spot. Enough to reach the north coast, walk a couple of the footpaths, eat properly, and have a slow day.
+**Five to seven days** is the sweet spot. Enough to reach the north coast, walk a couple of the footpaths, eat properly, and have a slow day. Day-by-day plans are in our [5 and 7 day itineraries](/en/blog/sifnos-itinerary-5-7-days) and the [3-day itinerary](/en/blog/3-day-sifnos-itinerary).
 
 **Ten days or more** and you stop being a visitor. Plenty of people do exactly this and consider a fortnight the minimum.
 
@@ -93,7 +93,7 @@ This is the practical heart of a Sifnos trip. The island is small, but the good 
 
 The distances are short: Apollonia to Platys Gialos is about 20 minutes, to Kastro about 10, to Vathi about 20, to Cherronisos about 35. With your own wheels you can swim at two beaches and still be back for dinner in Apollonia. Without them, that is a day of waiting at bus stops.
 
-A **car** suits families, anyone with luggage, and travel in windy weather. A **scooter** suits solo travellers and couples doing short hops in settled conditions. Roads are sealed and well maintained but narrow and winding, with few barriers, so drive slowly and give way uphill where the road pinches.
+A **car** suits families, anyone with luggage, and travel in windy weather. A **scooter** suits solo travellers and couples with a motorcycle licence doing short hops in settled conditions. Our [car or scooter comparison](/en/blog/car-or-scooter-sifnos) helps you decide. Roads are sealed and well maintained but narrow and winding, with few barriers, so drive slowly and give way uphill where the road pinches.
 
 ## Where Artemis fits
 

@@ -1,10 +1,10 @@
 ---
 slug: beaches
 title: "Sifnos beaches worth the drive"
-description: "Complete Sifnos beach guide for drivers and scooter riders, Platis Gialos, Kamares, Vathi, Chrysopigi, Faros, Herronisos, Vroulidia and Fykiada with access."
-answer: "With an Artemis car or scooter, prioritise Platis Gialos for facilities, Vathi for a sheltered bay, Chrysopigi for the monastery postcard, and Herronisos or Vroulidia when you want quieter north-coast swimming. Arrive early in July–August for parking."
+description: "Complete Sifnos beach guide for drivers and scooter riders, Platys Gialos, Kamares, Vathi, Chrysopigi, Faros, Cherronisos, Vroulidia and Fykiada with access."
+answer: "With an Artemis car or scooter, prioritise Platys Gialos for facilities, Vathi for a sheltered bay, Chrysopigi for the monastery postcard, and Cherronisos or Vroulidia when you want quieter north-coast swimming. Arrive early in July–August for parking."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/plats-gialos.webp"
 author: "Artemis Rental"
 order: 6
@@ -14,21 +14,21 @@ related:
   - kamares-port
 ---
 
-Sifnos beaches are spread around a compact island, short distances on the map, but much easier with your own wheels than with sparse summer buses. This guide is written for travellers who pick up keys in Apollonia (or Kamares on request) and want clear answers: which beach, how to get there, where to park, and what the wind usually does.
+Sifnos beaches are spread around a compact island, short distances on the map, but much easier with your own wheels than with sparse summer buses. This guide is written for travellers who collect a car at Kamares port or in Apollonia and want clear answers: which beach, how to get there, where to park, and what the wind usually does.
 
-![Platis Gialos beach Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos, long sandy beach on southern Sifnos")
+![Platys Gialos beach Sifnos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos, long sandy beach on southern Sifnos")
 
 ## How to choose a beach day
 
-- **Families & facilities:** Platis Gialos or Kamares
+- **Families & facilities:** Platys Gialos or Kamares
 - **Sheltered swimming:** Vathi (excellent wind protection)
 - **Photos & monastery:** Chrysopigi (combine with Faros)
-- **Quiet north coast:** Herronisos + Vroulidia (car strongly preferred)
+- **Quiet north coast:** Cherronisos + Vroulidia (car strongly preferred)
 - **Hike or boat only:** Fykiada (no road)
 
 Summer tip: leave Apollonia by **09:30**, or visit a second beach after **16:00** when day-trippers leave.
 
-## Platis Gialos
+## Platys Gialos
 
 **Southern Sifnos · ~15–20 minutes from Apollonia by car**
 
@@ -52,7 +52,7 @@ One of the largest and most popular sandy beaches on Sifnos, especially loved by
 
 **Western Sifnos (main port) · ~10–15 minutes from Apollonia**
 
-The ferry harbour and largest coastal village. Wide sandy bay, lots of services, and the practical first or last swim of your trip. Artemis can arrange **Kamares pickup** for cars when the boat docks, ask when you enquire.
+The ferry harbour and largest coastal village. Wide sandy bay, lots of services, and the practical first or last swim of your trip. Artemis cars can be waiting at the quay when the boat docks, free of charge: send your ferry time when you enquire.
 
 **Highlights**
 - Main ferry arrival / departure
@@ -77,7 +77,7 @@ A photogenic, wide sandy bay with a calmer village feel. Once a major pottery ce
 **Highlights**
 - Sheltered swimming
 - Pottery heritage and studios
-- Trails linking toward Platis Gialos / Fykiada
+- Trails linking toward Platys Gialos / Fykiada
 - Soft sand and a classic Cycladic amphitheatre shape
 
 **Access & parking:** Road access with village parking; arrive before lunch in August.
@@ -92,12 +92,12 @@ A photogenic, wide sandy bay with a calmer village feel. Once a major pottery ce
 
 **Southeastern Sifnos · ~20 minutes from Apollonia**
 
-The island’s most photographed headland: the Monastery of Panagia Chrysopigi (16th century), patron saint of Sifnos, above rocky swim spots and clear water. Come for the setting more than for a long sandy lounge.
+The island’s most photographed headland: the Monastery of Panagia Chrysopigi, built in 1650 and home to the icon of the island's patron saint, above rocky swim spots and clear water. Come for the setting more than for a long sandy lounge.
 
 **Highlights**
 - Iconic monastery and festival days
 - Snorkelling around rocks
-- Combine with Faros or Platis Gialos in one loop
+- Combine with Faros or Platys Gialos in one loop
 - Sunset light on the peninsula
 
 **Access & parking:** Drive via Faros / southern roads; parking is limited near the monastery, do not block chapel access. Bus to Faros + walk is possible but slower with beach bags.
@@ -126,9 +126,9 @@ A traditional fishing village that once served as the island’s main port. Smal
 
 **Perfect for:** Relaxed swimming, lunch stops, travellers who dislike big resort beaches.
 
-![Herronisos northern Sifnos](/images/sifnos/beaches/heronissos.webp "Herronisos, northern fishing cove")
+![Cherronisos northern Sifnos](/images/sifnos/beaches/heronissos.webp "Cherronisos, northern fishing cove")
 
-## Herronisos (Heronissos)
+## Cherronisos (Herronisos)
 
 **Northern Sifnos · ~30–35 minutes from Apollonia**
 
@@ -146,11 +146,11 @@ The northernmost beach village, small, traditional, with pottery and a quiet cov
 
 **Perfect for:** Seclusion, craft stops, travellers with a full day and fuel.
 
-![Vroulidia pebble beach](/images/sifnos/beaches/vroulidia.webp "Vroulidia, pebble beach near Herronisos")
+![Vroulidia pebble beach](/images/sifnos/beaches/vroulidia.webp "Vroulidia, pebble beach near Cherronisos")
 
 ## Vroulidia
 
-**Northern Sifnos · near Herronisos**
+**Northern Sifnos · near Cherronisos**
 
 A tranquil pebble beach with clear water and a more rugged feel. Small seaside cafés may offer umbrellas in season. Final approach can include a short downhill walk from limited roadside parking.
 
@@ -164,33 +164,33 @@ A tranquil pebble beach with clear water and a more rugged feel. Small seaside c
 
 ## Fykiada
 
-**Between Platis Gialos and Vathi · no road**
+**Between Platys Gialos and Vathi · no road**
 
-Completely undeveloped sand, reachable **only on foot or by boat**. Near the chapel of Agios Georgios and an ancient olive tree. Leave the car in Platis Gialos or Vathi and hike; carry water and leave no rubbish.
+Completely undeveloped sand, reachable **only on foot or by boat**. Near the chapel of Agios Georgios and an ancient olive tree. Leave the car in Platys Gialos or Vathi and hike; carry water and leave no rubbish.
 
 **Perfect for:** Hikers, adventure swims, crowd-free mornings.
 
 ## Suggested driving loops
 
-1. **South loop (half day):** Apollonia → Faros → Chrysopigi → Platis Gialos → return
+1. **South loop (half day):** Apollonia → Faros → Chrysopigi → Platys Gialos → return
 2. **West calm day:** Apollonia → Vathi (long swim) → optional sunset in Apollonia
-3. **North explorer (full day):** Apollonia → Herronisos → Vroulidia → return via Artemonas for dinner
+3. **North explorer (full day):** Apollonia → Cherronisos → Vroulidia → return via Artemonas for dinner
 4. **Port day:** Morning ferry coffee in Kamares + beach, then inland
 
 ## Beach FAQ
 
-**Best beaches for families?** Platis Gialos and Kamares, sand, shallow entries, services.
+**Best beaches for families?** Platys Gialos and Kamares, sand, shallow entries, services.
 
 **Best when the meltemi blows?** Vathi first; then sheltered pockets at Faros / Kamares.
 
 **Can I drive to Fykiada?** No, hike or boat only.
 
-**Pottery near beaches?** Look in Kamares, Vathi, Herronisos and around Faros.
+**Pottery near beaches?** Look in Kamares, Vathi, Cherronisos and around Faros.
 
-**Blue Flag?** Platis Gialos is the headline Blue Flag sandy beach most visitors mean.
+**Blue Flag?** Platys Gialos is the headline Blue Flag sandy beach most visitors mean.
 
 ## Artemis tip
 
-Keep valuables out of sight, fill fuel before long north runs in peak season, and message us if you want **Kamares pickup** the morning your ferry docks. Browse [cars](/en/cars) and [scooters](/en/scooters), or [request dates](/en/book).
+Keep valuables out of sight, fill fuel before long north runs in peak season, and send us your ferry time if you want the car waiting at **Kamares port** (free for cars). Browse [cars](/en/cars) and [scooters](/en/scooters), or [request dates](/en/book).
 
 For live island pages and schedules, see also [Sifnos on Discover Cyclades](https://discovercyclades.gr/en/guides/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) and [things to do](https://discovercyclades.gr/en/places/sifnos?utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner).

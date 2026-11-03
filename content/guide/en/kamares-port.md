@@ -4,7 +4,7 @@ title: "Kamares, Sifnos: port guide, beach and arrival"
 description: "Kamares on Sifnos: the island's only ferry port and a proper sandy resort. What is at the port, the beach, where to eat and stay, getting up to Apollonia."
 answer: "Kamares is the only ferry port on Sifnos, on the west coast, and also one of the island's best family beaches. Apollonia, the capital, is about 5.5 km uphill, roughly ten minutes by car. Everything arriving on the island passes through here."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 4
@@ -59,7 +59,7 @@ There is no bank branch, though ATMs are available. For a wider range of shops a
 
 It is a genuinely good choice in three situations: your ferry arrives late at night, your ferry leaves early in the morning, or you are travelling with small children who want sand without a drive.
 
-The trade-off is that the island's best restaurants and its only real evening scene are up in Apollonia and Artemonas, fifteen minutes away by car. Kamares is relaxed rather than lively after dark.
+The trade-off is that the island's best restaurants and its only real evening scene are up in Apollonia and Artemonas, ten to fifteen minutes away by car. Kamares is relaxed rather than lively after dark.
 
 See the [full accommodation comparison](/en/sifnos-guide/where-to-stay) for how it stacks up against the other bases.
 

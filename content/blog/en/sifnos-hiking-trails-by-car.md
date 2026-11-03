@@ -3,7 +3,7 @@ slug: sifnos-hiking-trails-by-car
 title: "Sifnos hiking trails you can reach by car"
 description: "Trailheads and day walks on Sifnos, park with your Artemis rental, hike ancient paths, return to Apollonia for dinner. Family run in Apollonia since 1988."
 datePublished: "2026-07-10"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-hiking-trails-by-car-cover.jpg"
 author: "Artemis Rental"
 tags: [hiking, trails, driving]
@@ -16,7 +16,7 @@ Sifnos is one of the better-marked hiking islands in the Cyclades, stone paths l
 
 Trail networks radiate from Apollonia, Artemonas, Kastro, and the south coast. Buses serve main villages but rarely sync with early-morning starts or post-sunset returns. Parking near a path entrance lets you hike at dawn, swim at Vathi by noon, and still reach Apollonia for dinner.
 
-Artemis pickup in **Apollonia** puts you closest to several classic routes. **Kamares on request** works if your hotel is port-side but you plan daily drives to trailheads uphill. **No prepayment** to enquire, message dates and whether you prefer car or scooter for short transfers.
+Artemis pickup in **Apollonia** puts you closest to several classic routes. Free **Kamares port** pickup works if your hotel is port-side but you plan daily drives to trailheads uphill. **No prepayment** to enquire, message your dates and the walks you have in mind.
 
 ## Signature routes worth driving to
 
@@ -26,7 +26,7 @@ Drive or walk from Apollonia toward Kastro, many hikers park below Kastro's pede
 
 ### Church of Chrysopigi loop
 
-Park above Chrissopigi beach and walk the coastal path toward Faros. Moderate grade, sea views, optional swim at the end. Combine with our [beaches by car](/en/blog/sifnos-beaches-by-car) notes on afternoon parking.
+Park above Chrysopigi beach and walk the coastal path toward Faros. Moderate grade, sea views, optional swim at the end. Combine with our [beaches by car](/en/blog/sifnos-beaches-by-car) notes on afternoon parking.
 
 ### Vathi to Exambela paths
 

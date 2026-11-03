@@ -3,7 +3,7 @@ slug: sifnos-vs-milos
 title: "Sifnos vs Milos: which island fits your trip?"
 description: "Compare Sifnos and Milos for a Cyclades holiday, pace, beaches, driving, and when Artemis rental on Sifnos is the better base. From Artemis Rental."
 datePublished: "2026-07-08"
-dateModified: "2026-07-16"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [planning, cyclades, comparison]
@@ -16,7 +16,7 @@ Travellers often pair Sifnos and Milos in one Cyclades loop. They sit close on t
 
 Milos rewards a week of coastal driving: Sarakiniko, Kleftiko boat trips, hidden coves with long dirt approaches. You will drive more kilometres and plan around sunset colours on white rock.
 
-Sifnos fits three to five days cleanly, our [3-day itinerary](/en/blog/3-day-sifnos-itinerary) covers highlights without rush. Villages like Apollonia, Artemonas, and Kastro are evening destinations as much as beaches are daytime ones. A rental from Artemis in **Apollonia** puts you central; **Kamares pickup on request** suits ferry-first arrivals.
+Sifnos fits three to five days cleanly, our [3-day itinerary](/en/blog/3-day-sifnos-itinerary) covers highlights without rush. Villages like Apollonia, Artemonas, and Kastro are evening destinations as much as beaches are daytime ones. A rental from Artemis in **Apollonia** puts you central; free **Kamares port pickup** suits ferry-first arrivals.
 
 Neither island is a city break. Both slow you down. The difference is whether you want geological spectacle (Milos) or village-and-kitchen rhythm (Sifnos).
 
@@ -24,7 +24,7 @@ Neither island is a city break. Both slow you down. The difference is whether yo
 
 Milos famous beaches, Sarakiniko, Firopotamos, Tsigrado, are visually striking and spread around a bigger coastline. Access sometimes means gravel roads and crowded parking in August.
 
-Sifnos beaches, Platis Gialos, Vathi, Chrissopigi, are gentler, taverna-linked, and easier to combine with a morning in Kastro. See our [beaches by car](/en/blog/sifnos-beaches-by-car) guide for a driver's view.
+Sifnos beaches, Platys Gialos, Vathi, Chrysopigi, are gentler, taverna-linked, and easier to combine with a morning in Kastro. See our [beaches by car](/en/blog/sifnos-beaches-by-car) guide for a driver's view.
 
 ![Sifnos village lanes and pottery shops versus Milos volcanic coast](/images/blog/sifnos-vs-milos.jpg "Sifnos trades Milos drama for walkable villages and shorter drives")
 
@@ -50,7 +50,7 @@ Timing matters: read [best time to visit Sifnos](/en/blog/best-time-visit-sifnos
 
 ## Ferry logistics between the two
 
-Check Ferryhopper or operator sites for direct Milos–Sifnos sailings, frequency rises in summer but is not hourly. A rental car on Sifnos should be returned before you board unless you arranged a cross-island one-way (uncommon). Plan the Sifnos drop-off at Artemis Apollonia with time to taxi or walk to Kamares if your departure port differs.
+Check Ferryhopper or operator sites for direct Milos–Sifnos sailings, frequency rises in summer but is not hourly. Return your Sifnos rental before you board: car drop-off at Kamares port is free, so you can hand back the keys at the quay and walk onto the ferry to Milos.
 
 Scooters follow the same rule: return before ferry unless staff agreed otherwise. Luggage lockers at port cafés are informal; travel light between islands.
 
@@ -58,6 +58,6 @@ Scooters follow the same rule: return before ferry unless staff agreed otherwise
 
 Pick **Sifnos** if you want manageable driving, central Apollonia base, family-friendly bays, and a coherent long-weekend arc. Pick **Milos** if volcanic beaches and longer coastal mileage define the dream, and you accept more planning overhead.
 
-Visiting Sifnos first? [Book with Artemis](/en/book) with ferry dates and whether you need Kamares or Apollonia pickup. Even if Milos follows, starting calm sets up the louder island nicely.
+Visiting Sifnos first? [Book with Artemis](/en/book) with ferry dates and your docking time, and the car will be waiting at Kamares port. Even if Milos follows, starting calm sets up the louder island nicely.
 
 Exploring Sifnos with your own wheels? [Rent a car in Sifnos with Artemis](/en).
