@@ -16,7 +16,7 @@ related:
 
 ## Timing beats everything
 
-In peak summer the difference between a calm Platis Gialos morning and a stressful noon is about **90 minutes**. Leave Apollonia early; take long lunches in the shade; swim again after 16:00.
+In peak summer the difference between a calm Platys Gialos morning and a stressful noon is about **90 minutes**. Leave Apollonia early; take long lunches in the shade; swim again after 16:00.
 
 ## Wind (meltemi)
 

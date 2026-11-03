@@ -16,7 +16,7 @@ These weeks are the sweet spot for many drivers: swimable seas, open tavernas, a
 
 ## High summer (July–August)
 
-Guaranteed beach weather and the fullest restaurant scene. Expect busier Platis Gialos parking and earlier sell-outs on automatic cars. Enquire with Artemis as soon as your ferry is booked, and start beach days before late morning.
+Guaranteed beach weather and the fullest restaurant scene. Expect busier Platys Gialos parking and earlier sell-outs on automatic cars. Enquire with Artemis as soon as your ferry is booked, and start beach days before late morning.
 
 ## Autumn & spring edges
 
@@ -38,7 +38,7 @@ Winter ferries thin dramatically; rental demand is low but Apollonia feels genui
 
 ## Wind, meltemi, and beach choice
 
-July and August bring meltemi days when north-coast beaches chop up while south bays like Platis Gialos and Vathi stay swimmable. Your car becomes a weather tool: drive twenty minutes to the leeward side rather than cancelling beach plans.
+July and August bring meltemi days when north-coast beaches chop up while south bays like Platys Gialos and Vathi stay swimmable. Your car becomes a weather tool: drive twenty minutes to the leeward side rather than cancelling beach plans.
 
 Scooter riders feel wind more, plan car backup or choose sheltered bays on gusty forecasts. Read [driving in Sifnos](/en/blog/driving-in-sifnos) for parking timing when everyone else has the same leeward idea.
 

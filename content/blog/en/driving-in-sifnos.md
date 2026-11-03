@@ -14,7 +14,7 @@ Sifnos is small enough to cross in under an hour and interesting enough that you
 
 ## Road character across the island
 
-The main coastal loop connects Kamares, Apollonia, Platis Gialos, and Faros with generally good tarmac. Inland routes to Vathi, Exambela, and Kastro climb steadily, manual drivers should stay in second gear on the steepest sections; automatic renters will appreciate the extra torque of a slightly larger engine.
+The main coastal loop connects Kamares, Apollonia, Platys Gialos, and Faros with generally good tarmac. Inland routes to Vathi, Exambela, and Kastro climb steadily, manual drivers should stay in second gear on the steepest sections; automatic renters will appreciate the extra torque of a slightly larger engine.
 
 Village centres like Apollonia and Artemonas have one-way systems and tight corners. Park at the designated edges and walk in. Do not attempt to thread a car through pedestrian lanes in Kastro, park below the settlement and climb on foot.
 
@@ -24,7 +24,7 @@ First evening after a ferry arrival, keep driving minimal. Street lighting is sp
 
 ## Parking at beaches and villages
 
-Peak August at Platis Gialos, Vathi, and Chrissopigi rewards early arrivals. Aim for before 10 a.m. on hot weeks, or accept a short walk from an overflow spot. Faros and Herronisos have smaller lots that fill quickly on weekend evenings when locals drive in for fish tavernas.
+Peak August at Platys Gialos, Vathi, and Chrysopigi rewards early arrivals. Aim for before 10 a.m. on hot weeks, or accept a short walk from an overflow spot. Faros and Cherronisos have smaller lots that fill quickly on weekend evenings when locals drive in for fish tavernas.
 
 Apollonia parking near the Artemis office is practical for overnight stays in the capital. You can collect your car in the morning and return keys there at the end of your rental. Kamares has port-side spaces that work well if your hotel is walking distance from the ferry.
 

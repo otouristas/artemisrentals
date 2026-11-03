@@ -16,7 +16,7 @@ Ferry into Kamares, collect keys (Kamares pickup on request or Apollonia office)
 
 ## Day 2, South coast beaches
 
-Platis Gialos morning, Chrissopigi late afternoon light, return to Artemonas/Apollonia for the evening walk.
+Platys Gialos morning, Chrysopigi late afternoon light, return to Artemonas/Apollonia for the evening walk.
 
 ## Day 3, Kastro and Vathi
 
@@ -24,9 +24,9 @@ Morning in Kastro's lanes, afternoon bay time in Vathi, then pack for tomorrow's
 
 ## Where to eat without over-planning
 
-Apollonia's steno lane concentrates excellent dinner options, book one night, walk in the other two. For lunch, beach tavernas at Platis Gialos and Vathi need no reservation in shoulder season; August weekends reward arriving before 1 p.m.
+Apollonia's steno lane concentrates excellent dinner options, book one night, walk in the other two. For lunch, beach tavernas at Platys Gialos and Vathi need no reservation in shoulder season; August weekends reward arriving before 1 p.m.
 
-Artemonas bakeries suit a morning coffee stop between Kastro and south-coast drives. Faros tavernas work when you want fish after Chrissopigi without backtracking through Apollonia.
+Artemonas bakeries suit a morning coffee stop between Kastro and south-coast drives. Faros tavernas work when you want fish after Chrysopigi without backtracking through Apollonia.
 
 ## Optional half-day swaps
 

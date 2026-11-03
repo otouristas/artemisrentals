@@ -44,7 +44,7 @@ If you already booked Apollonia pickup, the bus still works as a backup when fer
 
 ## Supermarket and cash stop
 
-The Kamares mini-market covers water, sunscreen, and snacks before a first drive to your hotel. ATMs exist along the waterfront; small tavernas inland may prefer cash. Load provisions before driving to remote beaches, shops thin out outside Apollonia and Platis Gialos.
+The Kamares mini-market covers water, sunscreen, and snacks before a first drive to your hotel. ATMs exist along the waterfront; small tavernas inland may prefer cash. Load provisions before driving to remote beaches, shops thin out outside Apollonia and Platys Gialos.
 
 ## Common arrival-day mistakes
 

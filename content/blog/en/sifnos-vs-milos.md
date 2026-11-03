@@ -24,7 +24,7 @@ Neither island is a city break. Both slow you down. The difference is whether yo
 
 Milos famous beaches, Sarakiniko, Firopotamos, Tsigrado, are visually striking and spread around a bigger coastline. Access sometimes means gravel roads and crowded parking in August.
 
-Sifnos beaches, Platis Gialos, Vathi, Chrissopigi, are gentler, taverna-linked, and easier to combine with a morning in Kastro. See our [beaches by car](/en/blog/sifnos-beaches-by-car) guide for a driver's view.
+Sifnos beaches, Platys Gialos, Vathi, Chrysopigi, are gentler, taverna-linked, and easier to combine with a morning in Kastro. See our [beaches by car](/en/blog/sifnos-beaches-by-car) guide for a driver's view.
 
 ![Sifnos village lanes and pottery shops versus Milos volcanic coast](/images/blog/sifnos-vs-milos.jpg "Sifnos trades Milos drama for walkable villages and shorter drives")
 

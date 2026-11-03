@@ -59,7 +59,7 @@ From the Apollonia area, Kastro is a short drive for sunset walls and Aegean win
 
 ## Why a rental desk in Apollonia helps
 
-Starting from the centre means every classic loop is outward-and-back: south to Platis Gialos, west to Vathi, east to Kastro, north toward Herronisos. You are not stuck at the port unless you choose a Kamares beach day.
+Starting from the centre means every classic loop is outward-and-back: south to Platys Gialos, west to Vathi, east to Kastro, north toward Cherronisos. You are not stuck at the port unless you choose a Kamares beach day.
 
 Artemis tip: tell us your hotel area when you enquire. We help with meeting points and, for cars, **Kamares ferry pickup** on request.
 

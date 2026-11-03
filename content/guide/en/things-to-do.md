@@ -2,7 +2,7 @@
 slug: things-to-do
 title: "Things to do on Sifnos"
 description: "Full Sifnos things-to-do guide: beaches, villages, hiking trails, food, pottery, monasteries, boat days, planned around an Artemis car or scooter rental."
-answer: "Swim at Platis Gialos and Vathi, visit Chrysopigi and medieval Kastro, hike village-to-coast trails, taste mastelo and revithada, browse pottery workshops, and use an Artemis rental to link it all without bus timetables."
+answer: "Swim at Platys Gialos and Vathi, visit Chrysopigi and medieval Kastro, hike village-to-coast trails, taste mastelo and revithada, browse pottery workshops, and use an Artemis rental to link it all without bus timetables."
 datePublished: "2026-07-01"
 dateModified: "2026-07-18"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
@@ -25,14 +25,14 @@ Compared with busier Cyclades headlines, Sifnos stays rooted in **pottery, footp
 
 ## Best beaches (with wheels)
 
-![Platis Gialos](/images/sifnos/beaches/plats-gialos.webp "Platis Gialos for facilities and long sand")
+![Platys Gialos](/images/sifnos/beaches/plats-gialos.webp "Platys Gialos for facilities and long sand")
 
-- **Platis Gialos**, long sand, tavernas, Blue Flag reputation, easiest family logistics.
+- **Platys Gialos**, long sand, tavernas, Blue Flag reputation, easiest family logistics.
 - **Vathi**, sheltered amphitheatre bay; ideal when the meltemi is strong.
 - **Chrysopigi**, monastery postcard + rocky swims; combine with Faros.
 - **Faros**, fishing-village pace and coastal walks.
-- **Herronisos & Vroulidia**, quieter north; worth the drive.
-- **Fykiada**, hike or boat only; park in Platis Gialos or Vathi.
+- **Cherronisos & Vroulidia**, quieter north; worth the drive.
+- **Fykiada**, hike or boat only; park in Platys Gialos or Vathi.
 
 Full access, wind and parking notes: [Sifnos beaches guide](/en/sifnos-guide/beaches).
 
@@ -63,7 +63,7 @@ Sifnos is one of the Cyclades’ great walking islands. Trails connect villages,
 
 1. **Apollonia / Artemonas lanes → Kastro**, culture-heavy, moderate effort.
 2. **Kamares coastal paths**, port start, caves and viewpoints.
-3. **Vathi ↔ Platis Gialos corridor**, beach-to-beach (sections include Fykiada approaches).
+3. **Vathi ↔ Platys Gialos corridor**, beach-to-beach (sections include Fykiada approaches).
 4. **Agios Andreas acropolis links**, history + ridge views (check heat and footwear).
 
 **Trail tips:** start early, carry water, wear decent shoes, and consider a one-way walk with a partner driving the pickup, easy when you have a rental. Leave valuables out of sight in the car.
@@ -76,7 +76,7 @@ See [Food & pottery](/en/sifnos-guide/food-pottery) for a deeper dive.
 
 ## Pottery workshops
 
-Ceramics are part of the island’s identity, workshops historically clustered around coastal villages such as **Kamares, Vathi and Herronisos**. Many welcome visitors to browse; some offer short experiences in season. Combine a workshop stop with a swim so the day does not feel like a museum circuit.
+Ceramics are part of the island’s identity, workshops historically clustered around coastal villages such as **Kamares, Vathi and Cherronisos**. Many welcome visitors to browse; some offer short experiences in season. Combine a workshop stop with a swim so the day does not feel like a museum circuit.
 
 ## Monasteries & chapels
 
@@ -97,13 +97,13 @@ Live ferry ideas: [Athens–Sifnos routes on Discover Cyclades](https://discover
 | Day | Plan |
 | --- | --- |
 | 1 | Ferry → Kamares swim or Apollonia settle → sunset Artemonas |
-| 2 | South loop: Faros → Chrysopigi → Platis Gialos |
+| 2 | South loop: Faros → Chrysopigi → Platys Gialos |
 | 3 | Vathi beach morning → pottery stop → Kastro at golden hour |
-| 4 | North to Herronisos / Vroulidia or a hike + early dinner in Apollonia |
+| 4 | North to Cherronisos / Vroulidia or a hike + early dinner in Apollonia |
 
 ## FAQ
 
-**Is Sifnos good with kids?** Yes, sandy Platis Gialos / Kamares, short drives, and village ice-cream logistics are easy with a car.
+**Is Sifnos good with kids?** Yes, sandy Platys Gialos / Kamares, short drives, and village ice-cream logistics are easy with a car.
 
 **How many days?** Four to five for the classic mix; a week if you want hikes and boat days.
 

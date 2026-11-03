@@ -20,7 +20,7 @@ Mention passenger count, child seat needs, and luggage (ferry bags add up). A 5-
 
 ## Pace the island
 
-Do one major beach or village cluster per day. Park early at Platis Gialos in August. Use Apollonia evenings for gelato walks without driving.
+Do one major beach or village cluster per day. Park early at Platys Gialos in August. Use Apollonia evenings for gelato walks without driving.
 
 ## Next steps
 
@@ -28,9 +28,9 @@ Compare [cars](/en/cars), read [things to do](/en/sifnos-guide/things-to-do), th
 
 ## Beaches that work with children
 
-Vathi offers shallow entry and space to spread out, easy parking and tavernas for lunch without a long walk from the car. Platis Gialos has more amenities but August crowds; arrive before 10 a.m. or after 4 p.m. Kamares suits arrival-day swims when kids are tired from the ferry.
+Vathi offers shallow entry and space to spread out, easy parking and tavernas for lunch without a long walk from the car. Platys Gialos has more amenities but August crowds; arrive before 10 a.m. or after 4 p.m. Kamares suits arrival-day swims when kids are tired from the ferry.
 
-Chrissopigi requires a short walk from parking, beautiful but less ideal with a heavy stroller. Save it for older kids or carrier-wearing toddlers.
+Chrysopigi requires a short walk from parking, beautiful but less ideal with a heavy stroller. Save it for older kids or carrier-wearing toddlers.
 
 ## Child seats and vehicle fit
 

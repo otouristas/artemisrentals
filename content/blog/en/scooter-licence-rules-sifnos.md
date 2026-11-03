@@ -28,7 +28,7 @@ If your licence covers cars only, you cannot rent a 125cc scooter in Greece. Whe
 
 ## Choosing cc for two riders
 
-125cc SYM Symphony models handle solo riders and light hills well. With a passenger, consider 150cc or 200cc for Apollonia-to-Vathi climbs without straining the engine. JET4 and Fiddle 125 options suit confident riders on shorter hops between Kamares and Platis Gialos.
+125cc SYM Symphony models handle solo riders and light hills well. With a passenger, consider 150cc or 200cc for Apollonia-to-Vathi climbs without straining the engine. JET4 and Fiddle 125 options suit confident riders on shorter hops between Kamares and Platys Gialos.
 
 Couples splitting riding days can pair one scooter day with one car day from the same Artemis enquiry, **no prepayment** to ask.
 

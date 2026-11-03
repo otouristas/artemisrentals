@@ -12,7 +12,7 @@ related: [kamares-port-arrival-guide, 3-day-sifnos-itinerary, sifnos-beaches-by-
 
 ## Apollonia
 
-Choose Apollonia if you want evening energy, restaurants, shops, and a central launch point for daily drives to Platis Gialos, Vathi, Faros, or Kastro. Artemis’ office is here, so pickup and questions are easy.
+Choose Apollonia if you want evening energy, restaurants, shops, and a central launch point for daily drives to Platys Gialos, Vathi, Faros, or Kastro. Artemis’ office is here, so pickup and questions are easy.
 
 ## Kamares
 
@@ -24,7 +24,7 @@ Ask Artemis for Apollonia pickup by default, or **Kamares on request** when your
 
 ## Drive times with a rental
 
-From Apollonia to Platis Gialos is roughly fifteen minutes; to Vathi twenty-five. Kamares adds ten minutes to south-coast beaches but puts you closer to north-coast walks. Neither base requires long commutes, Sifnos is compact once you have wheels from Artemis.
+From Apollonia to Platys Gialos is roughly fifteen minutes; to Vathi twenty-five. Kamares adds ten minutes to south-coast beaches but puts you closer to north-coast walks. Neither base requires long commutes, Sifnos is compact once you have wheels from Artemis.
 
 Evening returns matter: Apollonia diners walk home after wine; Kamares guests drive uphill roads at night, take it slow on first evening if you collected the car same day as the ferry.
 
@@ -38,6 +38,6 @@ Split stays work, two nights Kamares, three Apollonia, if you do not mind one ho
 
 ## Artemonas and other villages
 
-Some guests stay in Artemonas for quiet and drive to Apollonia for dinner, five minutes by car. Kastro and Platis Gialos hotels trade convenience for parking planning in peak weeks. Our [beaches by car](/en/blog/sifnos-beaches-by-car) guide helps whichever base you pick.
+Some guests stay in Artemonas for quiet and drive to Apollonia for dinner, five minutes by car. Kastro and Platys Gialos hotels trade convenience for parking planning in peak weeks. Our [beaches by car](/en/blog/sifnos-beaches-by-car) guide helps whichever base you pick.
 
 Artemis has advised renters on where to stay since **1988**, **no prepayment** to enquire, seasonal rates, cars and scooters from one Apollonia team.

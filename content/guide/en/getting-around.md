@@ -21,7 +21,7 @@ related:
 
 | Mode | Best for | Watch-outs |
 | --- | --- | --- |
-| **Car** | Families, beach gear, north coast, mixed weather | Peak parking at Platis Gialos / popular coves |
+| **Car** | Families, beach gear, north coast, mixed weather | Peak parking at Platys Gialos / popular coves |
 | **Scooter** | Couples, light bags, Apollonia–beach hops | Wind, gravel approaches (Vroulidia), two-up steep hills |
 | **Bus** | Budget travellers on main corridors | Timetables thin for multi-beach days |
 | **Taxi** | Late ferry, one-off transfers | Availability tight in August evenings |
@@ -39,7 +39,7 @@ Great for experienced riders who want wind-in-the-face freedom between Apollonia
 
 ## Buses & taxis
 
-Summer buses link Apollonia with Kamares, Platis Gialos, Vathi, Faros and other villages, useful, but not ideal if you want three coves in one day. Taxis exist; do not rely on hailing one at a remote beach at 19:00 in peak season.
+Summer buses link Apollonia with Kamares, Platys Gialos, Vathi, Faros and other villages, useful, but not ideal if you want three coves in one day. Taxis exist; do not rely on hailing one at a remote beach at 19:00 in peak season.
 
 ## Road character
 
@@ -51,10 +51,10 @@ Summer buses link Apollonia with Kamares, Platis Gialos, Vathi, Faros and other 
 ## Parking cheat-sheet
 
 - **Apollonia evening:** park once, walk.
-- **Platis Gialos:** earlier = closer.
+- **Platys Gialos:** earlier = closer.
 - **Chrysopigi:** limited; never block monastery access.
 - **Kastro:** park below / outside and walk the medieval lanes.
-- **Herronisos:** tight village lanes, patience.
+- **Cherronisos:** tight village lanes, patience.
 
 ## Fuel & ranges
 
@@ -63,8 +63,8 @@ Fill in the Apollonia / main-road area before a full north-coast day in high sea
 ## Suggested daily radii from Apollonia
 
 - **0–15 min:** Artemonas, Katavati, Kastro, Kamares
-- **15–25 min:** Faros, Chrysopigi, Platis Gialos, Vathi
-- **30–40 min:** Herronisos, Vroulidia
+- **15–25 min:** Faros, Chrysopigi, Platys Gialos, Vathi
+- **30–40 min:** Cherronisos, Vroulidia
 
 ## Artemis fleet
 

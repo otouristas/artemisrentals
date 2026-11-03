@@ -26,7 +26,7 @@ Drive or walk from Apollonia toward Kastro, many hikers park below Kastro's pede
 
 ### Church of Chrysopigi loop
 
-Park above Chrissopigi beach and walk the coastal path toward Faros. Moderate grade, sea views, optional swim at the end. Combine with our [beaches by car](/en/blog/sifnos-beaches-by-car) notes on afternoon parking.
+Park above Chrysopigi beach and walk the coastal path toward Faros. Moderate grade, sea views, optional swim at the end. Combine with our [beaches by car](/en/blog/sifnos-beaches-by-car) notes on afternoon parking.
 
 ### Vathi to Exambela paths
 

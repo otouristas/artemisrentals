@@ -16,7 +16,7 @@ Understanding Sifnos car rental prices before you book saves surprises at the fe
 
 Rates are split into four periods that mirror island tourism. **Low season** covers early January through mid-May and all of October, ideal if you want the quietest roads and the lowest daily price on a Chevrolet Spark or Hyundai i10. **Shoulder** runs mid-May to early June and mid-September through September, when seas are warm and villages feel alive without August crowds.
 
-**Mid season** (mid-June to early July) is the bridge week many repeat visitors target: swimmable water, open tavernas, and rates still below peak. **Peak** (mid-July through early September) is when Platis Gialos parking fills by 10 a.m. and automatic cars sell out first. A Peugeot 208 Auto at peak sits around €80–100 per day depending on model; the same category drops noticeably in shoulder months.
+**Mid season** (mid-June to early July) is the bridge week many repeat visitors target: swimmable water, open tavernas, and rates still below peak. **Peak** (mid-July through early September) is when Platys Gialos parking fills by 10 a.m. and automatic cars sell out first. A Peugeot 208 Auto at peak sits around €80–100 per day depending on model; the same category drops noticeably in shoulder months.
 
 These figures are indicative. Your exact quote depends on dates, duration, and availability. Multi-day stays often work out better per day; ask when you enquire.
 
