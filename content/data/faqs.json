@@ -217,56 +217,56 @@
   ],
   "de": [
     {
-      "q": "Muss ich eine Anzahlung leisten, um zu buchen?",
-      "a": "Für die Buchung ist keine Vorauszahlung nötig. Kontaktieren Sie Artemis mit Ihren Daten und dem gewünschten Fahrzeug, und wir bestätigen die Verfügbarkeit."
+      "q": "Muss ich für die Buchung eine Anzahlung leisten?",
+      "a": "Für die Buchung ist keine Vorauszahlung nötig. Schicken Sie Artemis Ihre Reisedaten und Ihr Wunschfahrzeug, und wir bestätigen die Verfügbarkeit."
     },
     {
-      "q": "Was ist das Mindestalter zum Mieten?",
-      "a": "Fahrer müssen zwischen 23 und 75 Jahre alt sein und einen gültigen Führerschein seit mehr als einem Jahr besitzen."
+      "q": "Wie alt muss ich sein, um ein Fahrzeug zu mieten?",
+      "a": "Fahrer müssen zwischen 23 und 75 Jahre alt sein und seit mehr als einem Jahr einen gültigen Führerschein besitzen."
     },
     {
       "q": "Wo hole ich das Fahrzeug ab?",
-      "a": "Abholung und Rückgabe erfolgen in unserem Büro in Apollonia. Abholung und Rückgabe in Kamares können auf Anfrage organisiert werden, nützlich wenn Ihre Fähre verspätet ankommt."
+      "a": "Abholung und Rückgabe erfolgen in unserem Büro in Apollonia. Auf Anfrage sind Abholung und Rückgabe auch in Kamares möglich, praktisch, wenn Ihre Fähre spät ankommt."
     },
     {
       "q": "Soll ich auf Sifnos ein Auto oder einen Roller mieten?",
-      "a": "Wählen Sie ein Auto für Familien, Gepäck oder Komfort auf längeren Inselstrecken. Wählen Sie einen Roller, wenn Sie agil von Strand zu Strand für eine oder zwei Personen wollen und sich auf griechischen Inselstraßen schon sicher fühlen."
+      "a": "Nehmen Sie ein Auto, wenn Sie mit Familie oder Gepäck reisen oder auf längeren Strecken über die Insel Komfort möchten. Ein Roller lohnt sich, wenn Sie allein oder zu zweit wendig von Strand zu Strand fahren möchten und sich auf griechischen Inselstraßen bereits sicher fühlen."
     },
     {
       "q": "Gibt es Automatikautos?",
-      "a": "Ja. Artemis bietet Automatikoptionen wie den Peugeot 208 Automatic und den Nissan Micra Automatic. Die Verfügbarkeit variiert je nach Saison: fragen Sie früh für Juli und August."
+      "a": "Ja. Artemis bietet Autos mit Automatik an, etwa den Peugeot 208 Automatik und den Nissan Micra Automatik. Die Verfügbarkeit hängt von der Saison ab, für Juli und August fragen Sie am besten früh an."
     },
     {
       "q": "Wie früh sollte ich im Sommer buchen?",
-      "a": "Für Juli und August fragen Sie so früh wie möglich. Die Zwischensaison ist flexibler, aber beliebte Modelle gehen an Wochenenden und Fährenspitzen trotzdem schnell weg."
+      "a": "Für Juli und August fragen Sie so früh wie möglich an. In der Vor- und Nachsaison sind Sie flexibler, aber beliebte Modelle sind an Wochenenden und an Tagen mit vielen Fährankünften trotzdem schnell vergeben."
     },
     {
       "q": "Welche Dokumente brauche ich?",
-      "a": "Bringen Sie einen gültigen Führerschein mit (und einen International Driving Permit, falls für Ihre Nationalität erforderlich), Reisepass oder Ausweis sowie eine Zahlungsmethode für die Miete, sobald die Daten bestätigt sind."
+      "a": "Bringen Sie einen gültigen Führerschein mit (und einen Internationalen Führerschein, falls für Ihre Staatsangehörigkeit erforderlich), Reisepass oder Personalausweis sowie ein Zahlungsmittel für die Miete, sobald Ihr Zeitraum bestätigt ist."
     },
     {
       "q": "Ist eine Versicherung enthalten?",
-      "a": "Die nach griechischem Recht erforderliche Grunddeckung ist enthalten. Selbstbeteiligung, optionale Deckung und Schadenverfahren werden bei der Abholung erklärt: fragen Sie uns vor der Reise, wenn Sie Details brauchen."
+      "a": "Die nach griechischem Recht vorgeschriebene Grunddeckung ist inklusive. Selbstbeteiligung, optionalen Zusatzschutz und das Vorgehen im Schadensfall erklären wir bei der Abholung. Wenn Sie Details brauchen, fragen Sie uns gern vor der Reise."
     },
     {
-      "q": "Wie ist die Kraftstoffregelung?",
-      "a": "Fahrzeuge werden mit einem erfassten Kraftstoffstand übergeben und sollten auf einem vergleichbaren Stand zurückgegeben werden, sofern bei der Abholung nichts anderes vereinbart wurde."
+      "q": "Wie ist die Tankregelung?",
+      "a": "Die Fahrzeuge werden mit dokumentiertem Tankstand übergeben und sollten mit vergleichbarem Tankstand zurückgegeben werden, sofern bei der Abholung nichts anderes vereinbart wurde."
     },
     {
       "q": "Bieten Sie Kindersitze an?",
-      "a": "Kindersitze können auf Anfrage verfügbar sein: nennen Sie Alter und Bedarf bei Ihrer Anfrage, damit wir den Bestand für Ihre Daten prüfen können."
+      "a": "Kindersitze gibt es auf Anfrage und je nach Verfügbarkeit. Nennen Sie bei Ihrer Anfrage Alter und Bedarf der Kinder, damit wir prüfen können, was für Ihren Zeitraum frei ist."
     },
     {
       "q": "Was kosten Roller?",
-      "a": "Rollerpreise variieren nach Hubraum und Saison. Senden Sie Ihre Daten über den Kalender auf der Rollerseite oder per WhatsApp, und wir nennen Ihnen einen Tagespreis."
+      "a": "Die Rollerpreise hängen von Hubraum und Saison ab. Senden Sie uns Ihre Reisedaten über den Kalender auf der Rollerseite oder per WhatsApp, und wir nennen Ihnen einen Tagespreis."
     },
     {
       "q": "Was ist, wenn meine Fähre Verspätung hat?",
-      "a": "Schreiben oder rufen Sie uns mit der neuen Ankunftszeit. Wir passen Kamares-Abholungen regelmäßig an, wenn Boote verspätet sind: halten Sie uns einfach auf dem Laufenden."
+      "a": "Schreiben Sie uns oder rufen Sie an und nennen Sie die neue Ankunftszeit. Wir verschieben Abholungen in Kamares regelmäßig, wenn Schiffe Verspätung haben, halten Sie uns einfach auf dem Laufenden."
     },
     {
-      "q": "Kann ich Daten ändern oder stornieren?",
-      "a": "Sagen Sie uns so früh wie möglich Bescheid. Wir tun unser Bestes, Änderungen, Fährenstörungen und wetterbedingte Verspätungen zu ermöglichen."
+      "q": "Kann ich meine Reisedaten ändern oder stornieren?",
+      "a": "Sagen Sie uns so früh wie möglich Bescheid. Wir tun unser Bestes, um Änderungen, Ausfälle von Fähren und wetterbedingte Verspätungen aufzufangen."
     }
   ],
   "sv": [

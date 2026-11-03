@@ -1,61 +1,61 @@
 ---
 slug: kamares-port-arrival-guide
-title: "Ankunftsguide Hafen Kamares: von der Fähre zum ersten Bad"
-description: "Was zu tun ist, wenn Ihre Fähre in Kamares anlegt: Gepäck, Pickup-Optionen und nach Apollonia mit Artemis-Miete. Familienbetrieb in Apollonia seit 1988."
+title: "Ankunft im Hafen Kamares: von der Fähre zum ersten Bad"
+description: "Was tun, wenn Ihre Fähre in Kamares anlegt: Gepäck, Abholung und der Weg nach Apollonia mit einem Mietfahrzeug von Artemis. Kostenlose Abholung in Kamares."
 datePublished: "2026-07-06"
 dateModified: "2026-07-14"
 cover: "/images/blog/kamares-port-arrival-guide-cover.jpg"
 author: "Artemis Rental"
-tags: [kamares, arrival, ferry]
+tags: [Kamares, Ankunft, Fähre]
 related: [apollonia-vs-kamares-stay, driving-in-sifnos, rent-a-car-sifnos-2026]
 ---
 
-Kamares ist, wo die meisten Besucher Sifnos zuerst berühren: eine lange geschützte Bucht, Cafés entlang der Promenade und die Straße bergauf nach Apollonia vom Deck sichtbar. Die erste Stunde an Land prägt den Ton Ihrer Reise. Ein wenig Planung rund um Gepäck, Pickup und den lokalen Busfahrplan hilft enorm.
+In Kamares betreten die meisten Besucher zum ersten Mal Sifnos: eine lange, geschützte Bucht, Cafés an der Uferpromenade und die Straße hinauf nach Apollonia, die man schon vom Deck aus sieht. Die erste Stunde an Land gibt den Ton für die ganze Reise vor. Mit ein wenig Planung rund um Gepäck, Abholung und Busfahrplan sind Sie gut aufgestellt.
 
-## Von der Fähre: was Sie sehen
+## Von der Fähre an Land: was Sie erwartet
 
-Die Hafenvorderseite ist flach und begehbar. Taxis warten in der Saison nahe dem Ausstieg; der Bus nach Apollonia fährt kurz nach beliebten Fähren ab, wenn Nachfrage besteht. Gepäckwagen sind informell: rollen Sie Ihre Taschen zu einem schattigen Café, wenn das Zimmer noch nicht fertig ist.
+Das Hafengelände ist flach und gut zu Fuß zu erkunden. In der Saison warten Taxis in der Nähe der Anlegestelle, und der Bus nach Apollonia fährt kurz nach den gefragten Fähren ab, wenn genug Fahrgäste da sind. Gepäckwagen gibt es nicht wirklich. Rollen Sie Ihre Koffer in ein schattiges Café, wenn Ihr Zimmer noch nicht bereit ist.
 
-Der Strand von Kamares liegt Schritte vom Pier entfernt. Viele Reisende schwimmen vor dem Check-in, besonders bei Nachmittagsankünften. Halten Sie Badesachen im Tagesrucksack greifbar, nicht im Laderaum vergraben.
+Der Strand von Kamares liegt nur ein paar Schritte vom Anleger entfernt. Viele Reisende gehen vor dem Check-in baden, vor allem bei Ankunft am Nachmittag. Packen Sie die Badesachen in den Tagesrucksack, nicht ganz unten in den Koffer im Gepäckraum.
 
-## Ihre Artemis-Miete abholen
+## Ihr Mietfahrzeug von Artemis abholen
 
-Artemis setzt standardmäßig auf **Apollonia-Pickup** im Hauptbüro, zehn Minuten Fahrt oder eine Busfahrt von Kamares. Wenn Ihre Fähre früh ankommt und Sie sofort Räder wollen, fragen Sie bei der Anfrage **Kamares-Pickup auf Anfrage** an. Nennen Sie Bootsname und ETA; das Team koordiniert, wenn der Plan es zulässt.
+Standardmäßig holen Sie Ihr Fahrzeug bei Artemis im **Büro in Apollonia** ab, zehn Minuten mit dem Auto oder eine Busfahrt von Kamares entfernt. Wenn Ihre Fähre früh anlegt und Sie sofort mobil sein möchten, bitten Sie bei Ihrer Anfrage um die **Abholung in Kamares auf Anfrage**. Nennen Sie den Namen des Schiffs und die voraussichtliche Ankunftszeit, das Team stimmt alles ab, sofern der Zeitplan es erlaubt.
 
-**Keine Vorauszahlung** ist zum Buchen nötig: senden Sie Daten per Formular oder WhatsApp und warten Sie auf persönliche Bestätigung. Haben Sie Führerschein und Pass bereit; Mietbedingungen folgen standardmäßiger Kykladen-Praxis (Mindestalter 23, Führerschein ein Jahr).
+Für die Buchung ist **keine Vorauszahlung** nötig. Senden Sie Ihre Reisedaten über das Anfrageformular oder per WhatsApp und warten Sie auf die persönliche Bestätigung. Halten Sie Führerschein und Reisepass bereit. Die Mietbedingungen entsprechen dem, was auf den Kykladen üblich ist (Mindestalter 23, Führerschein seit mindestens einem Jahr).
 
-### Wenn Apollonia-Pickup besser passt
+### Wenn die Abholung in Apollonia besser passt
 
-Manche Gäste lassen Taschen in einem Kamares-Hotel, nehmen den Bus bergauf, holen das Auto in Apollonia und kehren fürs Gepäck zurück, sobald sie orientiert sind. Andere nehmen ein Taxi nach Apollonia und starten von dort. Beide Muster funktionieren; wählen Sie nach Energie nach der Fähre, nicht nach Ideologie.
+Manche Gäste lassen das Gepäck in einem Hotel in Kamares, fahren mit dem Bus hinauf, holen das Auto in Apollonia ab und kommen später für das Gepäck zurück, wenn sie sich orientiert haben. Andere nehmen ein Taxi nach Apollonia und fahren von dort los. Beides funktioniert. Entscheiden Sie danach, wie viel Energie Sie nach der Überfahrt noch haben, nicht aus Prinzip.
 
-![Hafenpromenade Kamares mit Fähre und Straße nach Apollonia](/images/blog/kamares-port-arrival-guide.jpg "Die meisten Sifnos-Ankünfte starten in Kamares: planen Sie den Pickup vor dem Anlegen")
+![Uferpromenade von Kamares mit Fähre und der Straße nach Apollonia](/images/blog/kamares-port-arrival-guide.jpg "Die meisten Reisen nach Sifnos beginnen in Kamares, planen Sie die Abholung vor dem Anlegen")
 
-## Logistik der ersten Nacht
+## Die erste Nacht
 
-Hotels in Kamares bedeuten kurze Wege vom Abendessen zum Bett. Hotels in Apollonia bedeuten Abendspaziergänge in der Hauptstadt, aber Bus oder Taxi am Ankunftstag, es sei denn, Sie haben ein Auto am Hafen abgeholt. Lesen Sie [Apollonia vs Kamares](/de/blog/apollonia-vs-kamares-stay), wenn Sie die Basis noch wählen.
+Mit einem Hotel in Kamares ist der Weg vom Abendessen ins Bett kurz. Mit einem Hotel in Apollonia haben Sie abends den Bummel durch den Hauptort, brauchen am Ankunftstag aber Bus oder Taxi, es sei denn, Sie haben das Auto am Hafen übernommen. Lesen Sie [Apollonia oder Kamares](/de/blog/apollonia-vs-kamares-stay), wenn Sie sich noch nicht für einen Standort entschieden haben.
 
-Treibstoff gibt es nahe Kamares; Sie müssen vor der Fahrt nach Apollonia nicht tanken, außer Sie planen sofort eine Südküstenschleife.
+In der Nähe von Kamares gibt es eine Tankstelle. Vor der Fahrt nach Apollonia müssen Sie nicht tanken, es sei denn, Sie wollen gleich eine Runde an der Südküste fahren.
 
-## Taxis, Bus und wann Sie sie überspringen
+## Taxi, Bus und wann Sie besser darauf verzichten
 
-Der Bus Kamares–Apollonia ist günstig und gut für eine Person mit Tagesrucksack. Er wird umständlich mit zwei großen Koffern, einem Kindersitz oder einer Familie, die vor dem Berg noch einen Supermarkt will. Taxis treffen Fähren, aber Schlangen bilden sich, wenn mehrere Boote zur gleichen Stunde ankommen: Artemis-Bestätigung für **Kamares-Pickup auf Anfrage** nimmt das Rätselraten.
+Der Bus von Kamares nach Apollonia ist günstig und für eine Person mit Tagesrucksack völlig in Ordnung. Unpraktisch wird es mit zwei großen Koffern, einem Kindersitz oder als Familie, die vor der Fahrt den Berg hinauf noch in den Supermarkt möchte. Taxis warten an den Fähren, aber wenn mehrere Schiffe in derselben Stunde ankommen, bilden sich Schlangen. Wenn Artemis Ihnen die **Abholung in Kamares auf Anfrage** bestätigt, müssen Sie nicht raten.
 
-Wenn Sie schon Apollonia-Pickup gebucht haben, bleibt der Bus Backup, wenn Fähren spät kommen und Sie vor Büroschluss einchecken müssen. Speichern Sie die Artemis-WhatsApp-Nummer vor dem Ablegen; das Signal an Deck ist besser als auf dem Hafenparkplatz.
+Wenn Sie bereits die Abholung in Apollonia gebucht haben, bleibt der Bus eine gute Alternative, falls die Fähre Verspätung hat und Sie vor Büroschluss da sein müssen. Speichern Sie die WhatsApp-Nummer von Artemis noch vor der Abfahrt in Ihrem Handy. An Deck ist der Empfang besser als auf dem Parkplatz am Hafen.
 
-## Supermarkt und Bargeldstopp
+## Supermarkt und Bargeld
 
-Der Kamares-Minimarkt deckt Wasser, Sonnencreme und Snacks vor der ersten Fahrt zum Hotel. Geldautomaten gibt es entlang der Promenade; kleine Inland-Tavernen bevorzugen manchmal Bargeld. Laden Sie Vorräte, bevor Sie zu abgelegenen Stränden fahren: Geschäfte dünnen außerhalb von Apollonia und Platis Gialos aus.
+Im kleinen Supermarkt in Kamares bekommen Sie vor der ersten Fahrt zum Hotel Wasser, Sonnencreme und Snacks. An der Promenade gibt es Geldautomaten, und kleine Tavernen im Inselinneren nehmen manchmal lieber Bargeld. Kaufen Sie Vorräte ein, bevor Sie zu abgelegenen Stränden fahren, denn außerhalb von Apollonia und Platys Gialos gibt es kaum Geschäfte.
 
 ## Typische Fehler am Ankunftstag
 
-- Annehmen, dass jede Fähre mit einem Bus sync't: Tafel prüfen oder Café-Bedienung fragen.
-- Ein Schaltwagen müde von der Reise abholen und Apollonia's Einbahn-Hügel im ersten Gang angehen: Automatik-Fahrer, sagen Sie das bei der Hochsaison-Buchung.
-- Vergessen, Artemis zu schreiben, wenn die Fähre Verspätung hat; sie passen an, wenn sie es wissen.
+- Davon ausgehen, dass zu jeder Fähre ein Bus fährt: Schauen Sie auf den Aushang oder fragen Sie im Café.
+- Müde von der Reise einen Wagen mit Schaltgetriebe übernehmen und im ersten Gang die steile Einbahnstraße in Apollonia angehen. Wer lieber Automatik fährt, sagt das bei der Buchung für die Hochsaison.
+- Vergessen, Artemis Bescheid zu geben, wenn die Fähre Verspätung hat. Wir planen um, sobald wir es wissen.
 
-## Über Tag eins hinaus
+## Nach dem ersten Tag
 
-Einmal eingerichtet wird Kamares Startpunkt für die Nordküste oder ein schnelles Hafenbad zwischen Inseltrips. Kombinieren Sie diesen Guide mit [Fahren auf Sifnos](/de/blog/driving-in-sifnos) und unserem Überblick [Mietwagenpreise](/de/blog/sifnos-car-rental-prices) für das volle Bild.
+Wenn Sie sich eingelebt haben, ist Kamares ein guter Ausgangspunkt für die Nordküste oder für ein schnelles Bad am Hafen zwischen zwei Inselfahrten. Kombinieren Sie diesen Artikel mit [Autofahren auf Sifnos](/de/blog/driving-in-sifnos) und unserem Überblick über die [Mietwagenpreise](/de/blog/sifnos-car-rental-prices), dann haben Sie das vollständige Bild.
 
-Bald an Land? [Bei Artemis buchen](/de/book) mit Fährdatum, ungefährer Ankunftszeit und bevorzugtem Pickup-Ort. Artemis holt Boote in diesem Hafen seit **1988** ab: eine kurze Nachricht schlägt am Pier zu raten, ob Ihre Panda wartet.
+Kommen Sie bald an? [Buchen Sie bei Artemis](/de/book) mit Datum der Fähre, ungefährer Ankunftszeit und gewünschtem Abholort. Artemis erwartet seit **1988** Gäste an diesem Hafen. Eine kurze Nachricht ist besser, als am Anleger zu rätseln, ob Ihr Panda schon wartet.
 
-Arrange complimentary Kamares car pickup: [rent a car in Sifnos](/de/sifnos-guide/rent-a-car-sifnos) or [book dates](/de/book).
+Kostenlose Abholung Ihres Autos in Kamares vereinbaren: [Mietwagen auf Sifnos](/de/sifnos-guide/rent-a-car-sifnos) oder [Zeitraum anfragen](/de/book).

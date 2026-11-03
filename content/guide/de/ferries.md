@@ -1,7 +1,7 @@
 ---
 slug: ferries
 title: "Fähre nach Sifnos 2026: Piräus, Fahrzeiten und Tipps"
-description: "Kompletter Leitfaden zur Fähre nach Sifnos. Verbindungen Piräus Kamares, Schnellfähre oder konventionelle Fähre, Anschlüsse nach Milos und Serifos."
+description: "Der komplette Guide zu den Fähren nach Sifnos: von Piräus nach Kamares, Schnellfähre oder konventionelle Fähre, Verbindungen nach Milos und Serifos."
 answer: "Jede Fähre nach Sifnos legt in Kamares an der Westküste an. Die Überfahrt startet in Piräus und dauert je nach Schiff etwa 2,5 bis 3 Stunden mit dem Schnellkatamaran oder rund 5 Stunden mit der konventionellen Fähre, im Sommer täglich, im Winter drei bis vier Mal pro Woche."
 datePublished: "2026-07-01"
 dateModified: "2026-08-09"
@@ -22,7 +22,7 @@ Sifnos hat keinen Flughafen. Wer nicht mit dem Hubschrauber oder der eigenen Yac
 
 Jede Personenfähre nach Sifnos legt in **Kamares** an, einer geschützten Bucht an der Westküste. Es gibt keinen zweiten Hafen und keinen alternativen Ankunftsort. Das macht die Sache einfach: Welches Ticket Sie auch haben, Sie gehen an derselben Mole von Bord.
 
-Kamares ist zugleich Arbeitshafen und eigenständiger Ferienort, mit langem Sandstrand, Tavernen an der Uferpromenade, Bäckerei, kleinem Supermarkt und einigen Hotels. Wenn Sie spät abends ankommen, ist eine Übernachtung hier statt einer Weiterfahrt eine völlig vernünftige Entscheidung.
+Kamares ist zugleich geschäftiger Hafen und eigenständiger Ferienort, mit langem Sandstrand, Tavernen an der Uferpromenade, Bäckerei, kleinem Supermarkt und einigen Hotels. Wenn Sie spät abends ankommen, ist eine Übernachtung hier statt einer Weiterfahrt eine völlig vernünftige Entscheidung.
 
 Apollonia, der Hauptort, liegt rund 5,5 km landeinwärts und bergauf, etwa zehn Autominuten entfernt.
 
@@ -49,7 +49,7 @@ Der Schnellkatamaran spart zwei Stunden und mehr. Wenn Sie von einem Nachmittags
 
 Nehmen Sie den **Schnellkatamaran**, wenn die Zeit knapp ist, Sie leicht reisen und nicht seekrank werden. Nehmen Sie die **konventionelle Fähre**, wenn Sie ein Fahrzeug mitbringen, mit kleinen Kindern oder älteren Angehörigen reisen, empfindlich auf Bewegung reagieren oder Ende Juli und im August unterwegs sind, wenn der Meltemi die schnellen Schiffe am stärksten trifft.
 
-## Die Westkykladen-Linie und Inselhüpfen
+## Die Westkykladen-Linie und Inselhopping
 
 Sifnos liegt auf der sogenannten Westkykladen-Linie. Je nach Saison und Reederei bestehen Verbindungen nach:
 
@@ -60,16 +60,16 @@ Sifnos liegt auf der sogenannten Westkykladen-Linie. Je nach Saison und Reederei
 
 Damit eignet sich Sifnos hervorragend als Basis für eine Zwei-Inseln-Reise. Sifnos mit Milos ist die beliebteste Kombination, und die Überfahrt ist kurz genug für einen langen Tagesausflug, auch wenn zwei oder drei Nächte deutlich mehr bringen.
 
-Beachten Sie: Die Reedereien stellen diese Routen jedes Jahr um, und manche Verbindungen fahren nur im Juli und August. Prüfen Sie stets den aktuellen Fahrplan statt sich auf das Vorjahr zu verlassen.
+Beachten Sie: Die Reedereien stellen diese Routen jedes Jahr um, und manche Verbindungen fahren nur im Juli und August. Prüfen Sie stets den aktuellen Fahrplan, statt sich auf das Vorjahr zu verlassen.
 
 ## Buchung: wann und wie
 
-**Im Juli und August so früh wie möglich buchen.** Wochenendabfahrten und die beliebten Nachmittagsverbindungen sind ausverkauft, und die Zeit um den 15. August, einen wichtigen Feiertag in Griechenland, ist die angespannteste des ganzen Jahres.
+**Im Juli und August so früh wie möglich buchen.** Abfahrten am Wochenende und die beliebten Verbindungen am späten Nachmittag sind schnell ausverkauft, und die Zeit um den 15. August, einen wichtigen Feiertag in Griechenland, ist die angespannteste des ganzen Jahres.
 
-Ein paar Punkte, die man kennen sollte:
+Gut zu wissen:
 
 - Prüfen Sie, ob Ihr Ticket eine **feste Sitzplatznummer** hat oder freie Platzwahl gilt. Auf Schnellfähren ist der Platz fast immer zugewiesen.
-- Wenn Sie Ihr eigenes Auto aus Athen mitnehmen, buchen Sie den Fahrzeugplatz separat und früh. Der Garagenplatz ist weit knapper als die Passagierkapazität.
+- Wenn Sie Ihr eigenes Auto aus Athen mitnehmen, buchen Sie den Fahrzeugplatz separat und früh. Auf dem Autodeck ist der Platz weit knapper als für Passagiere.
 - Die meisten Reedereien verlangen eine ausgedruckte Bordkarte oder einen Scan am Hafen. Planen Sie in Piräus 30 bis 45 Minuten vor Abfahrt ein, der Hafen ist riesig und unübersichtlich.
 - Piräus hat mehrere weit auseinanderliegende Tore. Prüfen Sie die Tornummer auf dem Ticket und planen Sie Zeit für den Fußweg ein.
 
@@ -83,7 +83,7 @@ Praktisch bedeutet das:
 - Ausfälle werden meist am Vorabend oder am Morgen der Abfahrt bekannt gegeben.
 - Bei Ausfall haben Sie Anspruch auf Erstattung oder Umbuchung, doch die Plätze sind schnell vergeben.
 
-**Die praktische Lehre:** Legen Sie die Rückfahrt nie auf denselben Tag wie Ihren Rückflug. Planen Sie eine Nacht in Athen als Puffer ein.
+**Die praktische Lehre:** Legen Sie die Rückfahrt nie auf denselben Tag wie Ihren internationalen Rückflug. Planen Sie eine Nacht in Athen als Puffer ein. Wer das ignoriert, gehört zu denen, die man durch Piräus sprinten sieht.
 
 ## Winter und Nebensaison
 
@@ -93,12 +93,12 @@ April, Mai, September und Oktober sind ideal: tägliche oder nahezu tägliche Ab
 
 ## Ankunft in Kamares, das Auto wartet schon
 
-Woran die meisten Besucher scheitern, ist die Lücke zwischen dem Verlassen des Schiffs und dem Moment, in dem sie tatsächlich mobil sind. Sifnos hat nur eine Handvoll Taxis, und wenn im August eine volle Fähre anlegt, sind sie binnen Minuten vergeben. Der Bus wartet auf die meisten Fähren, fährt aber nach eigenem Plan und ist schnell besetzt.
+Was Besucher immer wieder unterschätzen, ist die Lücke zwischen dem Verlassen des Schiffs und dem Moment, in dem sie tatsächlich mobil sind. Sifnos hat nur eine Handvoll Taxis, und wenn im August eine volle Fähre anlegt, sind sie binnen Minuten vergeben. Der Bus wartet auf die meisten Fähren, fährt aber nach eigenem Plan und ist schnell besetzt.
 
-Wir kommen Ihnen entgegen und erwarten Sie am Schiff. Senden Sie uns **Ankunftsdatum und ungefähre Anlegezeit**, dann steht das Auto ohne Aufpreis im Hafen Kamares bereit, ebenso am Heliport, in Apollonia, Artemonas und Kastro. Für die Reservierung sind weder Anzahlung noch Kartendaten nötig, und Haftpflicht, Wartung sowie Hilfe vor Ort sind im Tagespreis enthalten.
+Wir lösen das, indem wir Sie am Schiff erwarten. Senden Sie uns **Ankunftsdatum und ungefähre Anlegezeit**, dann steht das Auto ohne Aufpreis im Hafen Kamares bereit. Auch am Heliport, in Apollonia, Artemonas und Kastro ist die Abholung kostenlos. Für die Reservierung sind weder Vorauszahlung noch Kartendaten nötig, und Haftpflichtversicherung, Wartung sowie Hilfe vor Ort sind im Tagespreis enthalten.
 
 Nennen Sie uns Ihre Fährzeit und ob Sie ein Auto oder einen Roller möchten, um alles Weitere kümmern wir uns.
 
-[Mietwagen zur Fährankunft reservieren](/de/book) oder den [Ankunftsleitfaden für Kamares](/de/sifnos-guide/kamares-port) lesen.
+[Mietwagen zur Fährankunft reservieren](/de/book) oder im [Guide zur Ankunft im Hafen Kamares](/de/sifnos-guide/kamares-port) nachlesen, was Sie am Kai erwartet.
 
-Mehrere Inseln geplant? [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) erstellt fährplanbasierte Kykladen-Routen.
+Mehrere Inseln geplant? [Touristas AI](https://discovercyclades.gr/en/touristas-ai/chat?island=sifnos&utm_source=rentacarsifnos&utm_medium=referral&utm_campaign=artemis_partner) erstellt Kykladen-Routen, die die Fährpläne berücksichtigen.
