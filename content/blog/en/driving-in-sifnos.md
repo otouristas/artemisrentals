@@ -56,7 +56,7 @@ If you are thinking about a scooter instead of a car, read our [licence rules](/
 | Situation | Suggestion |
 |-----------|------------|
 | Family with luggage | Compact car, automatic if you avoid hill-stall stress |
-| Couple with a motorcycle licence, settled weather | 125–150cc scooter (when scooter booking reopens) |
+| Couple with a motorcycle licence, settled weather | 125–150cc scooter |
 | Automatic-only driver | Book Peugeot 208 Auto or Micra Auto early for July–August |
 | Hikers mixing trails and tavernas | Car to trailheads, park sensibly off the asphalt edge |
 

@@ -13,8 +13,6 @@ related: [scooter-licence-rules-sifnos, best-rental-car-sifnos, driving-in-sifno
 
 We rent both, so we have no reason to push you one way. After decades of watching guests come back from beach days on Sifnos, the pattern is clear: a scooter is wonderful for the right people on the right days, and a car is the safer default for almost everyone else.
 
-**Booking note:** online scooter booking is temporarily paused. Cars remain open and can be waiting for you at Kamares port.
-
 ## The quick decision
 
 | Your situation | Our suggestion |
@@ -66,7 +64,7 @@ Island roads are narrow, winding and often have no barrier. Gravel collects at t
 ## Our honest recommendation
 
 - **Most visitors:** a small car. Free port pickup, luggage space, shade, and no worries about wind.
-- **Couples with a motorcycle licence who ride regularly at home:** a scooter for a few days in settled weather is a lovely way to see the island, once scooter booking reopens.
+- **Couples with a motorcycle licence who ride regularly at home:** a scooter for a few days in settled weather is a lovely way to see the island.
 - **Not sure?** Book the car. You will not regret having a roof on a windy afternoon.
 
 Choosing the car itself? Read [which rental car suits Sifnos](/en/blog/best-rental-car-sifnos). Ready to go? [Browse the cars](/en/cars) or [send your dates](/en/book), no prepayment needed.

@@ -1,8 +1,8 @@
 ---
 slug: scooter-rental-sifnos
 title: "Scooter rental in Sifnos: models, rates and licence rules"
-description: "Scooter rental in Sifnos from the Artemis office in Apollonia: SYM, Fiddle and JET4 models, summer daily rates, the licence you need, and the current booking pause."
-answer: "Artemis rents SYM Symphony, Fiddle and JET4 scooters from 125cc to 200cc from its Apollonia office, with helmets and third-party insurance included. Published rates run from €30 to €40 a day between 11 June and 10 September. You need a motorcycle licence (A1 or higher) for a 125cc scooter. Online scooter booking is paused for now; cars remain open."
+description: "Scooter rental in Sifnos from the Artemis office in Apollonia: SYM, Fiddle and JET4 models, summer daily rates, the licence you need, and how to book."
+answer: "Artemis rents SYM Symphony, Fiddle and JET4 scooters from 125cc to 200cc from its Apollonia office, with helmets and third-party insurance included. Published rates run from €30 to €40 a day between 11 June and 10 September. You need a motorcycle licence (A1 or higher) for a 125cc scooter. Book online with no prepayment, then collect the scooter in Apollonia."
 datePublished: "2026-08-04"
 dateModified: "2026-11-03"
 cover: "/images/brand/artemis-motos.jpg"
@@ -18,9 +18,13 @@ related:
 
 A scooter is the classic way to see a Greek island, and on Sifnos it works well for the right people: one or two riders, light bags, settled weather. We have rented two-wheelers from the same Apollonia office since 1988, so this page is honest about when a scooter is a joy and when a car is the better call.
 
-## Booking status right now
+## How to book a scooter
 
-**Online scooter booking is temporarily paused.** You can still browse the [scooter fleet](/en/scooters) for models and rates. If you need transport for your dates, [cars remain open](/en/cars) and we can still meet you at Kamares port with one.
+1. Choose a model on the [scooter fleet](/en/scooters) page, or let us suggest one for the number of riders and the hills you plan to climb.
+2. [Send your dates](/en/book) through the booking form or WhatsApp. There is no prepayment to reserve.
+3. We confirm availability personally, then you collect the scooter at our Apollonia office.
+
+Have your motorcycle licence ready to check (see below). If you would rather be met at the ferry, [cars](/en/cars) can be delivered to Kamares port free of charge.
 
 ## The scooter fleet
 

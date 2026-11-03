@@ -32,7 +32,7 @@ Artemonas bakeries suit a morning coffee stop between Kastro and south-coast dri
 
 If Day 2 feels beach-heavy, swap an afternoon for a short hike near Kastro or a pottery stop in Vathi workshops. If rain rare but happens, Apollonia shops and the folklore museum fill a morning while you wait for clearer skies.
 
-Couples with a motorcycle licence can run this itinerary on a scooter in high summer, when scooter hire is open (published scooter rates cover 11 June to 10 September); families should read [family travel on Sifnos](/en/blog/family-travel-sifnos) and default to a compact car for nap logistics and luggage.
+Couples with a motorcycle licence can run this itinerary on a scooter in high summer (published scooter rates cover 11 June to 10 September); families should read [family travel on Sifnos](/en/blog/family-travel-sifnos) and default to a compact car for nap logistics and luggage.
 
 ## Rental timing for this plan
 

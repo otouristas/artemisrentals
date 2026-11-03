@@ -68,7 +68,7 @@ A rental over a peak weekend in August behaves very differently from one in earl
 
 ## Comparing cars and scooters on price
 
-Published scooter rates run from €30 to €40 a day, and only cover 11 June to 10 September. Online scooter booking is paused for now. Cars win for luggage, child seats, air conditioning on hot afternoons, and windy days. Our [car or scooter comparison](/en/blog/car-or-scooter-sifnos) goes through the trade-offs.
+Published scooter rates run from €30 to €40 a day, and only cover 11 June to 10 September. Scooters are collected at our Apollonia office. Cars win for luggage, child seats, air conditioning on hot afternoons, and windy days. Our [car or scooter comparison](/en/blog/car-or-scooter-sifnos) goes through the trade-offs.
 
 ## How to save without picking the wrong car
 

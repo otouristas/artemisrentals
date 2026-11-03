@@ -65,7 +65,7 @@ A few habits that keep things simple on Sifnos roads:
 
 ## Scooters are different
 
-A car licence (category B) does **not** let you ride our 125cc to 200cc scooters in Greece. You need a motorcycle category, A1 or higher. The details are in our [scooter licence rules](/en/blog/scooter-licence-rules-sifnos). Online scooter booking is paused for now; cars remain open.
+A car licence (category B) does **not** let you ride our 125cc to 200cc scooters in Greece. You need a motorcycle category, A1 or higher. The details are in our [scooter licence rules](/en/blog/scooter-licence-rules-sifnos). Scooters are collected and returned at our Apollonia office.
 
 ## Child seats
 

@@ -83,7 +83,7 @@ More detail on each model in [which rental car suits Sifnos](/en/blog/best-renta
 
 ## Scooters
 
-Scooter hire from Apollonia is listed on our [scooters page](/en/scooters), but **online scooter booking is temporarily unavailable**. Cars remain open. Not sure which you need? Read [car or scooter on Sifnos](/en/blog/car-or-scooter-sifnos).
+Scooters are rented from our Apollonia office and can be booked online too: see the [scooters page](/en/scooters) and the [scooter rental guide](/en/sifnos-guide/scooter-rental-sifnos). Not sure which you need? Read [car or scooter on Sifnos](/en/blog/car-or-scooter-sifnos).
 
 ## Next steps
 

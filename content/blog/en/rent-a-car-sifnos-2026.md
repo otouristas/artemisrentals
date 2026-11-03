@@ -44,7 +44,7 @@ Ask about child seats when you enquire if travelling with toddlers. Mention auto
 
 **Apollonia office:** Collect when you are settled, then park once and walk to dinner the same evening. Artemonas and Kastro deliveries are free too.
 
-**Mid-stay changes:** If your plans shift, a different car or extra days, ask us; we will do what availability allows. Online scooter booking is paused for now.
+**Mid-stay changes:** If your plans shift, a different car or extra days, ask us; we will do what availability allows. Scooters can be booked too, for collection at the Apollonia office.
 
 For deeper price context see [Sifnos car rental prices](/en/blog/sifnos-car-rental-prices). Ready to confirm? [Book with Artemis](/en/book), no prepayment, personal reply on WhatsApp or email.
 

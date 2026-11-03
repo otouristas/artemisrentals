@@ -36,7 +36,7 @@ These eastern coves trade Platys Gialos crowds for taverna tables near the water
 
 One sensible pattern: north-coast coffee in Kastro or Artemonas, south-coast swim before noon, siesta, then Apollonia dinner without repacking the hotel. Another: base near Kamares for port swims, drive inland only for Chrysopigi sunsets.
 
-Scooters suit couples with a motorcycle licence in high summer (online scooter booking is paused for now); families with cool boxes and child seats usually prefer a hatchback. Cars are delivered free to Kamares port and Apollonia, **no prepayment** to enquire, seasonal rates published on the [rates page](/en/rates).
+Scooters suit couples with a motorcycle licence in high summer, collected from our Apollonia office; families with cool boxes and child seats usually prefer a hatchback. Cars are delivered free to Kamares port and Apollonia, **no prepayment** to enquire, seasonal rates published on the [rates page](/en/rates).
 
 ## Parking and peak-season reality
 

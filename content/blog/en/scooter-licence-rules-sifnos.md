@@ -12,8 +12,6 @@ related: [car-or-scooter-sifnos, sifnos-car-rental-requirements, driving-in-sifn
 
 Before you picture coastal scooter days, check two things: that your licence covers the engine size, and that you meet Artemis rental terms (riders aged 23 to 75, with a licence held for more than one year). Both get checked at the desk in Apollonia, and it is far better to know before you fly.
 
-**Booking note:** online scooter booking is temporarily paused. Cars remain open, see the [car fleet](/en/cars).
-
 ## The short answer
 
 | Your licence | Can you rent our 125cc to 200cc scooters? |
