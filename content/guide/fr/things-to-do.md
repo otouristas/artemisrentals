@@ -4,7 +4,7 @@ title: "Que faire à Sifnos"
 description: "Que faire à Sifnos : plages, villages, randonnées, cuisine, poterie, monastères et sorties en bateau, à organiser autour d'une voiture ou d'un scooter Artemis."
 answer: "Baignez-vous à Platys Gialos et à Vathi, visitez Chrysopigi et le village médiéval de Kastro, randonnez des villages jusqu'à la côte, goûtez le mastelo et la revithada, flânez dans les ateliers de poterie, et reliez le tout avec une location Artemis, sans dépendre des horaires de bus."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/chrysopigi.webp"
 author: "Artemis Rental"
 order: 9
@@ -100,6 +100,8 @@ Pour les ferries en temps réel : [liaisons Athènes–Sifnos sur Discover Cycl
 | 2 | Boucle sud : Faros → Chrysopigi → Platys Gialos |
 | 3 | Matinée à la plage de Vathi → visite d'un atelier de poterie → Kastro à l'heure dorée |
 | 4 | Le nord, vers Cherronisos / Vroulidia, ou une randonnée + dîner tôt à Apollonia |
+
+Vous restez plus longtemps ? Voir nos [itinéraires de 5 et 7 jours](/fr/blog/sifnos-itinerary-5-7-days).
 
 ## Questions fréquentes
 

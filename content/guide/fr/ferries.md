@@ -4,7 +4,7 @@ title: "Ferry pour Sifnos 2026 : Le Pirée, durées et conseils"
 description: "Tout sur les ferries pour Sifnos : la liaison Le Pirée–Kamares, catamaran rapide ou ferry classique, durées réelles et correspondances vers Milos et Serifos."
 answer: "Tous les ferries pour Sifnos accostent à Kamares, sur la côte ouest. Les départs se font du Pirée et la traversée dure environ 2h30 à 3h en catamaran rapide ou près de 5h en ferry classique, avec des départs quotidiens en été et trois à quatre par semaine en hiver."
 datePublished: "2026-07-01"
-dateModified: "2026-08-09"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/beaches/kamares.webp"
 author: "Artemis Rental"
 order: 3
@@ -24,7 +24,7 @@ Tous les ferries de passagers desservant Sifnos accostent à **Kamares**, une ba
 
 Kamares est à la fois un port de travail et une station balnéaire à part entière, avec une longue plage de sable, des tavernes sur le front de mer, une boulangerie, une supérette et quelques hôtels. Si vous arrivez tard le soir, y passer la nuit plutôt que de reprendre la route est une décision tout à fait sensée.
 
-Apollonia, la capitale de l'île, se trouve à environ 5,5 km dans les terres et en montée, soit une dizaine de minutes en voiture.
+Apollonia, la capitale de l'île, se trouve à environ 5,5 km dans les terres et en montée, soit une dizaine de minutes en voiture.
 
 ## Le Pirée vers Sifnos : la liaison principale
 
@@ -97,7 +97,7 @@ Ce qui piège le plus souvent les visiteurs, c'est le moment entre la descente d
 
 Notre solution : nous vous attendons à l'arrivée du bateau. Envoyez-nous votre **date d'arrivée et l'heure approximative d'accostage**, et la voiture vous attendra au port de Kamares sans supplément, et le retrait est aussi gratuit à l'héliport, à Apollonia, à Artemonas et à Kastro. Pour réserver, aucun acompte et aucune carte bancaire ne vous sont demandés, et l'assurance responsabilité civile, l'entretien et l'aide sur place sont déjà compris dans le tarif journalier.
 
-Indiquez-nous l'heure de votre ferry et si vous préférez une voiture ou un scooter, nous nous occupons du reste.
+Indiquez-nous l'heure de votre ferry et combien vous êtes, nous nous occupons du reste. (Les scooters se récupèrent à notre agence d'Apollonia, pas au port.)
 
 [Réservez votre voiture pour l'arrivée de votre ferry](/fr/book) ou lisez le [guide d'arrivée au port de Kamares](/fr/sifnos-guide/kamares-port) pour savoir ce qui vous attend sur le quai.
 

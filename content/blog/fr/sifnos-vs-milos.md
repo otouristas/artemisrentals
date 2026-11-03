@@ -3,7 +3,7 @@ slug: sifnos-vs-milos
 title: "Sifnos ou Milos : quelle île choisir ?"
 description: "Sifnos ou Milos pour des vacances aux Cyclades : rythme, plages, conduite, et quand une location Artemis à Sifnos fait la meilleure base. Par Artemis Rental."
 datePublished: "2026-07-08"
-dateModified: "2026-07-16"
+dateModified: "2026-11-03"
 cover: "/images/blog/sifnos-vs-milos-cover.jpg"
 author: "Artemis Rental"
 tags: [organisation, cyclades, comparatif]
@@ -16,7 +16,7 @@ Beaucoup de voyageurs associent Sifnos et Milos dans un même circuit des Cyclad
 
 Milos se découvre en une semaine de routes côtières : Sarakiniko, excursions en bateau vers Kleftiko, criques cachées au bout de longues pistes. Vous roulerez davantage et organiserez vos journées autour des couleurs du couchant sur la roche blanche.
 
-Sifnos se visite très bien en trois à cinq jours : notre [itinéraire de 3 jours](/fr/blog/3-day-sifnos-itinerary) couvre l'essentiel sans courir. Les villages comme Apollonia, Artemonas et Kastro sont des buts de sortie le soir, autant que les plages le sont le jour. Avec une location Artemis à **Apollonia**, vous êtes au centre ; le **retrait à Kamares sur demande** convient si vous voulez votre véhicule dès la descente du ferry.
+Sifnos se visite très bien en trois à cinq jours : notre [itinéraire de 3 jours](/fr/blog/3-day-sifnos-itinerary) couvre l'essentiel sans courir. Les villages comme Apollonia, Artemonas et Kastro sont des buts de sortie le soir, autant que les plages le sont le jour. Avec une location Artemis à **Apollonia**, vous êtes au centre ; le **retrait gratuit au port de Kamares** convient si vous voulez votre voiture dès la descente du ferry.
 
 Aucune des deux îles ne se visite comme une capitale. Les deux vous obligent à ralentir. Tout dépend de ce que vous cherchez : le spectacle géologique (Milos) ou la vie de village et de table (Sifnos).
 
@@ -50,7 +50,7 @@ Le calendrier compte : lisez [la meilleure période pour visiter Sifnos](/fr/bl
 
 ## Le ferry entre les deux îles
 
-Consultez Ferryhopper ou les sites des compagnies pour les liaisons directes Milos–Sifnos : elles sont plus fréquentes en été, mais pas toutes les heures. La voiture louée à Sifnos doit être rendue avant l'embarquement, sauf si vous avez prévu un aller simple d'une île à l'autre (rare). Prévoyez le retour à l'agence Artemis d'Apollonia en gardant le temps de prendre un taxi ou de marcher jusqu'à Kamares si vous partez d'un autre port.
+Consultez Ferryhopper ou les sites des compagnies pour les liaisons directes Milos–Sifnos : elles sont plus fréquentes en été, mais pas toutes les heures. Rendez votre location de Sifnos avant d'embarquer : le retour de la voiture au port de Kamares est gratuit, vous pouvez donc rendre les clés sur le quai et monter directement à bord du ferry pour Milos.
 
 Même règle pour les scooters : on les rend avant le ferry, sauf accord avec l'équipe. Les consignes à bagages des cafés du port sont improvisées ; voyagez léger entre les îles.
 
@@ -58,6 +58,6 @@ Même règle pour les scooters : on les rend avant le ferry, sauf accord avec l
 
 Choisissez **Sifnos** si vous voulez des trajets courts, une base centrale à Apollonia, des baies adaptées aux familles et un long week-end bien construit. Choisissez **Milos** si les plages volcaniques et les longues routes côtières font votre rêve, et que vous acceptez davantage d'organisation.
 
-Vous commencez par Sifnos ? [Réservez avec Artemis](/fr/book) en indiquant vos dates de ferry et si vous voulez le retrait à Kamares ou à Apollonia. Même si Milos suit, commencer en douceur prépare bien l'île la plus animée.
+Vous commencez par Sifnos ? [Réservez avec Artemis](/fr/book) en indiquant vos dates de ferry et votre heure d'accostage, et la voiture vous attendra au port de Kamares. Même si Milos suit, commencer en douceur prépare bien l'île la plus animée.
 
-Envie de découvrir Sifnos à votre rythme ? [Louez une voiture à Sifnos avec Artemis](/fr/sifnos-guide/rent-a-car-sifnos).
+Envie de découvrir Sifnos à votre rythme ? [Louez une voiture à Sifnos avec Artemis](/fr).

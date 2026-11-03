@@ -4,7 +4,7 @@ title: "Se déplacer à Sifnos : voiture ou scooter ?"
 description: "Se déplacer à Sifnos : voiture, scooter, bus ou taxi, conseils de route, stationnement, carburant, et quand une location Artemis s’impose. Par Artemis Rental."
 answer: "Pour la plupart des visiteurs qui restent trois nuits ou plus, la voiture est la façon la plus confortable de rejoindre plages et villages. Le scooter convient aux pilotes expérimentés qui voyagent léger. Il y a des bus en été, mais trop peu fréquents pour enchaîner les plages, et les taxis se font rares en haute saison."
 datePublished: "2026-07-01"
-dateModified: "2026-08-04"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/kastro.webp"
 author: "Artemis Rental"
 order: 5
@@ -29,13 +29,13 @@ related:
 
 ## Louer une voiture à Sifnos
 
-Les citadines sont les plus à l’aise dans les ruelles des villages et sur les places de parking étroites. Artemis entretient ses voitures pour les routes de l’île ; pour une boîte automatique en juillet–août, demandez vos dates tôt. Le **retrait de la voiture** est gratuit au port de Kamares, à l’héliport, à Apollonia, à Artemonas et à Kastro. Les scooters partent d’Apollonia, et se réservent en ligne sans acompte.
+Les citadines sont les plus à l’aise dans les ruelles des villages et sur les places de parking étroites. Artemis entretient ses voitures pour les routes de l’île ; pour une boîte automatique en juillet–août, demandez vos dates tôt. Le **retrait de la voiture** est gratuit au port de Kamares, à l’héliport, à Apollonia, à Artemonas et à Kastro. Les scooters se récupèrent et se rendent à l’agence d’Apollonia.
 
-Voir aussi [louer une voiture à Sifnos](/fr) et nos [conseils pratiques de conduite](/fr/sifnos-guide/practical-tips).
+Voir aussi [louer une voiture à Sifnos](/fr), [quelle voiture de location choisir pour Sifnos](/fr/blog/best-rental-car-sifnos) et nos [conseils pratiques de conduite](/fr/sifnos-guide/practical-tips).
 
 ## Louer un scooter
 
-Parfait pour les pilotes expérimentés qui veulent sentir le vent entre Apollonia, Faros, Chrysopigi et Vathi. Portez le casque, méfiez-vous du gravier et ne surchargez pas le scooter. Si les routes vallonnées des îles sont nouvelles pour vous, ou si vous voyagez avec des enfants ou beaucoup de bagages, prenez une voiture.
+Parfait pour les pilotes expérimentés qui veulent sentir le vent entre Apollonia, Faros, Chrysopigi et Vathi. Portez le casque, méfiez-vous du gravier et ne surchargez pas le scooter. Si les routes vallonnées des îles sont nouvelles pour vous, ou si vous voyagez avec des enfants ou beaucoup de bagages, prenez une voiture. Attention : en Grèce, le permis voiture ne suffit pas pour un scooter de 125 cm³, il faut un permis moto (catégorie A1 ou supérieure). Voir nos [règles de permis pour le scooter](/fr/blog/scooter-licence-rules-sifnos) et le [comparatif complet voiture ou scooter](/fr/blog/car-or-scooter-sifnos).
 
 ## Bus et taxis
 
@@ -53,7 +53,9 @@ En été, les bus relient Apollonia à Kamares, Platys Gialos, Vathi, Faros et d
 - **Apollonia le soir :** garez-vous une fois, puis tout à pied.
 - **Platys Gialos :** plus vous arrivez tôt, plus vous êtes près.
 - **Chrysopigi :** peu de places ; ne bloquez jamais l’accès au monastère.
-- **Kastro :** garez-vous en contrebas, à l’extérieur, et parcourez les ruelles médiévales à pied.
+- **Kastro :** garez-vous à l’extérieur du village et parcourez les ruelles médiévales à pied ; on ne circule pas en voiture à l’intérieur.
+
+Plus de détails, village par village, dans [conduire à Sifnos](/fr/blog/driving-in-sifnos).
 - **Cherronisos :** ruelles étroites, armez-vous de patience.
 
 ## Carburant et distances
@@ -62,9 +64,9 @@ En haute saison, faites le plein du côté d’Apollonia ou sur la route princip
 
 ## Temps de trajet depuis Apollonia
 
-- **0–15 min :** Artemonas, Katavati, Kastro, Kamares
-- **15–25 min :** Faros, Chrysopigi, Platys Gialos, Vathi
-- **30–40 min :** Cherronisos, Vroulidia
+- **0–15 min :** Artemonas, Katavati, Kastro, Kamares
+- **15–25 min :** Faros, Chrysopigi, Platys Gialos, Vathi
+- **30–40 min :** Cherronisos, Vroulidia
 
 ## La flotte Artemis
 

@@ -4,7 +4,7 @@ title: "Apollonia et Artemonas : le cœur de l’île"
 description: "Apollonia et Artemonas à Sifnos : où flâner, se garer, dîner, et pourquoi partir de l’agence Artemis d’Apollonia simplifie les journées plage. Par Artemis Rental."
 answer: "Apollonia est la capitale animée de Sifnos, pour les soirées comme pour les services ; Artemonas, sa voisine élégante, aligne les demeures néoclassiques. Artemis Rental est installé à Apollonia : vos boucles vers les plages partent du centre de l’île et y reviennent."
 datePublished: "2026-07-01"
-dateModified: "2026-07-18"
+dateModified: "2026-11-03"
 cover: "/images/sifnos/villages/artemonas.webp"
 author: "Artemis Rental"
 order: 7
@@ -61,6 +61,6 @@ Depuis Apollonia, Kastro n’est qu’à quelques minutes de route pour ses remp
 
 Partir du centre, c’est faire chaque boucle classique en aller-retour : au sud vers Platys Gialos, à l’ouest vers Vathi, à l’est vers Kastro, au nord vers Cherronisos. Vous n’êtes pas bloqué au port, sauf si vous choisissez une journée plage à Kamares.
 
-Le conseil d’Artemis : indiquez le quartier de votre hôtel dans votre demande. Nous vous aidons à fixer le point de rendez-vous et, pour les voitures, le **retrait au ferry à Kamares** sur demande.
+Le conseil d’Artemis : indiquez le quartier de votre hôtel dans votre demande. Nous vous aidons à fixer le point de rendez-vous et, pour les voitures, le **retrait gratuit au ferry à Kamares** : envoyez-nous l’heure d’accostage et la voiture vous attendra.
 
 [Voir les voitures](/fr/cars) · [Scooters](/fr/scooters) · [Réserver](/fr/book)
